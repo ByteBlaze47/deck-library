@@ -1,0 +1,641 @@
+{
+  "decks": [
+    {
+      "path": "cards/English/A1/1- Greetings & introductions.txt",
+      "url": "cards/English/A1/1- Greetings & introductions.txt",
+      "size": 3841,
+      "audio_url": "audio/English/A1/1- Greetings & introductions.zip",
+      "audio_size": 1041711
+    },
+    {
+      "path": "cards/English/A1/10- Food & drink.txt",
+      "url": "cards/English/A1/10- Food & drink.txt",
+      "size": 4646,
+      "audio_url": "audio/English/A1/10- Food & drink.zip",
+      "audio_size": 937947
+    },
+    {
+      "path": "cards/English/A1/11- Shopping & prices.txt",
+      "url": "cards/English/A1/11- Shopping & prices.txt",
+      "size": 5702,
+      "audio_url": "audio/English/A1/11- Shopping & prices.zip",
+      "audio_size": 1034138
+    },
+    {
+      "path": "cards/English/A1/12- House & rooms.txt",
+      "url": "cards/English/A1/12- House & rooms.txt",
+      "size": 6442,
+      "audio_url": "audio/English/A1/12- House & rooms.zip",
+      "audio_size": 1166940
+    },
+    {
+      "path": "cards/English/A1/13- Directions.txt",
+      "url": "cards/English/A1/13- Directions.txt",
+      "size": 5674,
+      "audio_url": "audio/English/A1/13- Directions.zip",
+      "audio_size": 1009391
+    },
+    {
+      "path": "cards/English/A1/14- Weather.txt",
+      "url": "cards/English/A1/14- Weather.txt",
+      "size": 4797,
+      "audio_url": "audio/English/A1/14- Weather.zip",
+      "audio_size": 1122616
+    },
+    {
+      "path": "cards/English/A1/15- Hobbies & free time.txt",
+      "url": "cards/English/A1/15- Hobbies & free time.txt",
+      "size": 6451,
+      "audio_url": "audio/English/A1/15- Hobbies & free time.zip",
+      "audio_size": 1166085
+    },
+    {
+      "path": "cards/English/A1/16- Actions happening now.txt",
+      "url": "cards/English/A1/16- Actions happening now.txt",
+      "size": 6405,
+      "audio_url": "audio/English/A1/16- Actions happening now.zip",
+      "audio_size": 1052164
+    },
+    {
+      "path": "cards/English/A1/17- Past events (regular verbs).txt",
+      "url": "cards/English/A1/17- Past events (regular verbs).txt",
+      "size": 6925,
+      "audio_url": "audio/English/A1/17- Past events (regular verbs).zip",
+      "audio_size": 1233551
+    },
+    {
+      "path": "cards/English/A1/18- Past events (irregular verbs).txt",
+      "url": "cards/English/A1/18- Past events (irregular verbs).txt",
+      "size": 6720,
+      "audio_url": "audio/English/A1/18- Past events (irregular verbs).zip",
+      "audio_size": 1223444
+    },
+    {
+      "path": "cards/English/A1/19- Requests & offers.txt",
+      "url": "cards/English/A1/19- Requests & offers.txt",
+      "size": 6411,
+      "audio_url": "audio/English/A1/19- Requests & offers.zip",
+      "audio_size": 1037903
+    },
+    {
+      "path": "cards/English/A1/2- Personal information (name, age, nationality).txt",
+      "url": "cards/English/A1/2- Personal information (name, age, nationality).txt",
+      "size": 5155,
+      "audio_url": "audio/English/A1/2- Personal information (name, age, nationality).zip",
+      "audio_size": 1077430
+    },
+    {
+      "path": "cards/English/A1/3- Family & people.txt",
+      "url": "cards/English/A1/3- Family & people.txt",
+      "size": 4725,
+      "audio_url": "audio/English/A1/3- Family & people.zip",
+      "audio_size": 1115977
+    },
+    {
+      "path": "cards/English/A1/4- Numbers & counting.txt",
+      "url": "cards/English/A1/4- Numbers & counting.txt",
+      "size": 5739,
+      "audio_url": "audio/English/A1/4- Numbers & counting.zip",
+      "audio_size": 1140750
+    },
+    {
+      "path": "cards/English/A1/5- Colours & everyday objects.txt",
+      "url": "cards/English/A1/5- Colours & everyday objects.txt",
+      "size": 4857,
+      "audio_url": "audio/English/A1/5- Colours & everyday objects.zip",
+      "audio_size": 1053393
+    },
+    {
+      "path": "cards/English/A1/6- Classroom & basic objects.txt",
+      "url": "cards/English/A1/6- Classroom & basic objects.txt",
+      "size": 4495,
+      "audio_url": "audio/English/A1/6- Classroom & basic objects.zip",
+      "audio_size": 1029502
+    },
+    {
+      "path": "cards/English/A1/7- Days, months, dates.txt",
+      "url": "cards/English/A1/7- Days, months, dates.txt",
+      "size": 5722,
+      "audio_url": "audio/English/A1/7- Days, months, dates.zip",
+      "audio_size": 1126693
+    },
+    {
+      "path": "cards/English/A1/8- Telling the time.txt",
+      "url": "cards/English/A1/8- Telling the time.txt",
+      "size": 5026,
+      "audio_url": "audio/English/A1/8- Telling the time.zip",
+      "audio_size": 1111092
+    },
+    {
+      "path": "cards/English/A1/9- Daily routines.txt",
+      "url": "cards/English/A1/9- Daily routines.txt",
+      "size": 5961,
+      "audio_url": "audio/English/A1/9- Daily routines.zip",
+      "audio_size": 1170837
+    },
+    {
+      "path": "cards/German/A1/01_Greetings_Introductions.txt",
+      "url": "cards/German/A1/01_Greetings_Introductions.txt",
+      "size": 8370,
+      "audio_url": "audio/German/A1/01_Greetings_Introductions.zip",
+      "audio_size": 4310483
+    },
+    {
+      "path": "cards/German/A1/02_Numbers_Time_Dates.txt",
+      "url": "cards/German/A1/02_Numbers_Time_Dates.txt",
+      "size": 10256,
+      "audio_url": "audio/German/A1/02_Numbers_Time_Dates.zip",
+      "audio_size": 4957892
+    },
+    {
+      "path": "cards/German/A1/03_Family_People.txt",
+      "url": "cards/German/A1/03_Family_People.txt",
+      "size": 9392,
+      "audio_url": "audio/German/A1/03_Family_People.zip",
+      "audio_size": 4649006
+    },
+    {
+      "path": "cards/German/A1/04_Daily_Routines.txt",
+      "url": "cards/German/A1/04_Daily_Routines.txt",
+      "size": 12691,
+      "audio_url": "audio/German/A1/04_Daily_Routines.zip",
+      "audio_size": 6107481
+    },
+    {
+      "path": "cards/German/A1/05_Food_and_Drink.txt",
+      "url": "cards/German/A1/05_Food_and_Drink.txt",
+      "size": 9822,
+      "audio_url": "audio/German/A1/05_Food_and_Drink.zip",
+      "audio_size": 5120975
+    },
+    {
+      "path": "cards/German/A1/06_Shopping_and_Money.txt",
+      "url": "cards/German/A1/06_Shopping_and_Money.txt",
+      "size": 10616,
+      "audio_url": "audio/German/A1/06_Shopping_and_Money.zip",
+      "audio_size": 5206230
+    },
+    {
+      "path": "cards/German/A1/07_House_and_Home.txt",
+      "url": "cards/German/A1/07_House_and_Home.txt",
+      "size": 12309,
+      "audio_url": "audio/German/A1/07_House_and_Home.zip",
+      "audio_size": 6028969
+    },
+    {
+      "path": "cards/German/A1/08_Directions_and_Places_in_Town.txt",
+      "url": "cards/German/A1/08_Directions_and_Places_in_Town.txt",
+      "size": 11590,
+      "audio_url": "audio/German/A1/08_Directions_and_Places_in_Town.zip",
+      "audio_size": 5451016
+    },
+    {
+      "path": "cards/German/A1/09_Weather_and_Seasons.txt",
+      "url": "cards/German/A1/09_Weather_and_Seasons.txt",
+      "size": 6944,
+      "audio_url": "audio/German/A1/09_Weather_and_Seasons.zip",
+      "audio_size": 3670308
+    },
+    {
+      "path": "cards/German/A1/10_Hobbies_and_Free_Time.txt",
+      "url": "cards/German/A1/10_Hobbies_and_Free_Time.txt",
+      "size": 12170,
+      "audio_url": "audio/German/A1/10_Hobbies_and_Free_Time.zip",
+      "audio_size": 5842604
+    },
+    {
+      "path": "cards/German/A1/11_Work_and_School.txt",
+      "url": "cards/German/A1/11_Work_and_School.txt",
+      "size": 12856,
+      "audio_url": "audio/German/A1/11_Work_and_School.zip",
+      "audio_size": 6316464
+    },
+    {
+      "path": "cards/German/A1/12_Health_and_Body.txt",
+      "url": "cards/German/A1/12_Health_and_Body.txt",
+      "size": 7795,
+      "audio_url": "audio/German/A1/12_Health_and_Body.zip",
+      "audio_size": 4158897
+    },
+    {
+      "path": "cards/German/A1/13_Travel_and_Transport.txt",
+      "url": "cards/German/A1/13_Travel_and_Transport.txt",
+      "size": 14816,
+      "audio_url": "audio/German/A1/13_Travel_and_Transport.zip",
+      "audio_size": 6873092
+    },
+    {
+      "path": "cards/German/A1/14_Clothing_and_Appearance.txt",
+      "url": "cards/German/A1/14_Clothing_and_Appearance.txt",
+      "size": 10105,
+      "audio_url": "audio/German/A1/14_Clothing_and_Appearance.zip",
+      "audio_size": 4851777
+    },
+    {
+      "path": "cards/Japanese/N2/1- Register Map Spoken vs. Written N2 Grammar.txt",
+      "url": "cards/Japanese/N2/1- Register Map Spoken vs. Written N2 Grammar.txt",
+      "size": 8236,
+      "audio_url": "audio/Japanese/N2/1- Register Map Spoken vs. Written N2 Grammar.zip",
+      "audio_size": 949672
+    },
+    {
+      "path": "cards/Japanese/N2/10- ~\u3068\u305f\u3093(\u306b).txt",
+      "url": "cards/Japanese/N2/10- ~\u3068\u305f\u3093(\u306b).txt",
+      "size": 8791,
+      "audio_url": "audio/Japanese/N2/10- ~\u3068\u305f\u3093(\u306b).zip",
+      "audio_size": 1187926
+    },
+    {
+      "path": "cards/Japanese/N2/11- ~\u6b21\u7b2c (\u3057\u3060\u3044).txt",
+      "url": "cards/Japanese/N2/11- ~\u6b21\u7b2c (\u3057\u3060\u3044).txt",
+      "size": 9744,
+      "audio_url": "audio/Japanese/N2/11- ~\u6b21\u7b2c (\u3057\u3060\u3044).zip",
+      "audio_size": 1341991
+    },
+    {
+      "path": "cards/Japanese/N2/12- ~\u4e0a\u306f.txt",
+      "url": "cards/Japanese/N2/12- ~\u4e0a\u306f.txt",
+      "size": 8892,
+      "audio_url": "audio/Japanese/N2/12- ~\u4e0a\u306f.zip",
+      "audio_size": 1212551
+    },
+    {
+      "path": "cards/Japanese/N2/13- ~\u3070\u304b\u308a\u306b.txt",
+      "url": "cards/Japanese/N2/13- ~\u3070\u304b\u308a\u306b.txt",
+      "size": 10783,
+      "audio_url": "audio/Japanese/N2/13- ~\u3070\u304b\u308a\u306b.zip",
+      "audio_size": 1424886
+    },
+    {
+      "path": "cards/Japanese/N2/14- ~\u3042\u307e\u308a(\u306b).txt",
+      "url": "cards/Japanese/N2/14- ~\u3042\u307e\u308a(\u306b).txt",
+      "size": 8924,
+      "audio_url": "audio/Japanese/N2/14- ~\u3042\u307e\u308a(\u306b).zip",
+      "audio_size": 1212061
+    },
+    {
+      "path": "cards/Japanese/N2/15- ~\u304b\u3089\u3044\u3046\u3068 - \u304b\u3089\u3044\u3048\u3070 - \u304b\u3089\u3044\u3063\u3066.txt",
+      "url": "cards/Japanese/N2/15- ~\u304b\u3089\u3044\u3046\u3068 - \u304b\u3089\u3044\u3048\u3070 - \u304b\u3089\u3044\u3063\u3066.txt",
+      "size": 13632,
+      "audio_url": "audio/Japanese/N2/15- ~\u304b\u3089\u3044\u3046\u3068 - \u304b\u3089\u3044\u3048\u3070 - \u304b\u3089\u3044\u3063\u3066.zip",
+      "audio_size": 1695344
+    },
+    {
+      "path": "cards/Japanese/N2/16- ~\u304b\u3089\u3057\u3066.txt",
+      "url": "cards/Japanese/N2/16- ~\u304b\u3089\u3057\u3066.txt",
+      "size": 9356,
+      "audio_url": "audio/Japanese/N2/16- ~\u304b\u3089\u3057\u3066.zip",
+      "audio_size": 1211007
+    },
+    {
+      "path": "cards/Japanese/N2/17- ~\u306b\u307b\u304b\u306a\u3089\u306a\u3044.txt",
+      "url": "cards/Japanese/N2/17- ~\u306b\u307b\u304b\u306a\u3089\u306a\u3044.txt",
+      "size": 10461,
+      "audio_url": "audio/Japanese/N2/17- ~\u306b\u307b\u304b\u306a\u3089\u306a\u3044.zip",
+      "audio_size": 1365420
+    },
+    {
+      "path": "cards/Japanese/N2/18- ~\u306b\u76f8\u9055\u306a\u3044.txt",
+      "url": "cards/Japanese/N2/18- ~\u306b\u76f8\u9055\u306a\u3044.txt",
+      "size": 7266,
+      "audio_url": "audio/Japanese/N2/18- ~\u306b\u76f8\u9055\u306a\u3044.zip",
+      "audio_size": 950931
+    },
+    {
+      "path": "cards/Japanese/N2/19- ~\u3092\u4f59\u5100\u306a\u304f\u3055\u308c\u308b.txt",
+      "url": "cards/Japanese/N2/19- ~\u3092\u4f59\u5100\u306a\u304f\u3055\u308c\u308b.txt",
+      "size": 13341,
+      "audio_url": "audio/Japanese/N2/19- ~\u3092\u4f59\u5100\u306a\u304f\u3055\u308c\u308b.zip",
+      "audio_size": 1713284
+    },
+    {
+      "path": "cards/Japanese/N2/2- ~\u306b\u3082\u304b\u304b\u308f\u3089\u305a.txt",
+      "url": "cards/Japanese/N2/2- ~\u306b\u3082\u304b\u304b\u308f\u3089\u305a.txt",
+      "size": 15080,
+      "audio_url": "audio/Japanese/N2/2- ~\u306b\u3082\u304b\u304b\u308f\u3089\u305a.zip",
+      "audio_size": 2091813
+    },
+    {
+      "path": "cards/Japanese/N2/20- ~\u3092\u7981\u3058\u5f97\u306a\u3044.txt",
+      "url": "cards/Japanese/N2/20- ~\u3092\u7981\u3058\u5f97\u306a\u3044.txt",
+      "size": 9809,
+      "audio_url": "audio/Japanese/N2/20- ~\u3092\u7981\u3058\u5f97\u306a\u3044.zip",
+      "audio_size": 1262273
+    },
+    {
+      "path": "cards/Japanese/N2/21- ~\u305a\u306b\u306f\u3044\u3089\u308c\u306a\u3044.txt",
+      "url": "cards/Japanese/N2/21- ~\u305a\u306b\u306f\u3044\u3089\u308c\u306a\u3044.txt",
+      "size": 11816,
+      "audio_url": "audio/Japanese/N2/21- ~\u305a\u306b\u306f\u3044\u3089\u308c\u306a\u3044.zip",
+      "audio_size": 1439992
+    },
+    {
+      "path": "cards/Japanese/N2/22- ~\u3066\u3084\u307e\u306a\u3044.txt",
+      "url": "cards/Japanese/N2/22- ~\u3066\u3084\u307e\u306a\u3044.txt",
+      "size": 6309,
+      "audio_url": "audio/Japanese/N2/22- ~\u3066\u3084\u307e\u306a\u3044.zip",
+      "audio_size": 742211
+    },
+    {
+      "path": "cards/Japanese/N2/23- Advanced Keigo \u2014 Written Correspondence.txt",
+      "url": "cards/Japanese/N2/23- Advanced Keigo \u2014 Written Correspondence.txt",
+      "size": 23297,
+      "audio_url": "audio/Japanese/N2/23- Advanced Keigo \u2014 Written Correspondence.zip",
+      "audio_size": 2783128
+    },
+    {
+      "path": "cards/Japanese/N2/24- Advanced Keigo \u2014 Telephone & Meeting Register.txt",
+      "url": "cards/Japanese/N2/24- Advanced Keigo \u2014 Telephone & Meeting Register.txt",
+      "size": 19851,
+      "audio_url": "audio/Japanese/N2/24- Advanced Keigo \u2014 Telephone & Meeting Register.zip",
+      "audio_size": 2295229
+    },
+    {
+      "path": "cards/Japanese/N2/25- Nuanced Particle Review \u3055\u3048-\u3059\u3089-\u3060\u306b.txt",
+      "url": "cards/Japanese/N2/25- Nuanced Particle Review \u3055\u3048-\u3059\u3089-\u3060\u306b.txt",
+      "size": 14329,
+      "audio_url": "audio/Japanese/N2/25- Nuanced Particle Review \u3055\u3048-\u3059\u3089-\u3060\u306b.zip",
+      "audio_size": 1740401
+    },
+    {
+      "path": "cards/Japanese/N2/26- ~\u3082\u304b\u307e\u308f\u305a.txt",
+      "url": "cards/Japanese/N2/26- ~\u3082\u304b\u307e\u308f\u305a.txt",
+      "size": 10007,
+      "audio_url": "audio/Japanese/N2/26- ~\u3082\u304b\u307e\u308f\u305a.zip",
+      "audio_size": 1248596
+    },
+    {
+      "path": "cards/Japanese/N2/27- ~\u3092\u3088\u305d\u306b.txt",
+      "url": "cards/Japanese/N2/27- ~\u3092\u3088\u305d\u306b.txt",
+      "size": 9930,
+      "audio_url": "audio/Japanese/N2/27- ~\u3092\u3088\u305d\u306b.zip",
+      "audio_size": 1346436
+    },
+    {
+      "path": "cards/Japanese/N2/28- ~\u306a\u304c\u3089\u3082.txt",
+      "url": "cards/Japanese/N2/28- ~\u306a\u304c\u3089\u3082.txt",
+      "size": 9770,
+      "audio_url": "audio/Japanese/N2/28- ~\u306a\u304c\u3089\u3082.zip",
+      "audio_size": 1414605
+    },
+    {
+      "path": "cards/Japanese/N2/29- ~\u3064\u3064\u3042\u308b.txt",
+      "url": "cards/Japanese/N2/29- ~\u3064\u3064\u3042\u308b.txt",
+      "size": 8837,
+      "audio_url": "audio/Japanese/N2/29- ~\u3064\u3064\u3042\u308b.zip",
+      "audio_size": 1130992
+    },
+    {
+      "path": "cards/Japanese/N2/3- ~\u3082\u306e\u3060\u304b\u3089  ~\u3082\u306e\u3067.txt",
+      "url": "cards/Japanese/N2/3- ~\u3082\u306e\u3060\u304b\u3089  ~\u3082\u306e\u3067.txt",
+      "size": 14653,
+      "audio_url": "audio/Japanese/N2/3- ~\u3082\u306e\u3060\u304b\u3089  ~\u3082\u306e\u3067.zip",
+      "audio_size": 1911231
+    },
+    {
+      "path": "cards/Japanese/N2/30- Compound Kango (Sino-Japanese) Constructions.txt",
+      "url": "cards/Japanese/N2/30- Compound Kango (Sino-Japanese) Constructions.txt",
+      "size": 17251,
+      "audio_url": "audio/Japanese/N2/30- Compound Kango (Sino-Japanese) Constructions.zip",
+      "audio_size": 2051750
+    },
+    {
+      "path": "cards/Japanese/N2/31- Logical Connectors for Argumentative Writing.txt",
+      "url": "cards/Japanese/N2/31- Logical Connectors for Argumentative Writing.txt",
+      "size": 17739,
+      "audio_url": "audio/Japanese/N2/31- Logical Connectors for Argumentative Writing.zip",
+      "audio_size": 2563170
+    },
+    {
+      "path": "cards/Japanese/N2/32- Abstract\u2014Editorial Vocabulary in Context.txt",
+      "url": "cards/Japanese/N2/32- Abstract\u2014Editorial Vocabulary in Context.txt",
+      "size": 19617,
+      "audio_url": "audio/Japanese/N2/32- Abstract\u2014Editorial Vocabulary in Context.zip",
+      "audio_size": 2382121
+    },
+    {
+      "path": "cards/Japanese/N2/33- Reading-Comprehension Style Long Sentences.txt",
+      "url": "cards/Japanese/N2/33- Reading-Comprehension Style Long Sentences.txt",
+      "size": 44229,
+      "audio_url": "audio/Japanese/N2/33- Reading-Comprehension Style Long Sentences.zip",
+      "audio_size": 5723234
+    },
+    {
+      "path": "cards/Japanese/N2/34- Mixed Review & Integration.txt",
+      "url": "cards/Japanese/N2/34- Mixed Review & Integration.txt",
+      "size": 19688,
+      "audio_url": "audio/Japanese/N2/34- Mixed Review & Integration.zip",
+      "audio_size": 2507649
+    },
+    {
+      "path": "cards/Japanese/N2/4- ~\u3060\u3051\u3042\u3063\u3066  ~\u3060\u3051\u306b.txt",
+      "url": "cards/Japanese/N2/4- ~\u3060\u3051\u3042\u3063\u3066  ~\u3060\u3051\u306b.txt",
+      "size": 15452,
+      "audio_url": "audio/Japanese/N2/4- ~\u3060\u3051\u3042\u3063\u3066  ~\u3060\u3051\u306b.zip",
+      "audio_size": 2010719
+    },
+    {
+      "path": "cards/Japanese/N2/5- ~\u306b\u3057\u3066\u306f.txt",
+      "url": "cards/Japanese/N2/5- ~\u306b\u3057\u3066\u306f.txt",
+      "size": 11010,
+      "audio_url": "audio/Japanese/N2/5- ~\u306b\u3057\u3066\u306f.zip",
+      "audio_size": 1500270
+    },
+    {
+      "path": "cards/Japanese/N2/6- ~\u306b\u3057\u3066\u3082~\u306b\u3057\u3066\u3082.txt",
+      "url": "cards/Japanese/N2/6- ~\u306b\u3057\u3066\u3082~\u306b\u3057\u3066\u3082.txt",
+      "size": 11829,
+      "audio_url": "audio/Japanese/N2/6- ~\u306b\u3057\u3066\u3082~\u306b\u3057\u3066\u3082.zip",
+      "audio_size": 1556050
+    },
+    {
+      "path": "cards/Japanese/N2/7- ~\u308f\u308a\u306b(\u306f).txt",
+      "url": "cards/Japanese/N2/7- ~\u308f\u308a\u306b(\u306f).txt",
+      "size": 9938,
+      "audio_url": "audio/Japanese/N2/7- ~\u308f\u308a\u306b(\u306f).zip",
+      "audio_size": 1327083
+    },
+    {
+      "path": "cards/Japanese/N2/8- ~\u306c\u304d\u3067  ~\u306c\u304d\u306b\u3057\u3066.txt",
+      "url": "cards/Japanese/N2/8- ~\u306c\u304d\u3067  ~\u306c\u304d\u306b\u3057\u3066.txt",
+      "size": 8637,
+      "audio_url": "audio/Japanese/N2/8- ~\u306c\u304d\u3067  ~\u306c\u304d\u306b\u3057\u3066.zip",
+      "audio_size": 1132934
+    },
+    {
+      "path": "cards/Japanese/N2/9- ~\u304b~\u306a\u3044\u304b\u306e\u3046\u3061\u306b.txt",
+      "url": "cards/Japanese/N2/9- ~\u304b~\u306a\u3044\u304b\u306e\u3046\u3061\u306b.txt",
+      "size": 11254,
+      "audio_url": "audio/Japanese/N2/9- ~\u304b~\u306a\u3044\u304b\u306e\u3046\u3061\u306b.zip",
+      "audio_size": 1466106
+    },
+    {
+      "path": "cards/Japanese/N5/1- Greetings & Self-Introduction.txt",
+      "url": "cards/Japanese/N5/1- Greetings & Self-Introduction.txt",
+      "size": 3931,
+      "audio_url": "audio/Japanese/N5/1- Greetings & Self-Introduction.zip",
+      "audio_size": 473327
+    },
+    {
+      "path": "cards/Japanese/N5/10- Likes, Dislikes, Ability.txt",
+      "url": "cards/Japanese/N5/10- Likes, Dislikes, Ability.txt",
+      "size": 4792,
+      "audio_url": "audio/Japanese/N5/10- Likes, Dislikes, Ability.zip",
+      "audio_size": 565959
+    },
+    {
+      "path": "cards/Japanese/N5/11- Location & Directions.txt",
+      "url": "cards/Japanese/N5/11- Location & Directions.txt",
+      "size": 6173,
+      "audio_url": "audio/Japanese/N5/11- Location & Directions.zip",
+      "audio_size": 714147
+    },
+    {
+      "path": "cards/Japanese/N5/12- Shopping & Prices.txt",
+      "url": "cards/Japanese/N5/12- Shopping & Prices.txt",
+      "size": 6049,
+      "audio_url": "audio/Japanese/N5/12- Shopping & Prices.zip",
+      "audio_size": 656795
+    },
+    {
+      "path": "cards/Japanese/N5/13- Food & Restaurant Ordering.txt",
+      "url": "cards/Japanese/N5/13- Food & Restaurant Ordering.txt",
+      "size": 5823,
+      "audio_url": "audio/Japanese/N5/13- Food & Restaurant Ordering.zip",
+      "audio_size": 601642
+    },
+    {
+      "path": "cards/Japanese/N5/14- Comparison (Basic).txt",
+      "url": "cards/Japanese/N5/14- Comparison (Basic).txt",
+      "size": 6567,
+      "audio_url": "audio/Japanese/N5/14- Comparison (Basic).zip",
+      "audio_size": 715190
+    },
+    {
+      "path": "cards/Japanese/N5/15- Demonstratives (\u3053\u305d\u3042\u3069\u7cfb).txt",
+      "url": "cards/Japanese/N5/15- Demonstratives (\u3053\u305d\u3042\u3069\u7cfb).txt",
+      "size": 5274,
+      "audio_url": "audio/Japanese/N5/15- Demonstratives (\u3053\u305d\u3042\u3069\u7cfb).zip",
+      "audio_size": 507118
+    },
+    {
+      "path": "cards/Japanese/N5/16- Te-Form Formation.txt",
+      "url": "cards/Japanese/N5/16- Te-Form Formation.txt",
+      "size": 7084,
+      "audio_url": "audio/Japanese/N5/16- Te-Form Formation.zip",
+      "audio_size": 775758
+    },
+    {
+      "path": "cards/Japanese/N5/17- Te-Form Requests & Permission.txt",
+      "url": "cards/Japanese/N5/17- Te-Form Requests & Permission.txt",
+      "size": 6742,
+      "audio_url": "audio/Japanese/N5/17- Te-Form Requests & Permission.zip",
+      "audio_size": 674752
+    },
+    {
+      "path": "cards/Japanese/N5/18- Te-Form Prohibition & Sequencing.txt",
+      "url": "cards/Japanese/N5/18- Te-Form Prohibition & Sequencing.txt",
+      "size": 8396,
+      "audio_url": "audio/Japanese/N5/18- Te-Form Prohibition & Sequencing.zip",
+      "audio_size": 882486
+    },
+    {
+      "path": "cards/Japanese/N5/19- Progressive_Resultant State.txt",
+      "url": "cards/Japanese/N5/19- Progressive_Resultant State.txt",
+      "size": 6566,
+      "audio_url": "audio/Japanese/N5/19- Progressive_Resultant State.zip",
+      "audio_size": 709355
+    },
+    {
+      "path": "cards/Japanese/N5/2- Numbers, Dates, Time.txt",
+      "url": "cards/Japanese/N5/2- Numbers, Dates, Time.txt",
+      "size": 5363,
+      "audio_url": "audio/Japanese/N5/2- Numbers, Dates, Time.zip",
+      "audio_size": 622668
+    },
+    {
+      "path": "cards/Japanese/N5/20- Desire & Suggestion.txt",
+      "url": "cards/Japanese/N5/20- Desire & Suggestion.txt",
+      "size": 6163,
+      "audio_url": "audio/Japanese/N5/20- Desire & Suggestion.zip",
+      "audio_size": 696142
+    },
+    {
+      "path": "cards/Japanese/N5/21- Basic Potential.txt",
+      "url": "cards/Japanese/N5/21- Basic Potential.txt",
+      "size": 4422,
+      "audio_url": "audio/Japanese/N5/21- Basic Potential.zip",
+      "audio_size": 465075
+    },
+    {
+      "path": "cards/Japanese/N5/22- Giving & Receiving (Basic).txt",
+      "url": "cards/Japanese/N5/22- Giving & Receiving (Basic).txt",
+      "size": 6172,
+      "audio_url": "audio/Japanese/N5/22- Giving & Receiving (Basic).zip",
+      "audio_size": 648790
+    },
+    {
+      "path": "cards/Japanese/N5/23- Weather, Seasons, Hobbies.txt",
+      "url": "cards/Japanese/N5/23- Weather, Seasons, Hobbies.txt",
+      "size": 5509,
+      "audio_url": "audio/Japanese/N5/23- Weather, Seasons, Hobbies.zip",
+      "audio_size": 679171
+    },
+    {
+      "path": "cards/Japanese/N5/24- Question Formation & Sentence-Final Particles.txt",
+      "url": "cards/Japanese/N5/24- Question Formation & Sentence-Final Particles.txt",
+      "size": 4929,
+      "audio_url": "audio/Japanese/N5/24- Question Formation & Sentence-Final Particles.zip",
+      "audio_size": 545914
+    },
+    {
+      "path": "cards/Japanese/N5/3- Family & People.txt",
+      "url": "cards/Japanese/N5/3- Family & People.txt",
+      "size": 4259,
+      "audio_url": "audio/Japanese/N5/3- Family & People.zip",
+      "audio_size": 539634
+    },
+    {
+      "path": "cards/Japanese/N5/4- Existence (\u3042\u308a\u307e\u3059_\u3044\u307e\u3059).txt",
+      "url": "cards/Japanese/N5/4- Existence (\u3042\u308a\u307e\u3059_\u3044\u307e\u3059).txt",
+      "size": 6264,
+      "audio_url": "audio/Japanese/N5/4- Existence (\u3042\u308a\u307e\u3059_\u3044\u307e\u3059).zip",
+      "audio_size": 680821
+    },
+    {
+      "path": "cards/Japanese/N5/5- Daily Routine Verbs \u2014 Present.txt",
+      "url": "cards/Japanese/N5/5- Daily Routine Verbs \u2014 Present.txt",
+      "size": 5892,
+      "audio_url": "audio/Japanese/N5/5- Daily Routine Verbs \u2014 Present.zip",
+      "audio_size": 678003
+    },
+    {
+      "path": "cards/Japanese/N5/6- Daily Routine Verbs \u2014 Past.txt",
+      "url": "cards/Japanese/N5/6- Daily Routine Verbs \u2014 Past.txt",
+      "size": 5759,
+      "audio_url": "audio/Japanese/N5/6- Daily Routine Verbs \u2014 Past.zip",
+      "audio_size": 648235
+    },
+    {
+      "path": "cards/Japanese/N5/7- Object Marking & Transitive Verbs.txt",
+      "url": "cards/Japanese/N5/7- Object Marking & Transitive Verbs.txt",
+      "size": 4804,
+      "audio_url": "audio/Japanese/N5/7- Object Marking & Transitive Verbs.zip",
+      "audio_size": 573102
+    },
+    {
+      "path": "cards/Japanese/N5/8- \u3044-Adjectives.txt",
+      "url": "cards/Japanese/N5/8- \u3044-Adjectives.txt",
+      "size": 5068,
+      "audio_url": "audio/Japanese/N5/8- \u3044-Adjectives.zip",
+      "audio_size": 658506
+    },
+    {
+      "path": "cards/Japanese/N5/9- \u306a-Adjectives.txt",
+      "url": "cards/Japanese/N5/9- \u306a-Adjectives.txt",
+      "size": 5508,
+      "audio_url": "audio/Japanese/N5/9- \u306a-Adjectives.zip",
+      "audio_size": 692945
+    }
+  ]
+}
