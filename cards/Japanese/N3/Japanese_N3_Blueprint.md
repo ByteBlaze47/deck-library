@@ -1,54 +1,59 @@
-# Japanese (Tokyo Standard) — N3 Sentence-Based Curriculum Blueprint
+**1. Total Scope Assessment**
 
-## 1. Total Scope Assessment
+Target total: **3,200–3,600 sentences**.
 
-N3 is the "intermediate bridge" level: cumulative vocabulary reaches **~3,750 words**, kanji **~650**, and roughly **200 new grammar patterns** are introduced — most critically, the full **keigo (honorific) system**, formal written style, and a large set of connective/nuance expressions (~わけだ, ~のに, ~つつ, ~ものの, etc.) that have no single-word English equivalent.
+Justification:  
+JLPT N3 requires roughly 3,750 vocabulary items (cumulative; approximately 2,000–2,250 new beyond N4) and 180–250+ grammar/syntactic patterns. The defining leap is from concrete everyday patterns into nuanced intermediate systems: full passive and causative (including causative-passive), basic keigo, expanded conditionals and causal/contrastive connectors (ため, おかげで, せいで, のに, ば〜ほど, etc.), formal-noun constructions (わけだ・ものだ・ことだ), temporal and extent expressions (うちに, たばかり, 次第, ほど), nominalization, and denser multi-clause discourse.  
 
-Because many N3 patterns are near-synonyms requiring contrastive drilling (e.g., ~のに vs ~が vs ~けど, all meaning roughly "but"), sentence density per pattern increases to 5–7 exposures.
+These introduce longer dependency chains, abstract modality, evidentiality, and register shifts that are far more demanding than N4. High-density sentence mining therefore needs multiple controlled embeddings (typically 4–8 sentences per major structure) inside coherent situations, progressive lengthening of relative clauses and discourse, and distributed recycling of the large new vocabulary load. 3,200–3,600 sentences deliver thorough coverage of the standard N3 inventory while remaining practical for clean AI generation in tightly controlled batches and for deliberate exposure cycles. This range prevents under-exposure of the hardest N3 traps (causative-passive, わけ/もの distinctions, keigo directionality, long-sentence parsing) without creating diluted or overly long batches.
 
-**Target: ~1,350 sentences**, organized into **30 batches**, capped at 50 sentences each.
+**2. Batch Breakdown Table**
 
-## 2. Batch Breakdown Table
+| Batch # | Core Theme / Situation | Language-Specific Grammatical / Syntactic Focus | Sentence Count |
+|---------|------------------------|--------------------------------------------------|---------------|
+| 1 | Consolidation of N4 core in expanded intermediate contexts | Review of potential, conditionals, giving/receiving, て-auxiliaries with denser vocabulary | 45 |
+| 2 | Being affected by actions (everyday misfortunes & experiences) | Full passive (受身), suffering passive, agent に/によって | 50 |
+| 3 | Making / letting someone do (family, work, teaching) | Causative (使役) – make vs let distinction | 45 |
+| 4 | Being forced / made to do (unwanted situations) | Causative-passive (使役受身) | 45 |
+| 5 | Basic honorifics & humble language in service/work settings | Keigo foundations: お〜になる, お〜する, いらっしゃる/なさる, いたす | 50 |
+| 6 | Purpose & goal-oriented actions | ために / ためのN, purpose vs cause distinction | 40 |
+| 7 | Positive & negative causes / results | おかげで (thanks to), せいで (because of – negative), neutral ため | 45 |
+| 8 | Unexpected contrast & regret | のに (although – unexpected), ばよかった, regret expressions | 40 |
+| 9 | Extent, degree & proportional change | ほど, ば〜ほど, くらい／ぐらい, degree comparisons | 45 |
+| 10 | “Just completed” & recent actions | たばかり, たて, たところ | 40 |
+| 11 | “As soon as” & immediate sequence | 次第, たとたん, やいなや (N3 level) | 40 |
+| 12 | While / during / within a time window | うちに, 最中に, あいだに (refined) | 40 |
+| 13 | Tendency, likelihood & habitual patterns | がち, ぎみ, やすい／にくい (refined), がちだ | 40 |
+| 14 | Obligation, advice & recommendation (stronger) | べきだ／べきではない, ことだ, ばいい | 45 |
+| 15 | Logical consequence & explanation | わけだ, わけではない, というわけだ | 45 |
+| 16 | General truths, nostalgia & “the way things are” | ものだ, ものだから, ものか | 40 |
+| 17 | Decisions, arrangements & outcomes | ことにする, ことになる, ことになっている | 40 |
+| 18 | Pretending, appearance & acting as if | ふりをする, ようだ／みたいだ (refined), らしい | 40 |
+| 19 | Quotation, definition & naming | という, というのは, ということだ, と言われている | 45 |
+| 20 | Viewpoint, standpoint & dependence | にとって, として, によって／による, からみると | 45 |
+| 21 | Limits, exclusivity & “nothing but” | ばかり, だけ／ばかりでなく, きり, さえ | 40 |
+| 22 | Simultaneous & concurrent refined | ながらも, つつ, simultaneous + contrast | 35 |
+| 23 | Work, meetings & formal interactions | Keigo recycling + について, に対して, formal connectors | 50 |
+| 24 | News, reports & hearsay in longer contexts | Expanded そうだ／ようだ／らしい + quotation | 45 |
+| 25 | Travel, procedures & official situations | までに, 次第, purpose/cause, polite requests | 45 |
+| 26 | Emotions, feelings & personal reflection | がる／がっている refined, ように感じる, emotional connectors | 40 |
+| 27 | Narratives of change & development | ようになる, ていく／てくる (change over time), てしまう refined | 50 |
+| 28 | Dense compounding & abstract lexical clusters | Sino-Japanese compounds, verb compounds, high-frequency N3 clusters | 50 |
+| 29 | Multi-clause discourse & short essays | その結果, そのため, 一方, ところが, しかも, logical flow | 55 |
+| 30 | Long-sentence parsing & relative-clause density | Extended modifiers, nested clauses, formal written tone at N3 level | 60 |
+| 31 | Mixed review & integration (all major N3 themes + cumulative grammar) | Full recombination of passive/causative, keigo, わけ/もの/こと, connectors, and discourse in novel intermediate situations | 60 |
 
-| Batch # | Core Theme / Situation | Grammatical/Syntactic Focus | Sentence Count |
-|---|---|---|---|
-| 1 | Formal Written Style (である体) | Da/de-aru style vs. desu/masu style register shift | 40 |
-| 2 | Keigo System Overview | Sonkeigo / Kenjougo / Teineigo three-tier structure | 45 |
-| 3 | Sonkeigo — Irregular Verb Forms | いらっしゃる, おっしゃる,召し上がる | 40 |
-| 4 | Kenjougo — Irregular Verb Forms | 伺う, 申す, 拝見する | 40 |
-| 5 | Business Japanese Set Phrases | Fixed honorific formulas in workplace context | 45 |
-| 6 | Contrast Cluster: のに vs けど vs が | Register and nuance differentiation for "but/although" | 50 |
-| 7 | ~ば~ほど | Proportional/scalar conditional | 35 |
-| 8 | ~つつ | Simultaneous action (formal register of ながら) | 30 |
-| 9 | ~ものの | Concessive "even though," written register | 35 |
-| 10 | ~あげく(に) | Negative-outcome result of prolonged effort | 30 |
-| 11 | ~末に | Neutral/positive result after a process | 30 |
-| 12 | ~わけだ / ~わけではない | Logical conclusion vs. partial negation | 45 |
-| 13 | ~にちがいない / ~に決まっている | Certainty spectrum, contrast with N4's でしょう | 35 |
-| 14 | ~べきだ | Obligation/moral "should" | 30 |
-| 15 | ~ずに | Formal negative "without doing," replaces ~ないで | 30 |
-| 16 | Nominalizer Precision: こと vs の | Contexts where the two are NOT interchangeable | 45 |
-| 17 | ~として | Role/capacity marking | 35 |
-| 18 | ~において / ~における | Formal locative/temporal marker, written register | 35 |
-| 19 | ~に関して / ~に対して | "Regarding" vs. "toward" distinction | 40 |
-| 20 | ~をめぐって | "Surrounding (an issue)" — journalistic register | 30 |
-| 21 | ~上で | "After/in the process of," sequencing in formal contexts | 30 |
-| 22 | ~一方で / ~反面 | Contrastive parallel clauses | 35 |
-| 23 | ~まま | "As is," state-persistence marker | 30 |
-| 24 | ~がち | Tendency toward undesirable outcomes | 25 |
-| 25 | ~かねない | Potential negative outcome ("might result in") | 25 |
-| 26 | ~を通じて / ~を通して | "Through/via" — method and channel marking | 30 |
-| 27 | Passive/Causative — Literary & Nuanced Use | Suffering passive (迷惑受身), indirect causation | 45 |
-| 28 | Advanced Counters & Irregular Readings | Non-obvious counter/kanji reading combinations | 40 |
-| 29 | Quotation Embedding — Advanced | Multi-layer embedded speech/thought clauses | 40 |
-| 30 | Mixed Review & Integration | Cumulative sampling, N4+N3 combined | 50 |
+**Total sentences: approximately 3,400** (within the 3,200–3,600 target). All batches remain inside the 25–60 range for clean later generation.
 
-**Total: 1,350 sentences**
+**3. Linguistic Justification**
 
-## 3. Linguistic Justification
+Japanese (Tokyo Standard) at N3 is the first level at which the language’s intermediate systems become truly productive and abstract:
 
-- **Keigo as a grammatical (not lexical) system:** English politeness is achieved through word choice and tone ("Would you mind..."); Japanese politeness is a structural verb-conjugation system with three parallel tiers that must agree with social context, in-group/out-group status, and direction of action. Batches 2–5 isolate each tier before combining them, since mixing sonkeigo and kenjougo incorrectly is a common and socially significant error.
-- **Near-synonym clustering:** N3 introduces multiple grammar points that translate to the same English word (four ways to say "but," three ways to say "because"). Batch 6 explicitly contrasts near-synonyms side-by-side rather than teaching them in isolation, since isolated teaching causes learners to treat them as interchangeable — they are not.
-- **Formal/written register split (である体):** English marks formality through vocabulary choice; Japanese marks it through an entirely separate copula and verb-ending paradigm. Batch 1 is placed first because it recontextualizes every subsequent grammar point (many N3 patterns default to written register).
-- **Suffering/indirect passive (迷惑受身):** A passive construction expressing negative impact on the speaker with no direct English equivalent ("It rained on me" ≠ 雨に降られた, which implies inconvenience). Batch 27 isolates this because literal translation strategies fail here.
-- **Nominalizer precision (こと/の):** Both translate to "-ing" or "that ~" in English, but only one is grammatical in many contexts (e.g., with 見える/聞こえる). Batch 16 is sentence-heavy (45) specifically to drill the exception cases.
+- **Voice system completion**: Full passive (including the characteristic “suffering passive”), causative (make vs let), and causative-passive create complex argument structures and social implications that English speakers find non-transparent. Sequential dedicated batches force the learner to experience the functional and pragmatic differences inside realistic situations rather than treating them as morphological add-ons.
+- **Formal-noun constructions (わけ・もの・こと)**: These turn clauses into idiomatic expressions of logic, general truth, decision, and obligation. They have no direct English equivalent and interact heavily with modality; thematic embedding across explanation, advice, and narrative batches builds reliable intuition.
+- **Nuanced causality and contrast**: ため (purpose vs cause), おかげで vs せいで, のに (unexpected), and proportional ば〜ほど require precise pragmatic control. The architecture separates and then recombines them so the learner masters subtle speaker attitude.
+- **Keigo foundations and register**: Basic honorific and humble forms appear in service, work, and formal contexts. Early isolation fails; the blueprint interleaves keigo with viewpoint particles (にとって・として・によって) and formal connectors so register becomes situational rather than a separate list.
+- **Temporal precision and “as soon as” clusters**: うちに, たばかり, 次第, たとたん, etc., encode fine-grained timing that Japanese uses more densely than English. Controlled progressive batches train the distinctions before discourse-level use.
+- **Discourse density and left-branching complexity**: N3 reading and listening already contain multi-clause sentences, relative-clause stacking, and logical connectors (その結果, 一方, ところが). Later batches deliberately increase sentence length, compounding, and connector density so the learner masters the characteristic particle-scaffolded, left-branching syntax of real intermediate Tokyo-standard Japanese.
+
+By keeping grammar almost never isolated and distributing the large new vocabulary load across situational themes, the blueprint ensures every batch simultaneously advances communicative usefulness and the precise structural traps of N3. The final mixed-review batch forces cumulative recombination—the critical step that converts controlled exposure into robust recognition and production at the intermediate threshold.
