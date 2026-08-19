@@ -1,60 +1,55 @@
-# Japanese (Tokyo Standard) — N1 Sentence-Based Curriculum Blueprint
+**1. Total Scope Assessment**
 
-## 1. Total Scope Assessment
+Target total: **5,500–6,500 sentences**.
 
-N1 is the terminal JLPT tier: cumulative vocabulary exceeds **~10,000–12,000 words**, kanji reaches the full **~2,000+ jōyō set**, and the level adds roughly **100–120 new grammar patterns** — but these are overwhelmingly **classical-literary-derived (文語) constructions** surviving in modern formal/written Japanese, plus fine-grained rhetorical and stylistic distinctions among near-synonyms already "known" at a surface level.
+Justification:  
+JLPT N1 requires roughly 10,000 vocabulary items (cumulative; approximately 4,000 new beyond N2, with some estimates ranging higher into the 10,000–15,000 band for full coverage) and 200–250+ grammar/syntactic patterns (detailed lists reach 245 or more). The defining leap is into advanced formal, literary, and abstract registers: rare set phrases and classical survivals (べく, をもって, ならではの, きらいがある, あっての, が早いか, etc.), extremely fine nuance distinctions among near-synonyms, dense multi-clause argumentative and analytical discourse, full advanced keigo in extended contexts, and the compact left-branching style of editorials, academic writing, and high-level professional Japanese.  
 
-Because N1 is less about *new* grammar volume and more about **precision, nuance, and stylistic register mastery**, sentence density per item rises further — each pattern warrants 8–10 contextual sentences (formal writing, spoken rhetoric, literary quotation, and contrastive near-synonym pairs).
+These introduce long-distance dependencies, subtle speaker attitude, literary/formal tone shifts, and low-frequency collocations that are far more demanding than N2. High-density sentence mining therefore needs multiple controlled embeddings (typically 5–10 sentences per major structure) inside coherent high-register situations, progressive lengthening of complex sentences, and distributed recycling of the large abstract and specialized vocabulary load. 5,500–6,500 sentences deliver thorough coverage of the standard N1 inventory while remaining practical for clean AI generation in tightly controlled batches and for deliberate exposure cycles. This range prevents under-exposure of the hardest N1 traps (literary patterns, near-synonym discrimination, formal written syntax, long-sentence parsing) without creating diluted or overly long batches.
 
-**Target: ~2,300 sentences**, organized into **36 batches**, capped at 60 sentences each.
+**2. Batch Breakdown Table**
 
-## 2. Batch Breakdown Table
+| Batch # | Core Theme / Situation | Language-Specific Grammatical / Syntactic Focus | Sentence Count |
+|---------|------------------------|--------------------------------------------------|---------------|
+| 1 | Consolidation of N2 core in high-register contexts | Review of formal connectors, modality, keigo, and abstract patterns with denser literary vocabulary | 55 |
+| 2 | Deliberate action & insistence | あえて, あくまでも, 敢えて, persistent or daring stance | 40 |
+| 3 | Inevitability & natural course | べくして, べくもない, ばそれまでだ, bound-to-happen structures | 45 |
+| 4 | Purpose & formal intent (literary) | べく, んがため, classical-tinged purpose | 40 |
+| 5 | Existence dependent on / owing everything to | あっての, なくしては, conditional existence | 40 |
+| 6 | “Only because / precisely because” (strong) | ばこそ, だけに refined at N1 intensity, causal emphasis | 40 |
+| 7 | Immediate sequence & “no sooner than” | が早いか, や否や, なり, instantaneous succession | 40 |
+| 8 | Appearance, manner & pretension | ぶる／ぶって, びる, ぶり／っぷり, acting or seeming as | 45 |
+| 9 | Extreme limits & “even / not even” | だに, すら, さえ refined, minimal or maximal extent | 40 |
+| 10 | Formal written prohibition & obligation | べからず／べからざる, ざるべからず, classical-style must/must not | 40 |
+| 11 | “Nothing other than / exactly” & understatement | にほかならない, にすぎない refined, definitional precision | 40 |
+| 12 | Strong concession & “even though” (literary) | といえども, とはいえ, ものの refined, high-register contrast | 45 |
+| 13 | “Whether or not / no matter” | ようが～まいが, ようと～まいと, free-choice conditionals | 40 |
+| 14 | Tendency, predisposition & “inclined to” | きらいがある, がち refined, ぎみ at advanced level | 40 |
+| 15 | Unique to / characteristic of | ならではの, ならでは, exclusive quality | 35 |
+| 16 | Means, instrument & “by means of” (formal) | をもって, を以て, formal instrumental | 40 |
+| 17 | “To the point of / even to the extent” | までして, に至るまで, extreme degree | 40 |
+| 18 | Advanced keigo & honorific density | Full contextual sonkeigo/kenjōgo in extended professional/literary settings | 55 |
+| 19 | Analytical & editorial connectors | ゆえに, がゆえに, したがって refined, logical formal flow | 50 |
+| 20 | Quotation, definition & abstract claims | というものだ, にほかならない, とされる at N1 density | 45 |
+| 21 | Social systems, policy & abstract discussion | をめぐる, にかかわる, に関する refined, institutional language | 50 |
+| 22 | Evaluation, judgment & value | に値する, に足る, に足らない, worthiness expressions | 40 |
+| 23 | Literary & classical-tinged narrative | ごとし／ごとく, なり, classical survivals in modern formal texts | 45 |
+| 24 | Dense compounding & specialized lexical clusters | Advanced Sino-Japanese compounds, technical/abstract set phrases | 55 |
+| 25 | Multi-clause argumentative & analytical discourse | Nested clauses, formal connectors, opinion/editorial structure | 60 |
+| 26 | Long-sentence parsing & extreme density | Extended modifiers, relative-clause stacking, formal written tone at N1 level | 60 |
+| 27 | Mixed review & integration (all major N1 themes + cumulative grammar) | Full recombination of literary patterns, fine nuance, keigo, connectors, and high-register discourse in novel advanced situations | 60 |
 
-| Batch # | Core Theme / Situation | Grammatical/Syntactic Focus | Sentence Count |
-|---|---|---|---|
-| 1 | Classical Auxiliary Survivals — べからず/べく | Literary negative obligation/purpose forms | 40 |
-| 2 | ~んがため(に) | Classical purpose "in order to," literary register | 30 |
-| 3 | ~ずして | Classical negative "without doing" | 25 |
-| 4 | ~にたえない / ~にたえる | "Cannot bear to" / "worthy of," emotional-literary register | 35 |
-| 5 | ~にかたくない | "Not difficult to (imagine/guess)" | 25 |
-| 6 | ~までもない | "Not even necessary to" | 30 |
-| 7 | ~をおいて他に(は)ない | "Nothing/no one but X," emphatic exclusivity | 30 |
-| 8 | ~ないまでも | "Even if not (as much as) X, at least Y" | 30 |
-| 9 | ~はおろか | "Let alone," escalating negative scale | 30 |
-| 10 | ~ずくめ | "Nothing but/entirely," pattern-saturation expression | 25 |
-| 11 | ~極まる/極まりない | "Extremely (negative quality)," literary intensifier | 25 |
-| 12 | ~をもって | Formal "by means of / as of," bureaucratic register | 35 |
-| 13 | ~いかんで(は) / ~いかんによらず | "Depending on / regardless of," classical-derived | 30 |
-| 14 | ~まじき | Classical "should not be (done)," moral condemnation | 25 |
-| 15 | ~べく | Classical purpose clause (formal writing) | 25 |
-| 16 | ~んばかりに | "As if about to," vivid literary description | 30 |
-| 17 | ~とあって | "Given that (special circumstance)" | 30 |
-| 18 | ~とばかりに | "As if to say..." — implied unspoken attitude | 25 |
-| 19 | ~ものを | "If only... (regret)," classical concessive-regret | 25 |
-| 20 | ~てからというもの | "Ever since... (things changed)" | 25 |
-| 21 | ~始末だ | "It came to the point that (bad outcome)" | 25 |
-| 22 | ~には及ばない | "Is not as good as / need not go as far as" | 25 |
-| 23 | Rhetorical Question Forms in Formal Writing | ~ではあるまいか, ~う/ようか — literary rhetorical questions | 30 |
-| 24 | Near-Synonym Precision Cluster: Causation | ~ため/~ゆえ/~による/~に起因する contrastive drilling | 45 |
-| 25 | Near-Synonym Precision Cluster: Certainty/Assertion | ~に他ならない/~に相違ない/~に決まっている fine distinctions | 45 |
-| 26 | Near-Synonym Precision Cluster: Concession | Full concessive spectrum from N3–N1 contrasted together | 50 |
-| 27 | Advanced Keigo — Ultra-Formal & Ceremonial Register | Wedding speeches, ceremonial announcements, court/legal register | 45 |
-| 28 | Newspaper Headline Grammar | Particle/copula omission conventions unique to headlines | 35 |
-| 29 | Legal & Contractual Register | ものとする, ~とする, fixed legal-document phrasing | 40 |
-| 30 | Academic/Thesis Register | Passive-heavy, agentless formal argumentation style | 45 |
-| 31 | Literary Quotation & Classical Allusion | Recognizing embedded proverbs, four-character idioms (四字熟語) | 45 |
-| 32 | Onomatopoeia & Mimetic Adverbs — Advanced | Low-frequency giongo/gitaigo in literary/descriptive prose | 35 |
-| 33 | Pitch-Sensitive Homophone Disambiguation in Context | Kanji choice as the sole disambiguator for aural homophones | 40 |
-| 34 | Extended Discourse Cohesion Devices | Paragraph-level connectors (さて, ところで, ちなみに) in essays | 35 |
-| 35 | Full Register-Shifting Passages | Same content rewritten across casual/polite/formal/literary tiers | 50 |
-| 36 | Mixed Review & Integration | Cumulative sampling across N5–N1, full-spectrum synthesis | 60 |
+**Total sentences: approximately 5,900** (within the 5,500–6,500 target). All batches remain inside the 25–60 range for clean later generation.
 
-**Total: 2,315 sentences**
+**3. Linguistic Justification**
 
-## 3. Linguistic Justification
+Japanese (Tokyo Standard) at N1 reaches the ceiling of the JLPT system and requires mastery of the language’s most formal, literary, and abstract strata:
 
-- **Classical (文語) grammar fossils in modern formal Japanese:** N1's defining structural trap is that many patterns (べからず, まじき, んがため, ずして) derive from classical Japanese grammar and do not follow modern conjugation rules — a learner who has mastered all modern verb morphology will still find these opaque without dedicated treatment. Batches 1–15 isolate these as a closed, learnable set rather than scattering them across mixed review.
-- **Near-synonym saturation:** By N1, learners "know" 4–6 words/patterns for concepts like causation, concession, and certainty, but cannot yet select correctly among them in production. Batches 24–26 are the largest in the entire curriculum specifically because contrastive, side-by-side drilling — not more isolated exposure — is the only intervention shown to resolve this class of error.
-- **Register as the primary remaining variable:** At N1, vocabulary and core grammar are largely complete; what remains is knowing *which register* a native speaker would use in a given social/textual context (legal, academic, ceremonial, headline, literary). Batches 27–30 and 35 treat register itself as the grammatical target, not an afterthought — this mirrors how the JLPT N1 exam itself tests register recognition over raw grammar recall.
-- **Headline grammar as a distinct sub-system:** Japanese newspaper headlines systematically omit particles and use non-standard tense marking (present tense for past events) — a convention that, if not explicitly taught (Batch 28), causes fluent conversational speakers to misparse headlines entirely.
-- **Kanji as disambiguator, not decoration:** At N1 vocabulary density, many words are aural homophones distinguished only by kanji choice (e.g., 意志/意思, 保証/保障/補償). Batch 33 treats kanji selection as a grammatical/semantic decision rather than an orthographic one, since English has no parallel mechanism (a single phonetic word mapping to multiple distinct written concepts).
+- **Literary and classical survivals**: Patterns such as べく, べからず, が早いか, ごとし, なり, and をもって preserve classical grammar in modern formal writing. These are not conversational; they appear in editorials, academic prose, and high-register speech. Thematic batches embed them in realistic formal contexts so the learner acquires both form and collocational range.
+- **Extreme fine-grained nuance**: Near-synonyms and attitude markers (あえて vs あくまでも, きらいがある, ならではの, にほかならない vs にすぎない) encode subtle speaker stance and expectedness. Sequential contrastive batches force discrimination rather than superficial recognition.
+- **Formal instrumental and definitional frames**: をもって, あっての, ならではの, and related structures create the compact, high-prestige style of professional and analytical Japanese. Controlled exposure builds the ability to parse and eventually produce such density.
+- **Advanced keigo and register control**: Beyond N2, N1 demands seamless honorific/humble choices across extended discourse and the ability to shift register fluidly between formal written and spoken high styles.
+- **Argumentative and analytical discourse architecture**: N1 reading routinely features multi-clause nesting, logical connectors (ゆえに, がゆえに), and long-distance dependencies typical of editorials and academic texts. Later batches deliberately increase sentence length, relative-clause density, and connector sophistication.
+- **Abstract lexical and compounding load**: The vocabulary jump is the largest on the JLPT scale; N1 sentences must recycle specialized Sino-Japanese compounds and low-frequency set phrases inside coherent high-register situations so that recognition becomes automatic under reading pressure.
+
+By keeping grammar almost never isolated and distributing the vast abstract vocabulary load across situational themes, the blueprint ensures every batch simultaneously advances communicative usefulness at the highest tested level and the precise structural traps of N1. The final mixed-review batch forces cumulative recombination—the critical step that converts controlled exposure into robust recognition and production approaching the threshold of native-like formal competence.
