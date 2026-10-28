@@ -1,0 +1,41 @@
+#lang: fr -> en
+French::A1::Describing people & appearance | Cet homme est grand et mince. | This man is tall and slim.
+French::A1::Describing people & appearance | Cette femme est petite et blonde. | This woman is short and blonde.
+French::A1::Describing people & appearance | Ces enfants sont blonds. | These children are blond.
+French::A1::Describing people & appearance | Ce garçon a les cheveux bruns. | This boy has brown hair.
+French::A1::Describing people & appearance | Cette fille a les cheveux longs. | This girl has long hair.
+French::A1::Describing people & appearance | Elle a de beaux yeux bleus. | She has beautiful blue eyes.
+French::A1::Describing people & appearance | Il a de grands yeux verts. | He has big green eyes.
+French::A1::Describing people & appearance | C'est un bel homme. | He is a handsome man.
+French::A1::Describing people & appearance | C'est une belle femme. | She is a beautiful woman.
+French::A1::Describing people & appearance | C'est un petit garçon sympathique. | He is a nice little boy.
+French::A1::Describing people & appearance | C'est une jeune fille très intelligente. | She is a very intelligent young girl.
+French::A1::Describing people & appearance | Ce vieil homme est gentil. | This old man is kind.
+French::A1::Describing people & appearance | Cette vieille dame est fatiguée. | This old lady is tired.
+French::A1::Describing people & appearance | Ces jeunes femmes sont élégantes. | These young women are elegant.
+French::A1::Describing people & appearance | Ces hommes sont grands et forts. | These men are tall and strong.
+French::A1::Describing people & appearance | Mon frère a une barbe noire. | My brother has a black beard.
+French::A1::Describing people & appearance | Ma sœur a les cheveux courts et roux. | My sister has short red hair.
+French::A1::Describing people & appearance | Ce monsieur porte un long manteau gris. | This gentleman is wearing a long grey coat.
+French::A1::Describing people & appearance | Cette dame porte une robe rouge. | This lady is wearing a red dress.
+French::A1::Describing people & appearance | Cet enfant porte un pull bleu. | This child is wearing a blue jumper.
+French::A1::Describing people & appearance | Ces filles portent des chaussures blanches. | These girls are wearing white shoes.
+French::A1::Describing people & appearance | Il a un nouveau chapeau. | He has a new hat.
+French::A1::Describing people & appearance | Elle a une nouvelle veste. | She has a new jacket.
+French::A1::Describing people & appearance | Ce sont de bons amis. | They are good friends.
+French::A1::Describing people & appearance | Ce sont de jolies filles. | They are pretty girls.
+French::A1::Describing people & appearance | Cet étudiant est très sérieux. | This student is very serious.
+French::A1::Describing people & appearance | Cette étudiante est toujours joyeuse. | This student is always cheerful.
+French::A1::Describing people & appearance | Ce professeur est grand, mais cette professeure est petite. | This male teacher is tall, but this female teacher is short.
+French::A1::Describing people & appearance | Il est jeune et dynamique. | He is young and energetic.
+French::A1::Describing people & appearance | Elle est calme et patiente. | She is calm and patient.
+French::A1::Describing people & appearance | Ils sont fatigués mais heureux. | They are tired but happy.
+French::A1::Describing people & appearance | Elles sont belles et souriantes. | They are beautiful and smiling.
+French::A1::Describing people & appearance | Comment est ton ami ? | What is your friend like?
+French::A1::Describing people & appearance | Il est grand, brun et très drôle. | He is tall, dark-haired and very funny.
+French::A1::Describing people & appearance | Comment est votre amie ? | What is your female friend like?
+French::A1::Describing people & appearance | Elle est mince, blonde et très gentille. | She is slim, blonde and very kind.
+French::A1::Describing people & appearance | Ce chat noir est très mignon. | This black cat is very cute.
+French::A1::Describing people & appearance | Cette grosse valise est lourde. | This big suitcase is heavy.
+French::A1::Describing people & appearance | Ces lunettes rondes sont à toi ? | Do these round glasses belong to you?
+French::A1::Describing people & appearance | Cet homme a l'air content. | This man looks happy.
