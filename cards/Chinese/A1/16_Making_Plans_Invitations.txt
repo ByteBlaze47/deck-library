@@ -1,0 +1,41 @@
+#lang: zh -> en
+Chinese::A1::Making plans & invitations (friends/family) | 我们一起去吧。 | Let's go together.
+Chinese::A1::Making plans & invitations (friends/family) | 我们一起吃饭吧。 | Let's eat together.
+Chinese::A1::Making plans & invitations (friends/family) | 你和我一起去，好吗？ | Will you go with me?
+Chinese::A1::Making plans & invitations (friends/family) | 周末你有空吗？ | Are you free at the weekend?
+Chinese::A1::Making plans & invitations (friends/family) | 周末我有空。 | I am free at the weekend.
+Chinese::A1::Making plans & invitations (friends/family) | 明天我没空。 | I am not free tomorrow.
+Chinese::A1::Making plans & invitations (friends/family) | 今晚你想做什么？ | What do you want to do tonight?
+Chinese::A1::Making plans & invitations (friends/family) | 我们去看电影吧。 | Let's go and see a film.
+Chinese::A1::Making plans & invitations (friends/family) | 我们今晚去看电影，好吗？ | Shall we go and see a film tonight?
+Chinese::A1::Making plans & invitations (friends/family) | 好，没问题。 | OK, no problem.
+Chinese::A1::Making plans & invitations (friends/family) | 好啊！ | Great!
+Chinese::A1::Making plans & invitations (friends/family) | 行，可以。 | Fine, that's all right.
+Chinese::A1::Making plans & invitations (friends/family) | 不行，我明天要上班。 | No, I have to work tomorrow.
+Chinese::A1::Making plans & invitations (friends/family) | 对不起，我今天不能去。 | Sorry, I can't go today.
+Chinese::A1::Making plans & invitations (friends/family) | 对不起，我有事。 | Sorry, I have something on.
+Chinese::A1::Making plans & invitations (friends/family) | 太好了！ | Wonderful!
+Chinese::A1::Making plans & invitations (friends/family) | 我们几点见面？ | What time shall we meet?
+Chinese::A1::Making plans & invitations (friends/family) | 我们六点见面吧。 | Let's meet at six o'clock.
+Chinese::A1::Making plans & invitations (friends/family) | 我们在哪儿见面？ | Where shall we meet?
+Chinese::A1::Making plans & invitations (friends/family) | 我们在地铁站见面吧。 | Let's meet at the metro station.
+Chinese::A1::Making plans & invitations (friends/family) | 我们晚上七点在饭馆见。 | We'll meet at the restaurant at seven in the evening.
+Chinese::A1::Making plans & invitations (friends/family) | 你来我家吃饭，好吗？ | Will you come to my home for a meal?
+Chinese::A1::Making plans & invitations (friends/family) | 星期六晚上来我家吧。 | Come to my place on Saturday evening.
+Chinese::A1::Making plans & invitations (friends/family) | 请你来我家玩儿。 | Please come and visit my home.
+Chinese::A1::Making plans & invitations (friends/family) | 欢迎你来！ | You are welcome to come!
+Chinese::A1::Making plans & invitations (friends/family) | 我们星期天一起去公园吧。 | Let's go to the park together on Sunday.
+Chinese::A1::Making plans & invitations (friends/family) | 我们明天下午在咖啡店喝咖啡吧。 | Let's have coffee at the café tomorrow afternoon.
+Chinese::A1::Making plans & invitations (friends/family) | 明天上午十点我们在学校见面。 | We'll meet at the school at ten tomorrow morning.
+Chinese::A1::Making plans & invitations (friends/family) | 星期五晚上我们在朋友家吃饭。 | On Friday evening we are eating at a friend's home.
+Chinese::A1::Making plans & invitations (friends/family) | 我们下个星期一起去爬山，行吗？ | Shall we go hill-walking together next week?
+Chinese::A1::Making plans & invitations (friends/family) | 你想去哪儿？ | Where do you want to go?
+Chinese::A1::Making plans & invitations (friends/family) | 去哪儿都行。 | Anywhere is fine.
+Chinese::A1::Making plans & invitations (friends/family) | 你定吧。 | You decide.
+Chinese::A1::Making plans & invitations (friends/family) | 我听你的。 | I'll go with what you say.
+Chinese::A1::Making plans & invitations (friends/family) | 我们坐地铁去吧。 | Let's go by metro.
+Chinese::A1::Making plans & invitations (friends/family) | 我请你吃饭。 | I'll treat you to a meal.
+Chinese::A1::Making plans & invitations (friends/family) | 谢谢你的邀请。 | Thank you for your invitation.
+Chinese::A1::Making plans & invitations (friends/family) | 到时候见！ | See you then!
+Chinese::A1::Making plans & invitations (friends/family) | 明天见！ | See you tomorrow!
+Chinese::A1::Making plans & invitations (friends/family) | 周末愉快！ | Have a nice weekend!
