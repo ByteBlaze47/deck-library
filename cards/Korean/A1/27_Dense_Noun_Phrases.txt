@@ -1,0 +1,51 @@
+#lang: ko -> en
+Korean::A1::Dense noun phrases & compounding (everyday objects & places) | 이것은 한국 전통 음식이에요. | This is traditional Korean food.
+Korean::A1::Dense noun phrases & compounding (everyday objects & places) | 저것은 제 친구의 새 휴대폰이에요. | That is my friend's new mobile phone.
+Korean::A1::Dense noun phrases & compounding (everyday objects & places) | 이 책은 한국어 교과서예요. | This book is a Korean textbook.
+Korean::A1::Dense noun phrases & compounding (everyday objects & places) | 저는 서울 지하철 노선도를 가지고 있어요. | I have a Seoul underground route map.
+Korean::A1::Dense noun phrases & compounding (everyday objects & places) | 제 방에는 오래된 나무 책상이 있어요. | There is an old wooden desk in my room.
+Korean::A1::Dense noun phrases & compounding (everyday objects & places) | 우리 학교 앞에는 큰 서점이 있어요. | There is a big bookshop in front of our school.
+Korean::A1::Dense noun phrases & compounding (everyday objects & places) | 시장 옆에 작은 한국 식당이 있어요. | There is a small Korean restaurant next to the market.
+Korean::A1::Dense noun phrases & compounding (everyday objects & places) | 역 근처에 새 백화점이 생겼어요. | A new department store opened near the station.
+Korean::A1::Dense noun phrases & compounding (everyday objects & places) | 저는 한국 영화 포스터를 모아요. | I collect Korean film posters.
+Korean::A1::Dense noun phrases & compounding (everyday objects & places) | 제 가방 안에 영어 사전이 있어요. | There is an English dictionary in my bag.
+Korean::A1::Dense noun phrases & compounding (everyday objects & places) | 우리 동네 도서관은 아주 조용해요. | Our neighbourhood library is very quiet.
+Korean::A1::Dense noun phrases & compounding (everyday objects & places) | 회사 근처 카페는 항상 사람이 많아요. | The cafe near the office is always crowded.
+Korean::A1::Dense noun phrases & compounding (everyday objects & places) | 저는 대학교 기숙사에 살아요. | I live in a university dormitory.
+Korean::A1::Dense noun phrases & compounding (everyday objects & places) | 저는 대학교 도서관에서 공부해요. | I study in the university library.
+Korean::A1::Dense noun phrases & compounding (everyday objects & places) | 저는 한국어 수업 시간표를 봐요. | I look at the Korean class timetable.
+Korean::A1::Dense noun phrases & compounding (everyday objects & places) | 저는 지하철 일 호선을 타요. | I take underground Line 1.
+Korean::A1::Dense noun phrases & compounding (everyday objects & places) | 저는 서울 시내 관광 버스를 탔어요. | I took a Seoul city sightseeing bus.
+Korean::A1::Dense noun phrases & compounding (everyday objects & places) | 저는 한강 공원에서 자전거를 타요. | I ride a bicycle at Hangang Park.
+Korean::A1::Dense noun phrases & compounding (everyday objects & places) | 저는 한국 전통 시장에서 과일을 샀어요. | I bought fruit at a traditional Korean market.
+Korean::A1::Dense noun phrases & compounding (everyday objects & places) | 이것은 제 어머니의 오래된 사진이에요. | This is my mother's old photo.
+Korean::A1::Dense noun phrases & compounding (everyday objects & places) | 이것은 우리 가족 여행 사진이에요. | This is our family trip photo.
+Korean::A1::Dense noun phrases & compounding (everyday objects & places) | 저는 회사 근처 작은 아파트에 살아요. | I live in a small flat near my office.
+Korean::A1::Dense noun phrases & compounding (everyday objects & places) | 저는 우리 반 친구의 생일 선물을 샀어요. | I bought a birthday present for a friend in my class.
+Korean::A1::Dense noun phrases & compounding (everyday objects & places) | 이 가게는 한국 화장품 가게예요. | This shop is a Korean cosmetics shop.
+Korean::A1::Dense noun phrases & compounding (everyday objects & places) | 저는 편의점 도시락을 좋아해요. | I like convenience store lunch boxes.
+Korean::A1::Dense noun phrases & compounding (everyday objects & places) | 저는 지하철 역 앞 커피숍에서 일해요. | I work at the coffee shop in front of the underground station.
+Korean::A1::Dense noun phrases & compounding (everyday objects & places) | 저는 주말 아침 운동을 좋아해요. | I like weekend morning exercise.
+Korean::A1::Dense noun phrases & compounding (everyday objects & places) | 제 친구는 한국어 선생님의 남편이에요. | My friend is the Korean teacher's husband.
+Korean::A1::Dense noun phrases & compounding (everyday objects & places) | 저는 학교 근처 작은 식당에서 점심을 먹어요. | I have lunch at a small restaurant near school.
+Korean::A1::Dense noun phrases & compounding (everyday objects & places) | 저는 우리 집 앞 공원에서 산책해요. | I go for walks at the park in front of our house.
+Korean::A1::Dense noun phrases & compounding (everyday objects & places) | 이 건물은 오래된 한국 은행 건물이에요. | This building is an old Korean bank building.
+Korean::A1::Dense noun phrases & compounding (everyday objects & places) | 저는 서울 시청 앞 광장에 갔어요. | I went to the square in front of Seoul City Hall.
+Korean::A1::Dense noun phrases & compounding (everyday objects & places) | 한국 대학교 입학 시험은 어려워요. | The Korean university entrance exam is difficult.
+Korean::A1::Dense noun phrases & compounding (everyday objects & places) | 저는 한국 전통 차를 마셔요. | I drink traditional Korean tea.
+Korean::A1::Dense noun phrases & compounding (everyday objects & places) | 저는 한국 전통 옷을 입어 봤어요. | I tried on traditional Korean clothes.
+Korean::A1::Dense noun phrases & compounding (everyday objects & places) | 이 가방은 이탈리아에서 만든 가죽 가방이에요. | This bag is a leather bag made in Italy.
+Korean::A1::Dense noun phrases & compounding (everyday objects & places) | 저는 어제 산 새 운동화를 신고 있어요. | I am wearing the new trainers I bought yesterday.
+Korean::A1::Dense noun phrases & compounding (everyday objects & places) | 제 친구가 선물한 책은 아주 재미있어요. | The book my friend gave me is very interesting.
+Korean::A1::Dense noun phrases & compounding (everyday objects & places) | 저는 한국에서 사 온 선물을 가지고 있어요. | I have a present I bought in Korea.
+Korean::A1::Dense noun phrases & compounding (everyday objects & places) | 이것은 우리 어머니가 만든 김치예요. | This is the kimchi my mother made.
+Korean::A1::Dense noun phrases & compounding (everyday objects & places) | 저는 버스 정류장 옆 편의점에 가요. | I go to the convenience store next to the bus stop.
+Korean::A1::Dense noun phrases & compounding (everyday objects & places) | 저는 대학교 정문 앞에서 친구를 기다려요. | I wait for my friend in front of the university main gate.
+Korean::A1::Dense noun phrases & compounding (everyday objects & places) | 우리 회사 사장님은 아주 친절하세요. | Our company president is very kind.
+Korean::A1::Dense noun phrases & compounding (everyday objects & places) | 이 도시의 교통은 아주 편리해요. | The transport in this city is very convenient.
+Korean::A1::Dense noun phrases & compounding (everyday objects & places) | 이 동네 사람들은 모두 친절해요. | All the people in this neighbourhood are kind.
+Korean::A1::Dense noun phrases & compounding (everyday objects & places) | 한국 문화 센터에서 한국어를 배워요. | I learn Korean at the Korean cultural centre.
+Korean::A1::Dense noun phrases & compounding (everyday objects & places) | 저는 한국 요리 수업에 다녀요. | I attend a Korean cooking class.
+Korean::A1::Dense noun phrases & compounding (everyday objects & places) | 저는 한국 음식 사진을 많이 찍어요. | I take lots of photos of Korean food.
+Korean::A1::Dense noun phrases & compounding (everyday objects & places) | 이것은 제 첫 한국어 공책이에요. | This is my first Korean notebook.
+Korean::A1::Dense noun phrases & compounding (everyday objects & places) | 저는 서울 지하철 노선도를 매일 봐요. | I look at the Seoul underground route map every day.
