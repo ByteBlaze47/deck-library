@@ -1,0 +1,46 @@
+#lang: ru -> en
+Russian::A1::City navigation & public transport | Где находится метро? | Where is the metro?
+Russian::A1::City navigation & public transport | Метро недалеко от вокзала. | The metro is not far from the station.
+Russian::A1::City navigation & public transport | Идите прямо. | Go straight on.
+Russian::A1::City navigation & public transport | Поверните направо. | Turn right.
+Russian::A1::City navigation & public transport | Поверните налево у банка. | Turn left at the bank.
+Russian::A1::City navigation & public transport | Я иду к врачу. | I'm going to the doctor's.
+Russian::A1::City navigation & public transport | Он идёт от врача. | He is coming from the doctor's.
+Russian::A1::City navigation & public transport | Мы едем из аэропорта. | We are travelling from the airport.
+Russian::A1::City navigation & public transport | Автобус едет в центр. | The bus goes to the centre.
+Russian::A1::City navigation & public transport | Я еду на работу на автобусе. | I go to work by bus.
+Russian::A1::City navigation & public transport | Она ездит в университет на метро. | She goes to university by metro.
+Russian::A1::City navigation & public transport | Сегодня я иду пешком. | Today I'm walking.
+Russian::A1::City navigation & public transport | Я часто хожу в парк. | I often go to the park.
+Russian::A1::City navigation & public transport | Вчера мы ходили в театр. | Yesterday we went to the theatre.
+Russian::A1::City navigation & public transport | Где остановка автобуса? | Where is the bus stop?
+Russian::A1::City navigation & public transport | Остановка рядом с почтой. | The stop is next to the post office.
+Russian::A1::City navigation & public transport | Когда придёт автобус? | When will the bus come?
+Russian::A1::City navigation & public transport | Автобус придёт через пять минут. | The bus will come in five minutes.
+Russian::A1::City navigation & public transport | Мне нужен билет на метро. | I need a metro ticket.
+Russian::A1::City navigation & public transport | Сколько стоит билет? | How much is a ticket?
+Russian::A1::City navigation & public transport | Я выхожу на следующей остановке. | I'm getting off at the next stop.
+Russian::A1::City navigation & public transport | Вы выходите? | Are you getting off?
+Russian::A1::City navigation & public transport | Эта улица ведёт к площади. | This street leads to the square.
+Russian::A1::City navigation & public transport | Площадь находится в центре. | The square is in the centre.
+Russian::A1::City navigation & public transport | Аптека на углу. | The chemist's is on the corner.
+Russian::A1::City navigation & public transport | Банк между школой и магазином. | The bank is between the school and the shop.
+Russian::A1::City navigation & public transport | Музей за церковью. | The museum is behind the church.
+Russian::A1::City navigation & public transport | Кафе перед гостиницей. | The café is in front of the hotel.
+Russian::A1::City navigation & public transport | Я стою у входа. | I'm standing by the entrance.
+Russian::A1::City navigation & public transport | Подождите меня у метро. | Wait for me by the metro.
+Russian::A1::City navigation & public transport | Мы едем в центр на такси. | We're going to the centre by taxi.
+Russian::A1::City navigation & public transport | Я поеду на вокзал завтра. | I will go to the station tomorrow.
+Russian::A1::City navigation & public transport | Он пойдёт в банк после обеда. | He will go to the bank after lunch.
+Russian::A1::City navigation & public transport | Я каждый день хожу пешком. | I walk every day.
+Russian::A1::City navigation & public transport | Сегодня я иду домой. | Today I'm going home.
+Russian::A1::City navigation & public transport | Извините, как пройти в библиотеку? | Excuse me, how do I get to the library?
+Russian::A1::City navigation & public transport | Библиотека недалеко, идите прямо. | The library is near, go straight on.
+Russian::A1::City navigation & public transport | Это далеко отсюда? | Is it far from here?
+Russian::A1::City navigation & public transport | Нет, это пять минут пешком. | No, it's five minutes on foot.
+Russian::A1::City navigation & public transport | Мы живём рядом с метро. | We live near the metro.
+Russian::A1::City navigation & public transport | Мост через реку очень красивый. | The bridge over the river is very beautiful.
+Russian::A1::City navigation & public transport | Поезд идёт из Москвы в Санкт-Петербург. | The train goes from Moscow to St Petersburg.
+Russian::A1::City navigation & public transport | Я потерялся. Помогите, пожалуйста. | I'm lost. Please help me. (male speaker)
+Russian::A1::City navigation & public transport | Где ближайший туалет? | Where is the nearest toilet?
+Russian::A1::City navigation & public transport | Спасибо, теперь я знаю дорогу. | Thank you, now I know the way.
