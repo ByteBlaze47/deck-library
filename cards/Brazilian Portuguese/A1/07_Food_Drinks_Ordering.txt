@@ -1,0 +1,50 @@
+Brazilian Portuguese::A1::Food, drinks & simple preferences / ordering | Eu gosto de café. | I like coffee.
+Brazilian Portuguese::A1::Food, drinks & simple preferences / ordering | Você gosta de chá? | Do you like tea?
+Brazilian Portuguese::A1::Food, drinks & simple preferences / ordering | Eu não gosto de leite. | I do not like milk.
+Brazilian Portuguese::A1::Food, drinks & simple preferences / ordering | Ela gosta de frutas. | She likes fruit.
+Brazilian Portuguese::A1::Food, drinks & simple preferences / ordering | Nós gostamos de pizza. | We like pizza.
+Brazilian Portuguese::A1::Food, drinks & simple preferences / ordering | Ele gosta de comer arroz e feijão. | He likes eating rice and beans.
+Brazilian Portuguese::A1::Food, drinks & simple preferences / ordering | Eu como pão no café da manhã. | I eat bread at breakfast.
+Brazilian Portuguese::A1::Food, drinks & simple preferences / ordering | Ela come ovos e queijo. | She eats eggs and cheese.
+Brazilian Portuguese::A1::Food, drinks & simple preferences / ordering | Eu bebo água o dia todo. | I drink water all day.
+Brazilian Portuguese::A1::Food, drinks & simple preferences / ordering | Ele bebe suco de laranja. | He drinks orange juice.
+Brazilian Portuguese::A1::Food, drinks & simple preferences / ordering | Nós comemos carne no almoço. | We eat meat at lunch.
+Brazilian Portuguese::A1::Food, drinks & simple preferences / ordering | Meus filhos bebem muito leite. | My children drink a lot of milk.
+Brazilian Portuguese::A1::Food, drinks & simple preferences / ordering | Eu quero um pouco de água. | I want a little water.
+Brazilian Portuguese::A1::Food, drinks & simple preferences / ordering | Eu quero um café com leite, por favor. | I would like a coffee with milk, please.
+Brazilian Portuguese::A1::Food, drinks & simple preferences / ordering | Para mim, um suco de laranja. | For me, an orange juice.
+Brazilian Portuguese::A1::Food, drinks & simple preferences / ordering | Você quer comer alguma coisa? | Do you want to eat something?
+Brazilian Portuguese::A1::Food, drinks & simple preferences / ordering | Quero uma salada, por favor. | I would like a salad, please.
+Brazilian Portuguese::A1::Food, drinks & simple preferences / ordering | Você quer sobremesa? | Do you want dessert?
+Brazilian Portuguese::A1::Food, drinks & simple preferences / ordering | Eu como muito arroz. | I eat a lot of rice.
+Brazilian Portuguese::A1::Food, drinks & simple preferences / ordering | Ela come pouca carne. | She eats little meat.
+Brazilian Portuguese::A1::Food, drinks & simple preferences / ordering | Tem algum prato vegetariano? | Is there a vegetarian dish?
+Brazilian Portuguese::A1::Food, drinks & simple preferences / ordering | Eu não como carne. | I do not eat meat.
+Brazilian Portuguese::A1::Food, drinks & simple preferences / ordering | Eu gosto de peixe com salada. | I like fish with salad.
+Brazilian Portuguese::A1::Food, drinks & simple preferences / ordering | Ele não gosta de cebola. | He does not like onion.
+Brazilian Portuguese::A1::Food, drinks & simple preferences / ordering | A sopa está quente. | The soup is hot.
+Brazilian Portuguese::A1::Food, drinks & simple preferences / ordering | O café está frio. | The coffee is cold.
+Brazilian Portuguese::A1::Food, drinks & simple preferences / ordering | Eu gosto de comida brasileira. | I like Brazilian food.
+Brazilian Portuguese::A1::Food, drinks & simple preferences / ordering | Você gosta de cozinhar? | Do you like cooking?
+Brazilian Portuguese::A1::Food, drinks & simple preferences / ordering | Eu gosto de cozinhar nos fins de semana. | I like cooking at weekends.
+Brazilian Portuguese::A1::Food, drinks & simple preferences / ordering | Ela gosta de beber chá à noite. | She likes drinking tea in the evening.
+Brazilian Portuguese::A1::Food, drinks & simple preferences / ordering | Vocês comem frango? | Do you eat chicken?
+Brazilian Portuguese::A1::Food, drinks & simple preferences / ordering | A gente come frango todo domingo. | We eat chicken every Sunday.
+Brazilian Portuguese::A1::Food, drinks & simple preferences / ordering | Eu aprendo receitas novas. | I learn new recipes.
+Brazilian Portuguese::A1::Food, drinks & simple preferences / ordering | Ele vende frutas no mercado. | He sells fruit at the market.
+Brazilian Portuguese::A1::Food, drinks & simple preferences / ordering | Me dá uma água, por favor. | Give me a water, please.
+Brazilian Portuguese::A1::Food, drinks & simple preferences / ordering | Pode trazer a conta, por favor? | Could you bring the bill, please?
+Brazilian Portuguese::A1::Food, drinks & simple preferences / ordering | Um café, por favor. | A coffee, please.
+Brazilian Portuguese::A1::Food, drinks & simple preferences / ordering | Mais um pouco de arroz, por favor. | A bit more rice, please.
+Brazilian Portuguese::A1::Food, drinks & simple preferences / ordering | Eu quero algum doce. | I want something sweet.
+Brazilian Portuguese::A1::Food, drinks & simple preferences / ordering | Tem algum suco? | Is there any juice?
+Brazilian Portuguese::A1::Food, drinks & simple preferences / ordering | Eu bebo muito café de manhã. | I drink a lot of coffee in the morning.
+Brazilian Portuguese::A1::Food, drinks & simple preferences / ordering | Nós bebemos um pouco de vinho. | We drink a little wine.
+Brazilian Portuguese::A1::Food, drinks & simple preferences / ordering | Eu como uma maçã e uma banana. | I eat an apple and a banana.
+Brazilian Portuguese::A1::Food, drinks & simple preferences / ordering | O bolo está muito bom. | The cake is very good.
+Brazilian Portuguese::A1::Food, drinks & simple preferences / ordering | Ele come muito rápido. | He eats very quickly.
+Brazilian Portuguese::A1::Food, drinks & simple preferences / ordering | Eu gosto de pão com manteiga. | I like bread with butter.
+Brazilian Portuguese::A1::Food, drinks & simple preferences / ordering | Ela gosta de arroz com feijão. | She likes rice and beans.
+Brazilian Portuguese::A1::Food, drinks & simple preferences / ordering | Eu não gosto de comer tarde. | I do not like eating late.
+Brazilian Portuguese::A1::Food, drinks & simple preferences / ordering | O que você quer beber? | What do you want to drink?
+Brazilian Portuguese::A1::Food, drinks & simple preferences / ordering | Eu como em casa, mas ela come no restaurante. | I eat at home, but she eats at the restaurant.
