@@ -1,0 +1,45 @@
+Brazilian Portuguese::A1::Shopping, prices & transactions | Quanto custa isso? | How much does this cost?
+Brazilian Portuguese::A1::Shopping, prices & transactions | Quanto é? | How much is it?
+Brazilian Portuguese::A1::Shopping, prices & transactions | Custa dez reais. | It costs ten reais.
+Brazilian Portuguese::A1::Shopping, prices & transactions | Quanto custa o pão? | How much is the bread?
+Brazilian Portuguese::A1::Shopping, prices & transactions | O pão custa dois reais. | The bread costs two reais.
+Brazilian Portuguese::A1::Shopping, prices & transactions | A maçã custa três reais o quilo. | Apples cost three reais a kilo.
+Brazilian Portuguese::A1::Shopping, prices & transactions | É muito caro! | It is very expensive!
+Brazilian Portuguese::A1::Shopping, prices & transactions | É barato. | It is cheap.
+Brazilian Portuguese::A1::Shopping, prices & transactions | Quantos quilos você quer? | How many kilos do you want?
+Brazilian Portuguese::A1::Shopping, prices & transactions | Eu quero dois quilos de arroz. | I want two kilos of rice.
+Brazilian Portuguese::A1::Shopping, prices & transactions | Quanta água você quer? | How much water do you want?
+Brazilian Portuguese::A1::Shopping, prices & transactions | Quantas bananas você quer? | How many bananas do you want?
+Brazilian Portuguese::A1::Shopping, prices & transactions | Eu quero seis bananas. | I want six bananas.
+Brazilian Portuguese::A1::Shopping, prices & transactions | Posso pagar com cartão? | Can I pay by card?
+Brazilian Portuguese::A1::Shopping, prices & transactions | Você pode pagar em dinheiro. | You can pay in cash.
+Brazilian Portuguese::A1::Shopping, prices & transactions | Eu quero comprar um casaco. | I want to buy a coat.
+Brazilian Portuguese::A1::Shopping, prices & transactions | Ela quer comprar sapatos novos. | She wants to buy new shoes.
+Brazilian Portuguese::A1::Shopping, prices & transactions | Nós queremos ver outra cor. | We want to see another colour.
+Brazilian Portuguese::A1::Shopping, prices & transactions | Posso experimentar? | Can I try it on?
+Brazilian Portuguese::A1::Shopping, prices & transactions | Esta camisa é para o meu irmão. | This shirt is for my brother.
+Brazilian Portuguese::A1::Shopping, prices & transactions | Este presente é para a minha mãe. | This present is for my mother.
+Brazilian Portuguese::A1::Shopping, prices & transactions | Tem um tamanho maior? | Is there a bigger size?
+Brazilian Portuguese::A1::Shopping, prices & transactions | Tem em azul? | Is there one in blue?
+Brazilian Portuguese::A1::Shopping, prices & transactions | O preço está bom. | The price is good.
+Brazilian Portuguese::A1::Shopping, prices & transactions | São cinquenta reais no total. | It is fifty reais in total.
+Brazilian Portuguese::A1::Shopping, prices & transactions | Aqui está o troco. | Here is your change.
+Brazilian Portuguese::A1::Shopping, prices & transactions | Obrigado, tenha um bom dia. | Thank you, have a nice day.
+Brazilian Portuguese::A1::Shopping, prices & transactions | Eu preciso de uma sacola. | I need a bag.
+Brazilian Portuguese::A1::Shopping, prices & transactions | Vocês têm leite? | Do you have milk?
+Brazilian Portuguese::A1::Shopping, prices & transactions | Sim, está ali, no fundo. | Yes, it is over there, at the back.
+Brazilian Portuguese::A1::Shopping, prices & transactions | Eu quero levar este. | I want to take this one.
+Brazilian Portuguese::A1::Shopping, prices & transactions | O mercado abre às oito. | The market opens at eight.
+Brazilian Portuguese::A1::Shopping, prices & transactions | A loja fecha às seis. | The shop closes at six.
+Brazilian Portuguese::A1::Shopping, prices & transactions | Posso ajudar? | Can I help?
+Brazilian Portuguese::A1::Shopping, prices & transactions | Eu só estou olhando, obrigado. | I am just looking, thank you.
+Brazilian Portuguese::A1::Shopping, prices & transactions | Quanto custam os ovos? | How much are the eggs?
+Brazilian Portuguese::A1::Shopping, prices & transactions | Os ovos custam doze reais. | The eggs cost twelve reais.
+Brazilian Portuguese::A1::Shopping, prices & transactions | Duas camisetas por cinquenta reais. | Two T-shirts for fifty reais.
+Brazilian Portuguese::A1::Shopping, prices & transactions | Eu posso pagar vinte reais. | I can pay twenty reais.
+Brazilian Portuguese::A1::Shopping, prices & transactions | Você pode me dar um desconto? | Can you give me a discount?
+Brazilian Portuguese::A1::Shopping, prices & transactions | Não posso, desculpe. | I cannot, sorry.
+Brazilian Portuguese::A1::Shopping, prices & transactions | Eu não tenho dinheiro hoje. | I do not have any money today.
+Brazilian Portuguese::A1::Shopping, prices & transactions | Onde posso pagar? | Where can I pay?
+Brazilian Portuguese::A1::Shopping, prices & transactions | Pode pagar no caixa. | You can pay at the till.
+Brazilian Portuguese::A1::Shopping, prices & transactions | Eu quero um quilo de café e meio quilo de açúcar. | I want a kilo of coffee and half a kilo of sugar.
