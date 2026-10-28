@@ -1,0 +1,46 @@
+#lang: fr -> en
+French::A1::Past events with movement & change of state | Hier, je suis allé au cinéma. | Yesterday, I went to the cinema. (male speaker)
+French::A1::Past events with movement & change of state | Hier, je suis allée au marché. | Yesterday, I went to the market. (female speaker)
+French::A1::Past events with movement & change of state | Tu es venu à la fête ? | Did you come to the party? (to a man)
+French::A1::Past events with movement & change of state | Tu es venue seule ? | Did you come alone? (to a woman)
+French::A1::Past events with movement & change of state | Il est arrivé à midi. | He arrived at midday.
+French::A1::Past events with movement & change of state | Elle est arrivée à une heure. | She arrived at one o'clock.
+French::A1::Past events with movement & change of state | Nous sommes partis à huit heures. | We left at eight o'clock. (men or mixed group)
+French::A1::Past events with movement & change of state | Nous sommes parties ensemble. | We left together. (all women)
+French::A1::Past events with movement & change of state | Vous êtes restés chez vous ? | Did you stay at home?
+French::A1::Past events with movement & change of state | Ils sont rentrés tard. | They came home late.
+French::A1::Past events with movement & change of state | Elles sont sorties après le dîner. | They went out after dinner.
+French::A1::Past events with movement & change of state | Je suis entré dans le magasin. | I went into the shop.
+French::A1::Past events with movement & change of state | Elle est entrée dans la cuisine. | She went into the kitchen.
+French::A1::Past events with movement & change of state | Il est monté au deuxième étage. | He went up to the second floor.
+French::A1::Past events with movement & change of state | Elle est descendue du bus. | She got off the bus.
+French::A1::Past events with movement & change of state | Je suis tombé dans la rue. | I fell in the street.
+French::A1::Past events with movement & change of state | Elle est tombée dans l'escalier. | She fell on the stairs.
+French::A1::Past events with movement & change of state | Il est né en 1990. | He was born in 1990.
+French::A1::Past events with movement & change of state | Elle est née à Marseille. | She was born in Marseille.
+French::A1::Past events with movement & change of state | Mon grand-père est mort l'année dernière. | My grandfather died last year.
+French::A1::Past events with movement & change of state | Ma tante est devenue médecin. | My aunt became a doctor.
+French::A1::Past events with movement & change of state | Il est devenu très fatigué. | He became very tired.
+French::A1::Past events with movement & change of state | Je suis retourné chez mes parents. | I went back to my parents'.
+French::A1::Past events with movement & change of state | Elles sont retournées à l'hôtel. | They went back to the hotel.
+French::A1::Past events with movement & change of state | Nous sommes passés par la gare. | We went via the station.
+French::A1::Past events with movement & change of state | Il est passé chez moi hier soir. | He dropped by my place last night.
+French::A1::Past events with movement & change of state | D'abord, je suis arrivé à la gare. | First, I arrived at the station.
+French::A1::Past events with movement & change of state | Puis, je suis monté dans le train. | Then I got on the train.
+French::A1::Past events with movement & change of state | Après, je suis descendu à Lyon. | Afterwards, I got off in Lyon.
+French::A1::Past events with movement & change of state | Ensuite, nous sommes allés à l'hôtel. | Next, we went to the hotel.
+French::A1::Past events with movement & change of state | Enfin, ils sont arrivés chez eux. | Finally, they arrived home.
+French::A1::Past events with movement & change of state | Elle est sortie, puis elle est rentrée. | She went out, then she came back in.
+French::A1::Past events with movement & change of state | Ils sont venus, puis ils sont partis. | They came, then they left.
+French::A1::Past events with movement & change of state | Marie est allée à Paris la semaine dernière. | Marie went to Paris last week.
+French::A1::Past events with movement & change of state | Pierre est allé en Espagne en juillet. | Pierre went to Spain in July.
+French::A1::Past events with movement & change of state | Mes amis sont venus dimanche. | My friends came on Sunday.
+French::A1::Past events with movement & change of state | Mes amies sont venues aussi. | My female friends came too.
+French::A1::Past events with movement & change of state | Quand êtes-vous arrivés ? | When did you arrive?
+French::A1::Past events with movement & change of state | À quelle heure es-tu parti ? | What time did you leave?
+French::A1::Past events with movement & change of state | Pourquoi es-tu rentrée si tôt ? | Why did you come home so early?
+French::A1::Past events with movement & change of state | Où êtes-vous allés en vacances ? | Where did you go on holiday?
+French::A1::Past events with movement & change of state | Nous sommes allés à la mer. | We went to the seaside.
+French::A1::Past events with movement & change of state | Elles sont restées trois jours. | They stayed three days.
+French::A1::Past events with movement & change of state | Il est resté au lit toute la journée. | He stayed in bed all day.
+French::A1::Past events with movement & change of state | Je suis rentré, et j'ai dormi. | I came home, and I slept.
