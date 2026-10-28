@@ -1,0 +1,46 @@
+#lang: it -> en
+Italian::A1::Opinions, reasons & light argumentation | Perché studi italiano? | Why do you study Italian?
+Italian::A1::Opinions, reasons & light argumentation | Studio italiano perché mi piace. | I study Italian because I like it.
+Italian::A1::Opinions, reasons & light argumentation | Non esco perché piove. | I'm not going out because it's raining.
+Italian::A1::Opinions, reasons & light argumentation | Resto a casa poiché sono stanco. | I'm staying at home since I'm tired.
+Italian::A1::Opinions, reasons & light argumentation | Dato che fa freddo, metto il cappotto. | Since it's cold, I put on my coat.
+Italian::A1::Opinions, reasons & light argumentation | Dato che sei qui, mangiamo insieme. | Since you're here, let's eat together.
+Italian::A1::Opinions, reasons & light argumentation | Perché sei triste? | Why are you sad?
+Italian::A1::Opinions, reasons & light argumentation | Sono triste perché Marco è partito. | I'm sad because Marco has left.
+Italian::A1::Opinions, reasons & light argumentation | Poiché non c'è tempo, prendiamo un taxi. | As there isn't time, let's take a taxi.
+Italian::A1::Opinions, reasons & light argumentation | Secondo me, l'italiano è bello. | In my opinion, Italian is beautiful.
+Italian::A1::Opinions, reasons & light argumentation | Secondo te, è difficile? | In your opinion, is it difficult?
+Italian::A1::Opinions, reasons & light argumentation | Secondo lui, la città è troppo rumorosa. | In his opinion, the city is too noisy.
+Italian::A1::Opinions, reasons & light argumentation | Secondo noi, il film è noioso. | In our opinion, the film is boring.
+Italian::A1::Opinions, reasons & light argumentation | Penso che sia una buona idea. | I think it's a good idea.
+Italian::A1::Opinions, reasons & light argumentation | Penso che tu abbia ragione. | I think you're right.
+Italian::A1::Opinions, reasons & light argumentation | Credo che sia vero. | I believe it's true.
+Italian::A1::Opinions, reasons & light argumentation | Credo che Marco sia a casa. | I believe Marco is at home.
+Italian::A1::Opinions, reasons & light argumentation | Non penso che sia facile. | I don't think it's easy.
+Italian::A1::Opinions, reasons & light argumentation | Penso di sì. | I think so.
+Italian::A1::Opinions, reasons & light argumentation | Penso di no. | I don't think so.
+Italian::A1::Opinions, reasons & light argumentation | Credo di avere ragione. | I believe I'm right.
+Italian::A1::Opinions, reasons & light argumentation | Hai ragione. | You're right.
+Italian::A1::Opinions, reasons & light argumentation | Ha torto. | He's wrong.
+Italian::A1::Opinions, reasons & light argumentation | Siamo d'accordo. | We agree.
+Italian::A1::Opinions, reasons & light argumentation | Non sono d'accordo. | I don't agree.
+Italian::A1::Opinions, reasons & light argumentation | Sono d'accordo con te. | I agree with you.
+Italian::A1::Opinions, reasons & light argumentation | Però non sono sicuro. | But I'm not sure.
+Italian::A1::Opinions, reasons & light argumentation | Mi piace la città, invece mia moglie preferisce la campagna. | I like the city, whereas my wife prefers the countryside.
+Italian::A1::Opinions, reasons & light argumentation | Io lavoro molto, invece tu riposi sempre. | I work a lot, whereas you always rest.
+Italian::A1::Opinions, reasons & light argumentation | Il film è lungo, però è molto bello. | The film is long, but it's very good.
+Italian::A1::Opinions, reasons & light argumentation | Vorrei venire, ma non posso. | I'd like to come, but I can't.
+Italian::A1::Opinions, reasons & light argumentation | Il ristorante è caro, però il cibo è ottimo. | The restaurant is expensive, but the food is excellent.
+Italian::A1::Opinions, reasons & light argumentation | Sei stanco? Allora riposa. | Are you tired? Then rest.
+Italian::A1::Opinions, reasons & light argumentation | Ho fame, quindi mangio qualcosa. | I'm hungry, so I'm eating something.
+Italian::A1::Opinions, reasons & light argumentation | Piove, quindi non andiamo al mare. | It's raining, so we're not going to the seaside.
+Italian::A1::Opinions, reasons & light argumentation | Perché non vieni con noi? | Why don't you come with us?
+Italian::A1::Opinions, reasons & light argumentation | Non vengo perché devo lavorare. | I'm not coming because I have to work.
+Italian::A1::Opinions, reasons & light argumentation | Perché hai comprato questa borsa? | Why did you buy this bag?
+Italian::A1::Opinions, reasons & light argumentation | L'ho comprata perché è bella e costa poco. | I bought it because it's pretty and cheap.
+Italian::A1::Opinions, reasons & light argumentation | Perché è importante studiare? | Why is it important to study?
+Italian::A1::Opinions, reasons & light argumentation | È importante perché ti aiuta a lavorare. | It's important because it helps you work.
+Italian::A1::Opinions, reasons & light argumentation | Secondo me, la famiglia è la cosa più importante. | In my opinion, family is the most important thing.
+Italian::A1::Opinions, reasons & light argumentation | Per me, il lavoro è importante, ma anche la famiglia. | For me, work is important, but so is family.
+Italian::A1::Opinions, reasons & light argumentation | Non sono sicuro, ma penso che sia giusto. | I'm not sure, but I think it's right.
+Italian::A1::Opinions, reasons & light argumentation | Capisco il tuo punto di vista, però non sono d'accordo. | I understand your point of view, but I don't agree.
