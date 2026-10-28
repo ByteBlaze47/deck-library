@@ -1,0 +1,51 @@
+#lang: it -> en
+Italian::A1::Describing places, routes & longer noun phrases | La piccola casa bianca sul lago è mia. | The small white house on the lake is mine.
+Italian::A1::Describing places, routes & longer noun phrases | C'è un bel parco davanti alla vecchia stazione. | There's a nice park in front of the old station.
+Italian::A1::Describing places, routes & longer noun phrases | Ci sono molte case antiche nel centro della città. | There are many old houses in the city centre.
+Italian::A1::Describing places, routes & longer noun phrases | Abito in un piccolo appartamento vicino al mercato. | I live in a small flat near the market.
+Italian::A1::Describing places, routes & longer noun phrases | La strada che porta alla piazza è stretta. | The street that leads to the square is narrow.
+Italian::A1::Describing places, routes & longer noun phrases | C'è un ristorante che serve pesce fresco. | There's a restaurant that serves fresh fish.
+Italian::A1::Describing places, routes & longer noun phrases | Ci sono due bar che aprono presto. | There are two cafés that open early.
+Italian::A1::Describing places, routes & longer noun phrases | La chiesa che vedi è molto antica. | The church that you see is very old.
+Italian::A1::Describing places, routes & longer noun phrases | Il museo che visito è vicino al fiume. | The museum I'm visiting is near the river.
+Italian::A1::Describing places, routes & longer noun phrases | Questa è la strada più lunga del quartiere. | This is the longest street in the neighbourhood.
+Italian::A1::Describing places, routes & longer noun phrases | Il centro storico della città è molto bello. | The historic centre of the city is very beautiful.
+Italian::A1::Describing places, routes & longer noun phrases | Davanti al grande teatro c'è una fontana. | In front of the big theatre there is a fountain.
+Italian::A1::Describing places, routes & longer noun phrases | Dietro la stazione c'è un parcheggio grande. | Behind the station there's a big car park.
+Italian::A1::Describing places, routes & longer noun phrases | Tra la banca e la farmacia c'è un piccolo negozio. | Between the bank and the pharmacy there's a small shop.
+Italian::A1::Describing places, routes & longer noun phrases | Il negozio di scarpe è accanto al supermercato. | The shoe shop is next to the supermarket.
+Italian::A1::Describing places, routes & longer noun phrases | La biblioteca della scuola è aperta fino alle sei. | The school library is open until six.
+Italian::A1::Describing places, routes & longer noun phrases | La fermata dell'autobus è in fondo alla via. | The bus stop is at the end of the road.
+Italian::A1::Describing places, routes & longer noun phrases | L'ufficio postale è all'angolo della piazza. | The post office is on the corner of the square.
+Italian::A1::Describing places, routes & longer noun phrases | Il parco giochi per bambini è vicino alla scuola. | The children's playground is near the school.
+Italian::A1::Describing places, routes & longer noun phrases | Il mercato della domenica è pieno di gente. | The Sunday market is full of people.
+Italian::A1::Describing places, routes & longer noun phrases | La nostra città è piccola ma molto tranquilla. | Our town is small but very quiet.
+Italian::A1::Describing places, routes & longer noun phrases | Il mio quartiere ha molti negozi e ristoranti. | My neighbourhood has lots of shops and restaurants.
+Italian::A1::Describing places, routes & longer noun phrases | Al secondo piano c'è un grande ufficio con due finestre. | On the second floor there's a big office with two windows.
+Italian::A1::Describing places, routes & longer noun phrases | La mia camera ha un letto grande e una scrivania vecchia. | My room has a big bed and an old desk.
+Italian::A1::Describing places, routes & longer noun phrases | In salotto c'è un divano rosso e una televisione nuova. | In the living room there's a red sofa and a new television.
+Italian::A1::Describing places, routes & longer noun phrases | La strada principale porta al mare. | The main road leads to the sea.
+Italian::A1::Describing places, routes & longer noun phrases | Il lungomare è pieno di bar e negozi. | The seafront is full of cafés and shops.
+Italian::A1::Describing places, routes & longer noun phrases | A destra della chiesa c'è un piccolo parco. | To the right of the church there's a small park.
+Italian::A1::Describing places, routes & longer noun phrases | Il ponte sul fiume è molto lungo. | The bridge over the river is very long.
+Italian::A1::Describing places, routes & longer noun phrases | La vista dal balcone è bellissima. | The view from the balcony is beautiful.
+Italian::A1::Describing places, routes & longer noun phrases | La Roma antica è piena di storia. | Ancient Rome is full of history.
+Italian::A1::Describing places, routes & longer noun phrases | L'albergo in cima alla collina è molto caro. | The hotel at the top of the hill is very expensive.
+Italian::A1::Describing places, routes & longer noun phrases | La spiaggia vicino al porto è sempre piena. | The beach near the port is always full.
+Italian::A1::Describing places, routes & longer noun phrases | La piazza, che è grande, ha una bella fontana. | The square, which is large, has a beautiful fountain.
+Italian::A1::Describing places, routes & longer noun phrases | Il bar, che apre alle sei, è sempre pieno. | The café, which opens at six, is always full.
+Italian::A1::Describing places, routes & longer noun phrases | La città di Venezia ha molti canali e ponti. | The city of Venice has many canals and bridges.
+Italian::A1::Describing places, routes & longer noun phrases | Il treno per Milano parte dal binario quattro. | The train to Milan leaves from platform four.
+Italian::A1::Describing places, routes & longer noun phrases | L'autobus numero dieci va dalla stazione al centro. | Bus number ten goes from the station to the centre.
+Italian::A1::Describing places, routes & longer noun phrases | Il corso principale è pieno di negozi eleganti. | The main avenue is full of elegant shops.
+Italian::A1::Describing places, routes & longer noun phrases | Le montagne vicino al lago sono altissime. | The mountains near the lake are very high.
+Italian::A1::Describing places, routes & longer noun phrases | In campagna ci sono tanti campi verdi e piccole case. | In the countryside there are lots of green fields and small houses.
+Italian::A1::Describing places, routes & longer noun phrases | Il vecchio mercato di Napoli è famoso. | The old market in Naples is famous.
+Italian::A1::Describing places, routes & longer noun phrases | La casa dei miei nonni è grande e luminosa. | My grandparents' house is big and bright.
+Italian::A1::Describing places, routes & longer noun phrases | Il giardino della nostra casa ha molti fiori. | The garden of our house has lots of flowers.
+Italian::A1::Describing places, routes & longer noun phrases | Il cane dei vicini abbaia sempre di notte. | The neighbours' dog always barks at night.
+Italian::A1::Describing places, routes & longer noun phrases | La mia scuola è nel centro, vicino al fiume. | My school is in the centre, near the river.
+Italian::A1::Describing places, routes & longer noun phrases | Il nostro ufficio, in via Dante, è molto moderno. | Our office, in via Dante, is very modern.
+Italian::A1::Describing places, routes & longer noun phrases | Il ristorante di mio zio, nel centro storico, è famoso. | My uncle's restaurant, in the historic centre, is famous.
+Italian::A1::Describing places, routes & longer noun phrases | Nel centro della città ci sono molte piccole strade strette. | In the city centre there are many small narrow streets.
+Italian::A1::Describing places, routes & longer noun phrases | Questa città, con le sue vecchie chiese e i suoi bei parchi, è magnifica. | This city, with its old churches and beautiful parks, is magnificent.
