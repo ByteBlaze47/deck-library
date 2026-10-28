@@ -1,0 +1,46 @@
+#lang: zh -> en
+Chinese::A1::Talking about abilities, plans & preferences | 我会说中文。 | I can speak Chinese.
+Chinese::A1::Talking about abilities, plans & preferences | 我会说一点儿中文。 | I can speak a little Chinese.
+Chinese::A1::Talking about abilities, plans & preferences | 他会开车。 | He can drive.
+Chinese::A1::Talking about abilities, plans & preferences | 她会游泳。 | She can swim.
+Chinese::A1::Talking about abilities, plans & preferences | 我不会做饭。 | I can't cook.
+Chinese::A1::Talking about abilities, plans & preferences | 你会写汉字吗？ | Can you write Chinese characters?
+Chinese::A1::Talking about abilities, plans & preferences | 我会写我的名字。 | I can write my name.
+Chinese::A1::Talking about abilities, plans & preferences | 我能来。 | I can come.
+Chinese::A1::Talking about abilities, plans & preferences | 我今天不能来。 | I can't come today.
+Chinese::A1::Talking about abilities, plans & preferences | 你能帮我吗？ | Can you help me?
+Chinese::A1::Talking about abilities, plans & preferences | 你能说慢一点儿吗？ | Can you speak a little more slowly?
+Chinese::A1::Talking about abilities, plans & preferences | 我可以进来吗？ | May I come in?
+Chinese::A1::Talking about abilities, plans & preferences | 你可以坐这儿。 | You may sit here.
+Chinese::A1::Talking about abilities, plans & preferences | 这儿不可以拍照。 | You may not take photos here.
+Chinese::A1::Talking about abilities, plans & preferences | 这儿不能抽烟。 | You can't smoke here.
+Chinese::A1::Talking about abilities, plans & preferences | 我想学中文。 | I want to learn Chinese.
+Chinese::A1::Talking about abilities, plans & preferences | 我想去中国。 | I want to go to China.
+Chinese::A1::Talking about abilities, plans & preferences | 他想买一辆车。 | He wants to buy a car.
+Chinese::A1::Talking about abilities, plans & preferences | 她想当医生。 | She wants to be a doctor.
+Chinese::A1::Talking about abilities, plans & preferences | 你想做什么？ | What do you want to do?
+Chinese::A1::Talking about abilities, plans & preferences | 我不想回家。 | I don't want to go home.
+Chinese::A1::Talking about abilities, plans & preferences | 我要去北京。 | I am going to go to Beijing.
+Chinese::A1::Talking about abilities, plans & preferences | 我明天要上班。 | I have to work tomorrow.
+Chinese::A1::Talking about abilities, plans & preferences | 他下个星期要去上海。 | He is going to Shanghai next week.
+Chinese::A1::Talking about abilities, plans & preferences | 我们明年要去中国。 | We are going to China next year.
+Chinese::A1::Talking about abilities, plans & preferences | 我要买一台新电脑。 | I am going to buy a new computer.
+Chinese::A1::Talking about abilities, plans & preferences | 我想喝茶，不想喝咖啡。 | I want to drink tea, not coffee.
+Chinese::A1::Talking about abilities, plans & preferences | 我想休息，可是我要工作。 | I want to rest, but I have to work.
+Chinese::A1::Talking about abilities, plans & preferences | 我喜欢看书。 | I like reading.
+Chinese::A1::Talking about abilities, plans & preferences | 他喜欢踢足球。 | He likes playing football.
+Chinese::A1::Talking about abilities, plans & preferences | 她喜欢听音乐。 | She likes listening to music.
+Chinese::A1::Talking about abilities, plans & preferences | 我不喜欢吃辣的。 | I don't like eating spicy food.
+Chinese::A1::Talking about abilities, plans & preferences | 我喜欢唱歌，不喜欢跳舞。 | I like singing; I don't like dancing.
+Chinese::A1::Talking about abilities, plans & preferences | 你喜欢做什么？ | What do you like doing?
+Chinese::A1::Talking about abilities, plans & preferences | 周末你想做什么？ | What do you want to do at the weekend?
+Chinese::A1::Talking about abilities, plans & preferences | 周末我想在家休息。 | At the weekend I want to rest at home.
+Chinese::A1::Talking about abilities, plans & preferences | 下个月我要去旅游。 | Next month I am going travelling.
+Chinese::A1::Talking about abilities, plans & preferences | 今年夏天我想去海边。 | This summer I want to go to the seaside.
+Chinese::A1::Talking about abilities, plans & preferences | 明天我打算去看电影。 | I plan to go and see a film tomorrow.
+Chinese::A1::Talking about abilities, plans & preferences | 我打算下个星期学游泳。 | I plan to learn to swim next week.
+Chinese::A1::Talking about abilities, plans & preferences | 我们打算明天去爬山。 | We plan to go hill-walking tomorrow.
+Chinese::A1::Talking about abilities, plans & preferences | 他明天要早起。 | He has to get up early tomorrow.
+Chinese::A1::Talking about abilities, plans & preferences | 晚上我要给朋友打电话。 | In the evening I am going to phone a friend.
+Chinese::A1::Talking about abilities, plans & preferences | 我想快点儿学好中文。 | I want to learn Chinese well quickly.
+Chinese::A1::Talking about abilities, plans & preferences | 我要努力学习。 | I will study hard.
