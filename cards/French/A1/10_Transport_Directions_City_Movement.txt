@@ -1,0 +1,46 @@
+#lang: fr -> en
+French::A1::Transport, directions & city movement | Pardon, où est la gare ? | Excuse me, where is the station?
+French::A1::Transport, directions & city movement | Est-ce que la gare est loin d'ici ? | Is the station far from here?
+French::A1::Transport, directions & city movement | Est-ce que vous allez à la mairie ? | Are you going to the town hall?
+French::A1::Transport, directions & city movement | Tu prends le bus ? | Are you taking the bus?
+French::A1::Transport, directions & city movement | Est-ce que tu prends le métro ? | Are you taking the metro?
+French::A1::Transport, directions & city movement | Le bus part de la place. | The bus leaves from the square.
+French::A1::Transport, directions & city movement | Le métro est à côté de la banque. | The metro is next to the bank.
+French::A1::Transport, directions & city movement | La pharmacie est en face de l'hôtel. | The pharmacy is opposite the hotel.
+French::A1::Transport, directions & city movement | Tournez à gauche. | Turn left.
+French::A1::Transport, directions & city movement | Tournez à droite après la poste. | Turn right after the post office.
+French::A1::Transport, directions & city movement | Allez tout droit. | Go straight on.
+French::A1::Transport, directions & city movement | Traversez le pont. | Cross the bridge.
+French::A1::Transport, directions & city movement | Continue jusqu'au feu rouge. | Carry on to the traffic lights.
+French::A1::Transport, directions & city movement | Prends la première rue à gauche. | Take the first street on the left.
+French::A1::Transport, directions & city movement | Prenez la deuxième rue à droite. | Take the second street on the right.
+French::A1::Transport, directions & city movement | Descends à la prochaine station. | Get off at the next station.
+French::A1::Transport, directions & city movement | Montez dans le tramway. | Get on the tram.
+French::A1::Transport, directions & city movement | Attends-moi devant la gare. | Wait for me in front of the station.
+French::A1::Transport, directions & city movement | Regardez la carte, madame. | Look at the map, madam.
+French::A1::Transport, directions & city movement | Excusez-moi, est-ce qu'il y a un arrêt de bus ici ? | Excuse me, is there a bus stop here?
+French::A1::Transport, directions & city movement | Oui, il est au coin de la rue. | Yes, it is on the corner of the street.
+French::A1::Transport, directions & city movement | Est-ce que c'est direct ? | Is it direct?
+French::A1::Transport, directions & city movement | Un billet pour Lyon, s'il vous plaît. | One ticket to Lyon, please.
+French::A1::Transport, directions & city movement | Un aller simple ou un aller-retour ? | A single or a return?
+French::A1::Transport, directions & city movement | Est-ce que le train part à dix heures ? | Does the train leave at ten o'clock?
+French::A1::Transport, directions & city movement | Le train part du quai numéro trois. | The train leaves from platform number three.
+French::A1::Transport, directions & city movement | Où est-ce que je peux acheter un ticket ? | Where can I buy a ticket?
+French::A1::Transport, directions & city movement | Est-ce que vous venez à pied ? | Are you coming on foot?
+French::A1::Transport, directions & city movement | Je vais au travail à vélo. | I go to work by bike.
+French::A1::Transport, directions & city movement | Elle va à l'école en bus. | She goes to school by bus.
+French::A1::Transport, directions & city movement | Nous allons à l'aéroport en taxi. | We are going to the airport by taxi.
+French::A1::Transport, directions & city movement | Ils viennent du centre-ville en voiture. | They are coming from the town centre by car.
+French::A1::Transport, directions & city movement | Mon hôtel est près de la rue principale. | My hotel is near the main street.
+French::A1::Transport, directions & city movement | L'église est à dix minutes de la gare. | The church is ten minutes from the station.
+French::A1::Transport, directions & city movement | La bibliothèque est à côté du parc. | The library is next to the park.
+French::A1::Transport, directions & city movement | Marche cinq minutes et tu es là. | Walk for five minutes and you are there.
+French::A1::Transport, directions & city movement | Faites attention aux voitures ! | Watch out for the cars!
+French::A1::Transport, directions & city movement | Excusez-moi, vous êtes d'ici ? | Excuse me, are you from around here?
+French::A1::Transport, directions & city movement | Est-ce que vous pouvez répéter, s'il vous plaît ? | Can you repeat that, please?
+French::A1::Transport, directions & city movement | Parlez plus lentement, s'il vous plaît. | Please speak more slowly.
+French::A1::Transport, directions & city movement | Où est-ce qu'on prend le bus pour le musée ? | Where do we get the bus to the museum?
+French::A1::Transport, directions & city movement | Quel bus va à la plage ? | Which bus goes to the beach?
+French::A1::Transport, directions & city movement | Est-ce que c'est loin à pied ? | Is it far on foot?
+French::A1::Transport, directions & city movement | Non, c'est tout près. | No, it's very close.
+French::A1::Transport, directions & city movement | Merci beaucoup, bonne journée ! | Thank you very much, have a nice day!
