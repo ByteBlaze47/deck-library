@@ -1,0 +1,41 @@
+#lang: zh -> en
+Chinese::A1::Personal introduction & basic identity (name, nationality, occupation, age) | 你好。 | Hello.
+Chinese::A1::Personal introduction & basic identity (name, nationality, occupation, age) | 我叫李明。 | My name is Li Ming.
+Chinese::A1::Personal introduction & basic identity (name, nationality, occupation, age) | 你叫什么名字？ | What is your name?
+Chinese::A1::Personal introduction & basic identity (name, nationality, occupation, age) | 我是学生。 | I am a student.
+Chinese::A1::Personal introduction & basic identity (name, nationality, occupation, age) | 他是老师。 | He is a teacher.
+Chinese::A1::Personal introduction & basic identity (name, nationality, occupation, age) | 她是医生。 | She is a doctor.
+Chinese::A1::Personal introduction & basic identity (name, nationality, occupation, age) | 我是中国人。 | I am Chinese.
+Chinese::A1::Personal introduction & basic identity (name, nationality, occupation, age) | 你是英国人吗？ | Are you British?
+Chinese::A1::Personal introduction & basic identity (name, nationality, occupation, age) | 我不是美国人。 | I am not American.
+Chinese::A1::Personal introduction & basic identity (name, nationality, occupation, age) | 他是法国人。 | He is French.
+Chinese::A1::Personal introduction & basic identity (name, nationality, occupation, age) | 她是日本人。 | She is Japanese.
+Chinese::A1::Personal introduction & basic identity (name, nationality, occupation, age) | 我很好。 | I am well.
+Chinese::A1::Personal introduction & basic identity (name, nationality, occupation, age) | 我很忙。 | I am very busy.
+Chinese::A1::Personal introduction & basic identity (name, nationality, occupation, age) | 他很高。 | He is very tall.
+Chinese::A1::Personal introduction & basic identity (name, nationality, occupation, age) | 她很漂亮。 | She is very pretty.
+Chinese::A1::Personal introduction & basic identity (name, nationality, occupation, age) | 我今年二十岁。 | I am twenty years old this year.
+Chinese::A1::Personal introduction & basic identity (name, nationality, occupation, age) | 她今年十八岁。 | She is eighteen this year.
+Chinese::A1::Personal introduction & basic identity (name, nationality, occupation, age) | 他今年三十五岁。 | He is thirty-five this year.
+Chinese::A1::Personal introduction & basic identity (name, nationality, occupation, age) | 我是律师。 | I am a lawyer.
+Chinese::A1::Personal introduction & basic identity (name, nationality, occupation, age) | 他是工程师。 | He is an engineer.
+Chinese::A1::Personal introduction & basic identity (name, nationality, occupation, age) | 她是护士。 | She is a nurse.
+Chinese::A1::Personal introduction & basic identity (name, nationality, occupation, age) | 我的名字是王芳。 | My name is Wang Fang.
+Chinese::A1::Personal introduction & basic identity (name, nationality, occupation, age) | 他的名字是张伟。 | His name is Zhang Wei.
+Chinese::A1::Personal introduction & basic identity (name, nationality, occupation, age) | 她的名字是刘丽。 | Her name is Liu Li.
+Chinese::A1::Personal introduction & basic identity (name, nationality, occupation, age) | 我的老师是中国人。 | My teacher is Chinese.
+Chinese::A1::Personal introduction & basic identity (name, nationality, occupation, age) | 你的朋友是学生。 | Your friend is a student.
+Chinese::A1::Personal introduction & basic identity (name, nationality, occupation, age) | 他的工作很好。 | His job is very good.
+Chinese::A1::Personal introduction & basic identity (name, nationality, occupation, age) | 我的朋友很高。 | My friend is very tall.
+Chinese::A1::Personal introduction & basic identity (name, nationality, occupation, age) | 我的同学很聪明。 | My classmate is very clever.
+Chinese::A1::Personal introduction & basic identity (name, nationality, occupation, age) | 我们是朋友。 | We are friends.
+Chinese::A1::Personal introduction & basic identity (name, nationality, occupation, age) | 他们是学生。 | They are students.
+Chinese::A1::Personal introduction & basic identity (name, nationality, occupation, age) | 你们是老师。 | You (plural) are teachers.
+Chinese::A1::Personal introduction & basic identity (name, nationality, occupation, age) | 我们都很好。 | We are all well.
+Chinese::A1::Personal introduction & basic identity (name, nationality, occupation, age) | 我是伦敦人。 | I am from London.
+Chinese::A1::Personal introduction & basic identity (name, nationality, occupation, age) | 他是上海人。 | He is from Shanghai.
+Chinese::A1::Personal introduction & basic identity (name, nationality, occupation, age) | 她是广州人。 | She is from Guangzhou.
+Chinese::A1::Personal introduction & basic identity (name, nationality, occupation, age) | 我的爸爸是司机。 | My father is a driver.
+Chinese::A1::Personal introduction & basic identity (name, nationality, occupation, age) | 我的妈妈是老师。 | My mother is a teacher.
+Chinese::A1::Personal introduction & basic identity (name, nationality, occupation, age) | 他很年轻。 | He is very young.
+Chinese::A1::Personal introduction & basic identity (name, nationality, occupation, age) | 很高兴认识你。 | Pleased to meet you.
