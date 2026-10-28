@@ -1,0 +1,46 @@
+#lang: ko -> en
+Korean::A1::Preferences, likes & dislikes (food, activities, people) | 저는 김치를 좋아해요. | I like kimchi.
+Korean::A1::Preferences, likes & dislikes (food, activities, people) | 저는 커피를 좋아해요. | I like coffee.
+Korean::A1::Preferences, likes & dislikes (food, activities, people) | 저는 영화를 좋아해요. | I like films.
+Korean::A1::Preferences, likes & dislikes (food, activities, people) | 저는 음악을 좋아해요. | I like music.
+Korean::A1::Preferences, likes & dislikes (food, activities, people) | 저는 고양이를 좋아해요. | I like cats.
+Korean::A1::Preferences, likes & dislikes (food, activities, people) | 저는 개를 안 좋아해요. | I do not like dogs.
+Korean::A1::Preferences, likes & dislikes (food, activities, people) | 저는 비를 싫어해요. | I dislike rain.
+Korean::A1::Preferences, likes & dislikes (food, activities, people) | 저는 겨울을 싫어해요. | I dislike winter.
+Korean::A1::Preferences, likes & dislikes (food, activities, people) | 저는 매운 음식을 싫어해요. | I dislike spicy food.
+Korean::A1::Preferences, likes & dislikes (food, activities, people) | 저는 일찍 일어나는 것을 싫어해요. | I dislike getting up early.
+Korean::A1::Preferences, likes & dislikes (food, activities, people) | 저는 운동하는 것을 좋아해요. | I like exercising.
+Korean::A1::Preferences, likes & dislikes (food, activities, people) | 저는 책 읽는 것을 좋아해요. | I like reading books.
+Korean::A1::Preferences, likes & dislikes (food, activities, people) | 저는 요리하는 것을 좋아해요. | I like cooking.
+Korean::A1::Preferences, likes & dislikes (food, activities, people) | 저는 여행하는 것을 좋아해요. | I like travelling.
+Korean::A1::Preferences, likes & dislikes (food, activities, people) | 저는 쇼핑하는 것을 싫어해요. | I dislike shopping.
+Korean::A1::Preferences, likes & dislikes (food, activities, people) | 무슨 음식을 좋아해요? | What food do you like?
+Korean::A1::Preferences, likes & dislikes (food, activities, people) | 무슨 운동을 좋아해요? | What sport do you like?
+Korean::A1::Preferences, likes & dislikes (food, activities, people) | 무슨 음악을 좋아해요? | What music do you like?
+Korean::A1::Preferences, likes & dislikes (food, activities, people) | 어떤 영화를 좋아해요? | What kind of films do you like?
+Korean::A1::Preferences, likes & dislikes (food, activities, people) | 어느 계절을 좋아해요? | Which season do you like?
+Korean::A1::Preferences, likes & dislikes (food, activities, people) | 저는 여름보다 겨울이 더 좋아요. | I like winter more than summer.
+Korean::A1::Preferences, likes & dislikes (food, activities, people) | 저는 커피보다 차를 더 좋아해요. | I like tea more than coffee.
+Korean::A1::Preferences, likes & dislikes (food, activities, people) | 저는 고기보다 생선을 더 좋아해요. | I like fish more than meat.
+Korean::A1::Preferences, likes & dislikes (food, activities, people) | 저는 버스보다 지하철이 더 편해요. | The underground is more convenient than the bus.
+Korean::A1::Preferences, likes & dislikes (food, activities, people) | 이 가방이 더 예뻐요. | This bag is prettier.
+Korean::A1::Preferences, likes & dislikes (food, activities, people) | 저 집이 더 커요. | That house is bigger.
+Korean::A1::Preferences, likes & dislikes (food, activities, people) | 저는 더 싼 것을 사고 싶어요. | I want to buy a cheaper one.
+Korean::A1::Preferences, likes & dislikes (food, activities, people) | 저는 이 노래가 제일 좋아요. | I like this song the most.
+Korean::A1::Preferences, likes & dislikes (food, activities, people) | 저는 한국 음식이 제일 맛있어요. | I think Korean food is the most delicious.
+Korean::A1::Preferences, likes & dislikes (food, activities, people) | 저는 사과가 제일 좋아요. | I like apples the best.
+Korean::A1::Preferences, likes & dislikes (food, activities, people) | 저는 매운 음식을 좋아해서 김치찌개를 자주 먹어요. | I like spicy food, so I often eat kimchi stew.
+Korean::A1::Preferences, likes & dislikes (food, activities, people) | 저는 비를 좋아해서 비 오는 날 산책해요. | I like rain, so I go for walks on rainy days.
+Korean::A1::Preferences, likes & dislikes (food, activities, people) | 저는 고기를 좋아해서 불고기를 자주 먹어요. | I like meat, so I often eat bulgogi.
+Korean::A1::Preferences, likes & dislikes (food, activities, people) | 저는 음악을 좋아해서 매일 들어요. | I like music, so I listen to it every day.
+Korean::A1::Preferences, likes & dislikes (food, activities, people) | 저는 운동을 싫어해서 안 해요. | I dislike exercise, so I do not do it.
+Korean::A1::Preferences, likes & dislikes (food, activities, people) | 저는 사람이 많은 곳을 싫어해요. | I dislike crowded places.
+Korean::A1::Preferences, likes & dislikes (food, activities, people) | 저는 조용한 곳을 좋아해요. | I like quiet places.
+Korean::A1::Preferences, likes & dislikes (food, activities, people) | 제 친구는 축구를 좋아해요. | My friend likes football.
+Korean::A1::Preferences, likes & dislikes (food, activities, people) | 제 동생은 채소를 싫어해요. | My younger sibling dislikes vegetables.
+Korean::A1::Preferences, likes & dislikes (food, activities, people) | 제 어머니는 꽃을 좋아하세요. | My mother likes flowers.
+Korean::A1::Preferences, likes & dislikes (food, activities, people) | 아버지는 낚시를 좋아하세요. | My father likes fishing.
+Korean::A1::Preferences, likes & dislikes (food, activities, people) | 저는 이 선생님을 좋아해요. | I like this teacher.
+Korean::A1::Preferences, likes & dislikes (food, activities, people) | 저는 한국어 공부가 재미있어요. | I find studying Korean fun.
+Korean::A1::Preferences, likes & dislikes (food, activities, people) | 저는 수학이 재미없어요. | I find maths boring.
+Korean::A1::Preferences, likes & dislikes (food, activities, people) | 저는 파란색을 좋아해요. | I like blue.
