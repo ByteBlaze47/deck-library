@@ -1,0 +1,41 @@
+#lang: ko -> en
+Korean::A1::Health & body (basic symptoms, feelings) | 저는 머리가 아파요. | I have a headache.
+Korean::A1::Health & body (basic symptoms, feelings) | 저는 배가 아파요. | I have a stomach ache.
+Korean::A1::Health & body (basic symptoms, feelings) | 저는 이가 아파요. | I have a toothache.
+Korean::A1::Health & body (basic symptoms, feelings) | 저는 목이 아파요. | I have a sore throat.
+Korean::A1::Health & body (basic symptoms, feelings) | 저는 허리가 아파요. | My back hurts.
+Korean::A1::Health & body (basic symptoms, feelings) | 저는 다리가 아파요. | My leg hurts.
+Korean::A1::Health & body (basic symptoms, feelings) | 저는 눈이 아파요. | My eyes hurt.
+Korean::A1::Health & body (basic symptoms, feelings) | 저는 손이 아파요. | My hand hurts.
+Korean::A1::Health & body (basic symptoms, feelings) | 저는 어깨가 아파요. | My shoulder hurts.
+Korean::A1::Health & body (basic symptoms, feelings) | 저는 감기에 걸렸어요. | I have caught a cold.
+Korean::A1::Health & body (basic symptoms, feelings) | 저는 열이 나요. | I have a fever.
+Korean::A1::Health & body (basic symptoms, feelings) | 저는 기침이 나요. | I have a cough.
+Korean::A1::Health & body (basic symptoms, feelings) | 저는 콧물이 나요. | I have a runny nose.
+Korean::A1::Health & body (basic symptoms, feelings) | 저는 몸이 안 좋아요. | I do not feel well.
+Korean::A1::Health & body (basic symptoms, feelings) | 저는 피곤해요. | I am tired.
+Korean::A1::Health & body (basic symptoms, feelings) | 저는 졸려요. | I am sleepy.
+Korean::A1::Health & body (basic symptoms, feelings) | 저는 배고파요. | I am hungry.
+Korean::A1::Health & body (basic symptoms, feelings) | 저는 목말라요. | I am thirsty.
+Korean::A1::Health & body (basic symptoms, feelings) | 저는 배불러요. | I am full.
+Korean::A1::Health & body (basic symptoms, feelings) | 저는 기분이 좋아요. | I am in a good mood.
+Korean::A1::Health & body (basic symptoms, feelings) | 저는 기분이 나빠요. | I am in a bad mood.
+Korean::A1::Health & body (basic symptoms, feelings) | 저는 행복해요. | I am happy.
+Korean::A1::Health & body (basic symptoms, feelings) | 저는 슬퍼요. | I am sad.
+Korean::A1::Health & body (basic symptoms, feelings) | 저는 화가 나요. | I am angry.
+Korean::A1::Health & body (basic symptoms, feelings) | 저는 걱정돼요. | I am worried.
+Korean::A1::Health & body (basic symptoms, feelings) | 어디가 아파요? | Where does it hurt?
+Korean::A1::Health & body (basic symptoms, feelings) | 어디가 안 좋으세요? | What seems to be the problem?
+Korean::A1::Health & body (basic symptoms, feelings) | 병원에 가야 해요. | I have to go to the hospital.
+Korean::A1::Health & body (basic symptoms, feelings) | 약을 먹어요. | I take medicine.
+Korean::A1::Health & body (basic symptoms, feelings) | 약국에 가요. | I go to the pharmacy.
+Korean::A1::Health & body (basic symptoms, feelings) | 의사 선생님을 만나고 싶어요. | I want to see a doctor.
+Korean::A1::Health & body (basic symptoms, feelings) | 푹 쉬세요. | Please get plenty of rest.
+Korean::A1::Health & body (basic symptoms, feelings) | 물을 많이 마시세요. | Please drink lots of water.
+Korean::A1::Health & body (basic symptoms, feelings) | 머리가 아파서 학교에 못 가요. | I cannot go to school because I have a headache.
+Korean::A1::Health & body (basic symptoms, feelings) | 감기 때문에 집에 있어요. | I am at home because of a cold.
+Korean::A1::Health & body (basic symptoms, feelings) | 열 때문에 힘들어요. | I am struggling because of the fever.
+Korean::A1::Health & body (basic symptoms, feelings) | 피곤해서 일찍 자요. | I am tired, so I go to bed early.
+Korean::A1::Health & body (basic symptoms, feelings) | 배가 아파서 약을 먹었어요. | My stomach hurt, so I took medicine.
+Korean::A1::Health & body (basic symptoms, feelings) | 몸이 아프면 병원에 가세요. | If you are ill, please go to the hospital.
+Korean::A1::Health & body (basic symptoms, feelings) | 빨리 나으세요. | Get well soon.
