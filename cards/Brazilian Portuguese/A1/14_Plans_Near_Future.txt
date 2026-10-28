@@ -1,0 +1,45 @@
+Brazilian Portuguese::A1::Plans & near future | Amanhã eu vou trabalhar. | Tomorrow I am going to work.
+Brazilian Portuguese::A1::Plans & near future | No sábado nós vamos viajar. | On Saturday we are going to travel.
+Brazilian Portuguese::A1::Plans & near future | O que você vai fazer amanhã? | What are you going to do tomorrow?
+Brazilian Portuguese::A1::Plans & near future | Eu vou ficar em casa. | I am going to stay at home.
+Brazilian Portuguese::A1::Plans & near future | Ela vai estudar na biblioteca. | She is going to study in the library.
+Brazilian Portuguese::A1::Plans & near future | Nós vamos jantar fora. | We are going to have dinner out.
+Brazilian Portuguese::A1::Plans & near future | Eles vão visitar os avós. | They are going to visit their grandparents.
+Brazilian Portuguese::A1::Plans & near future | Eu vou ligar para você depois. | I am going to call you later.
+Brazilian Portuguese::A1::Plans & near future | Você vai ao cinema no fim de semana? | Are you going to the cinema at the weekend?
+Brazilian Portuguese::A1::Plans & near future | Sim, eu vou ver um filme. | Yes, I am going to see a film.
+Brazilian Portuguese::A1::Plans & near future | Eu não vou trabalhar na sexta. | I am not going to work on Friday.
+Brazilian Portuguese::A1::Plans & near future | Na próxima semana eu vou viajar. | Next week I am going to travel.
+Brazilian Portuguese::A1::Plans & near future | No próximo mês nós vamos mudar de casa. | Next month we are going to move house.
+Brazilian Portuguese::A1::Plans & near future | Ele vai chegar às oito. | He is going to arrive at eight.
+Brazilian Portuguese::A1::Plans & near future | Ela vai fazer o jantar hoje à noite. | She is going to make dinner tonight.
+Brazilian Portuguese::A1::Plans & near future | Hoje à noite eu vou descansar. | Tonight I am going to rest.
+Brazilian Portuguese::A1::Plans & near future | Amanhã de manhã eu vou acordar cedo. | Tomorrow morning I am going to wake up early.
+Brazilian Portuguese::A1::Plans & near future | Eu quero aprender a dirigir. | I want to learn to drive.
+Brazilian Portuguese::A1::Plans & near future | Ela quer viajar pro Brasil. | She wants to travel to Brazil.
+Brazilian Portuguese::A1::Plans & near future | Nós queremos comprar uma casa. | We want to buy a house.
+Brazilian Portuguese::A1::Plans & near future | Eles querem estudar inglês. | They want to study English.
+Brazilian Portuguese::A1::Plans & near future | Primeiro eu vou almoçar, depois eu vou trabalhar. | First I am going to have lunch, then I am going to work.
+Brazilian Portuguese::A1::Plans & near future | Depois nós vamos ao parque. | Afterwards we are going to the park.
+Brazilian Portuguese::A1::Plans & near future | Então você vai comigo? | So are you coming with me?
+Brazilian Portuguese::A1::Plans & near future | Vou sim, com certeza. | Yes, of course I am.
+Brazilian Portuguese::A1::Plans & near future | Eu vou comprar pão e leite. | I am going to buy bread and milk.
+Brazilian Portuguese::A1::Plans & near future | Vamos jantar juntos amanhã? | Shall we have dinner together tomorrow?
+Brazilian Portuguese::A1::Plans & near future | Vamos, eu quero muito. | Let's, I really want to.
+Brazilian Portuguese::A1::Plans & near future | Meu irmão vai chegar na quinta-feira. | My brother is going to arrive on Thursday.
+Brazilian Portuguese::A1::Plans & near future | Vou levar meu filho ao médico. | I am going to take my son to the doctor.
+Brazilian Portuguese::A1::Plans & near future | A gente vai assistir ao jogo no domingo. | We are going to watch the match on Sunday.
+Brazilian Portuguese::A1::Plans & near future | Ela vai fazer trinta anos em maio. | She is going to turn thirty in May.
+Brazilian Portuguese::A1::Plans & near future | Eu vou aprender muitas palavras. | I am going to learn many words.
+Brazilian Portuguese::A1::Plans & near future | Vocês vão ficar em casa? | Are you going to stay at home?
+Brazilian Portuguese::A1::Plans & near future | Nós vamos passear com o cachorro. | We are going to walk the dog.
+Brazilian Portuguese::A1::Plans & near future | O que eles vão comer? | What are they going to eat?
+Brazilian Portuguese::A1::Plans & near future | Eles vão comer pizza. | They are going to eat pizza.
+Brazilian Portuguese::A1::Plans & near future | Eu vou dormir cedo hoje. | I am going to sleep early today.
+Brazilian Portuguese::A1::Plans & near future | Ele vai viajar de trem. | He is going to travel by train.
+Brazilian Portuguese::A1::Plans & near future | Depois do trabalho, eu vou estudar. | After work, I am going to study.
+Brazilian Portuguese::A1::Plans & near future | No ano que vem eu quero morar no Brasil. | Next year I want to live in Brazil.
+Brazilian Portuguese::A1::Plans & near future | Vou te ligar amanhã. | I am going to call you tomorrow.
+Brazilian Portuguese::A1::Plans & near future | Quando você vai chegar? | When are you going to arrive?
+Brazilian Portuguese::A1::Plans & near future | Eu vou chegar às seis e meia. | I am going to arrive at half past six.
+Brazilian Portuguese::A1::Plans & near future | Mais tarde a gente conversa. | We will talk later.
