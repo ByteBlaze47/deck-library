@@ -1,0 +1,46 @@
+#lang: ko -> en
+Korean::A1::Formal polite situations (office, service, introductions) | 처음 뵙겠습니다. | How do you do?
+Korean::A1::Formal polite situations (office, service, introductions) | 저는 김민수입니다. | I am Kim Minsu.
+Korean::A1::Formal polite situations (office, service, introductions) | 만나서 반갑습니다. | It is a pleasure to meet you.
+Korean::A1::Formal polite situations (office, service, introductions) | 잘 부탁드립니다. | I look forward to working with you.
+Korean::A1::Formal polite situations (office, service, introductions) | 저는 이 회사의 신입 사원입니다. | I am a new employee at this company.
+Korean::A1::Formal polite situations (office, service, introductions) | 저는 영업팀에서 일합니다. | I work in the sales team.
+Korean::A1::Formal polite situations (office, service, introductions) | 저는 영국에서 왔습니다. | I come from Britain.
+Korean::A1::Formal polite situations (office, service, introductions) | 저는 한국어를 배우고 있습니다. | I am learning Korean.
+Korean::A1::Formal polite situations (office, service, introductions) | 저는 이 회사에 다닙니다. | I work at this company.
+Korean::A1::Formal polite situations (office, service, introductions) | 이분은 박 부장님이십니다. | This is Director Park.
+Korean::A1::Formal polite situations (office, service, introductions) | 부장님은 지금 회의 중이십니다. | The director is in a meeting now.
+Korean::A1::Formal polite situations (office, service, introductions) | 사장님은 사무실에 계십니다. | The president is in the office.
+Korean::A1::Formal polite situations (office, service, introductions) | 사장님께서 말씀하셨습니다. | The president has spoken.
+Korean::A1::Formal polite situations (office, service, introductions) | 선생님께서 오십니다. | The teacher is coming.
+Korean::A1::Formal polite situations (office, service, introductions) | 선생님께서 책을 읽으십니다. | The teacher is reading a book.
+Korean::A1::Formal polite situations (office, service, introductions) | 할아버지께서 주무십니다. | Grandfather is sleeping.
+Korean::A1::Formal polite situations (office, service, introductions) | 어머니께서 진지를 드십니다. | Mother is having her meal.
+Korean::A1::Formal polite situations (office, service, introductions) | 제가 말씀드리겠습니다. | I will tell you.
+Korean::A1::Formal polite situations (office, service, introductions) | 성함이 어떻게 되십니까? | What is your name, please?
+Korean::A1::Formal polite situations (office, service, introductions) | 어디에서 오셨습니까? | Where have you come from?
+Korean::A1::Formal polite situations (office, service, introductions) | 무엇을 도와 드릴까요? | How may I help you?
+Korean::A1::Formal polite situations (office, service, introductions) | 무엇을 도와 드릴까요, 손님? | How may I help you, madam?
+Korean::A1::Formal polite situations (office, service, introductions) | 잠시만 기다려 주십시오. | Please wait a moment.
+Korean::A1::Formal polite situations (office, service, introductions) | 이쪽으로 오십시오. | Please come this way.
+Korean::A1::Formal polite situations (office, service, introductions) | 여기에 앉으십시오. | Please take a seat here.
+Korean::A1::Formal polite situations (office, service, introductions) | 감사합니다. | Thank you.
+Korean::A1::Formal polite situations (office, service, introductions) | 대단히 감사합니다. | Thank you very much.
+Korean::A1::Formal polite situations (office, service, introductions) | 죄송합니다. | I am sorry.
+Korean::A1::Formal polite situations (office, service, introductions) | 죄송합니다만, 지금 자리에 안 계십니다. | I am sorry, but they are not at their desk now.
+Korean::A1::Formal polite situations (office, service, introductions) | 다시 전화 주시겠습니까? | Could you call again?
+Korean::A1::Formal polite situations (office, service, introductions) | 전화 받았습니다. | Hello (answering a call).
+Korean::A1::Formal polite situations (office, service, introductions) | 전화 좀 바꿔 주십시오. | Please transfer the call.
+Korean::A1::Formal polite situations (office, service, introductions) | 메모를 남기시겠습니까? | Would you like to leave a message?
+Korean::A1::Formal polite situations (office, service, introductions) | 내일 회의는 오전 열 시입니다. | Tomorrow's meeting is at ten in the morning.
+Korean::A1::Formal polite situations (office, service, introductions) | 회의실은 이 층에 있습니다. | The meeting room is on the second floor.
+Korean::A1::Formal polite situations (office, service, introductions) | 저는 내일 출장을 갑니다. | I am going on a business trip tomorrow.
+Korean::A1::Formal polite situations (office, service, introductions) | 저는 매일 아홉 시에 출근합니다. | I go to work at nine every day.
+Korean::A1::Formal polite situations (office, service, introductions) | 저는 여섯 시에 퇴근합니다. | I leave work at six.
+Korean::A1::Formal polite situations (office, service, introductions) | 저는 보고서를 쓰고 있습니다. | I am writing a report.
+Korean::A1::Formal polite situations (office, service, introductions) | 이 서류를 확인해 주십시오. | Please check this document.
+Korean::A1::Formal polite situations (office, service, introductions) | 이 자료를 보내 드리겠습니다. | I will send you this material.
+Korean::A1::Formal polite situations (office, service, introductions) | 회의는 합니다체로, 친구와는 해요체로 말해요. | I speak formally in meetings and politely with friends.
+Korean::A1::Formal polite situations (office, service, introductions) | 친구에게는 "안녕"이라고 말해요. | I say "안녕" to my friends.
+Korean::A1::Formal polite situations (office, service, introductions) | 선생님께는 "안녕하세요"라고 말해요. | I say "안녕하세요" to my teacher.
+Korean::A1::Formal polite situations (office, service, introductions) | 어르신께는 존댓말을 써요. | I use honorific speech with elders.
