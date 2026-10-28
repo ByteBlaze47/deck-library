@@ -1,0 +1,36 @@
+#lang: ru -> en
+Russian::A1::Preferences, likes & opinions | Мне нравится этот город. | I like this city.
+Russian::A1::Preferences, likes & opinions | Тебе нравится музыка? | Do you like music?
+Russian::A1::Preferences, likes & opinions | Ему нравится футбол. | He likes football.
+Russian::A1::Preferences, likes & opinions | Ей нравятся цветы. | She likes flowers.
+Russian::A1::Preferences, likes & opinions | Нам нравится эта песня. | We like this song.
+Russian::A1::Preferences, likes & opinions | Им не нравится холод. | They don't like the cold.
+Russian::A1::Preferences, likes & opinions | Вам понравился фильм? | Did you like the film?
+Russian::A1::Preferences, likes & opinions | Мне очень понравилась книга. | I really liked the book.
+Russian::A1::Preferences, likes & opinions | Я люблю чай, а он любит кофе. | I like tea, but he likes coffee.
+Russian::A1::Preferences, likes & opinions | Я не люблю дождь. | I don't like rain.
+Russian::A1::Preferences, likes & opinions | Он любит читать, а я люблю петь. | He likes reading, whereas I like singing.
+Russian::A1::Preferences, likes & opinions | Я предпочитаю чай. | I prefer tea.
+Russian::A1::Preferences, likes & opinions | Она предпочитает зелёный чай. | She prefers green tea.
+Russian::A1::Preferences, likes & opinions | Я боюсь собак. | I'm afraid of dogs.
+Russian::A1::Preferences, likes & opinions | Я хочу тишины. | I want some quiet.
+Russian::A1::Preferences, likes & opinions | Мне интересно это кино. | I find this film interesting.
+Russian::A1::Preferences, likes & opinions | Мне скучно. | I'm bored.
+Russian::A1::Preferences, likes & opinions | Ему было весело. | He had fun.
+Russian::A1::Preferences, likes & opinions | Как вам этот город? | What do you think of this city?
+Russian::A1::Preferences, likes & opinions | По-моему, он очень красивый. | In my opinion, it's very beautiful.
+Russian::A1::Preferences, likes & opinions | Я думаю, что это хорошо. | I think that's good.
+Russian::A1::Preferences, likes & opinions | Я считаю, что это неправда. | I believe that isn't true.
+Russian::A1::Preferences, likes & opinions | Это очень вкусно. | This is very tasty.
+Russian::A1::Preferences, likes & opinions | Это невкусно. | This isn't tasty.
+Russian::A1::Preferences, likes & opinions | Мне кажется, что он прав. | It seems to me that he's right.
+Russian::A1::Preferences, likes & opinions | Он прав, а она не права. | He is right and she is wrong.
+Russian::A1::Preferences, likes & opinions | Я согласен. | I agree. (male)
+Russian::A1::Preferences, likes & opinions | Я не согласна. | I disagree. (female)
+Russian::A1::Preferences, likes & opinions | Это интересно, но трудно. | It's interesting but difficult.
+Russian::A1::Preferences, likes & opinions | Это не трудно, а очень легко. | It's not difficult, it's very easy.
+Russian::A1::Preferences, likes & opinions | Я люблю лето, зато зима мне не нравится. | I like summer, but I don't like winter.
+Russian::A1::Preferences, likes & opinions | Мне больше нравится море, чем горы. | I like the sea more than the mountains.
+Russian::A1::Preferences, likes & opinions | Мой любимый цвет — синий. | My favourite colour is blue.
+Russian::A1::Preferences, likes & opinions | Моя любимая еда — борщ. | My favourite food is borscht.
+Russian::A1::Preferences, likes & opinions | Мне всё равно. | I don't mind.
