@@ -1,0 +1,46 @@
+#lang: zh -> en
+Chinese::A1::Everyday objects & classroom/school items | 这是一本书。 | This is a book.
+Chinese::A1::Everyday objects & classroom/school items | 那是一支笔。 | That is a pen.
+Chinese::A1::Everyday objects & classroom/school items | 这是一张纸。 | This is a sheet of paper.
+Chinese::A1::Everyday objects & classroom/school items | 我有两本书。 | I have two books.
+Chinese::A1::Everyday objects & classroom/school items | 他有三支笔。 | He has three pens.
+Chinese::A1::Everyday objects & classroom/school items | 桌子上有一张地图。 | There is a map on the table.
+Chinese::A1::Everyday objects & classroom/school items | 这个杯子很大。 | This cup is very big.
+Chinese::A1::Everyday objects & classroom/school items | 那个杯子是我的。 | That cup is mine.
+Chinese::A1::Everyday objects & classroom/school items | 这本书很好。 | This book is very good.
+Chinese::A1::Everyday objects & classroom/school items | 那本书很旧。 | That book is very old.
+Chinese::A1::Everyday objects & classroom/school items | 这支笔是谁的？ | Whose pen is this?
+Chinese::A1::Everyday objects & classroom/school items | 这是我的手机。 | This is my mobile phone.
+Chinese::A1::Everyday objects & classroom/school items | 那是你的电脑吗？ | Is that your computer?
+Chinese::A1::Everyday objects & classroom/school items | 我有一个书包。 | I have a school bag.
+Chinese::A1::Everyday objects & classroom/school items | 书包里有五本书。 | There are five books in the bag.
+Chinese::A1::Everyday objects & classroom/school items | 这个书包很重。 | This bag is very heavy.
+Chinese::A1::Everyday objects & classroom/school items | 那把椅子是新的。 | That chair is new.
+Chinese::A1::Everyday objects & classroom/school items | 这张桌子很大。 | This table is very big.
+Chinese::A1::Everyday objects & classroom/school items | 我有一把伞。 | I have an umbrella.
+Chinese::A1::Everyday objects & classroom/school items | 这是一杯水。 | This is a glass of water.
+Chinese::A1::Everyday objects & classroom/school items | 他有一杯茶。 | He has a cup of tea.
+Chinese::A1::Everyday objects & classroom/school items | 教室里有一块黑板。 | There is a blackboard in the classroom.
+Chinese::A1::Everyday objects & classroom/school items | 教室里有二十张桌子。 | There are twenty desks in the classroom.
+Chinese::A1::Everyday objects & classroom/school items | 教室里有二十把椅子。 | There are twenty chairs in the classroom.
+Chinese::A1::Everyday objects & classroom/school items | 我有一个本子。 | I have a notebook.
+Chinese::A1::Everyday objects & classroom/school items | 这是我的铅笔。 | This is my pencil.
+Chinese::A1::Everyday objects & classroom/school items | 我没有橡皮。 | I don't have a rubber.
+Chinese::A1::Everyday objects & classroom/school items | 你有尺子吗？ | Do you have a ruler?
+Chinese::A1::Everyday objects & classroom/school items | 那是一本词典。 | That is a dictionary.
+Chinese::A1::Everyday objects & classroom/school items | 这两本书是我的。 | These two books are mine.
+Chinese::A1::Everyday objects & classroom/school items | 那三支笔是他的。 | Those three pens are his.
+Chinese::A1::Everyday objects & classroom/school items | 这个是什么？ | What is this?
+Chinese::A1::Everyday objects & classroom/school items | 那个是什么？ | What is that?
+Chinese::A1::Everyday objects & classroom/school items | 这是我的钥匙。 | These are my keys.
+Chinese::A1::Everyday objects & classroom/school items | 那把钥匙是你的吗？ | Is that key yours?
+Chinese::A1::Everyday objects & classroom/school items | 我有一台电脑。 | I have a computer.
+Chinese::A1::Everyday objects & classroom/school items | 这台电脑很新。 | This computer is very new.
+Chinese::A1::Everyday objects & classroom/school items | 那张照片很漂亮。 | That photo is very beautiful.
+Chinese::A1::Everyday objects & classroom/school items | 这是一张我家的照片。 | This is a photo of my family home.
+Chinese::A1::Everyday objects & classroom/school items | 我要一张纸。 | I need a sheet of paper.
+Chinese::A1::Everyday objects & classroom/school items | 请给我一支笔。 | Please give me a pen.
+Chinese::A1::Everyday objects & classroom/school items | 这些书都是我的。 | These books are all mine.
+Chinese::A1::Everyday objects & classroom/school items | 那些笔是老师的。 | Those pens are the teacher's.
+Chinese::A1::Everyday objects & classroom/school items | 他的包是黑色的。 | His bag is black.
+Chinese::A1::Everyday objects & classroom/school items | 我的书很多，你的书很少。 | I have many books; you have few.
