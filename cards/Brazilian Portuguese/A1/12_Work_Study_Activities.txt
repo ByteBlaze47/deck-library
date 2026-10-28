@@ -1,0 +1,50 @@
+Brazilian Portuguese::A1::Work / study routines & activities | Eu trabalho em uma empresa. | I work at a company.
+Brazilian Portuguese::A1::Work / study routines & activities | Ela estuda medicina. | She studies medicine.
+Brazilian Portuguese::A1::Work / study routines & activities | O que você faz? | What do you do?
+Brazilian Portuguese::A1::Work / study routines & activities | Eu faço um curso de inglês. | I am doing an English course.
+Brazilian Portuguese::A1::Work / study routines & activities | Ele faz o trabalho de casa. | He does his homework.
+Brazilian Portuguese::A1::Work / study routines & activities | Nós fazemos muitas tarefas. | We do many tasks.
+Brazilian Portuguese::A1::Work / study routines & activities | A gente trabalha junto. | We work together.
+Brazilian Portuguese::A1::Work / study routines & activities | A gente estuda na biblioteca. | We study in the library.
+Brazilian Portuguese::A1::Work / study routines & activities | Eu abro o computador às nove. | I open the computer at nine.
+Brazilian Portuguese::A1::Work / study routines & activities | Ela abre a porta do escritório. | She opens the office door.
+Brazilian Portuguese::A1::Work / study routines & activities | Eu escrevo e-mails todo dia. | I write emails every day.
+Brazilian Portuguese::A1::Work / study routines & activities | Ele escreve relatórios. | He writes reports.
+Brazilian Portuguese::A1::Work / study routines & activities | Eu leio o jornal. | I read the newspaper.
+Brazilian Portuguese::A1::Work / study routines & activities | Eu vejo o chefe na reunião. | I see the boss in the meeting.
+Brazilian Portuguese::A1::Work / study routines & activities | Você vê o professor hoje? | Do you see the teacher today?
+Brazilian Portuguese::A1::Work / study routines & activities | Ela diz que está ocupada. | She says that she is busy.
+Brazilian Portuguese::A1::Work / study routines & activities | O professor diz o nome dos alunos. | The teacher says the students' names.
+Brazilian Portuguese::A1::Work / study routines & activities | Eu sei o seu nome. | I know your name.
+Brazilian Portuguese::A1::Work / study routines & activities | Você sabe falar inglês? | Can you speak English?
+Brazilian Portuguese::A1::Work / study routines & activities | Eu não sei a resposta. | I do not know the answer.
+Brazilian Portuguese::A1::Work / study routines & activities | Ele sabe usar o computador. | He knows how to use the computer.
+Brazilian Portuguese::A1::Work / study routines & activities | Eu decido rápido. | I decide quickly.
+Brazilian Portuguese::A1::Work / study routines & activities | Nós dividimos o trabalho. | We share the work.
+Brazilian Portuguese::A1::Work / study routines & activities | Eu parto às sete. | I leave at seven.
+Brazilian Portuguese::A1::Work / study routines & activities | Ela assiste à aula online. | She attends the class online.
+Brazilian Portuguese::A1::Work / study routines & activities | Eu aprendo muito na escola. | I learn a lot at school.
+Brazilian Portuguese::A1::Work / study routines & activities | Ela aprende rápido. | She learns quickly.
+Brazilian Portuguese::A1::Work / study routines & activities | Eles recebem muitos e-mails. | They receive many emails.
+Brazilian Portuguese::A1::Work / study routines & activities | Eu recebo o salário no fim do mês. | I get my salary at the end of the month.
+Brazilian Portuguese::A1::Work / study routines & activities | Eu estou trabalhando agora. | I am working now.
+Brazilian Portuguese::A1::Work / study routines & activities | Ela está estudando na biblioteca. | She is studying in the library.
+Brazilian Portuguese::A1::Work / study routines & activities | Nós estamos escrevendo um relatório. | We are writing a report.
+Brazilian Portuguese::A1::Work / study routines & activities | O chefe está falando com o cliente. | The boss is talking to the client.
+Brazilian Portuguese::A1::Work / study routines & activities | Eu estou fazendo o exercício. | I am doing the exercise.
+Brazilian Portuguese::A1::Work / study routines & activities | Eles estão vendo o horário. | They are looking at the timetable.
+Brazilian Portuguese::A1::Work / study routines & activities | A professora está explicando a lição. | The teacher is explaining the lesson.
+Brazilian Portuguese::A1::Work / study routines & activities | Os alunos estão lendo. | The students are reading.
+Brazilian Portuguese::A1::Work / study routines & activities | O meu colega trabalha em casa. | My colleague works from home.
+Brazilian Portuguese::A1::Work / study routines & activities | A minha chefe é muito organizada. | My boss is very organised.
+Brazilian Portuguese::A1::Work / study routines & activities | Eu tenho uma reunião às dez. | I have a meeting at ten.
+Brazilian Portuguese::A1::Work / study routines & activities | Nós temos uma prova amanhã. | We have a test tomorrow.
+Brazilian Portuguese::A1::Work / study routines & activities | Eu preciso estudar mais. | I need to study more.
+Brazilian Portuguese::A1::Work / study routines & activities | Ele sempre responde aos e-mails. | He always replies to emails.
+Brazilian Portuguese::A1::Work / study routines & activities | Eu escrevo uma lista todas as manhãs. | I write a list every morning.
+Brazilian Portuguese::A1::Work / study routines & activities | Você fala com o cliente ou eu falo? | Do you talk to the client or shall I?
+Brazilian Portuguese::A1::Work / study routines & activities | O trabalho é difícil, mas é interessante. | The work is difficult, but it is interesting.
+Brazilian Portuguese::A1::Work / study routines & activities | O curso é fácil e barato. | The course is easy and cheap.
+Brazilian Portuguese::A1::Work / study routines & activities | Ela escreve bem e fala rápido. | She writes well and speaks quickly.
+Brazilian Portuguese::A1::Work / study routines & activities | A gente aprende português na escola. | We learn Portuguese at school.
+Brazilian Portuguese::A1::Work / study routines & activities | Eu sei que ela está trabalhando agora. | I know that she is working now.
