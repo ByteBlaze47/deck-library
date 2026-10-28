@@ -1,0 +1,51 @@
+#lang: zh -> en
+Chinese::A1::Past experiences & completed events (simple narratives) | 我昨天去了商店。 | I went to the shop yesterday.
+Chinese::A1::Past experiences & completed events (simple narratives) | 我昨天买了一件衣服。 | I bought a piece of clothing yesterday.
+Chinese::A1::Past experiences & completed events (simple narratives) | 他上个星期去了北京。 | He went to Beijing last week.
+Chinese::A1::Past experiences & completed events (simple narratives) | 她前天看了一个电影。 | She watched a film the day before yesterday.
+Chinese::A1::Past experiences & completed events (simple narratives) | 我们昨天晚上吃了饺子。 | We ate dumplings last night.
+Chinese::A1::Past experiences & completed events (simple narratives) | 我早上喝了一杯牛奶。 | I drank a glass of milk this morning.
+Chinese::A1::Past experiences & completed events (simple narratives) | 他今天早上七点起床了。 | He got up at seven o'clock this morning.
+Chinese::A1::Past experiences & completed events (simple narratives) | 我星期一给妈妈打了电话。 | I phoned my mum on Monday.
+Chinese::A1::Past experiences & completed events (simple narratives) | 他上个月买了一辆车。 | He bought a car last month.
+Chinese::A1::Past experiences & completed events (simple narratives) | 我去年去了中国。 | I went to China last year.
+Chinese::A1::Past experiences & completed events (simple narratives) | 我去过中国。 | I have been to China.
+Chinese::A1::Past experiences & completed events (simple narratives) | 我没去过中国。 | I have never been to China.
+Chinese::A1::Past experiences & completed events (simple narratives) | 他去过英国。 | He has been to Britain.
+Chinese::A1::Past experiences & completed events (simple narratives) | 她没去过日本。 | She has never been to Japan.
+Chinese::A1::Past experiences & completed events (simple narratives) | 你去过北京吗？ | Have you ever been to Beijing?
+Chinese::A1::Past experiences & completed events (simple narratives) | 你吃过饺子吗？ | Have you ever eaten dumplings?
+Chinese::A1::Past experiences & completed events (simple narratives) | 我吃过北京烤鸭。 | I have eaten Peking duck.
+Chinese::A1::Past experiences & completed events (simple narratives) | 我看过这个电影。 | I have seen this film.
+Chinese::A1::Past experiences & completed events (simple narratives) | 我没看过这本书。 | I have never read this book.
+Chinese::A1::Past experiences & completed events (simple narratives) | 我学过一年中文。 | I studied Chinese for a year.
+Chinese::A1::Past experiences & completed events (simple narratives) | 他来过我家。 | He has been to my home.
+Chinese::A1::Past experiences & completed events (simple narratives) | 你见过他吗？ | Have you ever met him?
+Chinese::A1::Past experiences & completed events (simple narratives) | 我从来没见过他。 | I have never met him.
+Chinese::A1::Past experiences & completed events (simple narratives) | 我坐过飞机。 | I have flown on a plane.
+Chinese::A1::Past experiences & completed events (simple narratives) | 我以前在上海住过。 | I used to live in Shanghai.
+Chinese::A1::Past experiences & completed events (simple narratives) | 我昨天去了公园，看了很多花。 | I went to the park yesterday and saw lots of flowers.
+Chinese::A1::Past experiences & completed events (simple narratives) | 我们去了饭馆，吃了很多菜。 | We went to a restaurant and ate lots of dishes.
+Chinese::A1::Past experiences & completed events (simple narratives) | 他买了一本书，还买了一支笔。 | He bought a book and also bought a pen.
+Chinese::A1::Past experiences & completed events (simple narratives) | 她写了一封信。 | She wrote a letter.
+Chinese::A1::Past experiences & completed events (simple narratives) | 我给他打了电话。 | I phoned him.
+Chinese::A1::Past experiences & completed events (simple narratives) | 老师给了我一本书。 | The teacher gave me a book.
+Chinese::A1::Past experiences & completed events (simple narratives) | 他昨天没来上班。 | He didn't come to work yesterday.
+Chinese::A1::Past experiences & completed events (simple narratives) | 我上个星期没去上课。 | I didn't go to class last week.
+Chinese::A1::Past experiences & completed events (simple narratives) | 她昨天没吃晚饭。 | She didn't have dinner yesterday.
+Chinese::A1::Past experiences & completed events (simple narratives) | 我们昨天没看电视。 | We didn't watch television yesterday.
+Chinese::A1::Past experiences & completed events (simple narratives) | 你昨天做了什么？ | What did you do yesterday?
+Chinese::A1::Past experiences & completed events (simple narratives) | 你买了什么？ | What did you buy?
+Chinese::A1::Past experiences & completed events (simple narratives) | 你昨天看了几个电影？ | How many films did you watch yesterday?
+Chinese::A1::Past experiences & completed events (simple narratives) | 他吃了几个包子？ | How many steamed buns did he eat?
+Chinese::A1::Past experiences & completed events (simple narratives) | 我学了三年中文。 | I studied Chinese for three years.
+Chinese::A1::Past experiences & completed events (simple narratives) | 他等了我一个小时。 | He waited for me for an hour.
+Chinese::A1::Past experiences & completed events (simple narratives) | 我睡了八个小时。 | I slept for eight hours.
+Chinese::A1::Past experiences & completed events (simple narratives) | 我做完作业了。 | I have finished my homework.
+Chinese::A1::Past experiences & completed events (simple narratives) | 我看完了这本书。 | I have finished reading this book.
+Chinese::A1::Past experiences & completed events (simple narratives) | 他已经回家了。 | He has already gone home.
+Chinese::A1::Past experiences & completed events (simple narratives) | 她已经走了。 | She has already left.
+Chinese::A1::Past experiences & completed events (simple narratives) | 我们已经吃过饭了。 | We have already eaten.
+Chinese::A1::Past experiences & completed events (simple narratives) | 我去年夏天去了海边。 | I went to the seaside last summer.
+Chinese::A1::Past experiences & completed events (simple narratives) | 他以前是老师，现在是医生。 | He used to be a teacher; now he is a doctor.
+Chinese::A1::Past experiences & completed events (simple narratives) | 我三年前来到这儿。 | I came here three years ago.
