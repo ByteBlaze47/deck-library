@@ -1,0 +1,46 @@
+#lang: fr -> en
+French::A1::Ordering & simple transactions (restaurant, café, shop) | Bonjour, vous désirez ? | Hello, what would you like?
+French::A1::Ordering & simple transactions (restaurant, café, shop) | Je voudrais un café, s'il vous plaît. | I would like a coffee, please.
+French::A1::Ordering & simple transactions (restaurant, café, shop) | Je le prends avec du lait. | I'll have it with milk.
+French::A1::Ordering & simple transactions (restaurant, café, shop) | Je la prends sans sucre. | I'll have it without sugar.
+French::A1::Ordering & simple transactions (restaurant, café, shop) | Je les prends maintenant. | I'll take them now.
+French::A1::Ordering & simple transactions (restaurant, café, shop) | Vous le voulez chaud ? | Do you want it hot?
+French::A1::Ordering & simple transactions (restaurant, café, shop) | Vous la voulez grande ou petite ? | Do you want it large or small?
+French::A1::Ordering & simple transactions (restaurant, café, shop) | Je ne le prends pas avec du sucre. | I don't take it with sugar.
+French::A1::Ordering & simple transactions (restaurant, café, shop) | Je ne la veux pas. | I don't want it.
+French::A1::Ordering & simple transactions (restaurant, café, shop) | Nous ne les aimons pas. | We don't like them.
+French::A1::Ordering & simple transactions (restaurant, café, shop) | Le serveur nous voit. | The waiter sees us.
+French::A1::Ordering & simple transactions (restaurant, café, shop) | Il vous apporte la carte. | He is bringing you the menu.
+French::A1::Ordering & simple transactions (restaurant, café, shop) | Je vous remercie, monsieur. | Thank you, sir.
+French::A1::Ordering & simple transactions (restaurant, café, shop) | Il me regarde. | He is looking at me.
+French::A1::Ordering & simple transactions (restaurant, café, shop) | Je te vois. | I can see you.
+French::A1::Ordering & simple transactions (restaurant, café, shop) | Elle nous écoute. | She is listening to us.
+French::A1::Ordering & simple transactions (restaurant, café, shop) | Je vous écoute, madame. | I am listening to you, madam.
+French::A1::Ordering & simple transactions (restaurant, café, shop) | Vous me donnez l'addition ? | Could you give me the bill?
+French::A1::Ordering & simple transactions (restaurant, café, shop) | Je vous apporte l'addition tout de suite. | I'll bring you the bill right away.
+French::A1::Ordering & simple transactions (restaurant, café, shop) | La carte, je la regarde. | The menu, I am looking at it.
+French::A1::Ordering & simple transactions (restaurant, café, shop) | Le menu, je le choisis. | The set menu, I am choosing it.
+French::A1::Ordering & simple transactions (restaurant, café, shop) | Les frites, je les mange. | The chips, I am eating them.
+French::A1::Ordering & simple transactions (restaurant, café, shop) | Je la trouve délicieuse. | I find it delicious.
+French::A1::Ordering & simple transactions (restaurant, café, shop) | Je le trouve très bon. | I find it very good.
+French::A1::Ordering & simple transactions (restaurant, café, shop) | Tu l'aimes ? | Do you like it?
+French::A1::Ordering & simple transactions (restaurant, café, shop) | Oui, je l'aime beaucoup. | Yes, I like it a lot.
+French::A1::Ordering & simple transactions (restaurant, café, shop) | Non, je ne l'aime pas. | No, I don't like it.
+French::A1::Ordering & simple transactions (restaurant, café, shop) | Nous vous attendons ici. | We are waiting for you here.
+French::A1::Ordering & simple transactions (restaurant, café, shop) | Il ne nous attend pas. | He isn't waiting for us.
+French::A1::Ordering & simple transactions (restaurant, café, shop) | Elle ne te voit pas. | She doesn't see you.
+French::A1::Ordering & simple transactions (restaurant, café, shop) | Vous ne me comprenez pas ? | You don't understand me?
+French::A1::Ordering & simple transactions (restaurant, café, shop) | Je ne vous comprends pas, monsieur. | I don't understand you, sir.
+French::A1::Ordering & simple transactions (restaurant, café, shop) | Je prends le poisson, et vous ? | I'll have the fish, and you?
+French::A1::Ordering & simple transactions (restaurant, café, shop) | Je ne prends pas de dessert. | I'm not having any dessert.
+French::A1::Ordering & simple transactions (restaurant, café, shop) | Il ne mange pas de viande. | He doesn't eat meat.
+French::A1::Ordering & simple transactions (restaurant, café, shop) | Nous ne buvons pas de vin. | We don't drink wine.
+French::A1::Ordering & simple transactions (restaurant, café, shop) | C'est combien, s'il vous plaît ? | How much is it, please?
+French::A1::Ordering & simple transactions (restaurant, café, shop) | Vous acceptez la carte bancaire ? | Do you accept bank cards?
+French::A1::Ordering & simple transactions (restaurant, café, shop) | Je ne la trouve pas. | I can't find it.
+French::A1::Ordering & simple transactions (restaurant, café, shop) | Je le cherche ; vous le voyez ? | I'm looking for it; do you see it?
+French::A1::Ordering & simple transactions (restaurant, café, shop) | Monsieur, je vous invite à ma table. | Sir, I invite you to my table.
+French::A1::Ordering & simple transactions (restaurant, café, shop) | Je ne vous dérange pas ? | I'm not disturbing you?
+French::A1::Ordering & simple transactions (restaurant, café, shop) | Excusez-moi, je ne vous entends pas. | Excuse me, I can't hear you.
+French::A1::Ordering & simple transactions (restaurant, café, shop) | Merci beaucoup, vous êtes très aimable. | Thank you very much, you are very kind.
+French::A1::Ordering & simple transactions (restaurant, café, shop) | Je vous en prie. | You're welcome.
