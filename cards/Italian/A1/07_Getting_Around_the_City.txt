@@ -1,0 +1,51 @@
+#lang: it -> en
+Italian::A1::Getting around the city (directions & transport) | Scusi, dov'è la stazione? | Excuse me, where is the station?
+Italian::A1::Getting around the city (directions & transport) | Scusa, dov'è la banca? | Excuse me, where is the bank? (informal)
+Italian::A1::Getting around the city (directions & transport) | Vada dritto. | Go straight on. (formal)
+Italian::A1::Getting around the city (directions & transport) | Vai dritto. | Go straight on. (informal)
+Italian::A1::Getting around the city (directions & transport) | Giri a destra. | Turn right. (formal)
+Italian::A1::Getting around the city (directions & transport) | Gira a sinistra. | Turn left. (informal)
+Italian::A1::Getting around the city (directions & transport) | Prenda la prima strada a destra. | Take the first road on the right. (formal)
+Italian::A1::Getting around the city (directions & transport) | Prendi la seconda a sinistra. | Take the second on the left. (informal)
+Italian::A1::Getting around the city (directions & transport) | Attraversi la piazza. | Cross the square. (formal)
+Italian::A1::Getting around the city (directions & transport) | Attraversa il ponte. | Cross the bridge. (informal)
+Italian::A1::Getting around the city (directions & transport) | Continui fino al semaforo. | Continue as far as the traffic light. (formal)
+Italian::A1::Getting around the city (directions & transport) | Continua fino alla chiesa. | Continue as far as the church. (informal)
+Italian::A1::Getting around the city (directions & transport) | Non giri qui. | Don't turn here. (formal)
+Italian::A1::Getting around the city (directions & transport) | Non andare a sinistra. | Don't go left. (informal)
+Italian::A1::Getting around the city (directions & transport) | Aspetti qui, per favore. | Wait here, please. (formal)
+Italian::A1::Getting around the city (directions & transport) | Aspetta un momento. | Wait a moment. (informal)
+Italian::A1::Getting around the city (directions & transport) | Venga con me. | Come with me. (formal)
+Italian::A1::Getting around the city (directions & transport) | Vieni con me. | Come with me. (informal)
+Italian::A1::Getting around the city (directions & transport) | È lontano da qui? | Is it far from here?
+Italian::A1::Getting around the city (directions & transport) | No, è vicino. | No, it's close.
+Italian::A1::Getting around the city (directions & transport) | È a dieci minuti a piedi. | It's ten minutes on foot.
+Italian::A1::Getting around the city (directions & transport) | Vado in autobus. | I go by bus.
+Italian::A1::Getting around the city (directions & transport) | Andiamo in treno. | We go by train.
+Italian::A1::Getting around the city (directions & transport) | Vengo in macchina. | I'm coming by car.
+Italian::A1::Getting around the city (directions & transport) | Prendo la metropolitana. | I take the underground.
+Italian::A1::Getting around the city (directions & transport) | Prendiamo un taxi. | Let's take a taxi.
+Italian::A1::Getting around the city (directions & transport) | Dov'è la fermata dell'autobus? | Where is the bus stop?
+Italian::A1::Getting around the city (directions & transport) | Dov'è il binario cinque? | Where is platform five?
+Italian::A1::Getting around the city (directions & transport) | Un biglietto per Roma, per favore. | A ticket to Rome, please.
+Italian::A1::Getting around the city (directions & transport) | Quando parte il treno? | When does the train leave?
+Italian::A1::Getting around the city (directions & transport) | Il treno parte alle nove. | The train leaves at nine.
+Italian::A1::Getting around the city (directions & transport) | L'autobus arriva tra cinque minuti. | The bus arrives in five minutes.
+Italian::A1::Getting around the city (directions & transport) | Vado in centro per fare la spesa. | I'm going into the centre to do the shopping.
+Italian::A1::Getting around the city (directions & transport) | Vengo per parlare con te. | I'm coming to talk to you.
+Italian::A1::Getting around the city (directions & transport) | Prendo il treno per andare a Firenze. | I take the train to go to Florence.
+Italian::A1::Getting around the city (directions & transport) | Il museo è davanti alla stazione. | The museum is in front of the station.
+Italian::A1::Getting around the city (directions & transport) | La banca è dietro la chiesa. | The bank is behind the church.
+Italian::A1::Getting around the city (directions & transport) | Il bar è all'angolo. | The café is on the corner.
+Italian::A1::Getting around the city (directions & transport) | La posta è qui vicino. | The post office is near here.
+Italian::A1::Getting around the city (directions & transport) | La farmacia è di fronte al parco. | The pharmacy is opposite the park.
+Italian::A1::Getting around the city (directions & transport) | Là c'è un ristorante. | There is a restaurant over there.
+Italian::A1::Getting around the city (directions & transport) | Qui c'è un parcheggio. | There is a car park here.
+Italian::A1::Getting around the city (directions & transport) | Vada fino in fondo alla strada. | Go right to the end of the street. (formal)
+Italian::A1::Getting around the city (directions & transport) | Guarda la mappa. | Look at the map. (informal)
+Italian::A1::Getting around the city (directions & transport) | Mi scusi, parla inglese? | Excuse me, do you speak English? (formal)
+Italian::A1::Getting around the city (directions & transport) | Grazie mille, è molto gentile. | Thank you very much, you are very kind. (formal)
+Italian::A1::Getting around the city (directions & transport) | Non c'è di che. | You're welcome.
+Italian::A1::Getting around the city (directions & transport) | Ripeta, per favore. | Please repeat. (formal)
+Italian::A1::Getting around the city (directions & transport) | Parla piano, per favore. | Speak slowly, please. (informal)
+Italian::A1::Getting around the city (directions & transport) | Sono perso. | I'm lost. (male speaker)
