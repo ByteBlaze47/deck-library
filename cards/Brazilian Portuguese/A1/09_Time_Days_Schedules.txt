@@ -1,0 +1,40 @@
+Brazilian Portuguese::A1::Time, days, schedules & frequency | Que horas são? | What time is it?
+Brazilian Portuguese::A1::Time, days, schedules & frequency | São três horas. | It is three o'clock.
+Brazilian Portuguese::A1::Time, days, schedules & frequency | É uma hora. | It is one o'clock.
+Brazilian Portuguese::A1::Time, days, schedules & frequency | São cinco e meia. | It is half past five.
+Brazilian Portuguese::A1::Time, days, schedules & frequency | São sete e quinze. | It is quarter past seven.
+Brazilian Portuguese::A1::Time, days, schedules & frequency | É meio-dia. | It is midday.
+Brazilian Portuguese::A1::Time, days, schedules & frequency | É meia-noite. | It is midnight.
+Brazilian Portuguese::A1::Time, days, schedules & frequency | Hoje é segunda-feira. | Today is Monday.
+Brazilian Portuguese::A1::Time, days, schedules & frequency | Amanhã é terça-feira. | Tomorrow is Tuesday.
+Brazilian Portuguese::A1::Time, days, schedules & frequency | Depois de amanhã é quarta-feira. | The day after tomorrow is Wednesday.
+Brazilian Portuguese::A1::Time, days, schedules & frequency | Tem sete dias na semana. | There are seven days in the week.
+Brazilian Portuguese::A1::Time, days, schedules & frequency | O fim de semana é sábado e domingo. | The weekend is Saturday and Sunday.
+Brazilian Portuguese::A1::Time, days, schedules & frequency | Estamos em outubro. | We are in October.
+Brazilian Portuguese::A1::Time, days, schedules & frequency | Meu aniversário é em março. | My birthday is in March.
+Brazilian Portuguese::A1::Time, days, schedules & frequency | Dezembro é o último mês do ano. | December is the last month of the year.
+Brazilian Portuguese::A1::Time, days, schedules & frequency | A aula começa às oito. | The class starts at eight.
+Brazilian Portuguese::A1::Time, days, schedules & frequency | A aula termina ao meio-dia. | The class ends at midday.
+Brazilian Portuguese::A1::Time, days, schedules & frequency | A reunião é na quinta-feira. | The meeting is on Thursday.
+Brazilian Portuguese::A1::Time, days, schedules & frequency | Eu trabalho na segunda e na terça. | I work on Monday and Tuesday.
+Brazilian Portuguese::A1::Time, days, schedules & frequency | Eu estudo português às quartas. | I study Portuguese on Wednesdays.
+Brazilian Portuguese::A1::Time, days, schedules & frequency | Hoje eu trabalho até as seis. | Today I work until six.
+Brazilian Portuguese::A1::Time, days, schedules & frequency | Amanhã eu estou livre. | Tomorrow I am free.
+Brazilian Portuguese::A1::Time, days, schedules & frequency | Agora são nove horas. | It is nine o'clock now.
+Brazilian Portuguese::A1::Time, days, schedules & frequency | Eu já estou aqui. | I am already here.
+Brazilian Portuguese::A1::Time, days, schedules & frequency | Ele ainda não está aqui. | He is not here yet.
+Brazilian Portuguese::A1::Time, days, schedules & frequency | Eu ainda trabalho no mesmo lugar. | I still work in the same place.
+Brazilian Portuguese::A1::Time, days, schedules & frequency | O ônibus passa de hora em hora. | The bus comes every hour.
+Brazilian Portuguese::A1::Time, days, schedules & frequency | O banco abre de segunda a sexta. | The bank is open from Monday to Friday.
+Brazilian Portuguese::A1::Time, days, schedules & frequency | A loja não abre aos domingos. | The shop does not open on Sundays.
+Brazilian Portuguese::A1::Time, days, schedules & frequency | De manhã eu estudo, à tarde eu trabalho. | In the morning I study, in the afternoon I work.
+Brazilian Portuguese::A1::Time, days, schedules & frequency | Eu vejo meus amigos duas vezes por semana. | I see my friends twice a week.
+Brazilian Portuguese::A1::Time, days, schedules & frequency | Eu vou à academia três vezes por semana. | I go to the gym three times a week.
+Brazilian Portuguese::A1::Time, days, schedules & frequency | Ela viaja uma vez por mês. | She travels once a month.
+Brazilian Portuguese::A1::Time, days, schedules & frequency | Quando é a sua aula? | When is your class?
+Brazilian Portuguese::A1::Time, days, schedules & frequency | A minha aula é às dez e meia. | My class is at half past ten.
+Brazilian Portuguese::A1::Time, days, schedules & frequency | A que horas você acorda? | What time do you wake up?
+Brazilian Portuguese::A1::Time, days, schedules & frequency | Eu acordo às seis e vinte. | I wake up at twenty past six.
+Brazilian Portuguese::A1::Time, days, schedules & frequency | Que dia é hoje? | What day is it today?
+Brazilian Portuguese::A1::Time, days, schedules & frequency | Hoje é dia quinze. | Today is the fifteenth.
+Brazilian Portuguese::A1::Time, days, schedules & frequency | Que dia é o seu aniversário? | What day is your birthday?
