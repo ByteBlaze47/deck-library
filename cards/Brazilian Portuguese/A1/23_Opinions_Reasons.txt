@@ -1,0 +1,40 @@
+Brazilian Portuguese::A1::Opinions, reasons & simple justifications | Eu acho que o livro é muito bom. | I think the book is very good.
+Brazilian Portuguese::A1::Opinions, reasons & simple justifications | O que você acha do filme? | What do you think of the film?
+Brazilian Portuguese::A1::Opinions, reasons & simple justifications | Eu acho que ele é muito engraçado. | I think he is very funny.
+Brazilian Portuguese::A1::Opinions, reasons & simple justifications | Eu não acho que o preço é bom. | I do not think the price is good.
+Brazilian Portuguese::A1::Opinions, reasons & simple justifications | Eu penso que a casa é bonita. | I think the house is nice.
+Brazilian Portuguese::A1::Opinions, reasons & simple justifications | Na minha opinião, o café é melhor que o chá. | In my opinion, coffee is better than tea.
+Brazilian Portuguese::A1::Opinions, reasons & simple justifications | Para mim, o verão é a melhor estação. | For me, summer is the best season.
+Brazilian Portuguese::A1::Opinions, reasons & simple justifications | Eu concordo com você. | I agree with you.
+Brazilian Portuguese::A1::Opinions, reasons & simple justifications | Eu não concordo. | I do not agree.
+Brazilian Portuguese::A1::Opinions, reasons & simple justifications | Você tem razão. | You are right.
+Brazilian Portuguese::A1::Opinions, reasons & simple justifications | Eu tenho certeza que ele vem. | I am sure he is coming.
+Brazilian Portuguese::A1::Opinions, reasons & simple justifications | Por que você gosta de morar aqui? | Why do you like living here?
+Brazilian Portuguese::A1::Opinions, reasons & simple justifications | Eu gosto porque a cidade é tranquila. | I like it because the city is quiet.
+Brazilian Portuguese::A1::Opinions, reasons & simple justifications | Eu estudo português porque quero viajar pro Brasil. | I study Portuguese because I want to travel to Brazil.
+Brazilian Portuguese::A1::Opinions, reasons & simple justifications | Eu não vou porque estou cansado. | I am not going because I am tired.
+Brazilian Portuguese::A1::Opinions, reasons & simple justifications | Ele chega tarde porque o ônibus demora. | He arrives late because the bus takes a long time.
+Brazilian Portuguese::A1::Opinions, reasons & simple justifications | Ela não come carne porque não gosta. | She does not eat meat because she does not like it.
+Brazilian Portuguese::A1::Opinions, reasons & simple justifications | Eu estou feliz porque hoje é sexta. | I am happy because today is Friday.
+Brazilian Portuguese::A1::Opinions, reasons & simple justifications | Por que ela não está aqui? | Why is she not here?
+Brazilian Portuguese::A1::Opinions, reasons & simple justifications | Porque ela está doente. | Because she is ill.
+Brazilian Portuguese::A1::Opinions, reasons & simple justifications | O trabalho é difícil, por isso eu estudo muito. | The work is difficult, so I study a lot.
+Brazilian Portuguese::A1::Opinions, reasons & simple justifications | Está chovendo, então eu fico em casa. | It is raining, so I am staying at home.
+Brazilian Portuguese::A1::Opinions, reasons & simple justifications | Eu gosto de acordar cedo, mas não gosto de dormir tarde. | I like waking up early, but I do not like going to bed late.
+Brazilian Portuguese::A1::Opinions, reasons & simple justifications | O hotel é caro, mas é muito bom. | The hotel is expensive, but it is very good.
+Brazilian Portuguese::A1::Opinions, reasons & simple justifications | Eu acho a comida brasileira deliciosa. | I find Brazilian food delicious.
+Brazilian Portuguese::A1::Opinions, reasons & simple justifications | Eu acho o português bonito, mas difícil. | I find Portuguese beautiful, but difficult.
+Brazilian Portuguese::A1::Opinions, reasons & simple justifications | Você acha o inglês fácil? | Do you find English easy?
+Brazilian Portuguese::A1::Opinions, reasons & simple justifications | Eu acho que sim. | I think so.
+Brazilian Portuguese::A1::Opinions, reasons & simple justifications | Eu acho que não. | I do not think so.
+Brazilian Portuguese::A1::Opinions, reasons & simple justifications | Eu penso que é uma boa ideia. | I think it is a good idea.
+Brazilian Portuguese::A1::Opinions, reasons & simple justifications | É uma ideia ótima! | It is a great idea!
+Brazilian Portuguese::A1::Opinions, reasons & simple justifications | Não é uma boa ideia porque faz muito frio. | It is not a good idea because it is very cold.
+Brazilian Portuguese::A1::Opinions, reasons & simple justifications | Eu prefiro ficar em casa porque o filme é longo. | I prefer to stay at home because the film is long.
+Brazilian Portuguese::A1::Opinions, reasons & simple justifications | Eles estão felizes porque vão viajar. | They are happy because they are going to travel.
+Brazilian Portuguese::A1::Opinions, reasons & simple justifications | Por que você não vem com a gente? | Why do you not come with us?
+Brazilian Portuguese::A1::Opinions, reasons & simple justifications | Eu não posso porque tenho que trabalhar. | I cannot because I have to work.
+Brazilian Portuguese::A1::Opinions, reasons & simple justifications | Nós gostamos desta cidade porque as pessoas são simpáticas. | We like this city because the people are friendly.
+Brazilian Portuguese::A1::Opinions, reasons & simple justifications | Meu irmão acha o futebol chato, mas eu adoro. | My brother finds football boring, but I love it.
+Brazilian Portuguese::A1::Opinions, reasons & simple justifications | Na minha opinião, a vida aqui é boa e tranquila. | In my opinion, life here is good and peaceful.
+Brazilian Portuguese::A1::Opinions, reasons & simple justifications | Eu acho importante estudar um pouco todos os dias. | I think it is important to study a little every day.
