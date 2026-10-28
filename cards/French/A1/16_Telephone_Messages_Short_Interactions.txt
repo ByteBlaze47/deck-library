@@ -1,0 +1,46 @@
+#lang: fr -> en
+French::A1::Telephone, messages & short interactions | Allô, c'est Marie à l'appareil. | Hello, it's Marie speaking.
+French::A1::Telephone, messages & short interactions | Bonjour, puis-je parler à Monsieur Durand ? | Hello, may I speak to Mr Durand?
+French::A1::Telephone, messages & short interactions | Un instant, je vous le passe. | One moment, I'll put him through.
+French::A1::Telephone, messages & short interactions | Je ne l'entends pas. | I can't hear him.
+French::A1::Telephone, messages & short interactions | Tu m'entends bien ? | Can you hear me well?
+French::A1::Telephone, messages & short interactions | Je ne vous entends pas bien, madame. | I can't hear you well, madam.
+French::A1::Telephone, messages & short interactions | Pouvez-vous répéter, s'il vous plaît ? | Can you repeat that, please?
+French::A1::Telephone, messages & short interactions | Je vous rappelle demain. | I'll call you back tomorrow.
+French::A1::Telephone, messages & short interactions | Je te rappelle ce soir. | I'll call you back this evening.
+French::A1::Telephone, messages & short interactions | Il ne me rappelle jamais. | He never calls me back.
+French::A1::Telephone, messages & short interactions | Elle ne nous répond pas. | She isn't answering us.
+French::A1::Telephone, messages & short interactions | Tu ne la vois pas ? | Can't you see her?
+French::A1::Telephone, messages & short interactions | Est-ce que tu me vois ? | Can you see me?
+French::A1::Telephone, messages & short interactions | Est-ce que vous nous entendez ? | Can you hear us?
+French::A1::Telephone, messages & short interactions | Tu l'as vu ? | Have you seen him?
+French::A1::Telephone, messages & short interactions | Vous les avez appelés ? | Have you called them?
+French::A1::Telephone, messages & short interactions | Je ne l'ai pas appelé. | I haven't called him.
+French::A1::Telephone, messages & short interactions | Je n'ai pas reçu ton message. | I haven't received your message.
+French::A1::Telephone, messages & short interactions | Je t'envoie un message. | I'm sending you a message.
+French::A1::Telephone, messages & short interactions | Je vous envoie un email. | I'm sending you an email.
+French::A1::Telephone, messages & short interactions | Elle m'a envoyé une photo. | She sent me a photo.
+French::A1::Telephone, messages & short interactions | Il ne t'a pas répondu ? | Didn't he answer you?
+French::A1::Telephone, messages & short interactions | Tu vas à la fête ? Oui, j'y vais. | Are you going to the party? Yes, I'm going.
+French::A1::Telephone, messages & short interactions | Il est chez toi ? Oui, il y est. | Is he at your place? Yes, he's there.
+French::A1::Telephone, messages & short interactions | Nous y allons ce soir. | We're going there this evening.
+French::A1::Telephone, messages & short interactions | Je n'y vais pas demain. | I'm not going there tomorrow.
+French::A1::Telephone, messages & short interactions | Tu as du temps ? Oui, j'en ai. | Do you have time? Yes, I have some.
+French::A1::Telephone, messages & short interactions | Vous avez des enfants ? Oui, j'en ai deux. | Do you have children? Yes, I have two.
+French::A1::Telephone, messages & short interactions | Tu veux du café ? Oui, j'en veux. | Do you want coffee? Yes, I want some.
+French::A1::Telephone, messages & short interactions | Je n'en ai pas. | I don't have any.
+French::A1::Telephone, messages & short interactions | Elle en prend trois. | She takes three of them.
+French::A1::Telephone, messages & short interactions | Salut, ça va ? | Hi, how's it going?
+French::A1::Telephone, messages & short interactions | Oui, ça va, et toi ? | Yes, fine, and you?
+French::A1::Telephone, messages & short interactions | Bonjour, comment allez-vous ? | Hello, how are you?
+French::A1::Telephone, messages & short interactions | Très bien, merci, et vous ? | Very well, thank you, and you?
+French::A1::Telephone, messages & short interactions | Message : « Je suis en retard, désolé. » | Message: "I'm late, sorry."
+French::A1::Telephone, messages & short interactions | Je suis désolé, je suis en retard. | I'm sorry, I'm late.
+French::A1::Telephone, messages & short interactions | Je suis occupé, je te rappelle plus tard. | I'm busy, I'll call you back later.
+French::A1::Telephone, messages & short interactions | Ne quittez pas, s'il vous plaît. | Please hold the line.
+French::A1::Telephone, messages & short interactions | Il n'est pas là en ce moment. | He's not here at the moment.
+French::A1::Telephone, messages & short interactions | Voulez-vous laisser un message ? | Would you like to leave a message?
+French::A1::Telephone, messages & short interactions | Oui, dites-lui de me rappeler. | Yes, tell him to call me back.
+French::A1::Telephone, messages & short interactions | À tout à l'heure ! | See you later!
+French::A1::Telephone, messages & short interactions | À bientôt ! | See you soon!
+French::A1::Telephone, messages & short interactions | Bonne soirée, au revoir. | Have a good evening, goodbye.
