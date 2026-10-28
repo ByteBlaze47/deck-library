@@ -1,0 +1,41 @@
+#lang: fr -> en
+French::A1::Preferences, opinions & simple comparisons | Je préfère le thé au café. | I prefer tea to coffee.
+French::A1::Preferences, opinions & simple comparisons | Elle préfère la mer à la montagne. | She prefers the sea to the mountains.
+French::A1::Preferences, opinions & simple comparisons | Mon frère est plus grand que moi. | My brother is taller than me.
+French::A1::Preferences, opinions & simple comparisons | Ma sœur est moins timide que lui. | My sister is less shy than him.
+French::A1::Preferences, opinions & simple comparisons | Il est aussi intelligent que son père. | He is as intelligent as his father.
+French::A1::Preferences, opinions & simple comparisons | Paris est plus grand que Lyon. | Paris is bigger than Lyon.
+French::A1::Preferences, opinions & simple comparisons | Ce film est moins long que l'autre. | This film is shorter than the other one.
+French::A1::Preferences, opinions & simple comparisons | Cette robe est aussi chère que ce manteau. | This dress is as expensive as that coat.
+French::A1::Preferences, opinions & simple comparisons | Le train est plus rapide que le bus. | The train is faster than the bus.
+French::A1::Preferences, opinions & simple comparisons | Le bus est moins cher que le taxi. | The bus is cheaper than the taxi.
+French::A1::Preferences, opinions & simple comparisons | Je trouve ce livre plus intéressant que ce film. | I find this book more interesting than that film.
+French::A1::Preferences, opinions & simple comparisons | À mon avis, c'est une bonne idée. | In my opinion, it's a good idea.
+French::A1::Preferences, opinions & simple comparisons | Je pense que c'est très beau. | I think it's very beautiful.
+French::A1::Preferences, opinions & simple comparisons | Tu penses que c'est facile ? | Do you think it's easy?
+French::A1::Preferences, opinions & simple comparisons | Je trouve ça difficile. | I find it difficult.
+French::A1::Preferences, opinions & simple comparisons | J'adore cette chanson parce qu'elle est joyeuse. | I love this song because it is cheerful.
+French::A1::Preferences, opinions & simple comparisons | Il reste à la maison parce qu'il est malade. | He is staying at home because he is ill.
+French::A1::Preferences, opinions & simple comparisons | Nous restons ici parce qu'il pleut. | We are staying here because it is raining.
+French::A1::Preferences, opinions & simple comparisons | Il est malade, donc il reste au lit. | He is ill, so he is staying in bed.
+French::A1::Preferences, opinions & simple comparisons | Il pleut, donc nous restons à la maison. | It is raining, so we are staying at home.
+French::A1::Preferences, opinions & simple comparisons | J'ai faim, donc je mange un sandwich. | I am hungry, so I am eating a sandwich.
+French::A1::Preferences, opinions & simple comparisons | C'est l'homme qui travaille ici. | He is the man who works here.
+French::A1::Preferences, opinions & simple comparisons | C'est la femme qui habite à côté. | She is the woman who lives next door.
+French::A1::Preferences, opinions & simple comparisons | Voici le livre qui est sur la table. | Here is the book that is on the table.
+French::A1::Preferences, opinions & simple comparisons | J'aime les gens qui sourient. | I like people who smile.
+French::A1::Preferences, opinions & simple comparisons | Il y a un restaurant qui sert de bons plats. | There is a restaurant that serves good dishes.
+French::A1::Preferences, opinions & simple comparisons | J'ai un ami qui parle cinq langues. | I have a friend who speaks five languages.
+French::A1::Preferences, opinions & simple comparisons | Elle a une sœur qui vit à Londres. | She has a sister who lives in London.
+French::A1::Preferences, opinions & simple comparisons | Nous avons un chien qui aime jouer. | We have a dog that likes to play.
+French::A1::Preferences, opinions & simple comparisons | Quel est ton plat préféré ? | What is your favourite dish?
+French::A1::Preferences, opinions & simple comparisons | Mon plat préféré est le poulet rôti. | My favourite dish is roast chicken.
+French::A1::Preferences, opinions & simple comparisons | Ce restaurant est meilleur que l'autre. | This restaurant is better than the other one.
+French::A1::Preferences, opinions & simple comparisons | Cette pizza est meilleure que celle-là. | This pizza is better than that one.
+French::A1::Preferences, opinions & simple comparisons | Je mange plus de légumes que de viande. | I eat more vegetables than meat.
+French::A1::Preferences, opinions & simple comparisons | Elle boit moins de café que moi. | She drinks less coffee than me.
+French::A1::Preferences, opinions & simple comparisons | Nous avons autant de travail que vous. | We have as much work as you.
+French::A1::Preferences, opinions & simple comparisons | Je préfère le rouge, mais elle préfère le bleu. | I prefer red, but she prefers blue.
+French::A1::Preferences, opinions & simple comparisons | C'est intéressant, mais c'est trop long. | It's interesting, but it's too long.
+French::A1::Preferences, opinions & simple comparisons | D'accord, je suis d'accord avec toi. | OK, I agree with you.
+French::A1::Preferences, opinions & simple comparisons | Ce n'est pas mon avis. | That's not my opinion.
