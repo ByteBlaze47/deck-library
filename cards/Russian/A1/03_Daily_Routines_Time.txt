@@ -1,0 +1,46 @@
+#lang: ru -> en
+Russian::A1::Daily routines & time expressions | Я встаю в семь часов. | I get up at seven o'clock.
+Russian::A1::Daily routines & time expressions | Он встаёт в половине восьмого. | He gets up at half past seven.
+Russian::A1::Daily routines & time expressions | Она завтракает в восемь. | She has breakfast at eight.
+Russian::A1::Daily routines & time expressions | Мы обычно пьём чай утром. | We usually drink tea in the morning.
+Russian::A1::Daily routines & time expressions | Я иду на работу в девять. | I go to work at nine.
+Russian::A1::Daily routines & time expressions | Работа начинается в девять часов. | Work starts at nine o'clock.
+Russian::A1::Daily routines & time expressions | Который час? | What time is it?
+Russian::A1::Daily routines & time expressions | Сейчас два часа. | It's two o'clock now.
+Russian::A1::Daily routines & time expressions | Сейчас пять минут третьего. | It's five past two.
+Russian::A1::Daily routines & time expressions | Сейчас без десяти три. | It's ten to three.
+Russian::A1::Daily routines & time expressions | Сейчас половина пятого. | It's half past four.
+Russian::A1::Daily routines & time expressions | Я обедаю в час. | I have lunch at one.
+Russian::A1::Daily routines & time expressions | Они ужинают в семь вечера. | They have dinner at seven in the evening.
+Russian::A1::Daily routines & time expressions | Я всегда читаю утром. | I always read in the morning.
+Russian::A1::Daily routines & time expressions | Он часто гуляет вечером. | He often walks in the evening.
+Russian::A1::Daily routines & time expressions | Она редко смотрит телевизор. | She rarely watches television.
+Russian::A1::Daily routines & time expressions | Мы никогда не спим днём. | We never sleep during the day.
+Russian::A1::Daily routines & time expressions | Иногда я готовлю ужин. | Sometimes I cook dinner.
+Russian::A1::Daily routines & time expressions | Ты рано встаёшь? | Do you get up early?
+Russian::A1::Daily routines & time expressions | Вы поздно ложитесь спать? | Do you go to bed late?
+Russian::A1::Daily routines & time expressions | Я ложусь спать в одиннадцать. | I go to bed at eleven.
+Russian::A1::Daily routines & time expressions | Дети идут в школу в восемь. | The children go to school at eight.
+Russian::A1::Daily routines & time expressions | Урок заканчивается в три часа. | The lesson ends at three o'clock.
+Russian::A1::Daily routines & time expressions | Я принимаю душ каждый день. | I take a shower every day.
+Russian::A1::Daily routines & time expressions | Он чистит зубы утром и вечером. | He brushes his teeth morning and evening.
+Russian::A1::Daily routines & time expressions | Мы едем домой в шесть. | We travel home at six.
+Russian::A1::Daily routines & time expressions | Она возвращается поздно. | She comes back late.
+Russian::A1::Daily routines & time expressions | Что ты делаешь по утрам? | What do you do in the mornings?
+Russian::A1::Daily routines & time expressions | Я пью кофе и читаю новости. | I drink coffee and read the news.
+Russian::A1::Daily routines & time expressions | В субботу я отдыхаю. | On Saturday I rest.
+Russian::A1::Daily routines & time expressions | В воскресенье мы не работаем. | On Sunday we don't work.
+Russian::A1::Daily routines & time expressions | По понедельникам у меня урок. | On Mondays I have a lesson.
+Russian::A1::Daily routines & time expressions | Каждый вечер он звонит маме. | Every evening he phones his mum.
+Russian::A1::Daily routines & time expressions | Я быстро завтракаю. | I eat breakfast quickly.
+Russian::A1::Daily routines & time expressions | Она медленно идёт домой. | She walks home slowly.
+Russian::A1::Daily routines & time expressions | Они хорошо знают расписание. | They know the timetable well.
+Russian::A1::Daily routines & time expressions | Мы часто ужинаем вместе. | We often have dinner together.
+Russian::A1::Daily routines & time expressions | Утром я занимаюсь спортом. | In the morning I do sport.
+Russian::A1::Daily routines & time expressions | Вечером я отдыхаю дома. | In the evening I relax at home.
+Russian::A1::Daily routines & time expressions | Днём я работаю. | During the day I work.
+Russian::A1::Daily routines & time expressions | Ночью все спят. | At night everyone sleeps.
+Russian::A1::Daily routines & time expressions | Во сколько вы обедаете? | At what time do you have lunch?
+Russian::A1::Daily routines & time expressions | Я обедаю в двенадцать тридцать. | I have lunch at twelve thirty.
+Russian::A1::Daily routines & time expressions | Он живёт недалеко от работы. | He lives not far from work.
+Russian::A1::Daily routines & time expressions | Мой день начинается рано. | My day starts early.
