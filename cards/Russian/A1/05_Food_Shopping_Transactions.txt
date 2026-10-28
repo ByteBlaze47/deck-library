@@ -1,0 +1,51 @@
+#lang: ru -> en
+Russian::A1::Food, shopping & basic transactions | Я хочу хлеб. | I want some bread.
+Russian::A1::Food, shopping & basic transactions | Дайте, пожалуйста, молоко. | Give me some milk, please.
+Russian::A1::Food, shopping & basic transactions | Я покупаю сыр и колбасу. | I am buying cheese and sausage.
+Russian::A1::Food, shopping & basic transactions | Мы покупаем овощи на рынке. | We buy vegetables at the market.
+Russian::A1::Food, shopping & basic transactions | Сколько это стоит? | How much does this cost?
+Russian::A1::Food, shopping & basic transactions | Это стоит сто рублей. | This costs a hundred roubles.
+Russian::A1::Food, shopping & basic transactions | Я куплю воду. | I will buy water.
+Russian::A1::Food, shopping & basic transactions | Он взял сумку. | He took a bag.
+Russian::A1::Food, shopping & basic transactions | Она купила яблоки. | She bought apples.
+Russian::A1::Food, shopping & basic transactions | Мне нужен один килограмм картофеля. | I need one kilogram of potatoes.
+Russian::A1::Food, shopping & basic transactions | Дайте два яблока. | Give me two apples.
+Russian::A1::Food, shopping & basic transactions | Мне нужно три банана. | I need three bananas.
+Russian::A1::Food, shopping & basic transactions | У нас четыре яйца. | We have four eggs.
+Russian::A1::Food, shopping & basic transactions | Здесь нет сахара. | There is no sugar here.
+Russian::A1::Food, shopping & basic transactions | У меня нет денег. | I have no money.
+Russian::A1::Food, shopping & basic transactions | В магазине нет хлеба. | There is no bread in the shop.
+Russian::A1::Food, shopping & basic transactions | Я не люблю рыбу. | I don't like fish.
+Russian::A1::Food, shopping & basic transactions | Налейте мне чаю. | Pour me some tea.
+Russian::A1::Food, shopping & basic transactions | Хотите кофе? | Would you like some coffee?
+Russian::A1::Food, shopping & basic transactions | Я пью чай без сахара. | I drink tea without sugar.
+Russian::A1::Food, shopping & basic transactions | Что вы будете заказывать? | What will you order?
+Russian::A1::Food, shopping & basic transactions | Я буду суп и салат. | I will have soup and salad.
+Russian::A1::Food, shopping & basic transactions | Принесите счёт, пожалуйста. | Please bring the bill.
+Russian::A1::Food, shopping & basic transactions | Вы принимаете карты? | Do you accept cards?
+Russian::A1::Food, shopping & basic transactions | Я плачу наличными. | I am paying in cash.
+Russian::A1::Food, shopping & basic transactions | Вот ваша сдача. | Here is your change.
+Russian::A1::Food, shopping & basic transactions | Это свежий хлеб? | Is this fresh bread?
+Russian::A1::Food, shopping & basic transactions | Да, он только что из печи. | Yes, it's just out of the oven.
+Russian::A1::Food, shopping & basic transactions | Я ем кашу на завтрак. | I eat porridge for breakfast.
+Russian::A1::Food, shopping & basic transactions | Мы едим мясо и рис. | We eat meat and rice.
+Russian::A1::Food, shopping & basic transactions | Она любит шоколад. | She loves chocolate.
+Russian::A1::Food, shopping & basic transactions | Я люблю мороженое. | I like ice cream.
+Russian::A1::Food, shopping & basic transactions | Вот мой список покупок. | Here is my shopping list.
+Russian::A1::Food, shopping & basic transactions | Я иду в магазин. | I am going to the shop.
+Russian::A1::Food, shopping & basic transactions | Он идёт на рынок. | He is going to the market.
+Russian::A1::Food, shopping & basic transactions | Где здесь супермаркет? | Where is the supermarket here?
+Russian::A1::Food, shopping & basic transactions | Мне нужна сумка. | I need a bag.
+Russian::A1::Food, shopping & basic transactions | Это очень дорого. | That is very expensive.
+Russian::A1::Food, shopping & basic transactions | Это дёшево. | That is cheap.
+Russian::A1::Food, shopping & basic transactions | Есть скидка? | Is there a discount?
+Russian::A1::Food, shopping & basic transactions | Я возьму вот это. | I'll take this one.
+Russian::A1::Food, shopping & basic transactions | Дайте мне пачку масла. | Give me a pack of butter.
+Russian::A1::Food, shopping & basic transactions | Купите бутылку воды. | Buy a bottle of water.
+Russian::A1::Food, shopping & basic transactions | Мы купили шесть бутылок воды. | We bought six bottles of water.
+Russian::A1::Food, shopping & basic transactions | Я хочу пить. | I'm thirsty.
+Russian::A1::Food, shopping & basic transactions | Я хочу есть. | I'm hungry.
+Russian::A1::Food, shopping & basic transactions | Магазин открыт до десяти. | The shop is open until ten.
+Russian::A1::Food, shopping & basic transactions | Вы работаете сегодня? | Are you open today?
+Russian::A1::Food, shopping & basic transactions | Дайте мне, пожалуйста, чашку чая. | Give me a cup of tea, please.
+Russian::A1::Food, shopping & basic transactions | Приятного аппетита! | Enjoy your meal!
