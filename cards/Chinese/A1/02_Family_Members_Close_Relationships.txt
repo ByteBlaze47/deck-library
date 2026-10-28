@@ -1,0 +1,41 @@
+#lang: zh -> en
+Chinese::A1::Family members & close relationships | 这是我的家人。 | This is my family.
+Chinese::A1::Family members & close relationships | 我有一个哥哥。 | I have an older brother.
+Chinese::A1::Family members & close relationships | 我有两个姐姐。 | I have two older sisters.
+Chinese::A1::Family members & close relationships | 他有一个妹妹。 | He has a younger sister.
+Chinese::A1::Family members & close relationships | 她有一个弟弟。 | She has a younger brother.
+Chinese::A1::Family members & close relationships | 我没有弟弟。 | I don't have a younger brother.
+Chinese::A1::Family members & close relationships | 我爸爸是医生。 | My dad is a doctor.
+Chinese::A1::Family members & close relationships | 我妈妈很忙。 | My mum is very busy.
+Chinese::A1::Family members & close relationships | 我哥哥很高。 | My older brother is very tall.
+Chinese::A1::Family members & close relationships | 我姐姐是老师。 | My older sister is a teacher.
+Chinese::A1::Family members & close relationships | 我朋友有三个孩子。 | My friend has three children.
+Chinese::A1::Family members & close relationships | 你有兄弟姐妹吗？ | Do you have any brothers or sisters?
+Chinese::A1::Family members & close relationships | 我有一个儿子。 | I have a son.
+Chinese::A1::Family members & close relationships | 我有一个女儿。 | I have a daughter.
+Chinese::A1::Family members & close relationships | 他们有两个孩子。 | They have two children.
+Chinese::A1::Family members & close relationships | 我家有四口人。 | There are four people in my family.
+Chinese::A1::Family members & close relationships | 我的家很大。 | My family is very big.
+Chinese::A1::Family members & close relationships | 我爷爷很老。 | My grandfather is very old.
+Chinese::A1::Family members & close relationships | 我奶奶今年七十岁。 | My grandmother is seventy this year.
+Chinese::A1::Family members & close relationships | 我外公是老师。 | My maternal grandfather is a teacher.
+Chinese::A1::Family members & close relationships | 我外婆很好。 | My maternal grandmother is very well.
+Chinese::A1::Family members & close relationships | 这是我爸爸的车。 | This is my dad's car.
+Chinese::A1::Family members & close relationships | 那是我妈妈的书。 | That is my mum's book.
+Chinese::A1::Family members & close relationships | 他是我的丈夫。 | He is my husband.
+Chinese::A1::Family members & close relationships | 她是我的妻子。 | She is my wife.
+Chinese::A1::Family members & close relationships | 我叔叔有一个女儿。 | My uncle has a daughter.
+Chinese::A1::Family members & close relationships | 我阿姨有两个儿子。 | My aunt has two sons.
+Chinese::A1::Family members & close relationships | 我的家人都很好。 | My family are all well.
+Chinese::A1::Family members & close relationships | 你爸爸做什么工作？ | What does your dad do for a living?
+Chinese::A1::Family members & close relationships | 你有几个孩子？ | How many children do you have?
+Chinese::A1::Family members & close relationships | 我有一个朋友。 | I have a friend.
+Chinese::A1::Family members & close relationships | 他是我的好朋友。 | He is my good friend.
+Chinese::A1::Family members & close relationships | 她是我的同事。 | She is my colleague.
+Chinese::A1::Family members & close relationships | 他们是我的邻居。 | They are my neighbours.
+Chinese::A1::Family members & close relationships | 你有姐姐吗？ | Do you have an older sister?
+Chinese::A1::Family members & close relationships | 我没有哥哥，我有一个弟弟。 | I don't have an older brother; I have a younger brother.
+Chinese::A1::Family members & close relationships | 我们家有一只狗。 | We have a dog at home.
+Chinese::A1::Family members & close relationships | 我妹妹有一只猫。 | My younger sister has a cat.
+Chinese::A1::Family members & close relationships | 我很爱我的家人。 | I love my family very much.
+Chinese::A1::Family members & close relationships | 我的家人住在北京。 | My family live in Beijing.
