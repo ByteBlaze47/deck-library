@@ -1,0 +1,40 @@
+Brazilian Portuguese::A1::Preferences, likes/dislikes & free time | Eu gosto de ler livros no meu tempo livre. | I like reading books in my free time.
+Brazilian Portuguese::A1::Preferences, likes/dislikes & free time | Ela gosta de ouvir música. | She likes listening to music.
+Brazilian Portuguese::A1::Preferences, likes/dislikes & free time | Nós gostamos de viajar. | We like travelling.
+Brazilian Portuguese::A1::Preferences, likes/dislikes & free time | Eu prefiro café a chá. | I prefer coffee to tea.
+Brazilian Portuguese::A1::Preferences, likes/dislikes & free time | Ele prefere ficar em casa. | He prefers staying at home.
+Brazilian Portuguese::A1::Preferences, likes/dislikes & free time | Você prefere cinema ou teatro? | Do you prefer the cinema or the theatre?
+Brazilian Portuguese::A1::Preferences, likes/dislikes & free time | Eu quero assistir a um filme hoje. | I want to watch a film today.
+Brazilian Portuguese::A1::Preferences, likes/dislikes & free time | Eu gosto de filmes e séries. | I like films and series.
+Brazilian Portuguese::A1::Preferences, likes/dislikes & free time | Ela gosta de dançar, mas não gosta de cantar. | She likes dancing, but does not like singing.
+Brazilian Portuguese::A1::Preferences, likes/dislikes & free time | Eu não gosto de esperar. | I do not like waiting.
+Brazilian Portuguese::A1::Preferences, likes/dislikes & free time | Meu irmão adora futebol. | My brother loves football.
+Brazilian Portuguese::A1::Preferences, likes/dislikes & free time | Eu adoro a praia. | I love the beach.
+Brazilian Portuguese::A1::Preferences, likes/dislikes & free time | Ela odeia acordar cedo. | She hates waking up early.
+Brazilian Portuguese::A1::Preferences, likes/dislikes & free time | Eu gosto de caminhar no parque ou de andar de bicicleta. | I like walking in the park or riding a bike.
+Brazilian Portuguese::A1::Preferences, likes/dislikes & free time | Nós gostamos de cozinhar e comer juntos. | We like cooking and eating together.
+Brazilian Portuguese::A1::Preferences, likes/dislikes & free time | Você gosta de esportes? | Do you like sports?
+Brazilian Portuguese::A1::Preferences, likes/dislikes & free time | Sim, eu gosto muito de nadar. | Yes, I like swimming a lot.
+Brazilian Portuguese::A1::Preferences, likes/dislikes & free time | Não, eu não gosto de correr. | No, I do not like running.
+Brazilian Portuguese::A1::Preferences, likes/dislikes & free time | Eu quero jogar futebol no sábado. | I want to play football on Saturday.
+Brazilian Portuguese::A1::Preferences, likes/dislikes & free time | Ele quer tocar violão. | He wants to play the guitar.
+Brazilian Portuguese::A1::Preferences, likes/dislikes & free time | O filme é bom, mas é longo. | The film is good, but it is long.
+Brazilian Portuguese::A1::Preferences, likes/dislikes & free time | A música é bonita e alegre. | The music is beautiful and cheerful.
+Brazilian Portuguese::A1::Preferences, likes/dislikes & free time | Eu acho o livro interessante. | I find the book interesting.
+Brazilian Portuguese::A1::Preferences, likes/dislikes & free time | Eu prefiro livros curtos. | I prefer short books.
+Brazilian Portuguese::A1::Preferences, likes/dislikes & free time | Eles preferem viajar de avião. | They prefer to travel by plane.
+Brazilian Portuguese::A1::Preferences, likes/dislikes & free time | Ela gosta de museus e de parques. | She likes museums and parks.
+Brazilian Portuguese::A1::Preferences, likes/dislikes & free time | Eu gosto de passear com os meus amigos. | I like going out with my friends.
+Brazilian Portuguese::A1::Preferences, likes/dislikes & free time | No fim de semana, eu gosto de descansar. | At the weekend, I like to rest.
+Brazilian Portuguese::A1::Preferences, likes/dislikes & free time | Eu gosto de sair, mas hoje quero ficar em casa. | I like going out, but today I want to stay at home.
+Brazilian Portuguese::A1::Preferences, likes/dislikes & free time | Ele gosta de jogar videogame. | He likes playing video games.
+Brazilian Portuguese::A1::Preferences, likes/dislikes & free time | Minha mãe gosta de plantas e de flores. | My mother likes plants and flowers.
+Brazilian Portuguese::A1::Preferences, likes/dislikes & free time | Meu pai gosta de pescar. | My father likes fishing.
+Brazilian Portuguese::A1::Preferences, likes/dislikes & free time | Nós preferimos a praia ao campo. | We prefer the beach to the countryside.
+Brazilian Portuguese::A1::Preferences, likes/dislikes & free time | O que você gosta de fazer? | What do you like to do?
+Brazilian Portuguese::A1::Preferences, likes/dislikes & free time | Eu gosto de tirar fotos. | I like taking photos.
+Brazilian Portuguese::A1::Preferences, likes/dislikes & free time | Ela gosta de desenhar e pintar. | She likes drawing and painting.
+Brazilian Portuguese::A1::Preferences, likes/dislikes & free time | Você quer sair ou ficar? | Do you want to go out or stay in?
+Brazilian Portuguese::A1::Preferences, likes/dislikes & free time | Eu quero sair, mas não tenho dinheiro. | I want to go out, but I do not have any money.
+Brazilian Portuguese::A1::Preferences, likes/dislikes & free time | Eu gosto de esportes e de música, mas não gosto de televisão. | I like sports and music, but I do not like television.
+Brazilian Portuguese::A1::Preferences, likes/dislikes & free time | O meu hobby favorito é ler. | My favourite hobby is reading.
