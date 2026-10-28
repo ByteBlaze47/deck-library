@@ -1,0 +1,41 @@
+#lang: it -> en
+Italian::A1::Comparing people, things & preferences | Marco è più alto di Luca. | Marco is taller than Luca.
+Italian::A1::Comparing people, things & preferences | Anna è meno alta di Maria. | Anna is less tall than Maria.
+Italian::A1::Comparing people, things & preferences | Sono alto come mio padre. | I'm as tall as my father.
+Italian::A1::Comparing people, things & preferences | Questa casa è più grande della mia. | This house is bigger than mine.
+Italian::A1::Comparing people, things & preferences | Questo libro è meno interessante di quello. | This book is less interesting than that one.
+Italian::A1::Comparing people, things & preferences | La pizza è buona come la pasta. | Pizza is as good as pasta.
+Italian::A1::Comparing people, things & preferences | Roma è più grande di Firenze. | Rome is bigger than Florence.
+Italian::A1::Comparing people, things & preferences | L'estate è più calda della primavera. | Summer is hotter than spring.
+Italian::A1::Comparing people, things & preferences | Mia sorella è più giovane di me. | My sister is younger than me.
+Italian::A1::Comparing people, things & preferences | Mio fratello è più vecchio di te. | My brother is older than you.
+Italian::A1::Comparing people, things & preferences | I miei amici sono più simpatici dei tuoi. | My friends are nicer than yours.
+Italian::A1::Comparing people, things & preferences | Le mie scarpe sono più comode delle tue. | My shoes are more comfortable than yours.
+Italian::A1::Comparing people, things & preferences | Questa borsa è più cara di quella. | This bag is more expensive than that one.
+Italian::A1::Comparing people, things & preferences | Il treno è più veloce dell'autobus. | The train is faster than the bus.
+Italian::A1::Comparing people, things & preferences | La macchina è meno economica della bicicletta. | The car is less economical than the bicycle.
+Italian::A1::Comparing people, things & preferences | Marco è il più alto della classe. | Marco is the tallest in the class.
+Italian::A1::Comparing people, things & preferences | Anna è la più giovane della famiglia. | Anna is the youngest in the family.
+Italian::A1::Comparing people, things & preferences | Questi sono i libri più belli. | These are the most beautiful books.
+Italian::A1::Comparing people, things & preferences | Queste sono le scarpe più care. | These are the most expensive shoes.
+Italian::A1::Comparing people, things & preferences | Lui è il meno simpatico. | He is the least friendly.
+Italian::A1::Comparing people, things & preferences | È la città più bella d'Italia. | It's the most beautiful city in Italy.
+Italian::A1::Comparing people, things & preferences | Il Po è il fiume più lungo d'Italia. | The Po is the longest river in Italy.
+Italian::A1::Comparing people, things & preferences | Preferisco il caffè al tè. | I prefer coffee to tea.
+Italian::A1::Comparing people, things & preferences | Preferisce il mare alla montagna. | She prefers the sea to the mountains.
+Italian::A1::Comparing people, things & preferences | Preferiamo il treno all'aereo. | We prefer the train to the plane.
+Italian::A1::Comparing people, things & preferences | Preferisci la carne o il pesce? | Do you prefer meat or fish?
+Italian::A1::Comparing people, things & preferences | Che cosa preferisci? | What do you prefer?
+Italian::A1::Comparing people, things & preferences | Preferisco questo. | I prefer this one.
+Italian::A1::Comparing people, things & preferences | Questo è meglio di quello. | This is better than that.
+Italian::A1::Comparing people, things & preferences | Questo è peggio di quello. | This is worse than that.
+Italian::A1::Comparing people, things & preferences | Sto meglio di ieri. | I'm better than yesterday.
+Italian::A1::Comparing people, things & preferences | Il mio italiano è migliore di prima. | My Italian is better than before.
+Italian::A1::Comparing people, things & preferences | Questa pizza è migliore. | This pizza is better.
+Italian::A1::Comparing people, things & preferences | Ho più amici di te. | I have more friends than you.
+Italian::A1::Comparing people, things & preferences | Ho meno tempo di lui. | I have less time than him.
+Italian::A1::Comparing people, things & preferences | Mangio meno di mio fratello. | I eat less than my brother.
+Italian::A1::Comparing people, things & preferences | Lavoro più di mia sorella. | I work more than my sister.
+Italian::A1::Comparing people, things & preferences | Costa più di cento euro. | It costs more than a hundred euros.
+Italian::A1::Comparing people, things & preferences | Non è difficile come l'inglese. | It isn't as difficult as English.
+Italian::A1::Comparing people, things & preferences | Le ragazze sono più studiose dei ragazzi. | The girls are more studious than the boys.
