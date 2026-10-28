@@ -1,0 +1,51 @@
+#lang: zh -> en
+Chinese::A1::Food, drinks & ordering at a simple eatery | 我想吃米饭。 | I would like to eat rice.
+Chinese::A1::Food, drinks & ordering at a simple eatery | 我要一碗面条。 | I'd like a bowl of noodles.
+Chinese::A1::Food, drinks & ordering at a simple eatery | 我要一碗米饭。 | I'd like a bowl of rice.
+Chinese::A1::Food, drinks & ordering at a simple eatery | 我想喝一杯茶。 | I would like a cup of tea.
+Chinese::A1::Food, drinks & ordering at a simple eatery | 来一杯咖啡。 | A coffee, please.
+Chinese::A1::Food, drinks & ordering at a simple eatery | 我要两瓶水。 | I'd like two bottles of water.
+Chinese::A1::Food, drinks & ordering at a simple eatery | 请给我菜单。 | Please give me the menu.
+Chinese::A1::Food, drinks & ordering at a simple eatery | 你们有什么菜？ | What dishes do you have?
+Chinese::A1::Food, drinks & ordering at a simple eatery | 有鸡肉吗？ | Do you have chicken?
+Chinese::A1::Food, drinks & ordering at a simple eatery | 我要一份炒饭。 | I'd like a portion of fried rice.
+Chinese::A1::Food, drinks & ordering at a simple eatery | 我要一盘饺子。 | I'd like a plate of dumplings.
+Chinese::A1::Food, drinks & ordering at a simple eatery | 我要一个包子。 | I'd like a steamed bun.
+Chinese::A1::Food, drinks & ordering at a simple eatery | 一共多少钱？ | How much is it altogether?
+Chinese::A1::Food, drinks & ordering at a simple eatery | 我想要一点儿汤。 | I would like a little soup.
+Chinese::A1::Food, drinks & ordering at a simple eatery | 请给我一点儿水。 | Please give me a little water.
+Chinese::A1::Food, drinks & ordering at a simple eatery | 请再来一点儿米饭。 | Please bring a little more rice.
+Chinese::A1::Food, drinks & ordering at a simple eatery | 我想吃一点儿水果。 | I would like to eat a little fruit.
+Chinese::A1::Food, drinks & ordering at a simple eatery | 你想喝点儿什么？ | What would you like to drink?
+Chinese::A1::Food, drinks & ordering at a simple eatery | 我喜欢吃牛肉。 | I like eating beef.
+Chinese::A1::Food, drinks & ordering at a simple eatery | 她不吃猪肉。 | She doesn't eat pork.
+Chinese::A1::Food, drinks & ordering at a simple eatery | 他爱吃鱼。 | He loves eating fish.
+Chinese::A1::Food, drinks & ordering at a simple eatery | 这个菜很好吃。 | This dish is delicious.
+Chinese::A1::Food, drinks & ordering at a simple eatery | 这个汤很好喝。 | This soup is very tasty.
+Chinese::A1::Food, drinks & ordering at a simple eatery | 这个太辣了。 | This is too spicy.
+Chinese::A1::Food, drinks & ordering at a simple eatery | 这个有点儿咸。 | This is a bit salty.
+Chinese::A1::Food, drinks & ordering at a simple eatery | 我要不辣的。 | I'd like one that's not spicy.
+Chinese::A1::Food, drinks & ordering at a simple eatery | 我要一杯热茶。 | I'd like a cup of hot tea.
+Chinese::A1::Food, drinks & ordering at a simple eatery | 我要一杯冰水。 | I'd like a glass of iced water.
+Chinese::A1::Food, drinks & ordering at a simple eatery | 我要一杯牛奶。 | I'd like a glass of milk.
+Chinese::A1::Food, drinks & ordering at a simple eatery | 我要一杯果汁。 | I'd like a glass of juice.
+Chinese::A1::Food, drinks & ordering at a simple eatery | 我们要两碗面条。 | We'd like two bowls of noodles.
+Chinese::A1::Food, drinks & ordering at a simple eatery | 我吃了一碗饭。 | I ate a bowl of rice.
+Chinese::A1::Food, drinks & ordering at a simple eatery | 他吃了两个包子。 | He ate two steamed buns.
+Chinese::A1::Food, drinks & ordering at a simple eatery | 我喝了一杯咖啡。 | I drank a cup of coffee.
+Chinese::A1::Food, drinks & ordering at a simple eatery | 她点了三个菜。 | She ordered three dishes.
+Chinese::A1::Food, drinks & ordering at a simple eatery | 我们点了一个汤。 | We ordered a soup.
+Chinese::A1::Food, drinks & ordering at a simple eatery | 我吃饱了。 | I am full.
+Chinese::A1::Food, drinks & ordering at a simple eatery | 我还饿。 | I am still hungry.
+Chinese::A1::Food, drinks & ordering at a simple eatery | 服务员，买单！ | Waiter, the bill, please!
+Chinese::A1::Food, drinks & ordering at a simple eatery | 在这儿吃还是带走？ | Eat in or take away?
+Chinese::A1::Food, drinks & ordering at a simple eatery | 我在这儿吃。 | I'll eat here.
+Chinese::A1::Food, drinks & ordering at a simple eatery | 我带走。 | I'll take it away.
+Chinese::A1::Food, drinks & ordering at a simple eatery | 这家饭馆的菜很好。 | The food at this restaurant is very good.
+Chinese::A1::Food, drinks & ordering at a simple eatery | 我早饭吃了一个鸡蛋。 | I had an egg for breakfast.
+Chinese::A1::Food, drinks & ordering at a simple eatery | 我爱吃苹果。 | I love eating apples.
+Chinese::A1::Food, drinks & ordering at a simple eatery | 他每天吃一个苹果。 | He eats an apple every day.
+Chinese::A1::Food, drinks & ordering at a simple eatery | 我吃素。 | I am vegetarian.
+Chinese::A1::Food, drinks & ordering at a simple eatery | 我不吃辣的。 | I don't eat spicy food.
+Chinese::A1::Food, drinks & ordering at a simple eatery | 请给我一双筷子。 | Please give me a pair of chopsticks.
+Chinese::A1::Food, drinks & ordering at a simple eatery | 谢谢，很好吃。 | Thank you, it was delicious.
