@@ -1,0 +1,46 @@
+#lang: ko -> en
+Korean::A1::Shopping & prices (market, convenience store) | 이것 얼마예요? | How much is this?
+Korean::A1::Shopping & prices (market, convenience store) | 이것은 오천 원이에요. | This is five thousand won.
+Korean::A1::Shopping & prices (market, convenience store) | 저것은 너무 비싸요. | That one is too expensive.
+Korean::A1::Shopping & prices (market, convenience store) | 이 가방은 싸요. | This bag is cheap.
+Korean::A1::Shopping & prices (market, convenience store) | 저는 우유를 사요. | I buy milk.
+Korean::A1::Shopping & prices (market, convenience store) | 저는 빵을 사고 싶어요. | I want to buy bread.
+Korean::A1::Shopping & prices (market, convenience store) | 저는 물을 마시고 싶어요. | I want to drink water.
+Korean::A1::Shopping & prices (market, convenience store) | 저는 과일을 먹고 싶어요. | I want to eat fruit.
+Korean::A1::Shopping & prices (market, convenience store) | 저는 새 신발을 사고 싶어요. | I want to buy new shoes.
+Korean::A1::Shopping & prices (market, convenience store) | 이것을 주세요. | Please give me this.
+Korean::A1::Shopping & prices (market, convenience store) | 저것도 주세요. | Please give me that one too.
+Korean::A1::Shopping & prices (market, convenience store) | 봉투 좀 주세요. | Please give me a bag.
+Korean::A1::Shopping & prices (market, convenience store) | 영수증 좀 주세요. | Please give me a receipt.
+Korean::A1::Shopping & prices (market, convenience store) | 깎아 주세요. | Please give me a discount.
+Korean::A1::Shopping & prices (market, convenience store) | 조금 더 싸게 해 주세요. | Please make it a bit cheaper.
+Korean::A1::Shopping & prices (market, convenience store) | 카드로 계산해도 돼요? | Can I pay by card?
+Korean::A1::Shopping & prices (market, convenience store) | 현금으로 계산할게요. | I will pay in cash.
+Korean::A1::Shopping & prices (market, convenience store) | 사과 한 상자 주세요. | One box of apples, please.
+Korean::A1::Shopping & prices (market, convenience store) | 이 사과는 한 개에 천 원이에요. | These apples are one thousand won each.
+Korean::A1::Shopping & prices (market, convenience store) | 바나나 두 송이 주세요. | Two bunches of bananas, please.
+Korean::A1::Shopping & prices (market, convenience store) | 딸기 있어요? | Do you have strawberries?
+Korean::A1::Shopping & prices (market, convenience store) | 네, 딸기 있어요. | Yes, we have strawberries.
+Korean::A1::Shopping & prices (market, convenience store) | 아니요, 딸기 없어요. | No, we do not have strawberries.
+Korean::A1::Shopping & prices (market, convenience store) | 편의점에서 라면을 사요. | I buy instant noodles at the convenience store.
+Korean::A1::Shopping & prices (market, convenience store) | 저는 시장에서 채소를 사요. | I buy vegetables at the market.
+Korean::A1::Shopping & prices (market, convenience store) | 저는 생선을 안 사요. | I do not buy fish.
+Korean::A1::Shopping & prices (market, convenience store) | 고기는 얼마예요? | How much is the meat?
+Korean::A1::Shopping & prices (market, convenience store) | 이 고기는 한 근에 만 원이에요. | This meat is ten thousand won per 600 grams.
+Korean::A1::Shopping & prices (market, convenience store) | 이 가게는 물건이 많아요. | This shop has many goods.
+Korean::A1::Shopping & prices (market, convenience store) | 이 가게는 과일이 신선해요. | The fruit at this shop is fresh.
+Korean::A1::Shopping & prices (market, convenience store) | 총 얼마예요? | How much is it in total?
+Korean::A1::Shopping & prices (market, convenience store) | 모두 삼만 원이에요. | It is thirty thousand won altogether.
+Korean::A1::Shopping & prices (market, convenience store) | 거스름돈 여기 있어요. | Here is your change.
+Korean::A1::Shopping & prices (market, convenience store) | 잔돈 있어요? | Do you have any small change?
+Korean::A1::Shopping & prices (market, convenience store) | 카드를 주세요. | Please give me your card.
+Korean::A1::Shopping & prices (market, convenience store) | 저는 선물을 사고 싶어요. | I want to buy a present.
+Korean::A1::Shopping & prices (market, convenience store) | 이것을 포장해 주세요. | Please wrap this up.
+Korean::A1::Shopping & prices (market, convenience store) | 가방을 하나 사고 싶어요. | I would like to buy a bag.
+Korean::A1::Shopping & prices (market, convenience store) | 저는 시장에 가고 싶어요. | I want to go to the market.
+Korean::A1::Shopping & prices (market, convenience store) | 저는 우산이 필요해요. | I need an umbrella.
+Korean::A1::Shopping & prices (market, convenience store) | 이 우유는 이천 원이에요. | This milk is two thousand won.
+Korean::A1::Shopping & prices (market, convenience store) | 어서 오세요. | Welcome.
+Korean::A1::Shopping & prices (market, convenience store) | 뭐 찾으세요? | What are you looking for?
+Korean::A1::Shopping & prices (market, convenience store) | 그냥 구경하고 있어요. | I am just looking around.
+Korean::A1::Shopping & prices (market, convenience store) | 이 물건은 세일해요. | This item is on sale.
