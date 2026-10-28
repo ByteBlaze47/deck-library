@@ -1,0 +1,41 @@
+#lang: zh -> en
+Chinese::A1::Location & existence (where people/things are) | 我在家。 | I am at home.
+Chinese::A1::Location & existence (where people/things are) | 他在学校。 | He is at school.
+Chinese::A1::Location & existence (where people/things are) | 她在公司。 | She is at the office.
+Chinese::A1::Location & existence (where people/things are) | 妈妈在厨房。 | Mum is in the kitchen.
+Chinese::A1::Location & existence (where people/things are) | 爸爸不在家。 | Dad is not at home.
+Chinese::A1::Location & existence (where people/things are) | 你在哪儿？ | Where are you?
+Chinese::A1::Location & existence (where people/things are) | 我在图书馆。 | I am in the library.
+Chinese::A1::Location & existence (where people/things are) | 我的书在桌子上。 | My book is on the table.
+Chinese::A1::Location & existence (where people/things are) | 手机在包里。 | The phone is in the bag.
+Chinese::A1::Location & existence (where people/things are) | 钥匙在这儿。 | The keys are here.
+Chinese::A1::Location & existence (where people/things are) | 他在那儿。 | He is there.
+Chinese::A1::Location & existence (where people/things are) | 银行在哪儿？ | Where is the bank?
+Chinese::A1::Location & existence (where people/things are) | 银行在学校前面。 | The bank is in front of the school.
+Chinese::A1::Location & existence (where people/things are) | 超市在医院旁边。 | The supermarket is next to the hospital.
+Chinese::A1::Location & existence (where people/things are) | 医院在银行后面。 | The hospital is behind the bank.
+Chinese::A1::Location & existence (where people/things are) | 公园在左边。 | The park is on the left.
+Chinese::A1::Location & existence (where people/things are) | 商店在右边。 | The shop is on the right.
+Chinese::A1::Location & existence (where people/things are) | 邮局在那边。 | The post office is over there.
+Chinese::A1::Location & existence (where people/things are) | 洗手间在这边。 | The toilet is over this way.
+Chinese::A1::Location & existence (where people/things are) | 学校里有很多学生。 | There are many students in the school.
+Chinese::A1::Location & existence (where people/things are) | 桌子上有一本书。 | There is a book on the table.
+Chinese::A1::Location & existence (where people/things are) | 桌子下面有一只猫。 | There is a cat under the table.
+Chinese::A1::Location & existence (where people/things are) | 房间里有一张床。 | There is a bed in the room.
+Chinese::A1::Location & existence (where people/things are) | 教室里没有人。 | There is nobody in the classroom.
+Chinese::A1::Location & existence (where people/things are) | 公园里有很多人。 | There are many people in the park.
+Chinese::A1::Location & existence (where people/things are) | 这儿有一个超市。 | There is a supermarket here.
+Chinese::A1::Location & existence (where people/things are) | 这附近有银行吗？ | Is there a bank nearby?
+Chinese::A1::Location & existence (where people/things are) | 这附近有一家饭馆。 | There is a restaurant nearby.
+Chinese::A1::Location & existence (where people/things are) | 那儿有一个电话。 | There is a telephone over there.
+Chinese::A1::Location & existence (where people/things are) | 我家附近有一个公园。 | There is a park near my home.
+Chinese::A1::Location & existence (where people/things are) | 学校在公园的对面。 | The school is opposite the park.
+Chinese::A1::Location & existence (where people/things are) | 我的朋友在中间。 | My friend is in the middle.
+Chinese::A1::Location & existence (where people/things are) | 书在桌子左边。 | The book is to the left of the table.
+Chinese::A1::Location & existence (where people/things are) | 椅子在桌子旁边。 | The chair is beside the table.
+Chinese::A1::Location & existence (where people/things are) | 车在楼下。 | The car is downstairs.
+Chinese::A1::Location & existence (where people/things are) | 我在楼上。 | I am upstairs.
+Chinese::A1::Location & existence (where people/things are) | 他们在外面。 | They are outside.
+Chinese::A1::Location & existence (where people/things are) | 老师在里面。 | The teacher is inside.
+Chinese::A1::Location & existence (where people/things are) | 谁在那儿？ | Who is there?
+Chinese::A1::Location & existence (where people/things are) | 我家在学校的东边。 | My home is to the east of the school.
