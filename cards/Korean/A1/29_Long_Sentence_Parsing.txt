@@ -1,0 +1,56 @@
+#lang: ko -> en
+Korean::A1::Controlled long-sentence parsing (daily narrative & plans) | 저는 아침에 일어나서 샤워하고 아침을 먹고 학교에 가요. | I get up, take a shower, eat breakfast and go to school.
+Korean::A1::Controlled long-sentence parsing (daily narrative & plans) | 저는 수업이 끝나면 도서관에 가서 숙제를 해요. | When class finishes, I go to the library and do my homework.
+Korean::A1::Controlled long-sentence parsing (daily narrative & plans) | 저는 친구를 만나서 같이 점심을 먹고 커피를 마셨어요. | I met a friend, we had lunch together and drank coffee.
+Korean::A1::Controlled long-sentence parsing (daily narrative & plans) | 저는 비가 오면 집에서 책을 읽고 음악을 들어요. | When it rains, I read books and listen to music at home.
+Korean::A1::Controlled long-sentence parsing (daily narrative & plans) | 저는 시간이 있으면 공원에 가서 산책해요. | When I have time, I go to the park and take a walk.
+Korean::A1::Controlled long-sentence parsing (daily narrative & plans) | 저는 날씨가 좋으면 친구와 같이 한강에 가요. | When the weather is nice, I go to the Han River with friends.
+Korean::A1::Controlled long-sentence parsing (daily narrative & plans) | 저는 주말에 늦게 일어나서 청소하고 빨래를 해요. | At the weekend, I get up late, clean and do the washing.
+Korean::A1::Controlled long-sentence parsing (daily narrative & plans) | 저는 내일 일찍 일어나서 운동하고 학교에 갈 거예요. | Tomorrow I will get up early, exercise and go to school.
+Korean::A1::Controlled long-sentence parsing (daily narrative & plans) | 저는 시장에 가서 과일과 채소를 사고 집에 왔어요. | I went to the market, bought fruit and vegetables and came home.
+Korean::A1::Controlled long-sentence parsing (daily narrative & plans) | 저는 집에 와서 저녁을 먹고 샤워한 후에 잤어요. | I came home, had dinner, took a shower and went to bed.
+Korean::A1::Controlled long-sentence parsing (daily narrative & plans) | 저는 돈이 있으면 새 휴대폰을 사고 싶어요. | If I have money, I want to buy a new mobile.
+Korean::A1::Controlled long-sentence parsing (daily narrative & plans) | 저는 시간이 없어서 점심을 못 먹고 회사에 갔어요. | I had no time, so I went to the office without eating lunch.
+Korean::A1::Controlled long-sentence parsing (daily narrative & plans) | 저는 피곤하면 일찍 자고 다음 날 일찍 일어나요. | When I am tired, I go to bed early and get up early the next day.
+Korean::A1::Controlled long-sentence parsing (daily narrative & plans) | 저는 한국어를 배우고 싶어서 서울에 와서 학원에 다녀요. | I want to learn Korean, so I came to Seoul and attend a language school.
+Korean::A1::Controlled long-sentence parsing (daily narrative & plans) | 저는 친구가 오면 같이 밥을 먹고 영화를 볼 거예요. | When my friend comes, we will eat together and watch a film.
+Korean::A1::Controlled long-sentence parsing (daily narrative & plans) | 저는 어제 비가 와서 우산을 사고 집에 걸어서 왔어요. | It rained yesterday, so I bought an umbrella and walked home.
+Korean::A1::Controlled long-sentence parsing (daily narrative & plans) | 저는 지하철을 타고 시청에서 내려서 회사까지 걸어가요. | I take the underground, get off at City Hall and walk to the office.
+Korean::A1::Controlled long-sentence parsing (daily narrative & plans) | 저는 오늘 일이 많아서 점심을 먹고 바로 사무실에 돌아갔어요. | I had a lot of work today, so I went straight back to the office after lunch.
+Korean::A1::Controlled long-sentence parsing (daily narrative & plans) | 저는 한국 친구가 만든 김치를 먹어 보고 정말 맛있다고 생각했어요. | I tried the kimchi my Korean friend made and thought it was really delicious.
+Korean::A1::Controlled long-sentence parsing (daily narrative & plans) | 저는 어머니가 보내 주신 선물을 받고 아주 기뻤어요. | I received the present my mother sent me and was very happy.
+Korean::A1::Controlled long-sentence parsing (daily narrative & plans) | 저는 내일 친구를 만나서 영화를 보고 저녁을 먹을 거예요. | Tomorrow I will meet a friend, watch a film and have dinner.
+Korean::A1::Controlled long-sentence parsing (daily narrative & plans) | 저는 어제 서점에 가서 한국어 책을 사고 카페에서 읽었어요. | Yesterday I went to a bookshop, bought a Korean book and read it at a cafe.
+Korean::A1::Controlled long-sentence parsing (daily narrative & plans) | 선생님이 설명해 주시면 저는 이해할 수 있어요. | If the teacher explains, I can understand.
+Korean::A1::Controlled long-sentence parsing (daily narrative & plans) | 제가 어제 본 영화는 제가 좋아하는 배우가 나오는 영화예요. | The film I saw yesterday is a film with an actor I like.
+Korean::A1::Controlled long-sentence parsing (daily narrative & plans) | 저는 집 근처에 있는 식당에서 친구가 추천한 음식을 먹었어요. | I ate the food my friend recommended at a restaurant near my home.
+Korean::A1::Controlled long-sentence parsing (daily narrative & plans) | 저는 지하철역 앞에서 산 커피를 마시면서 학교에 걸어갔어요. | I walked to school drinking the coffee I bought in front of the station.
+Korean::A1::Controlled long-sentence parsing (daily narrative & plans) | 저는 집에서 가까운 학교에서 한국어를 배우고 있어요. | I am learning Korean at a school close to my home.
+Korean::A1::Controlled long-sentence parsing (daily narrative & plans) | 저는 우리 어머니가 자주 만들어 주시는 음식을 좋아해요. | I like the food my mother often makes for me.
+Korean::A1::Controlled long-sentence parsing (daily narrative & plans) | 저는 한국에서 처음 만난 친구와 지금도 연락하고 있어요. | I am still in touch with the friend I first met in Korea.
+Korean::A1::Controlled long-sentence parsing (daily narrative & plans) | 저는 친구가 알려 준 식당에 가서 비빔밥을 먹었는데 맛있었어요. | I went to the restaurant my friend told me about and ate bibimbap, and it was delicious.
+Korean::A1::Controlled long-sentence parsing (daily narrative & plans) | 저는 비가 와서 약속을 취소하고 집에서 영화를 봤어요. | It rained, so I cancelled my plans and watched a film at home.
+Korean::A1::Controlled long-sentence parsing (daily narrative & plans) | 저는 돈이 없어서 택시를 안 타고 버스를 탔어요. | I had no money, so I took the bus instead of a taxi.
+Korean::A1::Controlled long-sentence parsing (daily narrative & plans) | 저는 시험이 끝나면 친구들과 같이 여행을 갈 거예요. | When my exams finish, I will go on a trip with friends.
+Korean::A1::Controlled long-sentence parsing (daily narrative & plans) | 저는 한국어를 열심히 공부하면 한국 친구와 이야기할 수 있어요. | If I study Korean hard, I can talk with Korean friends.
+Korean::A1::Controlled long-sentence parsing (daily narrative & plans) | 저는 내일 비가 오면 학교에 안 가고 집에서 공부할 거예요. | If it rains tomorrow, I will not go to school and will study at home.
+Korean::A1::Controlled long-sentence parsing (daily narrative & plans) | 저는 어렸을 때 부산에서 살았고 지금은 서울에서 살아요. | I lived in Busan as a child, and now I live in Seoul.
+Korean::A1::Controlled long-sentence parsing (daily narrative & plans) | 저는 형이 두 명 있는데 한 명은 의사이고 한 명은 선생님이에요. | I have two older brothers; one is a doctor and one is a teacher.
+Korean::A1::Controlled long-sentence parsing (daily narrative & plans) | 저는 한국 음식을 좋아하는데 매운 음식은 잘 못 먹어요. | I like Korean food, but I cannot eat spicy food well.
+Korean::A1::Controlled long-sentence parsing (daily narrative & plans) | 저는 어제 영화를 보러 갔는데 사람이 너무 많아서 그냥 집에 왔어요. | I went to see a film yesterday, but there were too many people, so I just came home.
+Korean::A1::Controlled long-sentence parsing (daily narrative & plans) | 저는 한국에 온 지 일 년이 됐고 한국어를 조금 할 수 있어요. | It has been a year since I came to Korea, and I can speak a little Korean.
+Korean::A1::Controlled long-sentence parsing (daily narrative & plans) | 저는 아침에 커피를 마시고 신문을 읽은 후에 출근해요. | In the morning, I drink coffee, read the newspaper and then go to work.
+Korean::A1::Controlled long-sentence parsing (daily narrative & plans) | 저는 퇴근하고 집에 가서 쉬다가 저녁에 운동하러 나가요. | After work I go home, rest, and then go out to exercise in the evening.
+Korean::A1::Controlled long-sentence parsing (daily narrative & plans) | 저는 주말에 친구와 같이 산에 올라가서 사진을 찍고 점심을 먹었어요. | At the weekend, I climbed a mountain with a friend, took photos and had lunch.
+Korean::A1::Controlled long-sentence parsing (daily narrative & plans) | 저는 내일 아침에 일찍 일어나서 공항에 가야 해요. | I have to get up early tomorrow morning and go to the airport.
+Korean::A1::Controlled long-sentence parsing (daily narrative & plans) | 저는 오늘 저녁에 집에서 한국 드라마를 보면서 라면을 먹을 거예요. | This evening I will eat instant noodles while watching a Korean drama at home.
+Korean::A1::Controlled long-sentence parsing (daily narrative & plans) | 저는 지난주에 친구가 소개해 준 한국어 선생님을 만났어요. | Last week I met a Korean teacher my friend introduced to me.
+Korean::A1::Controlled long-sentence parsing (daily narrative & plans) | 저는 방학에 한국에서 일하면서 한국어도 공부하고 싶어요. | During the holidays I want to work in Korea and study Korean as well.
+Korean::A1::Controlled long-sentence parsing (daily narrative & plans) | 저는 매일 지하철에서 한국어 단어를 외우면서 학교에 가요. | Every day I memorise Korean words on the underground on my way to school.
+Korean::A1::Controlled long-sentence parsing (daily narrative & plans) | 저는 오늘 시장에서 산 사과를 친구에게 주고 같이 먹었어요. | I gave my friend the apples I bought at the market today and we ate them together.
+Korean::A1::Controlled long-sentence parsing (daily narrative & plans) | 저는 한국어를 잘하고 싶어서 매일 한국 친구와 이야기하고 있어요. | I want to be good at Korean, so I talk with Korean friends every day.
+Korean::A1::Controlled long-sentence parsing (daily narrative & plans) | 저는 내일 시험이 있어서 오늘 도서관에서 늦게까지 공부할 거예요. | I have an exam tomorrow, so I will study at the library until late today.
+Korean::A1::Controlled long-sentence parsing (daily narrative & plans) | 저는 지난 주말에 비가 와서 집에서 쉬고 영화를 두 편 봤어요. | Last weekend it rained, so I rested at home and watched two films.
+Korean::A1::Controlled long-sentence parsing (daily narrative & plans) | 저는 학교에서 집에 오는 길에 편의점에 들러서 우유를 샀어요. | On my way home from school, I stopped at a convenience store and bought milk.
+Korean::A1::Controlled long-sentence parsing (daily narrative & plans) | 저는 서울에서 부산까지 기차를 타고 가서 친구를 만났어요. | I took the train from Seoul to Busan and met a friend.
+Korean::A1::Controlled long-sentence parsing (daily narrative & plans) | 저는 오늘 아침에 늦게 일어나서 아침도 못 먹고 학교에 뛰어갔어요. | I got up late this morning, so I ran to school without even eating breakfast.
