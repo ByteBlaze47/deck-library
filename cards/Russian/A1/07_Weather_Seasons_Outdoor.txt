@@ -1,0 +1,36 @@
+#lang: ru -> en
+Russian::A1::Weather, seasons & outdoor activities | Сегодня холодно. | It's cold today.
+Russian::A1::Weather, seasons & outdoor activities | Сегодня тепло. | It's warm today.
+Russian::A1::Weather, seasons & outdoor activities | Сегодня жарко. | It's hot today.
+Russian::A1::Weather, seasons & outdoor activities | Вчера было прохладно. | Yesterday it was cool.
+Russian::A1::Weather, seasons & outdoor activities | Завтра будет тепло. | Tomorrow it will be warm.
+Russian::A1::Weather, seasons & outdoor activities | Идёт дождь. | It's raining.
+Russian::A1::Weather, seasons & outdoor activities | Идёт снег. | It's snowing.
+Russian::A1::Weather, seasons & outdoor activities | На улице ветер. | It's windy outside.
+Russian::A1::Weather, seasons & outdoor activities | Небо серое. | The sky is grey.
+Russian::A1::Weather, seasons & outdoor activities | Солнце светит. | The sun is shining.
+Russian::A1::Weather, seasons & outdoor activities | Какая сегодня погода? | What's the weather like today?
+Russian::A1::Weather, seasons & outdoor activities | Погода хорошая. | The weather is good.
+Russian::A1::Weather, seasons & outdoor activities | Погода плохая. | The weather is bad.
+Russian::A1::Weather, seasons & outdoor activities | Зимой очень холодно. | It's very cold in winter.
+Russian::A1::Weather, seasons & outdoor activities | Летом жарко и солнечно. | In summer it's hot and sunny.
+Russian::A1::Weather, seasons & outdoor activities | Весной часто идёт дождь. | In spring it often rains.
+Russian::A1::Weather, seasons & outdoor activities | Осенью мокро и ветрено. | In autumn it's wet and windy.
+Russian::A1::Weather, seasons & outdoor activities | Мне холодно. | I'm cold.
+Russian::A1::Weather, seasons & outdoor activities | Ему жарко. | He's hot.
+Russian::A1::Weather, seasons & outdoor activities | Я иду с зонтом. | I'm going with an umbrella.
+Russian::A1::Weather, seasons & outdoor activities | Она гуляет с собакой. | She is walking with her dog.
+Russian::A1::Weather, seasons & outdoor activities | Мы идём в парк с друзьями. | We are going to the park with friends.
+Russian::A1::Weather, seasons & outdoor activities | Я пишу ручкой. | I write with a pen.
+Russian::A1::Weather, seasons & outdoor activities | Он режет хлеб ножом. | He cuts bread with a knife.
+Russian::A1::Weather, seasons & outdoor activities | Зимой мы катаемся на лыжах. | In winter we go skiing.
+Russian::A1::Weather, seasons & outdoor activities | Летом мы плаваем в реке. | In summer we swim in the river.
+Russian::A1::Weather, seasons & outdoor activities | Сегодня я без зонта. | Today I'm without an umbrella.
+Russian::A1::Weather, seasons & outdoor activities | Река замёрзла. | The river has frozen.
+Russian::A1::Weather, seasons & outdoor activities | Снег белый и мягкий. | The snow is white and soft.
+Russian::A1::Weather, seasons & outdoor activities | Осень золотая. | The autumn is golden.
+Russian::A1::Weather, seasons & outdoor activities | Весна тёплая. | Spring is warm.
+Russian::A1::Weather, seasons & outdoor activities | Сколько градусов на улице? | How many degrees is it outside?
+Russian::A1::Weather, seasons & outdoor activities | На улице десять градусов тепла. | It's ten degrees above zero outside.
+Russian::A1::Weather, seasons & outdoor activities | На улице пять градусов мороза. | It's five degrees below zero outside.
+Russian::A1::Weather, seasons & outdoor activities | Надень шапку, на улице холодно! | Put on a hat, it's cold outside!
