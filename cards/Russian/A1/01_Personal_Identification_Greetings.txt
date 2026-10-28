@@ -1,0 +1,41 @@
+#lang: ru -> en
+Russian::A1::Everyday personal identification & greetings (formal/informal) | Здравствуйте. | Hello.
+Russian::A1::Everyday personal identification & greetings (formal/informal) | Привет! | Hi!
+Russian::A1::Everyday personal identification & greetings (formal/informal) | Доброе утро. | Good morning.
+Russian::A1::Everyday personal identification & greetings (formal/informal) | Добрый день. | Good afternoon.
+Russian::A1::Everyday personal identification & greetings (formal/informal) | Добрый вечер. | Good evening.
+Russian::A1::Everyday personal identification & greetings (formal/informal) | Спокойной ночи. | Good night.
+Russian::A1::Everyday personal identification & greetings (formal/informal) | До свидания. | Goodbye.
+Russian::A1::Everyday personal identification & greetings (formal/informal) | Пока! | Bye!
+Russian::A1::Everyday personal identification & greetings (formal/informal) | Меня зовут Анна. | My name is Anna.
+Russian::A1::Everyday personal identification & greetings (formal/informal) | Как вас зовут? | What is your name? (formal)
+Russian::A1::Everyday personal identification & greetings (formal/informal) | Как тебя зовут? | What is your name? (informal)
+Russian::A1::Everyday personal identification & greetings (formal/informal) | Его зовут Иван. | His name is Ivan.
+Russian::A1::Everyday personal identification & greetings (formal/informal) | Её зовут Мария. | Her name is Maria.
+Russian::A1::Everyday personal identification & greetings (formal/informal) | Очень приятно. | Pleased to meet you.
+Russian::A1::Everyday personal identification & greetings (formal/informal) | Я студент. | I am a student. (male)
+Russian::A1::Everyday personal identification & greetings (formal/informal) | Я студентка. | I am a student. (female)
+Russian::A1::Everyday personal identification & greetings (formal/informal) | Ты студент? | Are you a student? (informal)
+Russian::A1::Everyday personal identification & greetings (formal/informal) | Вы студент? | Are you a student? (formal)
+Russian::A1::Everyday personal identification & greetings (formal/informal) | Он врач. | He is a doctor.
+Russian::A1::Everyday personal identification & greetings (formal/informal) | Она учительница. | She is a teacher.
+Russian::A1::Everyday personal identification & greetings (formal/informal) | Мы друзья. | We are friends.
+Russian::A1::Everyday personal identification & greetings (formal/informal) | Они дома. | They are at home.
+Russian::A1::Everyday personal identification & greetings (formal/informal) | Это мой друг. | This is my friend. (male)
+Russian::A1::Everyday personal identification & greetings (formal/informal) | Это моя подруга. | This is my friend. (female)
+Russian::A1::Everyday personal identification & greetings (formal/informal) | Как дела? | How are you? (informal)
+Russian::A1::Everyday personal identification & greetings (formal/informal) | Как у вас дела? | How are you? (formal)
+Russian::A1::Everyday personal identification & greetings (formal/informal) | Хорошо, спасибо. | Fine, thank you.
+Russian::A1::Everyday personal identification & greetings (formal/informal) | Я рад вас видеть. | I am glad to see you. (male speaker, formal)
+Russian::A1::Everyday personal identification & greetings (formal/informal) | Я рада тебя видеть. | I am glad to see you. (female speaker, informal)
+Russian::A1::Everyday personal identification & greetings (formal/informal) | Откуда вы? | Where are you from? (formal)
+Russian::A1::Everyday personal identification & greetings (formal/informal) | Откуда ты? | Where are you from? (informal)
+Russian::A1::Everyday personal identification & greetings (formal/informal) | Я из Англии. | I am from England.
+Russian::A1::Everyday personal identification & greetings (formal/informal) | Вы русский? | Are you Russian? (formal, to a man)
+Russian::A1::Everyday personal identification & greetings (formal/informal) | Нет, я англичанин. | No, I am English. (male)
+Russian::A1::Everyday personal identification & greetings (formal/informal) | Нет, я англичанка. | No, I am English. (female)
+Russian::A1::Everyday personal identification & greetings (formal/informal) | Вы говорите по-английски? | Do you speak English? (formal)
+Russian::A1::Everyday personal identification & greetings (formal/informal) | Да, немного. | Yes, a little.
+Russian::A1::Everyday personal identification & greetings (formal/informal) | Извините, я не понимаю. | Sorry, I don't understand.
+Russian::A1::Everyday personal identification & greetings (formal/informal) | Спасибо большое! | Thank you very much!
+Russian::A1::Everyday personal identification & greetings (formal/informal) | Пожалуйста. | You're welcome.
