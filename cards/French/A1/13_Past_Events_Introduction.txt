@@ -1,0 +1,51 @@
+#lang: fr -> en
+French::A1::Past events – introduction (yesterday, last weekend) | Hier, j'ai travaillé toute la journée. | Yesterday, I worked all day.
+French::A1::Past events – introduction (yesterday, last weekend) | Tu as mangé au restaurant ? | Did you eat at the restaurant?
+French::A1::Past events – introduction (yesterday, last weekend) | Il a regardé un film. | He watched a film.
+French::A1::Past events – introduction (yesterday, last weekend) | Elle a acheté du pain. | She bought some bread.
+French::A1::Past events – introduction (yesterday, last weekend) | Nous avons visité un musée. | We visited a museum.
+French::A1::Past events – introduction (yesterday, last weekend) | Vous avez écouté la radio. | You listened to the radio.
+French::A1::Past events – introduction (yesterday, last weekend) | Ils ont joué au football. | They played football.
+French::A1::Past events – introduction (yesterday, last weekend) | Elles ont chanté ensemble. | They sang together.
+French::A1::Past events – introduction (yesterday, last weekend) | J'ai fini mon travail à six heures. | I finished my work at six o'clock.
+French::A1::Past events – introduction (yesterday, last weekend) | Tu as choisi un livre ? | Did you choose a book?
+French::A1::Past events – introduction (yesterday, last weekend) | Il a rempli le formulaire. | He filled in the form.
+French::A1::Past events – introduction (yesterday, last weekend) | Nous avons attendu le bus. | We waited for the bus.
+French::A1::Past events – introduction (yesterday, last weekend) | Vous avez entendu la nouvelle ? | Did you hear the news?
+French::A1::Past events – introduction (yesterday, last weekend) | Ils ont perdu leurs clés. | They lost their keys.
+French::A1::Past events – introduction (yesterday, last weekend) | J'ai vendu ma vieille voiture. | I sold my old car.
+French::A1::Past events – introduction (yesterday, last weekend) | Le week-end dernier, nous avons fait une promenade. | Last weekend, we went for a walk.
+French::A1::Past events – introduction (yesterday, last weekend) | Samedi dernier, j'ai dîné chez mes parents. | Last Saturday, I had dinner at my parents'.
+French::A1::Past events – introduction (yesterday, last weekend) | La semaine dernière, elle a pris le train. | Last week, she took the train.
+French::A1::Past events – introduction (yesterday, last weekend) | Hier soir, il a bu un thé. | Last night, he drank a tea.
+French::A1::Past events – introduction (yesterday, last weekend) | Ce matin, j'ai eu un rendez-vous. | This morning, I had an appointment.
+French::A1::Past events – introduction (yesterday, last weekend) | Avant-hier, nous avons eu de la pluie. | The day before yesterday, we had rain.
+French::A1::Past events – introduction (yesterday, last weekend) | Il y a deux jours, j'ai vu mon ami. | Two days ago, I saw my friend.
+French::A1::Past events – introduction (yesterday, last weekend) | Hier, elle a lu un livre intéressant. | Yesterday, she read an interesting book.
+French::A1::Past events – introduction (yesterday, last weekend) | Tu as écrit ce message ? | Did you write this message?
+French::A1::Past events – introduction (yesterday, last weekend) | J'ai dit bonjour à tout le monde. | I said hello to everyone.
+French::A1::Past events – introduction (yesterday, last weekend) | Nous avons compris la leçon. | We understood the lesson.
+French::A1::Past events – introduction (yesterday, last weekend) | Il a mis son manteau. | He put on his coat.
+French::A1::Past events – introduction (yesterday, last weekend) | Elle a ouvert la fenêtre. | She opened the window.
+French::A1::Past events – introduction (yesterday, last weekend) | Vous avez fait vos devoirs ? | Did you do your homework?
+French::A1::Past events – introduction (yesterday, last weekend) | Ils ont été très gentils. | They were very kind.
+French::A1::Past events – introduction (yesterday, last weekend) | J'ai été malade lundi. | I was ill on Monday.
+French::A1::Past events – introduction (yesterday, last weekend) | Tu as eu de la chance. | You were lucky.
+French::A1::Past events – introduction (yesterday, last weekend) | La pomme ? Je l'ai mangée. | The apple? I ate it.
+French::A1::Past events – introduction (yesterday, last weekend) | Le livre ? Je l'ai lu. | The book? I read it.
+French::A1::Past events – introduction (yesterday, last weekend) | Les fleurs ? Il les a achetées. | The flowers? He bought them.
+French::A1::Past events – introduction (yesterday, last weekend) | La lettre ? Elle l'a écrite hier. | The letter? She wrote it yesterday.
+French::A1::Past events – introduction (yesterday, last weekend) | Les clés ? Nous les avons trouvées. | The keys? We found them.
+French::A1::Past events – introduction (yesterday, last weekend) | Le gâteau ? Ils l'ont fait ce matin. | The cake? They made it this morning.
+French::A1::Past events – introduction (yesterday, last weekend) | Les photos ? Je les ai prises à Paris. | The photos? I took them in Paris.
+French::A1::Past events – introduction (yesterday, last weekend) | La voiture ? Tu l'as vendue ? | The car? Did you sell it?
+French::A1::Past events – introduction (yesterday, last weekend) | Tu as bien dormi ? | Did you sleep well?
+French::A1::Past events – introduction (yesterday, last weekend) | Oui, j'ai très bien dormi. | Yes, I slept very well.
+French::A1::Past events – introduction (yesterday, last weekend) | Qu'est-ce que tu as fait hier ? | What did you do yesterday?
+French::A1::Past events – introduction (yesterday, last weekend) | Où est-ce que vous avez mangé ? | Where did you eat?
+French::A1::Past events – introduction (yesterday, last weekend) | Combien de temps avez-vous attendu ? | How long did you wait?
+French::A1::Past events – introduction (yesterday, last weekend) | J'ai déjà mangé. | I have already eaten.
+French::A1::Past events – introduction (yesterday, last weekend) | Il a longtemps travaillé ici. | He worked here for a long time.
+French::A1::Past events – introduction (yesterday, last weekend) | Nous avons beaucoup ri. | We laughed a lot.
+French::A1::Past events – introduction (yesterday, last weekend) | Elle a bien parlé. | She spoke well.
+French::A1::Past events – introduction (yesterday, last weekend) | Ils ont passé un bon week-end. | They had a good weekend.
