@@ -1,0 +1,51 @@
+#lang: ko -> en
+Korean::A1::Eating out extended (preferences, complaints, payment) | 세 명 자리 있어요? | Do you have a table for three?
+Korean::A1::Eating out extended (preferences, complaints, payment) | 예약했어요. | I have a reservation.
+Korean::A1::Eating out extended (preferences, complaints, payment) | 창가 자리로 주세요. | A window seat, please.
+Korean::A1::Eating out extended (preferences, complaints, payment) | 여기 앉아도 돼요? | May I sit here?
+Korean::A1::Eating out extended (preferences, complaints, payment) | 주문할게요. | I would like to order.
+Korean::A1::Eating out extended (preferences, complaints, payment) | 여기 주문 받아 주세요. | Please take our order here.
+Korean::A1::Eating out extended (preferences, complaints, payment) | 이 음식은 뭐가 들어가요? | What goes into this dish?
+Korean::A1::Eating out extended (preferences, complaints, payment) | 이 음식은 얼마나 매워요? | How spicy is this dish?
+Korean::A1::Eating out extended (preferences, complaints, payment) | 이것은 맵지 않아요. | This is not spicy.
+Korean::A1::Eating out extended (preferences, complaints, payment) | 이것은 조금 매워요. | This is a little spicy.
+Korean::A1::Eating out extended (preferences, complaints, payment) | 땅콩 알레르기가 있어요. | I am allergic to peanuts.
+Korean::A1::Eating out extended (preferences, complaints, payment) | 고기 없이 주세요. | Please make it without meat.
+Korean::A1::Eating out extended (preferences, complaints, payment) | 고수를 빼 주세요. | Please leave out the coriander.
+Korean::A1::Eating out extended (preferences, complaints, payment) | 소스를 따로 주세요. | Please give me the sauce separately.
+Korean::A1::Eating out extended (preferences, complaints, payment) | 오늘의 메뉴가 뭐예요? | What is today's special?
+Korean::A1::Eating out extended (preferences, complaints, payment) | 추천해 주세요. | Please recommend something.
+Korean::A1::Eating out extended (preferences, complaints, payment) | 이 식당에서는 뭐가 맛있어요? | What is good at this restaurant?
+Korean::A1::Eating out extended (preferences, complaints, payment) | 저는 따뜻한 국물이 있는 음식을 먹고 싶어요. | I want to eat something with warm soup.
+Korean::A1::Eating out extended (preferences, complaints, payment) | 저는 시원한 냉면을 먹을래요. | I will have the refreshing cold noodles.
+Korean::A1::Eating out extended (preferences, complaints, payment) | 저는 달지 않은 커피를 마셔요. | I drink coffee that is not sweet.
+Korean::A1::Eating out extended (preferences, complaints, payment) | 설탕을 넣지 마세요. | Please do not add sugar.
+Korean::A1::Eating out extended (preferences, complaints, payment) | 얼음을 많이 넣어 주세요. | Please add lots of ice.
+Korean::A1::Eating out extended (preferences, complaints, payment) | 음식이 아직 안 나왔어요. | The food has not come yet.
+Korean::A1::Eating out extended (preferences, complaints, payment) | 이거 주문 안 했어요. | I did not order this.
+Korean::A1::Eating out extended (preferences, complaints, payment) | 음식이 식었어요. | The food has gone cold.
+Korean::A1::Eating out extended (preferences, complaints, payment) | 이 음식에서 머리카락이 나왔어요. | There is a hair in this food.
+Korean::A1::Eating out extended (preferences, complaints, payment) | 바꿔 주세요. | Please change it.
+Korean::A1::Eating out extended (preferences, complaints, payment) | 죄송합니다. 바로 바꿔 드릴게요. | I am sorry. I will change it right away.
+Korean::A1::Eating out extended (preferences, complaints, payment) | 물이 없어요. | There is no water.
+Korean::A1::Eating out extended (preferences, complaints, payment) | 에어컨이 너무 추워요. | The air conditioning is too cold.
+Korean::A1::Eating out extended (preferences, complaints, payment) | 여기 좀 닦아 주세요. | Please wipe here.
+Korean::A1::Eating out extended (preferences, complaints, payment) | 계산서 주세요. | The bill, please.
+Korean::A1::Eating out extended (preferences, complaints, payment) | 따로 계산할게요. | We will pay separately.
+Korean::A1::Eating out extended (preferences, complaints, payment) | 같이 계산해 주세요. | Please put it on one bill.
+Korean::A1::Eating out extended (preferences, complaints, payment) | 카드로 계산할게요. | I will pay by card.
+Korean::A1::Eating out extended (preferences, complaints, payment) | 현금도 돼요? | Do you take cash?
+Korean::A1::Eating out extended (preferences, complaints, payment) | 영수증 필요해요. | I need a receipt.
+Korean::A1::Eating out extended (preferences, complaints, payment) | 팁은 안 줘도 돼요. | You do not have to tip.
+Korean::A1::Eating out extended (preferences, complaints, payment) | 제가 낼게요. | I will pay.
+Korean::A1::Eating out extended (preferences, complaints, payment) | 오늘은 제가 살게요. | It is my treat today.
+Korean::A1::Eating out extended (preferences, complaints, payment) | 다음에는 제가 낼게요. | I will pay next time.
+Korean::A1::Eating out extended (preferences, complaints, payment) | 많이 드세요. | Please eat plenty.
+Korean::A1::Eating out extended (preferences, complaints, payment) | 정말 맛있게 먹었어요. | I really enjoyed the meal.
+Korean::A1::Eating out extended (preferences, complaints, payment) | 이 가게는 음식이 싸고 맛있어요. | This shop's food is cheap and tasty.
+Korean::A1::Eating out extended (preferences, complaints, payment) | 이 식당은 분위기가 좋아요. | This restaurant has a nice atmosphere.
+Korean::A1::Eating out extended (preferences, complaints, payment) | 서비스가 아주 친절해요. | The service is very friendly.
+Korean::A1::Eating out extended (preferences, complaints, payment) | 음식이 너무 많아서 남겼어요. | There was too much food, so I left some.
+Korean::A1::Eating out extended (preferences, complaints, payment) | 남은 음식을 싸 주세요. | Please wrap up the leftovers.
+Korean::A1::Eating out extended (preferences, complaints, payment) | 저는 더 안 먹어도 돼요. | I do not need to eat any more.
+Korean::A1::Eating out extended (preferences, complaints, payment) | 저는 이 식당에 처음 왔어요. | This is my first time at this restaurant.
