@@ -1,0 +1,46 @@
+#lang: ko -> en
+Korean::A1::Daily activities & hobbies (leisure time) | 저는 지금 책을 읽고 있어요. | I am reading a book now.
+Korean::A1::Daily activities & hobbies (leisure time) | 저는 지금 음악을 듣고 있어요. | I am listening to music now.
+Korean::A1::Daily activities & hobbies (leisure time) | 저는 지금 텔레비전을 보고 있어요. | I am watching television now.
+Korean::A1::Daily activities & hobbies (leisure time) | 저는 지금 공부하고 있어요. | I am studying now.
+Korean::A1::Daily activities & hobbies (leisure time) | 저는 지금 요리하고 있어요. | I am cooking now.
+Korean::A1::Daily activities & hobbies (leisure time) | 저는 지금 운동하고 있어요. | I am exercising now.
+Korean::A1::Daily activities & hobbies (leisure time) | 지금 뭐 하고 있어요? | What are you doing now?
+Korean::A1::Daily activities & hobbies (leisure time) | 지금 친구를 기다리고 있어요. | I am waiting for a friend now.
+Korean::A1::Daily activities & hobbies (leisure time) | 저는 취미가 많아요. | I have many hobbies.
+Korean::A1::Daily activities & hobbies (leisure time) | 제 취미는 독서예요. | My hobby is reading.
+Korean::A1::Daily activities & hobbies (leisure time) | 제 취미는 영화 감상이에요. | My hobby is watching films.
+Korean::A1::Daily activities & hobbies (leisure time) | 제 취미는 사진 찍기예요. | My hobby is taking photos.
+Korean::A1::Daily activities & hobbies (leisure time) | 저는 여가 시간에 영화를 봐요. | I watch films in my free time.
+Korean::A1::Daily activities & hobbies (leisure time) | 저는 주말에 등산을 해요. | I go hiking at the weekend.
+Korean::A1::Daily activities & hobbies (leisure time) | 저는 수영을 좋아해요. | I like swimming.
+Korean::A1::Daily activities & hobbies (leisure time) | 저는 축구를 해요. | I play football.
+Korean::A1::Daily activities & hobbies (leisure time) | 저는 농구를 자주 해요. | I often play basketball.
+Korean::A1::Daily activities & hobbies (leisure time) | 저는 기타를 쳐요. | I play the guitar.
+Korean::A1::Daily activities & hobbies (leisure time) | 저는 피아노를 배워요. | I am learning the piano.
+Korean::A1::Daily activities & hobbies (leisure time) | 저는 노래를 불러요. | I sing songs.
+Korean::A1::Daily activities & hobbies (leisure time) | 저는 그림을 그려요. | I draw pictures.
+Korean::A1::Daily activities & hobbies (leisure time) | 저는 게임을 해요. | I play games.
+Korean::A1::Daily activities & hobbies (leisure time) | 저는 인터넷을 해요. | I use the internet.
+Korean::A1::Daily activities & hobbies (leisure time) | 저는 산책을 해요. | I go for walks.
+Korean::A1::Daily activities & hobbies (leisure time) | 저는 자전거를 타요. | I ride a bicycle.
+Korean::A1::Daily activities & hobbies (leisure time) | 저는 여행을 좋아해요. | I like travelling.
+Korean::A1::Daily activities & hobbies (leisure time) | 저는 매주 토요일마다 축구를 해요. | I play football every Saturday.
+Korean::A1::Daily activities & hobbies (leisure time) | 저는 일요일마다 쉬어요. | I rest every Sunday.
+Korean::A1::Daily activities & hobbies (leisure time) | 저는 아침마다 조깅을 해요. | I go jogging every morning.
+Korean::A1::Daily activities & hobbies (leisure time) | 저는 밤마다 책을 읽어요. | I read a book every night.
+Korean::A1::Daily activities & hobbies (leisure time) | 저는 주말마다 영화를 봐요. | I watch a film every weekend.
+Korean::A1::Daily activities & hobbies (leisure time) | 저는 한 달에 한 번 등산해요. | I go hiking once a month.
+Korean::A1::Daily activities & hobbies (leisure time) | 저는 일주일에 두 번 운동해요. | I exercise twice a week.
+Korean::A1::Daily activities & hobbies (leisure time) | 저는 일주일에 세 번 수영해요. | I swim three times a week.
+Korean::A1::Daily activities & hobbies (leisure time) | 저는 가끔 친구와 같이 놀아요. | I sometimes hang out with friends.
+Korean::A1::Daily activities & hobbies (leisure time) | 저는 친구와 같이 노래방에 가요. | I go to karaoke with friends.
+Korean::A1::Daily activities & hobbies (leisure time) | 저는 친구와 같이 영화를 보고 있어요. | I am watching a film with a friend.
+Korean::A1::Daily activities & hobbies (leisure time) | 동생은 게임을 하고 있어요. | My younger sibling is playing games.
+Korean::A1::Daily activities & hobbies (leisure time) | 아버지는 신문을 읽고 계세요. | My father is reading the newspaper.
+Korean::A1::Daily activities & hobbies (leisure time) | 어머니는 요리하고 계세요. | My mother is cooking.
+Korean::A1::Daily activities & hobbies (leisure time) | 친구는 자고 있어요. | My friend is sleeping.
+Korean::A1::Daily activities & hobbies (leisure time) | 저는 사진을 찍고 있어요. | I am taking photos.
+Korean::A1::Daily activities & hobbies (leisure time) | 저는 커피를 마시고 있어요. | I am drinking coffee.
+Korean::A1::Daily activities & hobbies (leisure time) | 저는 한국 드라마를 보고 있어요. | I am watching a Korean drama.
+Korean::A1::Daily activities & hobbies (leisure time) | 저는 영어 노래를 듣고 있어요. | I am listening to English songs.
