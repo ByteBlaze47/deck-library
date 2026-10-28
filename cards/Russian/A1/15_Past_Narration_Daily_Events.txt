@@ -1,0 +1,51 @@
+#lang: ru -> en
+Russian::A1::Simple past narration of daily events | Вчера я рано встал. | Yesterday I got up early. (male)
+Russian::A1::Simple past narration of daily events | Вчера она рано встала. | Yesterday she got up early.
+Russian::A1::Simple past narration of daily events | Мы встали и позавтракали. | We got up and had breakfast.
+Russian::A1::Simple past narration of daily events | Я читал газету, когда он позвонил. | I was reading the paper when he phoned. (male)
+Russian::A1::Simple past narration of daily events | Она готовила ужин, а он смотрел телевизор. | She was cooking dinner while he watched TV.
+Russian::A1::Simple past narration of daily events | Он пришёл домой и лёг спать. | He came home and went to bed.
+Russian::A1::Simple past narration of daily events | Вчера было воскресенье. | Yesterday was Sunday.
+Russian::A1::Simple past narration of daily events | Погода была плохая. | The weather was bad.
+Russian::A1::Simple past narration of daily events | Мы были дома весь день. | We were at home all day.
+Russian::A1::Simple past narration of daily events | Я был в магазине. | I was at the shop. (male)
+Russian::A1::Simple past narration of daily events | Я была на работе. | I was at work. (female)
+Russian::A1::Simple past narration of daily events | Они были на концерте. | They were at a concert.
+Russian::A1::Simple past narration of daily events | Утром я выпил кофе. | In the morning I drank coffee. (male)
+Russian::A1::Simple past narration of daily events | Она выпила чай и пошла на работу. | She drank tea and went to work.
+Russian::A1::Simple past narration of daily events | Мы пообедали и пошли гулять. | We had lunch and went for a walk.
+Russian::A1::Simple past narration of daily events | Сначала я позвонил маме, потом написал другу. | First I phoned mum, then wrote to a friend. (male)
+Russian::A1::Simple past narration of daily events | После работы я встретила подругу. | After work I met a friend. (female)
+Russian::A1::Simple past narration of daily events | Мы долго разговаривали. | We talked for a long time.
+Russian::A1::Simple past narration of daily events | Потом мы пошли в кафе. | Then we went to a café.
+Russian::A1::Simple past narration of daily events | Там мы заказали пиццу. | There we ordered pizza.
+Russian::A1::Simple past narration of daily events | Он долго думал, но не решил. | He thought for a long time but didn't decide.
+Russian::A1::Simple past narration of daily events | Я искал ключи, но не нашёл их. | I looked for my keys but didn't find them. (male)
+Russian::A1::Simple past narration of daily events | Она купила хлеб и вернулась домой. | She bought bread and returned home.
+Russian::A1::Simple past narration of daily events | Мы смотрели фильм, а дети спали. | We watched a film while the children slept.
+Russian::A1::Simple past narration of daily events | Вчера шёл дождь. | It was raining yesterday.
+Russian::A1::Simple past narration of daily events | Я не знал ответа. | I didn't know the answer. (male)
+Russian::A1::Simple past narration of daily events | Она не знала, где он. | She didn't know where he was.
+Russian::A1::Simple past narration of daily events | Мы не видели его. | We didn't see him.
+Russian::A1::Simple past narration of daily events | Он вчера не работал. | He didn't work yesterday.
+Russian::A1::Simple past narration of daily events | Что ты делал вчера? | What did you do yesterday? (to a man)
+Russian::A1::Simple past narration of daily events | Что ты делала вчера? | What did you do yesterday? (to a woman)
+Russian::A1::Simple past narration of daily events | Где вы были в субботу? | Where were you on Saturday?
+Russian::A1::Simple past narration of daily events | Я ездил в деревню. | I went to the countryside (and came back). (male)
+Russian::A1::Simple past narration of daily events | Мы уже обедали. | We have already had lunch.
+Russian::A1::Simple past narration of daily events | Она ещё не обедала. | She hasn't had lunch yet.
+Russian::A1::Simple past narration of daily events | Я только что пришёл. | I've just arrived. (male)
+Russian::A1::Simple past narration of daily events | Они давно жили в Москве. | They lived in Moscow a long time ago.
+Russian::A1::Simple past narration of daily events | Раньше я работал в банке. | I used to work in a bank. (male)
+Russian::A1::Simple past narration of daily events | Раньше она жила в деревне. | She used to live in the countryside.
+Russian::A1::Simple past narration of daily events | В детстве я любил играть во дворе. | As a child I liked playing in the yard. (male)
+Russian::A1::Simple past narration of daily events | Моя мама пекла вкусные пироги. | My mum used to bake tasty pies.
+Russian::A1::Simple past narration of daily events | Вдруг зазвонил телефон. | Suddenly the phone rang.
+Russian::A1::Simple past narration of daily events | Он взял трубку и сказал «алло». | He picked up the phone and said "hello".
+Russian::A1::Simple past narration of daily events | Мы поужинали и пошли домой. | We had dinner and went home.
+Russian::A1::Simple past narration of daily events | Вечером мы играли в карты. | In the evening we played cards.
+Russian::A1::Simple past narration of daily events | В пятницу она опоздала на урок. | On Friday she was late for the lesson.
+Russian::A1::Simple past narration of daily events | Он сделал ошибку. | He made a mistake.
+Russian::A1::Simple past narration of daily events | Я исправил ошибку. | I corrected the mistake. (male)
+Russian::A1::Simple past narration of daily events | Урок был интересный. | The lesson was interesting.
+Russian::A1::Simple past narration of daily events | Это был хороший день. | It was a good day.
