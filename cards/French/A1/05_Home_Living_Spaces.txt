@@ -1,0 +1,46 @@
+#lang: fr -> en
+French::A1::Home & living spaces | J'habite dans un appartement. | I live in a flat.
+French::A1::Home & living spaces | Notre maison a un grand jardin. | Our house has a big garden.
+French::A1::Home & living spaces | Il y a trois chambres dans la maison. | There are three bedrooms in the house.
+French::A1::Home & living spaces | Il y a une cuisine moderne. | There is a modern kitchen.
+French::A1::Home & living spaces | Le salon est à gauche. | The living room is on the left.
+French::A1::Home & living spaces | La salle de bains est à droite. | The bathroom is on the right.
+French::A1::Home & living spaces | Les toilettes sont à côté de la chambre. | The toilet is next to the bedroom.
+French::A1::Home & living spaces | Le canapé est dans le salon. | The sofa is in the living room.
+French::A1::Home & living spaces | La table est devant la fenêtre. | The table is in front of the window.
+French::A1::Home & living spaces | Le livre est sur la table. | The book is on the table.
+French::A1::Home & living spaces | Le chat est sous la chaise. | The cat is under the chair.
+French::A1::Home & living spaces | La lampe est entre le lit et le mur. | The lamp is between the bed and the wall.
+French::A1::Home & living spaces | Le tapis est derrière le canapé. | The rug is behind the sofa.
+French::A1::Home & living spaces | Les clés sont dans le sac. | The keys are in the bag.
+French::A1::Home & living spaces | Il y a du pain sur la table. | There is some bread on the table.
+French::A1::Home & living spaces | Il y a de la soupe dans la casserole. | There is some soup in the saucepan.
+French::A1::Home & living spaces | Il y a des fruits dans le frigo. | There are some fruits in the fridge.
+French::A1::Home & living spaces | Il y a de l'eau dans le verre. | There is some water in the glass.
+French::A1::Home & living spaces | Dans la cuisine, il y a du café et du sucre. | In the kitchen, there is some coffee and some sugar.
+French::A1::Home & living spaces | Dans le placard, il y a de la farine. | In the cupboard, there is some flour.
+French::A1::Home & living spaces | Je mets du lait dans le café. | I put some milk in the coffee.
+French::A1::Home & living spaces | Tu as du sel ? | Do you have any salt?
+French::A1::Home & living spaces | Il y a de la lumière dans la chambre. | There is light in the bedroom.
+French::A1::Home & living spaces | Il y a du bruit dans la rue. | There is noise in the street.
+French::A1::Home & living spaces | Mon voisin habite au deuxième étage. | My neighbour lives on the second floor.
+French::A1::Home & living spaces | Nous habitons au rez-de-chaussée. | We live on the ground floor.
+French::A1::Home & living spaces | Il y a un ascenseur dans l'immeuble. | There is a lift in the building.
+French::A1::Home & living spaces | Elle est chez elle. | She is at home.
+French::A1::Home & living spaces | Je suis chez mes parents ce week-end. | I am at my parents' this weekend.
+French::A1::Home & living spaces | Tu es chez toi ce soir ? | Are you at home this evening?
+French::A1::Home & living spaces | Nous sommes chez des amis. | We are at some friends' house.
+French::A1::Home & living spaces | Il y a un miroir dans l'entrée. | There is a mirror in the hall.
+French::A1::Home & living spaces | La porte est ouverte. | The door is open.
+French::A1::Home & living spaces | Les fenêtres sont fermées. | The windows are closed.
+French::A1::Home & living spaces | Le garage est derrière la maison. | The garage is behind the house.
+French::A1::Home & living spaces | Il y a des fleurs dans le jardin. | There are some flowers in the garden.
+French::A1::Home & living spaces | Il y a une télévision dans ma chambre. | There is a television in my bedroom.
+French::A1::Home & living spaces | Il y a beaucoup de livres sur l'étagère. | There are lots of books on the shelf.
+French::A1::Home & living spaces | Les assiettes sont dans le placard. | The plates are in the cupboard.
+French::A1::Home & living spaces | Le four est en face de l'évier. | The oven is opposite the sink.
+French::A1::Home & living spaces | Il y a un tableau au-dessus du lit. | There is a painting above the bed.
+French::A1::Home & living spaces | Le chien dort sur le tapis. | The dog is sleeping on the rug.
+French::A1::Home & living spaces | Il y a de la place dans la voiture. | There is room in the car.
+French::A1::Home & living spaces | Mon bureau est près de la fenêtre. | My desk is near the window.
+French::A1::Home & living spaces | Bienvenue chez nous ! | Welcome to our home!
