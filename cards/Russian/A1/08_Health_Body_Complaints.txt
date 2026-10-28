@@ -1,0 +1,41 @@
+#lang: ru -> en
+Russian::A1::Health, body & simple complaints | Мне плохо. | I feel bad.
+Russian::A1::Health, body & simple complaints | Мне больно. | It hurts.
+Russian::A1::Health, body & simple complaints | У меня болит голова. | I have a headache.
+Russian::A1::Health, body & simple complaints | У него болит горло. | He has a sore throat.
+Russian::A1::Health, body & simple complaints | У неё болит живот. | She has a stomachache.
+Russian::A1::Health, body & simple complaints | У меня болят ноги. | My legs hurt.
+Russian::A1::Health, body & simple complaints | Моя спина болит. | My back hurts.
+Russian::A1::Health, body & simple complaints | У меня температура. | I have a temperature.
+Russian::A1::Health, body & simple complaints | Мне надо к врачу. | I need to see a doctor.
+Russian::A1::Health, body & simple complaints | Тебе нужно отдохнуть. | You need to rest.
+Russian::A1::Health, body & simple complaints | Вам нельзя курить здесь. | You mustn't smoke here.
+Russian::A1::Health, body & simple complaints | Можно войти? | May I come in?
+Russian::A1::Health, body & simple complaints | Можно мне воды? | May I have some water?
+Russian::A1::Health, body & simple complaints | Тебе нужно лекарство. | You need medicine.
+Russian::A1::Health, body & simple complaints | Ему двадцать пять лет. | He is twenty-five years old.
+Russian::A1::Health, body & simple complaints | Ей тридцать один год. | She is thirty-one years old.
+Russian::A1::Health, body & simple complaints | Сколько вам лет? | How old are you?
+Russian::A1::Health, body & simple complaints | Мне двадцать два года. | I am twenty-two years old.
+Russian::A1::Health, body & simple complaints | Моему брату три года. | My brother is three years old.
+Russian::A1::Health, body & simple complaints | У меня нет аппетита. | I have no appetite.
+Russian::A1::Health, body & simple complaints | У нас нет времени. | We have no time.
+Russian::A1::Health, body & simple complaints | Здесь нет аптеки. | There is no chemist's here.
+Russian::A1::Health, body & simple complaints | В аптеке есть таблетки. | There are tablets at the chemist's.
+Russian::A1::Health, body & simple complaints | Я принимаю таблетки два раза в день. | I take tablets twice a day.
+Russian::A1::Health, body & simple complaints | Я вызову врача. | I will call a doctor.
+Russian::A1::Health, body & simple complaints | Врач принимает с девяти до пяти. | The doctor sees patients from nine to five.
+Russian::A1::Health, body & simple complaints | Я болен. | I'm ill. (male)
+Russian::A1::Health, body & simple complaints | Она больна. | She is ill.
+Russian::A1::Health, body & simple complaints | Он здоров. | He is healthy.
+Russian::A1::Health, body & simple complaints | Руки у меня холодные. | My hands are cold.
+Russian::A1::Health, body & simple complaints | Закройте глаза, пожалуйста. | Close your eyes, please.
+Russian::A1::Health, body & simple complaints | Откройте рот. | Open your mouth.
+Russian::A1::Health, body & simple complaints | У меня кашель и насморк. | I have a cough and a runny nose.
+Russian::A1::Health, body & simple complaints | Я чихаю. | I'm sneezing.
+Russian::A1::Health, body & simple complaints | Мне нужно лежать в постели. | I need to stay in bed.
+Russian::A1::Health, body & simple complaints | Вам надо пить много воды. | You need to drink a lot of water.
+Russian::A1::Health, body & simple complaints | Нельзя есть холодное мороженое. | You mustn't eat cold ice cream.
+Russian::A1::Health, body & simple complaints | Это не страшно. | It's nothing serious.
+Russian::A1::Health, body & simple complaints | Вам станет лучше. | You will feel better.
+Russian::A1::Health, body & simple complaints | Выздоравливайте! | Get well soon!
