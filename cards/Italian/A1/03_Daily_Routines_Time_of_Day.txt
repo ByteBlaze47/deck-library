@@ -1,0 +1,51 @@
+#lang: it -> en
+Italian::A1::Daily routines & time of day | Mi sveglio alle sette. | I wake up at seven.
+Italian::A1::Daily routines & time of day | Di solito mi alzo presto. | I usually get up early.
+Italian::A1::Daily routines & time of day | La mattina preparo il caffè. | In the morning I make the coffee.
+Italian::A1::Daily routines & time of day | Lavo i piatti dopo cena. | I wash the dishes after dinner.
+Italian::A1::Daily routines & time of day | Alle otto aspetto l'autobus. | At eight I wait for the bus.
+Italian::A1::Daily routines & time of day | Arrivo in ufficio alle nove. | I arrive at the office at nine.
+Italian::A1::Daily routines & time of day | Lavoro fino alle cinque. | I work until five.
+Italian::A1::Daily routines & time of day | Che ore sono? | What time is it?
+Italian::A1::Daily routines & time of day | Sono le dieci. | It's ten o'clock.
+Italian::A1::Daily routines & time of day | È l'una. | It's one o'clock.
+Italian::A1::Daily routines & time of day | È mezzogiorno. | It's midday.
+Italian::A1::Daily routines & time of day | Sono le tre e mezza. | It's half past three.
+Italian::A1::Daily routines & time of day | Sono le sei e un quarto. | It's a quarter past six.
+Italian::A1::Daily routines & time of day | Sono le otto meno un quarto. | It's a quarter to eight.
+Italian::A1::Daily routines & time of day | A che ora cominci? | What time do you start? (informal)
+Italian::A1::Daily routines & time of day | Comincio alle nove. | I start at nine.
+Italian::A1::Daily routines & time of day | Lui studia la sera. | He studies in the evening.
+Italian::A1::Daily routines & time of day | Lei cammina nel parco il pomeriggio. | She walks in the park in the afternoon.
+Italian::A1::Daily routines & time of day | Noi mangiamo alle otto. | We eat at eight.
+Italian::A1::Daily routines & time of day | Voi ascoltate la radio la mattina. | You listen to the radio in the morning. (plural)
+Italian::A1::Daily routines & time of day | Loro parlano al telefono. | They are talking on the phone.
+Italian::A1::Daily routines & time of day | Non lavoro il sabato. | I don't work on Saturdays.
+Italian::A1::Daily routines & time of day | Non mi alzo tardi. | I don't get up late.
+Italian::A1::Daily routines & time of day | Non cucino mai la sera. | I never cook in the evening.
+Italian::A1::Daily routines & time of day | Cucino spesso la domenica. | I often cook on Sundays.
+Italian::A1::Daily routines & time of day | Qualche volta guardo la televisione. | Sometimes I watch television.
+Italian::A1::Daily routines & time of day | Raramente compro il giornale. | I rarely buy a newspaper.
+Italian::A1::Daily routines & time of day | Torno a casa alle sei. | I get back home at six.
+Italian::A1::Daily routines & time of day | Dopo il lavoro cammino un po'. | After work I walk a little.
+Italian::A1::Daily routines & time of day | Di notte dormo molto. | At night I sleep a lot.
+Italian::A1::Daily routines & time of day | Oggi pomeriggio studio in biblioteca. | This afternoon I'm studying at the library.
+Italian::A1::Daily routines & time of day | Oggi non lavoro. | Today I'm not working.
+Italian::A1::Daily routines & time of day | Stasera cucino io. | Tonight I'm cooking.
+Italian::A1::Daily routines & time of day | Quando ti svegli? | When do you wake up? (informal)
+Italian::A1::Daily routines & time of day | Mi sveglio sempre alle sei e mezza. | I always wake up at half past six.
+Italian::A1::Daily routines & time of day | Mia madre prepara la cena alle sette. | My mother prepares dinner at seven.
+Italian::A1::Daily routines & time of day | Il lunedì studio italiano. | On Mondays I study Italian.
+Italian::A1::Daily routines & time of day | Il weekend riposo. | At the weekend I rest.
+Italian::A1::Daily routines & time of day | Pranziamo all'una. | We have lunch at one.
+Italian::A1::Daily routines & time of day | Cenate tardi? | Do you have dinner late? (plural)
+Italian::A1::Daily routines & time of day | No, ceniamo presto. | No, we have dinner early.
+Italian::A1::Daily routines & time of day | Lui non parla la mattina. | He doesn't talk in the morning.
+Italian::A1::Daily routines & time of day | Lei non ascolta mai la musica al lavoro. | She never listens to music at work.
+Italian::A1::Daily routines & time of day | Verso mezzanotte vado a letto. | Around midnight I go to bed.
+Italian::A1::Daily routines & time of day | Aiuto mia madre la sera. | I help my mother in the evening.
+Italian::A1::Daily routines & time of day | Guardo un film dopo cena. | I watch a film after dinner.
+Italian::A1::Daily routines & time of day | Ogni giorno imparo una parola nuova. | Every day I learn a new word.
+Italian::A1::Daily routines & time of day | Ogni mattina passeggio con il cane. | Every morning I walk the dog.
+Italian::A1::Daily routines & time of day | La sera telefono a mia madre. | In the evening I phone my mother.
+Italian::A1::Daily routines & time of day | Domani mi sveglio alle sette in punto. | Tomorrow I wake up at seven sharp.
