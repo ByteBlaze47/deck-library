@@ -1,0 +1,40 @@
+Brazilian Portuguese::A1::Everyday objects & possession | Eu tenho um celular. | I have a mobile phone.
+Brazilian Portuguese::A1::Everyday objects & possession | Você tem um carro? | Do you have a car?
+Brazilian Portuguese::A1::Everyday objects & possession | Não, eu não tenho carro. | No, I do not have a car.
+Brazilian Portuguese::A1::Everyday objects & possession | Ela tem uma bicicleta nova. | She has a new bicycle.
+Brazilian Portuguese::A1::Everyday objects & possession | Nós temos uma casa pequena. | We have a small house.
+Brazilian Portuguese::A1::Everyday objects & possession | Eles têm dois computadores. | They have two computers.
+Brazilian Portuguese::A1::Everyday objects & possession | Eu tenho uma caneta azul. | I have a blue pen.
+Brazilian Portuguese::A1::Everyday objects & possession | Ele não tem lápis. | He does not have a pencil.
+Brazilian Portuguese::A1::Everyday objects & possession | Você tem um caderno? | Do you have a notebook?
+Brazilian Portuguese::A1::Everyday objects & possession | Tenho sim, está na mochila. | Yes, I do, it is in the rucksack.
+Brazilian Portuguese::A1::Everyday objects & possession | Este é o meu livro. | This is my book.
+Brazilian Portuguese::A1::Everyday objects & possession | Esta é a minha mochila. | This is my rucksack.
+Brazilian Portuguese::A1::Everyday objects & possession | Esse é o seu celular? | Is that your phone?
+Brazilian Portuguese::A1::Everyday objects & possession | Essa é a sua chave? | Is that your key?
+Brazilian Portuguese::A1::Everyday objects & possession | Aquele carro é do meu pai. | That car is my father's.
+Brazilian Portuguese::A1::Everyday objects & possession | Aquela casa é muito grande. | That house is very big.
+Brazilian Portuguese::A1::Everyday objects & possession | Estes livros são novos. | These books are new.
+Brazilian Portuguese::A1::Everyday objects & possession | Estas cadeiras são confortáveis. | These chairs are comfortable.
+Brazilian Portuguese::A1::Everyday objects & possession | Esses copos são de vidro. | Those glasses are made of glass.
+Brazilian Portuguese::A1::Everyday objects & possession | Essas canetas não são minhas. | Those pens are not mine.
+Brazilian Portuguese::A1::Everyday objects & possession | Aqueles sapatos são caros. | Those shoes are expensive.
+Brazilian Portuguese::A1::Everyday objects & possession | Aquelas bolsas são bonitas. | Those bags are pretty.
+Brazilian Portuguese::A1::Everyday objects & possession | O que você tem na mão? | What do you have in your hand?
+Brazilian Portuguese::A1::Everyday objects & possession | Eu tenho uma maçã. | I have an apple.
+Brazilian Portuguese::A1::Everyday objects & possession | Você tem relógio? | Do you have a watch?
+Brazilian Portuguese::A1::Everyday objects & possession | Ela tem um relógio caro. | She has an expensive watch.
+Brazilian Portuguese::A1::Everyday objects & possession | Não temos mesa na cozinha. | We do not have a table in the kitchen.
+Brazilian Portuguese::A1::Everyday objects & possession | Eu não tenho tempo. | I do not have time.
+Brazilian Portuguese::A1::Everyday objects & possession | Ele tem muitos livros. | He has many books.
+Brazilian Portuguese::A1::Everyday objects & possession | Elas têm poucas coisas em casa. | They have few things at home.
+Brazilian Portuguese::A1::Everyday objects & possession | Tenho uma pergunta. | I have a question.
+Brazilian Portuguese::A1::Everyday objects & possession | Você tem uma toalha? | Do you have a towel?
+Brazilian Portuguese::A1::Everyday objects & possession | Temos uma televisão e um sofá. | We have a television and a sofa.
+Brazilian Portuguese::A1::Everyday objects & possession | O meu computador é velho. | My computer is old.
+Brazilian Portuguese::A1::Everyday objects & possession | A minha mesa é de madeira. | My table is made of wood.
+Brazilian Portuguese::A1::Everyday objects & possession | O que é isso? É um guarda-chuva. | What is that? It is an umbrella.
+Brazilian Portuguese::A1::Everyday objects & possession | Isso é meu. | That is mine.
+Brazilian Portuguese::A1::Everyday objects & possession | Isto é seu? | Is this yours?
+Brazilian Portuguese::A1::Everyday objects & possession | Aquilo é uma janela. | That is a window.
+Brazilian Portuguese::A1::Everyday objects & possession | Você tem uma caneta para me emprestar? | Do you have a pen you can lend me?
