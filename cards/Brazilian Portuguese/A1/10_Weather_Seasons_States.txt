@@ -1,0 +1,35 @@
+Brazilian Portuguese::A1::Weather, seasons & simple states | Como está o tempo hoje? | What is the weather like today?
+Brazilian Portuguese::A1::Weather, seasons & simple states | Hoje está calor. | It is hot today.
+Brazilian Portuguese::A1::Weather, seasons & simple states | Hoje está frio. | It is cold today.
+Brazilian Portuguese::A1::Weather, seasons & simple states | Faz muito calor no verão. | It is very hot in summer.
+Brazilian Portuguese::A1::Weather, seasons & simple states | Faz frio no inverno. | It is cold in winter.
+Brazilian Portuguese::A1::Weather, seasons & simple states | Faz sol hoje. | It is sunny today.
+Brazilian Portuguese::A1::Weather, seasons & simple states | Faz vento na praia. | It is windy at the beach.
+Brazilian Portuguese::A1::Weather, seasons & simple states | Hoje chove muito. | It rains a lot today.
+Brazilian Portuguese::A1::Weather, seasons & simple states | Chove muito em janeiro. | It rains a lot in January.
+Brazilian Portuguese::A1::Weather, seasons & simple states | Está nublado hoje. | It is cloudy today.
+Brazilian Portuguese::A1::Weather, seasons & simple states | O céu está azul. | The sky is blue.
+Brazilian Portuguese::A1::Weather, seasons & simple states | Hoje o dia está lindo. | The day is lovely today.
+Brazilian Portuguese::A1::Weather, seasons & simple states | Faz vinte e cinco graus. | It is twenty-five degrees.
+Brazilian Portuguese::A1::Weather, seasons & simple states | Faz trinta graus em Recife. | It is thirty degrees in Recife.
+Brazilian Portuguese::A1::Weather, seasons & simple states | Quais são as estações do ano? | What are the seasons of the year?
+Brazilian Portuguese::A1::Weather, seasons & simple states | As estações são verão, outono, inverno e primavera. | The seasons are summer, autumn, winter and spring.
+Brazilian Portuguese::A1::Weather, seasons & simple states | A primavera é bonita porque tem flores. | Spring is beautiful because there are flowers.
+Brazilian Portuguese::A1::Weather, seasons & simple states | Eu gosto do verão porque faz sol. | I like summer because it is sunny.
+Brazilian Portuguese::A1::Weather, seasons & simple states | Eu não gosto do inverno porque faz frio. | I do not like winter because it is cold.
+Brazilian Portuguese::A1::Weather, seasons & simple states | No Brasil, o verão é em dezembro. | In Brazil, summer is in December.
+Brazilian Portuguese::A1::Weather, seasons & simple states | No sul faz mais frio. | In the south it is colder.
+Brazilian Portuguese::A1::Weather, seasons & simple states | Eu estou com calor. | I am hot.
+Brazilian Portuguese::A1::Weather, seasons & simple states | Ela está com frio. | She is cold.
+Brazilian Portuguese::A1::Weather, seasons & simple states | Nós estamos com fome. | We are hungry.
+Brazilian Portuguese::A1::Weather, seasons & simple states | Eu estou com sede. | I am thirsty.
+Brazilian Portuguese::A1::Weather, seasons & simple states | Ele está com sono. | He is sleepy.
+Brazilian Portuguese::A1::Weather, seasons & simple states | Eu estou com pressa porque o ônibus sai logo. | I am in a hurry because the bus leaves soon.
+Brazilian Portuguese::A1::Weather, seasons & simple states | Eu preciso de um guarda-chuva porque chove. | I need an umbrella because it is raining.
+Brazilian Portuguese::A1::Weather, seasons & simple states | Levo um casaco porque está frio. | I take a coat because it is cold.
+Brazilian Portuguese::A1::Weather, seasons & simple states | A água está gelada. | The water is freezing.
+Brazilian Portuguese::A1::Weather, seasons & simple states | A praia está cheia hoje. | The beach is full today.
+Brazilian Portuguese::A1::Weather, seasons & simple states | O dia está quente e seco. | The day is hot and dry.
+Brazilian Portuguese::A1::Weather, seasons & simple states | O ar está úmido. | The air is humid.
+Brazilian Portuguese::A1::Weather, seasons & simple states | A noite está fria e escura. | The night is cold and dark.
+Brazilian Portuguese::A1::Weather, seasons & simple states | O tempo está bom, por isso eu estou feliz. | The weather is good, so I am happy.
