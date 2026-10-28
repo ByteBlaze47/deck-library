@@ -1,0 +1,46 @@
+#lang: ko -> en
+Korean::A1::Expressing ability, possibility & permission | 저는 한국어를 할 수 있어요. | I can speak Korean.
+Korean::A1::Expressing ability, possibility & permission | 저는 영어를 할 수 있어요. | I can speak English.
+Korean::A1::Expressing ability, possibility & permission | 저는 수영을 할 수 있어요. | I can swim.
+Korean::A1::Expressing ability, possibility & permission | 저는 운전을 할 수 있어요. | I can drive.
+Korean::A1::Expressing ability, possibility & permission | 저는 요리를 할 수 있어요. | I can cook.
+Korean::A1::Expressing ability, possibility & permission | 저는 김치를 만들 수 있어요. | I can make kimchi.
+Korean::A1::Expressing ability, possibility & permission | 저는 기타를 칠 수 있어요. | I can play the guitar.
+Korean::A1::Expressing ability, possibility & permission | 저는 한글을 읽을 수 있어요. | I can read Hangul.
+Korean::A1::Expressing ability, possibility & permission | 저는 한자를 못 읽어요. | I cannot read Chinese characters.
+Korean::A1::Expressing ability, possibility & permission | 저는 매운 음식을 먹을 수 있어요. | I can eat spicy food.
+Korean::A1::Expressing ability, possibility & permission | 저는 술을 마실 수 없어요. | I cannot drink alcohol.
+Korean::A1::Expressing ability, possibility & permission | 저는 오늘 갈 수 없어요. | I cannot go today.
+Korean::A1::Expressing ability, possibility & permission | 저는 내일 올 수 있어요. | I can come tomorrow.
+Korean::A1::Expressing ability, possibility & permission | 저는 자전거를 탈 수 있어요? | Can you ride a bicycle?
+Korean::A1::Expressing ability, possibility & permission | 네, 탈 수 있어요. | Yes, I can.
+Korean::A1::Expressing ability, possibility & permission | 아니요, 탈 수 없어요. | No, I cannot.
+Korean::A1::Expressing ability, possibility & permission | 한국어를 잘해요? | Do you speak Korean well?
+Korean::A1::Expressing ability, possibility & permission | 저는 한국어를 잘 못해요. | I do not speak Korean very well.
+Korean::A1::Expressing ability, possibility & permission | 저는 노래를 잘 불러요. | I sing well.
+Korean::A1::Expressing ability, possibility & permission | 저는 요리를 잘 못해요. | I am not good at cooking.
+Korean::A1::Expressing ability, possibility & permission | 여기에서 사진을 찍어도 돼요. | You may take photos here.
+Korean::A1::Expressing ability, possibility & permission | 여기에 앉아도 돼요. | You may sit here.
+Korean::A1::Expressing ability, possibility & permission | 창문을 열어도 돼요? | May I open the window?
+Korean::A1::Expressing ability, possibility & permission | 네, 열어도 돼요. | Yes, you may open it.
+Korean::A1::Expressing ability, possibility & permission | 이 책을 빌려도 돼요? | May I borrow this book?
+Korean::A1::Expressing ability, possibility & permission | 먹어 봐도 돼요? | May I try it?
+Korean::A1::Expressing ability, possibility & permission | 화장실에 가도 돼요? | May I go to the toilet?
+Korean::A1::Expressing ability, possibility & permission | 전화를 써도 돼요? | May I use the phone?
+Korean::A1::Expressing ability, possibility & permission | 들어가도 돼요? | May I come in?
+Korean::A1::Expressing ability, possibility & permission | 집에 가도 돼요. | You may go home.
+Korean::A1::Expressing ability, possibility & permission | 여기에서 담배를 피우면 안 돼요. | You must not smoke here.
+Korean::A1::Expressing ability, possibility & permission | 여기에서 사진을 찍으면 안 돼요. | You must not take photos here.
+Korean::A1::Expressing ability, possibility & permission | 여기에 주차하면 안 돼요. | You must not park here.
+Korean::A1::Expressing ability, possibility & permission | 도서관에서 떠들면 안 돼요. | You must not make noise in the library.
+Korean::A1::Expressing ability, possibility & permission | 수업 시간에 자면 안 돼요. | You must not sleep during class.
+Korean::A1::Expressing ability, possibility & permission | 수업 시간에 핸드폰을 쓰면 안 돼요. | You must not use your mobile during class.
+Korean::A1::Expressing ability, possibility & permission | 이 길로 가면 안 돼요. | You must not go this way.
+Korean::A1::Expressing ability, possibility & permission | 이 물을 마시면 안 돼요. | You must not drink this water.
+Korean::A1::Expressing ability, possibility & permission | 늦으면 안 돼요. | You must not be late.
+Korean::A1::Expressing ability, possibility & permission | 아이들은 들어가면 안 돼요. | Children must not enter.
+Korean::A1::Expressing ability, possibility & permission | 저는 내일 올 수 없지만 모레는 올 수 있어요. | I cannot come tomorrow, but I can come the day after.
+Korean::A1::Expressing ability, possibility & permission | 저는 피아노를 칠 수 있고 노래도 할 수 있어요. | I can play the piano and I can sing too.
+Korean::A1::Expressing ability, possibility & permission | 저는 한국어를 읽을 수 있지만 쓸 수 없어요. | I can read Korean but I cannot write it.
+Korean::A1::Expressing ability, possibility & permission | 저는 내일 쉬어도 돼요. | I may rest tomorrow.
+Korean::A1::Expressing ability, possibility & permission | 이제 가도 돼요? | May I go now?
