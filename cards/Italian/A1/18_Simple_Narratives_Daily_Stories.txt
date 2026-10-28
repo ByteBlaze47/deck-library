@@ -1,0 +1,56 @@
+#lang: it -> en
+Italian::A1::Simple narratives & daily stories | Prima mi alzo, poi faccio colazione. | First I get up, then I have breakfast.
+Italian::A1::Simple narratives & daily stories | Dopo faccio la doccia e infine esco. | Afterwards I shower and finally I go out.
+Italian::A1::Simple narratives & daily stories | Ieri mi sono svegliato alle sette. | Yesterday I woke up at seven.
+Italian::A1::Simple narratives & daily stories | Prima ho fatto colazione e poi sono uscito. | First I had breakfast and then I went out.
+Italian::A1::Simple narratives & daily stories | Sono andato al bar e ho preso un cappuccino. | I went to the café and had a cappuccino.
+Italian::A1::Simple narratives & daily stories | Dopo ho preso l'autobus per andare al lavoro. | Afterwards I took the bus to go to work.
+Italian::A1::Simple narratives & daily stories | Sono arrivato in ufficio, ma il capo non c'è. | I arrived at the office, but the boss isn't there.
+Italian::A1::Simple narratives & daily stories | Allora ho aspettato un po'. | So I waited a little.
+Italian::A1::Simple narratives & daily stories | Poi il capo è arrivato e abbiamo parlato. | Then the boss arrived and we talked.
+Italian::A1::Simple narratives & daily stories | Ho lavorato fino all'una e poi ho pranzato. | I worked until one and then had lunch.
+Italian::A1::Simple narratives & daily stories | Dopo pranzo ho fatto una passeggiata nel parco. | After lunch I went for a walk in the park.
+Italian::A1::Simple narratives & daily stories | Nel pomeriggio ho incontrato un amico. | In the afternoon I met a friend.
+Italian::A1::Simple narratives & daily stories | Siamo andati a bere un caffè insieme. | We went for a coffee together.
+Italian::A1::Simple narratives & daily stories | Abbiamo parlato di lavoro e di famiglia. | We talked about work and family.
+Italian::A1::Simple narratives & daily stories | Sono tornato a casa perché sono molto stanco. | I came home because I'm very tired.
+Italian::A1::Simple narratives & daily stories | Ho cucinato e ho cenato con la mia famiglia. | I cooked and had dinner with my family.
+Italian::A1::Simple narratives & daily stories | Poi ho guardato un film e sono andato a letto. | Then I watched a film and went to bed.
+Italian::A1::Simple narratives & daily stories | Oggi è sabato e non lavoro. | Today is Saturday and I'm not working.
+Italian::A1::Simple narratives & daily stories | Prima di tutto faccio la spesa. | First of all I do the shopping.
+Italian::A1::Simple narratives & daily stories | Poi cucino un bel pranzo per tutti. | Then I cook a nice lunch for everyone.
+Italian::A1::Simple narratives & daily stories | Dopo pranzo mia madre riposa e io lavo i piatti. | After lunch my mother rests and I wash the dishes.
+Italian::A1::Simple narratives & daily stories | La sera usciamo, ma non torniamo tardi. | In the evening we go out, but we don't come back late.
+Italian::A1::Simple narratives & daily stories | Domenica scorsa abbiamo visitato mia nonna. | Last Sunday we visited my grandmother.
+Italian::A1::Simple narratives & daily stories | Lei ha preparato un dolce e noi lo abbiamo mangiato. | She made a dessert and we ate it.
+Italian::A1::Simple narratives & daily stories | Poi abbiamo giocato a carte tutto il pomeriggio. | Then we played cards all afternoon.
+Italian::A1::Simple narratives & daily stories | Mio nonno ha raccontato una storia divertente. | My grandfather told a funny story.
+Italian::A1::Simple narratives & daily stories | Tutti hanno riso molto. | Everyone laughed a lot.
+Italian::A1::Simple narratives & daily stories | Alle sei siamo tornati a casa, ma siamo ancora stanchi. | At six we went home, but we are still tired.
+Italian::A1::Simple narratives & daily stories | Stamattina ho perso le chiavi. | This morning I lost my keys.
+Italian::A1::Simple narratives & daily stories | Le ho cercate dappertutto, ma non le ho trovate. | I looked for them everywhere, but I didn't find them.
+Italian::A1::Simple narratives & daily stories | Allora ho chiamato mia sorella. | So I called my sister.
+Italian::A1::Simple narratives & daily stories | Lei è venuta subito e mi ha aiutato. | She came right away and helped me.
+Italian::A1::Simple narratives & daily stories | Alla fine abbiamo trovato le chiavi nella borsa. | In the end we found the keys in the bag.
+Italian::A1::Simple narratives & daily stories | Prima ho riso, poi mi sono arrabbiato. | First I laughed, then I got angry.
+Italian::A1::Simple narratives & daily stories | Questa estate sono andata in Sicilia con Anna. | This summer I went to Sicily with Anna.
+Italian::A1::Simple narratives & daily stories | Prima abbiamo visitato Palermo, poi siamo andate a Catania. | First we visited Palermo, then we went to Catania.
+Italian::A1::Simple narratives & daily stories | Abbiamo mangiato molto bene e abbiamo bevuto vino locale. | We ate very well and drank local wine.
+Italian::A1::Simple narratives & daily stories | Il mare è bellissimo e l'acqua è calda. | The sea is beautiful and the water is warm.
+Italian::A1::Simple narratives & daily stories | Siamo rimaste una settimana e siamo tornate stanche ma felici. | We stayed a week and came back tired but happy.
+Italian::A1::Simple narratives & daily stories | Dopo il viaggio ho dormito per dieci ore. | After the trip I slept for ten hours.
+Italian::A1::Simple narratives & daily stories | Ieri ho fatto una torta e l'ho mangiata con Marco. | Yesterday I made a cake and ate it with Marco.
+Italian::A1::Simple narratives & daily stories | Poi ho lavato la cucina e ho buttato la spazzatura. | Then I cleaned the kitchen and took out the rubbish.
+Italian::A1::Simple narratives & daily stories | Infine ho spento la luce e sono andato a dormire. | Finally I turned off the light and went to sleep.
+Italian::A1::Simple narratives & daily stories | Mia sorella ha studiato tutto il giorno e infine ha passato l'esame. | My sister studied all day and finally passed the exam.
+Italian::A1::Simple narratives & daily stories | Quindi oggi è molto contenta. | So she's very happy today.
+Italian::A1::Simple narratives & daily stories | Marco è arrivato tardi perché ha perso il treno. | Marco arrived late because he missed the train.
+Italian::A1::Simple narratives & daily stories | Non ha chiamato, quindi siamo andati senza di lui. | He didn't call, so we went without him.
+Italian::A1::Simple narratives & daily stories | Prima ho scritto una mail, poi ho telefonato al cliente. | First I wrote an email, then I phoned the client.
+Italian::A1::Simple narratives & daily stories | Il cliente ha risposto e abbiamo fissato un appuntamento. | The client answered and we set a meeting.
+Italian::A1::Simple narratives & daily stories | Adesso sono libero, ma domani lavoro tutto il giorno. | Now I'm free, but tomorrow I work all day.
+Italian::A1::Simple narratives & daily stories | Dopo la scuola vado a casa e faccio i compiti. | After school I go home and do my homework.
+Italian::A1::Simple narratives & daily stories | Quando arrivo a casa, mi riposo un po'. | When I get home, I rest a little.
+Italian::A1::Simple narratives & daily stories | Mentre cucino, ascolto la radio. | While I cook, I listen to the radio.
+Italian::A1::Simple narratives & daily stories | Prima di dormire leggo un libro. | Before sleeping I read a book.
+Italian::A1::Simple narratives & daily stories | Che giornata lunga, ma bella! | What a long day, but a good one!
