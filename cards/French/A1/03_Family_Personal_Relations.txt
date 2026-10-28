@@ -1,0 +1,41 @@
+#lang: fr -> en
+French::A1::Family & personal relations | Voici ma famille. | This is my family.
+French::A1::Family & personal relations | Voici mon père et ma mère. | This is my father and my mother.
+French::A1::Family & personal relations | Mon père est ingénieur. | My father is an engineer.
+French::A1::Family & personal relations | Ma mère est infirmière. | My mother is a nurse.
+French::A1::Family & personal relations | Mes parents sont français. | My parents are French.
+French::A1::Family & personal relations | J'ai deux frères et une sœur. | I have two brothers and one sister.
+French::A1::Family & personal relations | Mon frère est petit. | My brother is short.
+French::A1::Family & personal relations | Ma sœur est grande. | My sister is tall.
+French::A1::Family & personal relations | Mes frères sont sportifs. | My brothers are sporty.
+French::A1::Family & personal relations | Mes sœurs sont sportives aussi. | My sisters are sporty too.
+French::A1::Family & personal relations | Ton grand-père est italien ? | Is your grandfather Italian?
+French::A1::Family & personal relations | Ta grand-mère est italienne aussi. | Your grandmother is Italian too.
+French::A1::Family & personal relations | Tes cousins sont canadiens. | Your cousins are Canadian.
+French::A1::Family & personal relations | Son oncle est avocat. | His uncle is a lawyer.
+French::A1::Family & personal relations | Sa tante est avocate aussi. | Her aunt is a lawyer too.
+French::A1::Family & personal relations | Ses enfants sont mignons. | Her children are cute.
+French::A1::Family & personal relations | Notre maison est petite. | Our house is small.
+French::A1::Family & personal relations | Nos voisins sont gentils. | Our neighbours are kind.
+French::A1::Family & personal relations | Votre fille est mariée ? | Is your daughter married?
+French::A1::Family & personal relations | Vos fils sont étudiants ? | Are your sons students?
+French::A1::Family & personal relations | Leur chien est noir. | Their dog is black.
+French::A1::Family & personal relations | Leurs amies sont espagnoles. | Their friends are Spanish.
+French::A1::Family & personal relations | Mon mari est boulanger. | My husband is a baker.
+French::A1::Family & personal relations | Ma femme est actrice. | My wife is an actress.
+French::A1::Family & personal relations | Mon ami est allemand. | My friend is German.
+French::A1::Family & personal relations | Mon amie est allemande. | My female friend is German.
+French::A1::Family & personal relations | Mon meilleur ami est musicien. | My best friend is a musician.
+French::A1::Family & personal relations | Ma meilleure amie est coiffeuse. | My best friend is a hairdresser.
+French::A1::Family & personal relations | Mon petit frère est timide. | My little brother is shy.
+French::A1::Family & personal relations | Ma petite sœur est drôle. | My little sister is funny.
+French::A1::Family & personal relations | Mes grands-parents sont âgés. | My grandparents are elderly.
+French::A1::Family & personal relations | Elle est suisse et il est belge. | She is Swiss and he is Belgian.
+French::A1::Family & personal relations | Les hommes sont chanteurs et les femmes sont chanteuses. | The men are singers and the women are singers.
+French::A1::Family & personal relations | Mon voisin est vendeur. | My neighbour is a shop assistant.
+French::A1::Family & personal relations | Ma voisine est serveuse. | My neighbour is a waitress.
+French::A1::Family & personal relations | Tu es fils unique ? | Are you an only son?
+French::A1::Family & personal relations | Elle est fille unique. | She is an only daughter.
+French::A1::Family & personal relations | Notre famille est grande et heureuse. | Our family is big and happy.
+French::A1::Family & personal relations | Mon cousin est anglais mais sa femme est écossaise. | My cousin is English but his wife is Scottish.
+French::A1::Family & personal relations | Ma famille est très importante pour moi. | My family is very important to me.
