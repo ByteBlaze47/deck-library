@@ -1,0 +1,46 @@
+#lang: fr -> en
+French::A1::Daily routines & time of day | Je me réveille à sept heures. | I wake up at seven o'clock.
+French::A1::Daily routines & time of day | Je me lève à sept heures et quart. | I get up at a quarter past seven.
+French::A1::Daily routines & time of day | Tu te lèves tôt le matin ? | Do you get up early in the morning?
+French::A1::Daily routines & time of day | Il mange un croissant au petit déjeuner. | He eats a croissant for breakfast.
+French::A1::Daily routines & time of day | Elle parle avec sa mère. | She talks with her mother.
+French::A1::Daily routines & time of day | Nous travaillons de neuf heures à cinq heures. | We work from nine to five.
+French::A1::Daily routines & time of day | Vous arrivez à huit heures et demie. | You arrive at half past eight.
+French::A1::Daily routines & time of day | Ils habitent près de la gare. | They live near the station.
+French::A1::Daily routines & time of day | Elles regardent la télévision le soir. | They watch television in the evening.
+French::A1::Daily routines & time of day | J'aime le matin. | I like the morning.
+French::A1::Daily routines & time of day | Je prépare le café tous les jours. | I make coffee every day.
+French::A1::Daily routines & time of day | Tu écoutes souvent la radio ? | Do you often listen to the radio?
+French::A1::Daily routines & time of day | Il quitte la maison à huit heures moins le quart. | He leaves the house at a quarter to eight.
+French::A1::Daily routines & time of day | Elle étudie toujours après le dîner. | She always studies after dinner.
+French::A1::Daily routines & time of day | Nous déjeunons à midi. | We have lunch at midday.
+French::A1::Daily routines & time of day | Vous dînez à huit heures du soir ? | Do you have dinner at eight in the evening?
+French::A1::Daily routines & time of day | Ils jouent au football le samedi. | They play football on Saturdays.
+French::A1::Daily routines & time of day | Je travaille rarement le dimanche. | I rarely work on Sundays.
+French::A1::Daily routines & time of day | Il téléphone à son ami de temps en temps. | He phones his friend from time to time.
+French::A1::Daily routines & time of day | Quelle heure est-il ? | What time is it?
+French::A1::Daily routines & time of day | Il est dix heures. | It is ten o'clock.
+French::A1::Daily routines & time of day | Il est midi et demi. | It is half past twelve.
+French::A1::Daily routines & time of day | Il est minuit. | It is midnight.
+French::A1::Daily routines & time of day | Il est deux heures dix. | It is ten past two.
+French::A1::Daily routines & time of day | Il est trois heures moins cinq. | It is five to three.
+French::A1::Daily routines & time of day | Je commence à neuf heures. | I start at nine o'clock.
+French::A1::Daily routines & time of day | Le film commence à vingt heures. | The film starts at eight o'clock in the evening.
+French::A1::Daily routines & time of day | Nous marchons un peu avant le déjeuner. | We walk a little before lunch.
+French::A1::Daily routines & time of day | Je danse quelquefois le vendredi soir. | I sometimes dance on Friday evenings.
+French::A1::Daily routines & time of day | Tu chantes dans la douche ? | Do you sing in the shower?
+French::A1::Daily routines & time of day | Elle travaille à la maison le lundi. | She works at home on Mondays.
+French::A1::Daily routines & time of day | Le matin, j'écoute la radio. | In the morning, I listen to the radio.
+French::A1::Daily routines & time of day | L'après-midi, nous étudions à la bibliothèque. | In the afternoon, we study at the library.
+French::A1::Daily routines & time of day | Le soir, ils restent à la maison. | In the evening, they stay at home.
+French::A1::Daily routines & time of day | Je me couche à onze heures. | I go to bed at eleven o'clock.
+French::A1::Daily routines & time of day | Tu te couches tard ? | Do you go to bed late?
+French::A1::Daily routines & time of day | Elle se brosse les dents deux fois par jour. | She brushes her teeth twice a day.
+French::A1::Daily routines & time of day | Nous aimons parler avant le dîner. | We like to talk before dinner.
+French::A1::Daily routines & time of day | Vous cherchez un taxi le matin ? | Do you look for a taxi in the morning?
+French::A1::Daily routines & time of day | Les enfants montent dans le bus à huit heures. | The children get on the bus at eight o'clock.
+French::A1::Daily routines & time of day | Je passe souvent chez mon ami le week-end. | I often go round to my friend's at the weekend.
+French::A1::Daily routines & time of day | Il ferme le magasin à sept heures. | He closes the shop at seven o'clock.
+French::A1::Daily routines & time of day | Elle regarde l'heure sur son téléphone. | She looks at the time on her phone.
+French::A1::Daily routines & time of day | Nous rentrons à la maison vers six heures. | We go home at around six o'clock.
+French::A1::Daily routines & time of day | Bonne nuit, à demain matin ! | Good night, see you tomorrow morning!
