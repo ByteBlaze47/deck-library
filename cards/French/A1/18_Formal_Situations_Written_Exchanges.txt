@@ -1,0 +1,41 @@
+#lang: fr -> en
+French::A1::Formal situations & written-style exchanges (emails, notices, simple letters) | Bonjour Monsieur, bonjour Madame. | Good morning, sir; good morning, madam.
+French::A1::Formal situations & written-style exchanges (emails, notices, simple letters) | Madame, Monsieur, | Dear Sir or Madam,
+French::A1::Formal situations & written-style exchanges (emails, notices, simple letters) | Je vous écris pour demander des informations. | I am writing to ask for information.
+French::A1::Formal situations & written-style exchanges (emails, notices, simple letters) | Je vous remercie de votre réponse rapide. | Thank you for your quick reply.
+French::A1::Formal situations & written-style exchanges (emails, notices, simple letters) | Veuillez trouver ci-joint mon CV. | Please find my CV attached.
+French::A1::Formal situations & written-style exchanges (emails, notices, simple letters) | Pouvez-vous me confirmer la date de la réunion ? | Can you confirm the date of the meeting to me?
+French::A1::Formal situations & written-style exchanges (emails, notices, simple letters) | Avez-vous reçu mon dossier ? | Have you received my file?
+French::A1::Formal situations & written-style exchanges (emails, notices, simple letters) | Êtes-vous disponible mardi matin ? | Are you available on Tuesday morning?
+French::A1::Formal situations & written-style exchanges (emails, notices, simple letters) | Quand pouvez-vous venir ? | When can you come?
+French::A1::Formal situations & written-style exchanges (emails, notices, simple letters) | Où se trouve votre bureau ? | Where is your office located?
+French::A1::Formal situations & written-style exchanges (emails, notices, simple letters) | Combien coûte cette chambre ? | How much does this room cost?
+French::A1::Formal situations & written-style exchanges (emails, notices, simple letters) | Voulez-vous réserver une table ? | Would you like to book a table?
+French::A1::Formal situations & written-style exchanges (emails, notices, simple letters) | Souhaitez-vous un thé ou un café ? | Would you like a tea or a coffee?
+French::A1::Formal situations & written-style exchanges (emails, notices, simple letters) | Le bureau est ouvert de neuf heures à dix-sept heures. | The office is open from nine o'clock to five o'clock.
+French::A1::Formal situations & written-style exchanges (emails, notices, simple letters) | Le magasin est fermé le dimanche. | The shop is closed on Sundays.
+French::A1::Formal situations & written-style exchanges (emails, notices, simple letters) | Défense de fumer. | No smoking.
+French::A1::Formal situations & written-style exchanges (emails, notices, simple letters) | Prière de ne pas déranger. | Please do not disturb.
+French::A1::Formal situations & written-style exchanges (emails, notices, simple letters) | Entrée libre. | Free entry.
+French::A1::Formal situations & written-style exchanges (emails, notices, simple letters) | Sortie de secours. | Emergency exit.
+French::A1::Formal situations & written-style exchanges (emails, notices, simple letters) | Les clients doivent présenter leur passeport. | Guests must show their passport.
+French::A1::Formal situations & written-style exchanges (emails, notices, simple letters) | Les horaires sont affichés à l'entrée. | The opening hours are displayed at the entrance.
+French::A1::Formal situations & written-style exchanges (emails, notices, simple letters) | L'hôtel propose un petit déjeuner gratuit. | The hotel offers a free breakfast.
+French::A1::Formal situations & written-style exchanges (emails, notices, simple letters) | Nous sommes désolés, mais la chambre est complète. | We are sorry, but the room is fully booked.
+French::A1::Formal situations & written-style exchanges (emails, notices, simple letters) | Cependant, nous avons une autre chambre. | However, we have another room.
+French::A1::Formal situations & written-style exchanges (emails, notices, simple letters) | Toutefois, elle est plus petite. | However, it is smaller.
+French::A1::Formal situations & written-style exchanges (emails, notices, simple letters) | En effet, le prix est correct. | Indeed, the price is reasonable.
+French::A1::Formal situations & written-style exchanges (emails, notices, simple letters) | De plus, le petit déjeuner est inclus. | Moreover, breakfast is included.
+French::A1::Formal situations & written-style exchanges (emails, notices, simple letters) | Par conséquent, je vous écris. | Therefore, I am writing to you.
+French::A1::Formal situations & written-style exchanges (emails, notices, simple letters) | Je voudrais réserver une chambre double pour deux nuits. | I would like to book a double room for two nights.
+French::A1::Formal situations & written-style exchanges (emails, notices, simple letters) | Nous arrivons le quinze mars et nous partons le dix-sept. | We arrive on the fifteenth of March and leave on the seventeenth.
+French::A1::Formal situations & written-style exchanges (emails, notices, simple letters) | Pourriez-vous m'envoyer une confirmation ? | Could you send me a confirmation?
+French::A1::Formal situations & written-style exchanges (emails, notices, simple letters) | Je vous prie d'agréer mes salutations distinguées. | Yours sincerely.
+French::A1::Formal situations & written-style exchanges (emails, notices, simple letters) | Cordialement, | Kind regards,
+French::A1::Formal situations & written-style exchanges (emails, notices, simple letters) | Bien à vous, | Yours,
+French::A1::Formal situations & written-style exchanges (emails, notices, simple letters) | Madame Martin, je vous présente mon collègue, Monsieur Petit. | Mrs Martin, may I introduce my colleague, Mr Petit.
+French::A1::Formal situations & written-style exchanges (emails, notices, simple letters) | Monsieur le directeur est en réunion. | The director is in a meeting.
+French::A1::Formal situations & written-style exchanges (emails, notices, simple letters) | Souhaitez-vous attendre ou laisser un message ? | Would you like to wait or leave a message?
+French::A1::Formal situations & written-style exchanges (emails, notices, simple letters) | La banque ferme à seize heures trente. | The bank closes at half past four.
+French::A1::Formal situations & written-style exchanges (emails, notices, simple letters) | Veuillez signer ce document, s'il vous plaît. | Please sign this document.
+French::A1::Formal situations & written-style exchanges (emails, notices, simple letters) | Nous vous souhaitons un excellent séjour. | We wish you an excellent stay.
