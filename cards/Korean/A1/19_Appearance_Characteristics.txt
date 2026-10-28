@@ -1,0 +1,46 @@
+#lang: ko -> en
+Korean::A1::Describing appearance & simple characteristics | 저는 키가 커요. | I am tall.
+Korean::A1::Describing appearance & simple characteristics | 저는 키가 작아요. | I am short.
+Korean::A1::Describing appearance & simple characteristics | 제 동생은 머리가 길어요. | My younger sibling has long hair.
+Korean::A1::Describing appearance & simple characteristics | 제 친구는 머리가 짧아요. | My friend has short hair.
+Korean::A1::Describing appearance & simple characteristics | 저는 갈색 머리예요. | I have brown hair.
+Korean::A1::Describing appearance & simple characteristics | 저는 검은 머리예요. | I have black hair.
+Korean::A1::Describing appearance & simple characteristics | 저는 눈이 커요. | I have big eyes.
+Korean::A1::Describing appearance & simple characteristics | 저는 안경을 써요. | I wear glasses.
+Korean::A1::Describing appearance & simple characteristics | 그 사람은 날씬해요. | That person is slim.
+Korean::A1::Describing appearance & simple characteristics | 그 사람은 뚱뚱하지 않아요. | That person is not overweight.
+Korean::A1::Describing appearance & simple characteristics | 그 사람은 젊어요. | That person is young.
+Korean::A1::Describing appearance & simple characteristics | 그 할아버지는 연세가 많으세요. | That grandfather is elderly.
+Korean::A1::Describing appearance & simple characteristics | 그 여자는 예뻐요. | That woman is pretty.
+Korean::A1::Describing appearance & simple characteristics | 그 남자는 잘생겼어요. | That man is handsome.
+Korean::A1::Describing appearance & simple characteristics | 그 아이는 귀여워요. | That child is cute.
+Korean::A1::Describing appearance & simple characteristics | 우리 선생님은 친절해요. | Our teacher is kind.
+Korean::A1::Describing appearance & simple characteristics | 제 친구는 재미있어요. | My friend is funny.
+Korean::A1::Describing appearance & simple characteristics | 제 동료는 조용해요. | My colleague is quiet.
+Korean::A1::Describing appearance & simple characteristics | 제 동생은 활발해요. | My younger sibling is lively.
+Korean::A1::Describing appearance & simple characteristics | 그 사람은 성격이 좋아요. | That person has a good personality.
+Korean::A1::Describing appearance & simple characteristics | 그 사람은 똑똑해요. | That person is clever.
+Korean::A1::Describing appearance & simple characteristics | 그 사람은 부지런해요. | That person is hard-working.
+Korean::A1::Describing appearance & simple characteristics | 예쁜 꽃이 있어요. | There are pretty flowers.
+Korean::A1::Describing appearance & simple characteristics | 큰 집이 있어요. | There is a big house.
+Korean::A1::Describing appearance & simple characteristics | 작은 방이 있어요. | There is a small room.
+Korean::A1::Describing appearance & simple characteristics | 새 가방을 샀어요. | I bought a new bag.
+Korean::A1::Describing appearance & simple characteristics | 오래된 책이 있어요. | There is an old book.
+Korean::A1::Describing appearance & simple characteristics | 맛있는 음식을 먹어요. | I eat delicious food.
+Korean::A1::Describing appearance & simple characteristics | 따뜻한 커피를 마셔요. | I drink warm coffee.
+Korean::A1::Describing appearance & simple characteristics | 재미있는 영화를 봐요. | I watch an interesting film.
+Korean::A1::Describing appearance & simple characteristics | 저는 예쁜 옷을 입어요. | I wear pretty clothes.
+Korean::A1::Describing appearance & simple characteristics | 저는 긴 치마를 좋아해요. | I like long skirts.
+Korean::A1::Describing appearance & simple characteristics | 저는 짧은 바지를 입어요. | I wear short trousers.
+Korean::A1::Describing appearance & simple characteristics | 저는 키가 큰 사람을 만났어요. | I met a tall person.
+Korean::A1::Describing appearance & simple characteristics | 저는 머리가 긴 여자를 알아요. | I know a woman with long hair.
+Korean::A1::Describing appearance & simple characteristics | 저기 안경을 쓴 남자가 제 동생이에요. | The man over there wearing glasses is my younger brother.
+Korean::A1::Describing appearance & simple characteristics | 저기 서 있는 사람이 제 친구예요. | The person standing over there is my friend.
+Korean::A1::Describing appearance & simple characteristics | 저는 어제 산 가방을 가지고 있어요. | I have the bag I bought yesterday.
+Korean::A1::Describing appearance & simple characteristics | 제가 좋아하는 음식은 김밥이에요. | The food I like is gimbap.
+Korean::A1::Describing appearance & simple characteristics | 제가 읽는 책은 재미있어요. | The book I am reading is interesting.
+Korean::A1::Describing appearance & simple characteristics | 그 사람은 한국 사람이 아니고 일본 사람이에요. | That person is not Korean but Japanese.
+Korean::A1::Describing appearance & simple characteristics | 저는 학생이고 제 동생은 회사원이에요. | I am a student and my younger sibling is an office worker.
+Korean::A1::Describing appearance & simple characteristics | 이 집은 크고 깨끗해요. | This house is big and clean.
+Korean::A1::Describing appearance & simple characteristics | 제 방은 작고 조용해요. | My room is small and quiet.
+Korean::A1::Describing appearance & simple characteristics | 저는 키가 크고 머리가 짧아요. | I am tall and have short hair.
