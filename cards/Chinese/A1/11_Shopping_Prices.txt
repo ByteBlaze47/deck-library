@@ -1,0 +1,46 @@
+#lang: zh -> en
+Chinese::A1::Shopping & prices (market/store) | 这个多少钱？ | How much is this?
+Chinese::A1::Shopping & prices (market/store) | 这个五块钱。 | This is five yuan.
+Chinese::A1::Shopping & prices (market/store) | 那个十块钱。 | That is ten yuan.
+Chinese::A1::Shopping & prices (market/store) | 一斤苹果多少钱？ | How much is half a kilo of apples?
+Chinese::A1::Shopping & prices (market/store) | 一斤八块钱。 | Eight yuan for half a kilo.
+Chinese::A1::Shopping & prices (market/store) | 太贵了！ | That's too expensive!
+Chinese::A1::Shopping & prices (market/store) | 太便宜了。 | That's very cheap.
+Chinese::A1::Shopping & prices (market/store) | 能便宜一点儿吗？ | Can it be a little cheaper?
+Chinese::A1::Shopping & prices (market/store) | 便宜一点儿吧。 | Make it a little cheaper, please.
+Chinese::A1::Shopping & prices (market/store) | 这个比那个贵。 | This is more expensive than that.
+Chinese::A1::Shopping & prices (market/store) | 那个比这个便宜。 | That is cheaper than this.
+Chinese::A1::Shopping & prices (market/store) | 这件衣服比那件好看。 | This piece of clothing looks nicer than that one.
+Chinese::A1::Shopping & prices (market/store) | 这个比那个大。 | This is bigger than that.
+Chinese::A1::Shopping & prices (market/store) | 苹果比香蕉贵。 | Apples are more expensive than bananas.
+Chinese::A1::Shopping & prices (market/store) | 他比我高。 | He is taller than me.
+Chinese::A1::Shopping & prices (market/store) | 她比我小两岁。 | She is two years younger than me.
+Chinese::A1::Shopping & prices (market/store) | 今天比昨天冷。 | Today is colder than yesterday.
+Chinese::A1::Shopping & prices (market/store) | 我的包比你的重。 | My bag is heavier than yours.
+Chinese::A1::Shopping & prices (market/store) | 这件衣服太大了。 | This piece of clothing is too big.
+Chinese::A1::Shopping & prices (market/store) | 这双鞋太小了。 | This pair of shoes is too small.
+Chinese::A1::Shopping & prices (market/store) | 这条裤子太长了。 | These trousers are too long.
+Chinese::A1::Shopping & prices (market/store) | 这个太贵了，我不买。 | This is too expensive; I won't buy it.
+Chinese::A1::Shopping & prices (market/store) | 我想买一件衣服。 | I would like to buy a piece of clothing.
+Chinese::A1::Shopping & prices (market/store) | 我想买一双鞋。 | I would like to buy a pair of shoes.
+Chinese::A1::Shopping & prices (market/store) | 你要几个？ | How many do you want?
+Chinese::A1::Shopping & prices (market/store) | 我要三个。 | I want three.
+Chinese::A1::Shopping & prices (market/store) | 还要别的吗？ | Would you like anything else?
+Chinese::A1::Shopping & prices (market/store) | 还要一斤香蕉。 | I also want half a kilo of bananas.
+Chinese::A1::Shopping & prices (market/store) | 我也要一个。 | I'll have one too.
+Chinese::A1::Shopping & prices (market/store) | 他也买了一本书。 | He also bought a book.
+Chinese::A1::Shopping & prices (market/store) | 我还要一瓶水。 | I also want a bottle of water.
+Chinese::A1::Shopping & prices (market/store) | 这件有大号的吗？ | Does this come in a large size?
+Chinese::A1::Shopping & prices (market/store) | 我可以试试吗？ | May I try it on?
+Chinese::A1::Shopping & prices (market/store) | 有别的颜色吗？ | Do you have other colours?
+Chinese::A1::Shopping & prices (market/store) | 我要红色的。 | I'll take the red one.
+Chinese::A1::Shopping & prices (market/store) | 我喜欢这件蓝色的。 | I like this blue one.
+Chinese::A1::Shopping & prices (market/store) | 可以用手机付钱吗？ | Can I pay by mobile phone?
+Chinese::A1::Shopping & prices (market/store) | 我给你一百块。 | I'll give you a hundred yuan.
+Chinese::A1::Shopping & prices (market/store) | 找你五十块。 | Here is fifty yuan change.
+Chinese::A1::Shopping & prices (market/store) | 一共四十五块。 | It is forty-five yuan altogether.
+Chinese::A1::Shopping & prices (market/store) | 你们几点关门？ | What time do you close?
+Chinese::A1::Shopping & prices (market/store) | 这家商店很大。 | This shop is very big.
+Chinese::A1::Shopping & prices (market/store) | 超市里的东西很便宜。 | The things in the supermarket are very cheap.
+Chinese::A1::Shopping & prices (market/store) | 这是你的，谢谢。 | This is yours, thank you.
+Chinese::A1::Shopping & prices (market/store) | 欢迎下次再来。 | Welcome back next time.
