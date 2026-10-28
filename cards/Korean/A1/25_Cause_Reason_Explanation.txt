@@ -1,0 +1,51 @@
+#lang: ko -> en
+Korean::A1::Cause, reason & simple explanation | 저는 피곤해서 일찍 잤어요. | I was tired, so I went to bed early.
+Korean::A1::Cause, reason & simple explanation | 저는 배가 고파서 밥을 먹었어요. | I was hungry, so I ate.
+Korean::A1::Cause, reason & simple explanation | 저는 비가 와서 집에 있었어요. | It rained, so I stayed at home.
+Korean::A1::Cause, reason & simple explanation | 저는 날씨가 좋아서 산책했어요. | The weather was nice, so I went for a walk.
+Korean::A1::Cause, reason & simple explanation | 저는 시간이 없어서 택시를 탔어요. | I had no time, so I took a taxi.
+Korean::A1::Cause, reason & simple explanation | 저는 돈이 없어서 못 샀어요. | I had no money, so I could not buy it.
+Korean::A1::Cause, reason & simple explanation | 저는 바빠서 못 갔어요. | I was busy, so I could not go.
+Korean::A1::Cause, reason & simple explanation | 저는 아파서 학교에 안 갔어요. | I was ill, so I did not go to school.
+Korean::A1::Cause, reason & simple explanation | 저는 늦게 일어나서 지각했어요. | I got up late, so I was late.
+Korean::A1::Cause, reason & simple explanation | 저는 길이 막혀서 늦었어요. | The traffic was heavy, so I was late.
+Korean::A1::Cause, reason & simple explanation | 음식이 맛있어서 많이 먹었어요. | The food was delicious, so I ate a lot.
+Korean::A1::Cause, reason & simple explanation | 영화가 재미있어서 두 번 봤어요. | The film was fun, so I watched it twice.
+Korean::A1::Cause, reason & simple explanation | 한국어가 재미있어서 매일 공부해요. | Korean is fun, so I study it every day.
+Korean::A1::Cause, reason & simple explanation | 이 가방이 예뻐서 샀어요. | This bag was pretty, so I bought it.
+Korean::A1::Cause, reason & simple explanation | 날씨가 추워서 코트를 입었어요. | It was cold, so I wore a coat.
+Korean::A1::Cause, reason & simple explanation | 너무 더워서 에어컨을 켰어요. | It was too hot, so I turned on the air conditioner.
+Korean::A1::Cause, reason & simple explanation | 감기 때문에 병원에 갔어요. | I went to the hospital because of a cold.
+Korean::A1::Cause, reason & simple explanation | 비 때문에 못 갔어요. | I could not go because of the rain.
+Korean::A1::Cause, reason & simple explanation | 시험 때문에 바빠요. | I am busy because of the exam.
+Korean::A1::Cause, reason & simple explanation | 일 때문에 피곤해요. | I am tired because of work.
+Korean::A1::Cause, reason & simple explanation | 교통 때문에 늦었어요. | I was late because of the traffic.
+Korean::A1::Cause, reason & simple explanation | 왜 늦었어요? | Why were you late?
+Korean::A1::Cause, reason & simple explanation | 왜 안 왔어요? | Why did you not come?
+Korean::A1::Cause, reason & simple explanation | 왜 한국어를 공부해요? | Why do you study Korean?
+Korean::A1::Cause, reason & simple explanation | 한국 친구가 있어서 공부해요. | I study because I have a Korean friend.
+Korean::A1::Cause, reason & simple explanation | 한국 음악을 좋아해서 공부해요. | I study because I like Korean music.
+Korean::A1::Cause, reason & simple explanation | 저는 피곤했어요. 그래서 일찍 잤어요. | I was tired. So I went to bed early.
+Korean::A1::Cause, reason & simple explanation | 비가 왔어요. 그래서 집에 있었어요. | It rained. So I stayed at home.
+Korean::A1::Cause, reason & simple explanation | 돈이 없어요. 그래서 안 사요. | I have no money. So I will not buy it.
+Korean::A1::Cause, reason & simple explanation | 배가 아파요. 그래서 병원에 가요. | My stomach hurts. So I am going to the hospital.
+Korean::A1::Cause, reason & simple explanation | 저는 한국어를 좋아해요. 그런데 어려워요. | I like Korean. But it is difficult.
+Korean::A1::Cause, reason & simple explanation | 이 옷은 예뻐요. 그런데 비싸요. | These clothes are pretty. But they are expensive.
+Korean::A1::Cause, reason & simple explanation | 저는 가고 싶어요. 그런데 시간이 없어요. | I want to go. But I have no time.
+Korean::A1::Cause, reason & simple explanation | 날씨는 좋아요. 그런데 바람이 불어요. | The weather is nice. But it is windy.
+Korean::A1::Cause, reason & simple explanation | 어제 전화했어요. 그런데 안 받았어요. | I phoned yesterday. But you did not answer.
+Korean::A1::Cause, reason & simple explanation | 저는 학생이에요. 그런데 일도 해요. | I am a student. But I also work.
+Korean::A1::Cause, reason & simple explanation | 그 식당은 맛있어요. 그런데 멀어요. | That restaurant is tasty. But it is far.
+Korean::A1::Cause, reason & simple explanation | 저는 커피를 마셨어요. 그런데 잠이 안 와요. | I drank coffee. But I cannot sleep.
+Korean::A1::Cause, reason & simple explanation | 시험이 어려웠어요. 그래도 괜찮았어요. | The exam was difficult. Even so, it was fine.
+Korean::A1::Cause, reason & simple explanation | 저는 열심히 공부했어요. 그래서 시험을 잘 봤어요. | I studied hard. So I did well in the exam.
+Korean::A1::Cause, reason & simple explanation | 저는 한국에 가고 싶어서 한국어를 배워요. | I want to go to Korea, so I am learning Korean.
+Korean::A1::Cause, reason & simple explanation | 버스가 안 와서 걸어갔어요. | The bus did not come, so I walked.
+Korean::A1::Cause, reason & simple explanation | 우산이 없어서 비를 맞았어요. | I had no umbrella, so I got wet.
+Korean::A1::Cause, reason & simple explanation | 머리가 아파서 약을 먹었어요. | I had a headache, so I took medicine.
+Korean::A1::Cause, reason & simple explanation | 친구가 와서 같이 밥을 먹었어요. | A friend came, so we ate together.
+Korean::A1::Cause, reason & simple explanation | 너무 매워서 못 먹었어요. | It was too spicy, so I could not eat it.
+Korean::A1::Cause, reason & simple explanation | 길을 몰라서 물어봤어요. | I did not know the way, so I asked.
+Korean::A1::Cause, reason & simple explanation | 사람이 많아서 시끄러워요. | There are many people, so it is noisy.
+Korean::A1::Cause, reason & simple explanation | 저는 졸려서 커피를 마셨어요. | I was sleepy, so I drank coffee.
+Korean::A1::Cause, reason & simple explanation | 저는 목이 말라서 물을 마셨어요. | I was thirsty, so I drank water.
