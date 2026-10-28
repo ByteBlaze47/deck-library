@@ -1,0 +1,35 @@
+Brazilian Portuguese::A1::Health, body & basic needs / problems | Eu estou doente. | I am ill.
+Brazilian Portuguese::A1::Health, body & basic needs / problems | Você está bem? | Are you well?
+Brazilian Portuguese::A1::Health, body & basic needs / problems | Eu não estou bem hoje. | I am not well today.
+Brazilian Portuguese::A1::Health, body & basic needs / problems | Eu tenho dor de cabeça. | I have a headache.
+Brazilian Portuguese::A1::Health, body & basic needs / problems | Ela tem dor de barriga. | She has a stomachache.
+Brazilian Portuguese::A1::Health, body & basic needs / problems | Ele tem dor de dente. | He has toothache.
+Brazilian Portuguese::A1::Health, body & basic needs / problems | Eu tenho dor nas costas. | I have backache.
+Brazilian Portuguese::A1::Health, body & basic needs / problems | Meus pés doem muito. | My feet hurt a lot.
+Brazilian Portuguese::A1::Health, body & basic needs / problems | A minha garganta dói. | My throat hurts.
+Brazilian Portuguese::A1::Health, body & basic needs / problems | Eu tenho febre. | I have a fever.
+Brazilian Portuguese::A1::Health, body & basic needs / problems | Ela tem tosse e está com gripe. | She has a cough and has the flu.
+Brazilian Portuguese::A1::Health, body & basic needs / problems | Meu filho está com febre. | My son has a fever.
+Brazilian Portuguese::A1::Health, body & basic needs / problems | Eu estou com frio e com sono. | I am cold and sleepy.
+Brazilian Portuguese::A1::Health, body & basic needs / problems | Eu preciso de um médico. | I need a doctor.
+Brazilian Portuguese::A1::Health, body & basic needs / problems | Onde fica o hospital? | Where is the hospital?
+Brazilian Portuguese::A1::Health, body & basic needs / problems | Tem uma farmácia aqui perto? | Is there a pharmacy near here?
+Brazilian Portuguese::A1::Health, body & basic needs / problems | Eu preciso de um remédio. | I need some medicine.
+Brazilian Portuguese::A1::Health, body & basic needs / problems | O médico está aqui? | Is the doctor here?
+Brazilian Portuguese::A1::Health, body & basic needs / problems | Por favor, me ajude! | Please, help me!
+Brazilian Portuguese::A1::Health, body & basic needs / problems | Eu preciso de ajuda. | I need help.
+Brazilian Portuguese::A1::Health, body & basic needs / problems | Chame um médico, por favor. | Call a doctor, please.
+Brazilian Portuguese::A1::Health, body & basic needs / problems | A cabeça, os braços e as pernas. | The head, the arms and the legs.
+Brazilian Portuguese::A1::Health, body & basic needs / problems | Eu tenho duas mãos e dois pés. | I have two hands and two feet.
+Brazilian Portuguese::A1::Health, body & basic needs / problems | Os olhos e as orelhas são importantes. | The eyes and the ears are important.
+Brazilian Portuguese::A1::Health, body & basic needs / problems | Ele tem o nariz grande. | He has a big nose.
+Brazilian Portuguese::A1::Health, body & basic needs / problems | Eu escovo os dentes duas vezes por dia. | I brush my teeth twice a day.
+Brazilian Portuguese::A1::Health, body & basic needs / problems | Ela tem o cabelo comprido. | She has long hair.
+Brazilian Portuguese::A1::Health, body & basic needs / problems | Eu estou muito cansado. | I am very tired.
+Brazilian Portuguese::A1::Health, body & basic needs / problems | Eu não estou com fome. | I am not hungry.
+Brazilian Portuguese::A1::Health, body & basic needs / problems | Ela está com muita sede. | She is very thirsty.
+Brazilian Portuguese::A1::Health, body & basic needs / problems | Eu não tenho energia hoje. | I have no energy today.
+Brazilian Portuguese::A1::Health, body & basic needs / problems | Eu preciso descansar e beber muita água. | I need to rest and drink a lot of water.
+Brazilian Portuguese::A1::Health, body & basic needs / problems | Não é grave, é só um resfriado. | It is not serious, it is just a cold.
+Brazilian Portuguese::A1::Health, body & basic needs / problems | Eu estou melhor hoje. | I am better today.
+Brazilian Portuguese::A1::Health, body & basic needs / problems | Obrigado, doutor, eu me sinto bem. | Thank you, doctor, I feel well.
