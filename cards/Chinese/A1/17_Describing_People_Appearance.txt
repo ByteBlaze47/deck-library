@@ -1,0 +1,41 @@
+#lang: zh -> en
+Chinese::A1::Describing people & appearance (physical + simple character) | 他是一个高个子。 | He is a tall person.
+Chinese::A1::Describing people & appearance (physical + simple character) | 她是一个漂亮的女孩。 | She is a pretty girl.
+Chinese::A1::Describing people & appearance (physical + simple character) | 他是一个很帅的男人。 | He is a very handsome man.
+Chinese::A1::Describing people & appearance (physical + simple character) | 我的朋友是一个很高的人。 | My friend is a very tall person.
+Chinese::A1::Describing people & appearance (physical + simple character) | 她有长头发。 | She has long hair.
+Chinese::A1::Describing people & appearance (physical + simple character) | 他有短头发。 | He has short hair.
+Chinese::A1::Describing people & appearance (physical + simple character) | 她的头发很长。 | Her hair is very long.
+Chinese::A1::Describing people & appearance (physical + simple character) | 他的眼睛很大。 | His eyes are very big.
+Chinese::A1::Describing people & appearance (physical + simple character) | 她的眼睛是黑色的。 | Her eyes are black.
+Chinese::A1::Describing people & appearance (physical + simple character) | 他的头发是黑色的。 | His hair is black.
+Chinese::A1::Describing people & appearance (physical + simple character) | 我姐姐的头发是棕色的。 | My older sister's hair is brown.
+Chinese::A1::Describing people & appearance (physical + simple character) | 他很瘦。 | He is very thin.
+Chinese::A1::Describing people & appearance (physical + simple character) | 他有点儿胖。 | He is a bit chubby.
+Chinese::A1::Describing people & appearance (physical + simple character) | 他看起来很年轻。 | He looks very young.
+Chinese::A1::Describing people & appearance (physical + simple character) | 她看起来很累。 | She looks very tired.
+Chinese::A1::Describing people & appearance (physical + simple character) | 你看起来很高兴。 | You look very happy.
+Chinese::A1::Describing people & appearance (physical + simple character) | 他看起来很忙。 | He looks very busy.
+Chinese::A1::Describing people & appearance (physical + simple character) | 她看起来像她妈妈。 | She looks like her mum.
+Chinese::A1::Describing people & appearance (physical + simple character) | 他戴眼镜。 | He wears glasses.
+Chinese::A1::Describing people & appearance (physical + simple character) | 她穿一件红色的衣服。 | She is wearing a red top.
+Chinese::A1::Describing people & appearance (physical + simple character) | 他穿黑色的鞋。 | He is wearing black shoes.
+Chinese::A1::Describing people & appearance (physical + simple character) | 那个穿蓝衣服的人是我哥哥。 | The person wearing blue is my older brother.
+Chinese::A1::Describing people & appearance (physical + simple character) | 那个高高的男人是我的老师。 | That tall man is my teacher.
+Chinese::A1::Describing people & appearance (physical + simple character) | 那个戴帽子的女孩是我妹妹。 | That girl wearing a hat is my younger sister.
+Chinese::A1::Describing people & appearance (physical + simple character) | 他是一个很好的人。 | He is a very good person.
+Chinese::A1::Describing people & appearance (physical + simple character) | 她是一个很聪明的学生。 | She is a very clever student.
+Chinese::A1::Describing people & appearance (physical + simple character) | 她是一个又高又漂亮的女孩。 | She is a girl who is both tall and pretty.
+Chinese::A1::Describing people & appearance (physical + simple character) | 他又高又瘦。 | He is both tall and thin.
+Chinese::A1::Describing people & appearance (physical + simple character) | 我的老师很友好。 | My teacher is very friendly.
+Chinese::A1::Describing people & appearance (physical + simple character) | 他很安静。 | He is very quiet.
+Chinese::A1::Describing people & appearance (physical + simple character) | 她很爱笑。 | She smiles a lot.
+Chinese::A1::Describing people & appearance (physical + simple character) | 他很幽默。 | He is very funny.
+Chinese::A1::Describing people & appearance (physical + simple character) | 他很聪明，也很努力。 | He is very clever and also very hard-working.
+Chinese::A1::Describing people & appearance (physical + simple character) | 她很大方。 | She is very generous.
+Chinese::A1::Describing people & appearance (physical + simple character) | 我弟弟很可爱。 | My younger brother is very cute.
+Chinese::A1::Describing people & appearance (physical + simple character) | 我的朋友很热情。 | My friend is very warm and welcoming.
+Chinese::A1::Describing people & appearance (physical + simple character) | 我不喜欢那个又懒又吵的人。 | I don't like that lazy and noisy person.
+Chinese::A1::Describing people & appearance (physical + simple character) | 他是我最好的朋友。 | He is my best friend.
+Chinese::A1::Describing people & appearance (physical + simple character) | 她比她姐姐高。 | She is taller than her older sister.
+Chinese::A1::Describing people & appearance (physical + simple character) | 他和他爸爸很像。 | He is very like his dad.
