@@ -1,0 +1,41 @@
+#lang: it -> en
+Italian::A1::Work, school & basic occupations | Che lavoro fai? | What do you do for a living? (informal)
+Italian::A1::Work, school & basic occupations | Che lavoro fa? | What do you do for a living? (formal)
+Italian::A1::Work, school & basic occupations | Sono insegnante. | I am a teacher.
+Italian::A1::Work, school & basic occupations | Faccio il medico. | I'm a doctor.
+Italian::A1::Work, school & basic occupations | Lei fa l'avvocato. | She is a lawyer.
+Italian::A1::Work, school & basic occupations | Mio padre è ingegnere. | My father is an engineer.
+Italian::A1::Work, school & basic occupations | Mia madre è infermiera. | My mother is a nurse.
+Italian::A1::Work, school & basic occupations | Sono uno studente. | I am a student.
+Italian::A1::Work, school & basic occupations | Dove lavori? | Where do you work? (informal)
+Italian::A1::Work, school & basic occupations | Lavoro in un ospedale. | I work in a hospital.
+Italian::A1::Work, school & basic occupations | Lavora in una banca. | He works in a bank.
+Italian::A1::Work, school & basic occupations | Lavoriamo in un ufficio in centro. | We work in an office in the centre.
+Italian::A1::Work, school & basic occupations | Studio medicina all'università. | I study medicine at university.
+Italian::A1::Work, school & basic occupations | Che cosa studi? | What do you study?
+Italian::A1::Work, school & basic occupations | Studio lingue. | I study languages.
+Italian::A1::Work, school & basic occupations | Insegno inglese a scuola. | I teach English at school.
+Italian::A1::Work, school & basic occupations | Mia sorella insegna matematica. | My sister teaches maths.
+Italian::A1::Work, school & basic occupations | Gli studenti studiano molto. | The students study a lot.
+Italian::A1::Work, school & basic occupations | Faccio i compiti ogni sera. | I do my homework every evening.
+Italian::A1::Work, school & basic occupations | Che cosa fai oggi? | What are you doing today?
+Italian::A1::Work, school & basic occupations | Faccio una pausa. | I'm taking a break.
+Italian::A1::Work, school & basic occupations | Il professore è molto bravo. | The teacher is very good.
+Italian::A1::Work, school & basic occupations | L'aula è grande. | The classroom is big.
+Italian::A1::Work, school & basic occupations | La lezione comincia alle nove. | The lesson starts at nine.
+Italian::A1::Work, school & basic occupations | Ho un esame domani. | I have an exam tomorrow.
+Italian::A1::Work, school & basic occupations | Non ho lezione oggi. | I don't have a lesson today.
+Italian::A1::Work, school & basic occupations | Il mio capo è gentile. | My boss is kind.
+Italian::A1::Work, school & basic occupations | I miei colleghi sono simpatici. | My colleagues are nice.
+Italian::A1::Work, school & basic occupations | Il cuoco lavora in un ristorante. | The cook works in a restaurant.
+Italian::A1::Work, school & basic occupations | Il cameriere porta i piatti. | The waiter brings the dishes.
+Italian::A1::Work, school & basic occupations | La commessa vende vestiti. | The shop assistant sells clothes.
+Italian::A1::Work, school & basic occupations | Il tassista guida la macchina. | The taxi driver drives the car.
+Italian::A1::Work, school & basic occupations | Sono disoccupato. | I'm unemployed. (male speaker)
+Italian::A1::Work, school & basic occupations | Cerco lavoro. | I'm looking for work.
+Italian::A1::Work, school & basic occupations | Lavoro otto ore al giorno. | I work eight hours a day.
+Italian::A1::Work, school & basic occupations | Lavoro dal lunedì al venerdì. | I work from Monday to Friday.
+Italian::A1::Work, school & basic occupations | Mi piace il mio lavoro. | I like my job.
+Italian::A1::Work, school & basic occupations | Il lavoro è difficile ma interessante. | The work is difficult but interesting.
+Italian::A1::Work, school & basic occupations | Siete studenti o insegnanti? | Are you students or teachers?
+Italian::A1::Work, school & basic occupations | Mio nonno è in pensione. | My grandfather is retired.
