@@ -1,0 +1,46 @@
+#lang: ko -> en
+Korean::A1::Time relations & sequencing (before/after, while) | 저는 자기 전에 이를 닦아요. | I brush my teeth before going to bed.
+Korean::A1::Time relations & sequencing (before/after, while) | 저는 밥을 먹기 전에 손을 씻어요. | I wash my hands before eating.
+Korean::A1::Time relations & sequencing (before/after, while) | 저는 학교에 가기 전에 아침을 먹어요. | I eat breakfast before going to school.
+Korean::A1::Time relations & sequencing (before/after, while) | 저는 일하기 전에 커피를 마셔요. | I drink coffee before working.
+Korean::A1::Time relations & sequencing (before/after, while) | 저는 여행하기 전에 표를 사요. | I buy a ticket before travelling.
+Korean::A1::Time relations & sequencing (before/after, while) | 수업 전에 숙제를 해요. | I do my homework before class.
+Korean::A1::Time relations & sequencing (before/after, while) | 저는 식사 전에 물을 마셔요. | I drink water before a meal.
+Korean::A1::Time relations & sequencing (before/after, while) | 저는 영화를 보기 전에 팝콘을 사요. | I buy popcorn before watching a film.
+Korean::A1::Time relations & sequencing (before/after, while) | 저는 집에 오기 전에 전화해요. | I phone before coming home.
+Korean::A1::Time relations & sequencing (before/after, while) | 저는 밥을 먹은 후에 커피를 마셔요. | I drink coffee after eating.
+Korean::A1::Time relations & sequencing (before/after, while) | 저는 수업이 끝난 후에 집에 가요. | I go home after class finishes.
+Korean::A1::Time relations & sequencing (before/after, while) | 저는 일한 후에 운동해요. | I exercise after work.
+Korean::A1::Time relations & sequencing (before/after, while) | 저는 샤워한 후에 자요. | I go to sleep after taking a shower.
+Korean::A1::Time relations & sequencing (before/after, while) | 저는 숙제를 한 후에 텔레비전을 봐요. | I watch television after doing my homework.
+Korean::A1::Time relations & sequencing (before/after, while) | 저는 식사 후에 산책해요. | I go for a walk after a meal.
+Korean::A1::Time relations & sequencing (before/after, while) | 저는 수업 후에 도서관에 가요. | I go to the library after class.
+Korean::A1::Time relations & sequencing (before/after, while) | 저는 한국에 온 후에 한국어를 배웠어요. | I learned Korean after I came to Korea.
+Korean::A1::Time relations & sequencing (before/after, while) | 저는 졸업한 후에 일할 거예요. | I will work after graduating.
+Korean::A1::Time relations & sequencing (before/after, while) | 저는 음악을 들으면서 공부해요. | I study while listening to music.
+Korean::A1::Time relations & sequencing (before/after, while) | 저는 커피를 마시면서 책을 읽어요. | I read a book while drinking coffee.
+Korean::A1::Time relations & sequencing (before/after, while) | 저는 걸으면서 전화해요. | I phone while walking.
+Korean::A1::Time relations & sequencing (before/after, while) | 저는 텔레비전을 보면서 밥을 먹어요. | I eat while watching television.
+Korean::A1::Time relations & sequencing (before/after, while) | 저는 노래를 부르면서 요리해요. | I cook while singing.
+Korean::A1::Time relations & sequencing (before/after, while) | 저는 청소하는 동안 음악을 들어요. | I listen to music while I clean.
+Korean::A1::Time relations & sequencing (before/after, while) | 저는 친구를 기다리는 동안 책을 읽었어요. | I read a book while waiting for my friend.
+Korean::A1::Time relations & sequencing (before/after, while) | 저는 방학 동안 한국에 있었어요. | I was in Korea during the holidays.
+Korean::A1::Time relations & sequencing (before/after, while) | 저는 일 년 동안 한국어를 배웠어요. | I learned Korean for one year.
+Korean::A1::Time relations & sequencing (before/after, while) | 저는 한 시간 동안 걸었어요. | I walked for one hour.
+Korean::A1::Time relations & sequencing (before/after, while) | 저는 자는 동안 꿈을 꿔요. | I dream while I sleep.
+Korean::A1::Time relations & sequencing (before/after, while) | 저는 먼저 샤워하고 그다음에 아침을 먹어요. | First I take a shower and then I eat breakfast.
+Korean::A1::Time relations & sequencing (before/after, while) | 먼저 손을 씻으세요. | Please wash your hands first.
+Korean::A1::Time relations & sequencing (before/after, while) | 그다음에 밥을 드세요. | Then please eat your meal.
+Korean::A1::Time relations & sequencing (before/after, while) | 마지막으로 이를 닦으세요. | Lastly, please brush your teeth.
+Korean::A1::Time relations & sequencing (before/after, while) | 저는 먼저 장을 보고 나서 요리해요. | I do the shopping first and then cook.
+Korean::A1::Time relations & sequencing (before/after, while) | 저는 숙제를 끝내고 나서 놀아요. | I finish my homework and then play.
+Korean::A1::Time relations & sequencing (before/after, while) | 저는 점심을 먹고 나서 커피를 마셔요. | I have lunch and then drink coffee.
+Korean::A1::Time relations & sequencing (before/after, while) | 저는 영화를 보고 나서 저녁을 먹었어요. | I watched a film and then had dinner.
+Korean::A1::Time relations & sequencing (before/after, while) | 저는 두 시간 후에 도착해요. | I will arrive in two hours.
+Korean::A1::Time relations & sequencing (before/after, while) | 저는 삼십 분 전에 일어났어요. | I got up thirty minutes ago.
+Korean::A1::Time relations & sequencing (before/after, while) | 저는 십 분 후에 갈게요. | I will go in ten minutes.
+Korean::A1::Time relations & sequencing (before/after, while) | 저는 오 분 전에 왔어요. | I arrived five minutes ago.
+Korean::A1::Time relations & sequencing (before/after, while) | 수업은 한 시 전에 끝나요. | Class finishes before one.
+Korean::A1::Time relations & sequencing (before/after, while) | 회의는 세 시 후에 시작해요. | The meeting starts after three.
+Korean::A1::Time relations & sequencing (before/after, while) | 저는 먼저 갈게요. | I will go first.
+Korean::A1::Time relations & sequencing (before/after, while) | 저는 나중에 갈게요. | I will go later.
