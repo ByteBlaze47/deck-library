@@ -1,0 +1,41 @@
+#lang: zh -> en
+Chinese::A1::Formal vs informal register shifts in basic situations (polite requests, service encounters, self-introduction variants) | 请坐。 | Please sit down.
+Chinese::A1::Formal vs informal register shifts in basic situations (polite requests, service encounters, self-introduction variants) | 请进。 | Please come in.
+Chinese::A1::Formal vs informal register shifts in basic situations (polite requests, service encounters, self-introduction variants) | 请喝茶。 | Please have some tea.
+Chinese::A1::Formal vs informal register shifts in basic situations (polite requests, service encounters, self-introduction variants) | 您好！ | Hello! (polite)
+Chinese::A1::Formal vs informal register shifts in basic situations (polite requests, service encounters, self-introduction variants) | 您贵姓？ | May I ask your surname? (polite)
+Chinese::A1::Formal vs informal register shifts in basic situations (polite requests, service encounters, self-introduction variants) | 我姓李。 | My surname is Li.
+Chinese::A1::Formal vs informal register shifts in basic situations (polite requests, service encounters, self-introduction variants) | 请问，您是王老师吗？ | Excuse me, are you Teacher Wang?
+Chinese::A1::Formal vs informal register shifts in basic situations (polite requests, service encounters, self-introduction variants) | 您早！ | Good morning! (polite)
+Chinese::A1::Formal vs informal register shifts in basic situations (polite requests, service encounters, self-introduction variants) | 您请坐，我给您倒茶。 | Please sit down, and I will pour you some tea.
+Chinese::A1::Formal vs informal register shifts in basic situations (polite requests, service encounters, self-introduction variants) | 请问，洗手间在哪儿？ | Excuse me, where is the toilet?
+Chinese::A1::Formal vs informal register shifts in basic situations (polite requests, service encounters, self-introduction variants) | 请问，现在几点？ | Excuse me, what time is it now?
+Chinese::A1::Formal vs informal register shifts in basic situations (polite requests, service encounters, self-introduction variants) | 请问，这个多少钱？ | Excuse me, how much is this?
+Chinese::A1::Formal vs informal register shifts in basic situations (polite requests, service encounters, self-introduction variants) | 请您等一下。 | Please wait a moment.
+Chinese::A1::Formal vs informal register shifts in basic situations (polite requests, service encounters, self-introduction variants) | 请您说慢一点儿。 | Please speak a little more slowly.
+Chinese::A1::Formal vs informal register shifts in basic situations (polite requests, service encounters, self-introduction variants) | 请再说一遍。 | Please say it once more.
+Chinese::A1::Formal vs informal register shifts in basic situations (polite requests, service encounters, self-introduction variants) | 对不起，我没听懂。 | Sorry, I didn't understand.
+Chinese::A1::Formal vs informal register shifts in basic situations (polite requests, service encounters, self-introduction variants) | 不好意思，请问一下。 | Excuse me, may I ask something?
+Chinese::A1::Formal vs informal register shifts in basic situations (polite requests, service encounters, self-introduction variants) | 谢谢您！ | Thank you! (polite)
+Chinese::A1::Formal vs informal register shifts in basic situations (polite requests, service encounters, self-introduction variants) | 谢谢，不客气。 | Thank you. You're welcome.
+Chinese::A1::Formal vs informal register shifts in basic situations (polite requests, service encounters, self-introduction variants) | 没关系。 | It doesn't matter.
+Chinese::A1::Formal vs informal register shifts in basic situations (polite requests, service encounters, self-introduction variants) | 麻烦您了。 | Sorry to trouble you.
+Chinese::A1::Formal vs informal register shifts in basic situations (polite requests, service encounters, self-introduction variants) | 您想喝点儿什么？ | What would you like to drink? (polite)
+Chinese::A1::Formal vs informal register shifts in basic situations (polite requests, service encounters, self-introduction variants) | 您需要帮忙吗？ | Do you need any help? (polite)
+Chinese::A1::Formal vs informal register shifts in basic situations (polite requests, service encounters, self-introduction variants) | 我可以帮您吗？ | May I help you? (polite)
+Chinese::A1::Formal vs informal register shifts in basic situations (polite requests, service encounters, self-introduction variants) | 您慢走。 | Take care on your way. (polite)
+Chinese::A1::Formal vs informal register shifts in basic situations (polite requests, service encounters, self-introduction variants) | 再见，明天见。 | Goodbye, see you tomorrow.
+Chinese::A1::Formal vs informal register shifts in basic situations (polite requests, service encounters, self-introduction variants) | 很高兴认识您。 | Pleased to meet you. (polite)
+Chinese::A1::Formal vs informal register shifts in basic situations (polite requests, service encounters, self-introduction variants) | 您好，我叫李明，是学生。 | Hello, my name is Li Ming, and I am a student.
+Chinese::A1::Formal vs informal register shifts in basic situations (polite requests, service encounters, self-introduction variants) | 大家好，我叫李明，我是英国人。 | Hello everyone, my name is Li Ming, and I am British.
+Chinese::A1::Formal vs informal register shifts in basic situations (polite requests, service encounters, self-introduction variants) | 你好，我是小李。 | Hi, I'm Xiao Li.
+Chinese::A1::Formal vs informal register shifts in basic situations (polite requests, service encounters, self-introduction variants) | 嗨，你好吗？ | Hi, how are you?
+Chinese::A1::Formal vs informal register shifts in basic situations (polite requests, service encounters, self-introduction variants) | 喂，你在哪儿？ | Hello, where are you?
+Chinese::A1::Formal vs informal register shifts in basic situations (polite requests, service encounters, self-introduction variants) | 喂，您好，请问王先生在吗？ | Hello, excuse me, is Mr Wang there?
+Chinese::A1::Formal vs informal register shifts in basic situations (polite requests, service encounters, self-introduction variants) | 喂，我是小李。 | Hello, it's Xiao Li.
+Chinese::A1::Formal vs informal register shifts in basic situations (polite requests, service encounters, self-introduction variants) | 走，我们吃饭去！ | Come on, let's go and eat!
+Chinese::A1::Formal vs informal register shifts in basic situations (polite requests, service encounters, self-introduction variants) | 干什么呢？ | What are you up to?
+Chinese::A1::Formal vs informal register shifts in basic situations (polite requests, service encounters, self-introduction variants) | 先生，请问您要什么？ | Sir, what would you like?
+Chinese::A1::Formal vs informal register shifts in basic situations (polite requests, service encounters, self-introduction variants) | 女士们，先生们，欢迎光临。 | Ladies and gentlemen, welcome.
+Chinese::A1::Formal vs informal register shifts in basic situations (polite requests, service encounters, self-introduction variants) | 王老师，您好！ | Hello, Teacher Wang!
+Chinese::A1::Formal vs informal register shifts in basic situations (polite requests, service encounters, self-introduction variants) | 我想请您吃饭，您有时间吗？ | I would like to invite you for a meal; do you have time?
