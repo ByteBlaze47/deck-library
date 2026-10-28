@@ -1,0 +1,41 @@
+#lang: ko -> en
+Korean::A1::Basic requests & offers (help, favors) | 도와주세요. | Please help me.
+Korean::A1::Basic requests & offers (help, favors) | 좀 도와주실 수 있어요? | Could you help me a little?
+Korean::A1::Basic requests & offers (help, favors) | 이것 좀 봐 주세요. | Please have a look at this.
+Korean::A1::Basic requests & offers (help, favors) | 문 좀 열어 주세요. | Please open the door.
+Korean::A1::Basic requests & offers (help, favors) | 창문 좀 닫아 주세요. | Please close the window.
+Korean::A1::Basic requests & offers (help, favors) | 불 좀 켜 주세요. | Please turn on the light.
+Korean::A1::Basic requests & offers (help, favors) | 불 좀 꺼 주세요. | Please turn off the light.
+Korean::A1::Basic requests & offers (help, favors) | 사진 좀 찍어 주세요. | Please take a photo for me.
+Korean::A1::Basic requests & offers (help, favors) | 이 가방 좀 들어 주세요. | Please carry this bag for me.
+Korean::A1::Basic requests & offers (help, favors) | 천천히 말해 주세요. | Please speak slowly.
+Korean::A1::Basic requests & offers (help, favors) | 다시 한번 말해 주세요. | Please say it once more.
+Korean::A1::Basic requests & offers (help, favors) | 이름을 써 주세요. | Please write your name.
+Korean::A1::Basic requests & offers (help, favors) | 여기에 앉아 주세요. | Please sit here.
+Korean::A1::Basic requests & offers (help, favors) | 잠깐만 기다려 주세요. | Please wait a moment.
+Korean::A1::Basic requests & offers (help, favors) | 길을 알려 주세요. | Please tell me the way.
+Korean::A1::Basic requests & offers (help, favors) | 전화번호를 가르쳐 주세요. | Please tell me your phone number.
+Korean::A1::Basic requests & offers (help, favors) | 한국어를 가르쳐 주세요. | Please teach me Korean.
+Korean::A1::Basic requests & offers (help, favors) | 이 책 좀 빌려 주세요. | Please lend me this book.
+Korean::A1::Basic requests & offers (help, favors) | 볼펜 좀 빌려 주세요. | Please lend me a pen.
+Korean::A1::Basic requests & offers (help, favors) | 돈 좀 빌려 주세요. | Please lend me some money.
+Korean::A1::Basic requests & offers (help, favors) | 제가 도와 드릴까요? | Shall I help you?
+Korean::A1::Basic requests & offers (help, favors) | 제가 문을 열어 드릴까요? | Shall I open the door for you?
+Korean::A1::Basic requests & offers (help, favors) | 제가 가방을 들어 드릴까요? | Shall I carry your bag?
+Korean::A1::Basic requests & offers (help, favors) | 제가 사진을 찍어 드릴까요? | Shall I take a photo for you?
+Korean::A1::Basic requests & offers (help, favors) | 제가 설명해 드릴까요? | Shall I explain it to you?
+Korean::A1::Basic requests & offers (help, favors) | 제가 같이 가 드릴까요? | Shall I go with you?
+Korean::A1::Basic requests & offers (help, favors) | 제가 전화해 드릴게요. | I will phone for you.
+Korean::A1::Basic requests & offers (help, favors) | 제가 가져다 드릴게요. | I will bring it to you.
+Korean::A1::Basic requests & offers (help, favors) | 제가 알려 드릴게요. | I will let you know.
+Korean::A1::Basic requests & offers (help, favors) | 네, 부탁드려요. | Yes, please.
+Korean::A1::Basic requests & offers (help, favors) | 고맙습니다. 도와주셔서 감사합니다. | Thank you. Thank you for helping me.
+Korean::A1::Basic requests & offers (help, favors) | 괜찮아요. 제가 할게요. | It is fine. I will do it myself.
+Korean::A1::Basic requests & offers (help, favors) | 아니요, 괜찮아요. | No, thank you. I am fine.
+Korean::A1::Basic requests & offers (help, favors) | 미안해요. 지금은 못 도와줘요. | Sorry. I cannot help you now.
+Korean::A1::Basic requests & offers (help, favors) | 죄송하지만 지금은 바빠요. | I am sorry, but I am busy now.
+Korean::A1::Basic requests & offers (help, favors) | 죄송하지만 오늘은 어려워요. | I am sorry, but today is difficult.
+Korean::A1::Basic requests & offers (help, favors) | 다음에 도와 드릴게요. | I will help you next time.
+Korean::A1::Basic requests & offers (help, favors) | 조금만 기다려 주시겠어요? | Could you wait just a moment?
+Korean::A1::Basic requests & offers (help, favors) | 좀 비켜 주세요. | Please move aside.
+Korean::A1::Basic requests & offers (help, favors) | 좀 조용히 해 주세요. | Please be quiet.
