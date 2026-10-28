@@ -1,0 +1,36 @@
+#lang: ru -> en
+Russian::A1::Basic formal correspondence & notices | Уважаемый господин Иванов! | Dear Mr Ivanov,
+Russian::A1::Basic formal correspondence & notices | Уважаемая Анна Петровна! | Dear Anna Petrovna,
+Russian::A1::Basic formal correspondence & notices | Благодарим вас за письмо. | We thank you for your letter.
+Russian::A1::Basic formal correspondence & notices | Я пишу вам, потому что мне нужна информация. | I am writing to you because I need information.
+Russian::A1::Basic formal correspondence & notices | Сообщаю вам, что заседание состоится в среду. | I inform you that the meeting will take place on Wednesday.
+Russian::A1::Basic formal correspondence & notices | Мы рады сообщить вам, что ваша заявка принята. | We are pleased to inform you that your application has been accepted.
+Russian::A1::Basic formal correspondence & notices | К сожалению, мы не можем вам помочь. | Unfortunately, we cannot help you.
+Russian::A1::Basic formal correspondence & notices | Просим вас прийти в девять часов. | We ask you to come at nine o'clock.
+Russian::A1::Basic formal correspondence & notices | Пожалуйста, ответьте на письмо. | Please reply to the letter.
+Russian::A1::Basic formal correspondence & notices | С уважением, Анна Смирнова. | Yours sincerely, Anna Smirnova.
+Russian::A1::Basic formal correspondence & notices | С наилучшими пожеланиями. | With best wishes.
+Russian::A1::Basic formal correspondence & notices | Заранее благодарю вас. | Thank you in advance.
+Russian::A1::Basic formal correspondence & notices | Приносим извинения за неудобства. | We apologise for the inconvenience.
+Russian::A1::Basic formal correspondence & notices | Прошу прощения за ошибку. | I apologise for the mistake.
+Russian::A1::Basic formal correspondence & notices | Вход воспрещён. | No entry.
+Russian::A1::Basic formal correspondence & notices | Не курить! | No smoking!
+Russian::A1::Basic formal correspondence & notices | Магазин закрыт. | The shop is closed.
+Russian::A1::Basic formal correspondence & notices | Сегодня выходной день. | Today is a day off.
+Russian::A1::Basic formal correspondence & notices | Касса работает с девяти до шести. | The ticket office is open from nine to six.
+Russian::A1::Basic formal correspondence & notices | Перерыв на обед с часу до двух. | Lunch break from one to two.
+Russian::A1::Basic formal correspondence & notices | Просим соблюдать тишину. | Please keep quiet.
+Russian::A1::Basic formal correspondence & notices | Внимание! Двери закрываются. | Attention! The doors are closing.
+Russian::A1::Basic formal correspondence & notices | Следующая станция — «Площадь Революции». | The next station is Revolution Square.
+Russian::A1::Basic formal correspondence & notices | В вашем заказе нет ошибок. | There are no mistakes in your order.
+Russian::A1::Basic formal correspondence & notices | У нас нет свободных мест. | We have no free seats.
+Russian::A1::Basic formal correspondence & notices | У вас нет документов? | Do you not have any documents?
+Russian::A1::Basic formal correspondence & notices | Прошу вас подписать документ. | I ask you to sign the document.
+Russian::A1::Basic formal correspondence & notices | Пожалуйста, укажите ваш адрес. | Please state your address.
+Russian::A1::Basic formal correspondence & notices | Мой адрес: улица Ленина, дом пять. | My address: 5 Lenin Street.
+Russian::A1::Basic formal correspondence & notices | Мой номер телефона — вот этот. | My phone number is this one.
+Russian::A1::Basic formal correspondence & notices | Вы получили моё сообщение? | Did you receive my message?
+Russian::A1::Basic formal correspondence & notices | Мы получили вашу заявку. | We have received your application.
+Russian::A1::Basic formal correspondence & notices | Мы свяжемся с вами в ближайшее время. | We will contact you shortly.
+Russian::A1::Basic formal correspondence & notices | Благодарю за внимание. | Thank you for your attention.
+Russian::A1::Basic formal correspondence & notices | Будем рады видеть вас снова. | We will be glad to see you again.
