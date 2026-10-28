@@ -1,0 +1,51 @@
+#lang: ko -> en
+Korean::A1::Discourse connectors & short coherent paragraphs (story, explanation) | 저는 어제 친구를 만났어요. 그리고 같이 영화를 봤어요. | I met a friend yesterday. And we watched a film together.
+Korean::A1::Discourse connectors & short coherent paragraphs (story, explanation) | 영화는 재미있었어요. 그런데 너무 길었어요. | The film was fun. But it was too long.
+Korean::A1::Discourse connectors & short coherent paragraphs (story, explanation) | 그래서 저는 조금 피곤했어요. | So I was a little tired.
+Korean::A1::Discourse connectors & short coherent paragraphs (story, explanation) | 그러면 오늘은 일찍 자세요. | Then please go to bed early today.
+Korean::A1::Discourse connectors & short coherent paragraphs (story, explanation) | 저는 한국어를 배워요. 그리고 한국 음식도 좋아해요. | I learn Korean. And I also like Korean food.
+Korean::A1::Discourse connectors & short coherent paragraphs (story, explanation) | 저는 매운 음식을 좋아해요. 그런데 제 친구는 못 먹어요. | I like spicy food. But my friend cannot eat it.
+Korean::A1::Discourse connectors & short coherent paragraphs (story, explanation) | 그래서 우리는 보통 순한 음식을 먹어요. | So we usually eat mild food.
+Korean::A1::Discourse connectors & short coherent paragraphs (story, explanation) | 저는 오늘 아침에 늦게 일어났어요. 그래서 버스를 놓쳤어요. | I got up late this morning. So I missed the bus.
+Korean::A1::Discourse connectors & short coherent paragraphs (story, explanation) | 그래서 택시를 탔어요. 그런데 길이 막혔어요. | So I took a taxi. But the traffic was heavy.
+Korean::A1::Discourse connectors & short coherent paragraphs (story, explanation) | 결국 회사에 지각했어요. | In the end I was late for work.
+Korean::A1::Discourse connectors & short coherent paragraphs (story, explanation) | 내일은 일찍 일어날 거예요. 그러면 지각하지 않을 거예요. | I will get up early tomorrow. Then I will not be late.
+Korean::A1::Discourse connectors & short coherent paragraphs (story, explanation) | 저는 주말에 부산에 갈 거예요. 그리고 바다를 볼 거예요. | I will go to Busan at the weekend. And I will see the sea.
+Korean::A1::Discourse connectors & short coherent paragraphs (story, explanation) | 부산은 서울에서 멀어요. 그래서 기차를 탈 거예요. | Busan is far from Seoul. So I will take the train.
+Korean::A1::Discourse connectors & short coherent paragraphs (story, explanation) | 기차는 빨라요. 그리고 편해요. | The train is fast. And it is comfortable.
+Korean::A1::Discourse connectors & short coherent paragraphs (story, explanation) | 이 식당은 맛있어요. 그런데 조금 비싸요. | This restaurant is tasty. But it is a bit expensive.
+Korean::A1::Discourse connectors & short coherent paragraphs (story, explanation) | 그래도 자주 와요. | Even so, I come often.
+Korean::A1::Discourse connectors & short coherent paragraphs (story, explanation) | 저는 어머니와 같이 살아요. 그리고 어머니는 요리를 잘하세요. | I live with my mother. And she cooks well.
+Korean::A1::Discourse connectors & short coherent paragraphs (story, explanation) | 그래서 저는 매일 맛있는 저녁을 먹어요. | So I eat a delicious dinner every day.
+Korean::A1::Discourse connectors & short coherent paragraphs (story, explanation) | 제 친구는 서울에 살아요. 그리고 저는 부산에 살아요. | My friend lives in Seoul. And I live in Busan.
+Korean::A1::Discourse connectors & short coherent paragraphs (story, explanation) | 그래서 우리는 자주 못 만나요. | So we cannot meet often.
+Korean::A1::Discourse connectors & short coherent paragraphs (story, explanation) | 그런데 매일 전화해요. | But we phone every day.
+Korean::A1::Discourse connectors & short coherent paragraphs (story, explanation) | 오늘은 날씨가 좋아요. 그러면 공원에 갈까요? | The weather is nice today. Then shall we go to the park?
+Korean::A1::Discourse connectors & short coherent paragraphs (story, explanation) | 좋아요. 그리고 거기에서 점심도 먹어요. | Good. And let's have lunch there too.
+Korean::A1::Discourse connectors & short coherent paragraphs (story, explanation) | 저는 지난주에 감기에 걸렸어요. 그래서 학교에 못 갔어요. | I caught a cold last week. So I could not go to school.
+Korean::A1::Discourse connectors & short coherent paragraphs (story, explanation) | 병원에 갔어요. 그리고 약을 먹었어요. | I went to the hospital. And I took medicine.
+Korean::A1::Discourse connectors & short coherent paragraphs (story, explanation) | 지금은 괜찮아요. 그런데 아직 기침이 나요. | I am fine now. But I still have a cough.
+Korean::A1::Discourse connectors & short coherent paragraphs (story, explanation) | 저는 한국에 온 지 일 년 됐어요. 그리고 한국 친구가 많이 생겼어요. | It has been a year since I came to Korea. And I have made many Korean friends.
+Korean::A1::Discourse connectors & short coherent paragraphs (story, explanation) | 처음에는 한국어가 어려웠어요. 그런데 지금은 재미있어요. | At first Korean was difficult. But now it is fun.
+Korean::A1::Discourse connectors & short coherent paragraphs (story, explanation) | 그래서 매일 공부해요. | So I study every day.
+Korean::A1::Discourse connectors & short coherent paragraphs (story, explanation) | 저는 아침에 운동해요. 그리고 샤워하고 아침을 먹어요. | I exercise in the morning. And I shower and eat breakfast.
+Korean::A1::Discourse connectors & short coherent paragraphs (story, explanation) | 그다음에 학교에 가요. | Then I go to school.
+Korean::A1::Discourse connectors & short coherent paragraphs (story, explanation) | 학교에서 한국어를 배워요. 그리고 친구들과 이야기해요. | I learn Korean at school. And I talk with friends.
+Korean::A1::Discourse connectors & short coherent paragraphs (story, explanation) | 수업이 끝나면 집에 와요. 그리고 숙제를 해요. | When class finishes I come home. And I do homework.
+Korean::A1::Discourse connectors & short coherent paragraphs (story, explanation) | 저는 책을 좋아해요. 그래서 도서관에 자주 가요. | I like books. So I often go to the library.
+Korean::A1::Discourse connectors & short coherent paragraphs (story, explanation) | 도서관은 조용해요. 그리고 책이 많아요. | The library is quiet. And it has many books.
+Korean::A1::Discourse connectors & short coherent paragraphs (story, explanation) | 그래서 저는 거기에서 공부하는 것을 좋아해요. | So I like studying there.
+Korean::A1::Discourse connectors & short coherent paragraphs (story, explanation) | 어제는 비가 왔어요. 그래서 집에 있었어요. | It rained yesterday. So I stayed at home.
+Korean::A1::Discourse connectors & short coherent paragraphs (story, explanation) | 그런데 오늘은 날씨가 맑아요. | But today the weather is clear.
+Korean::A1::Discourse connectors & short coherent paragraphs (story, explanation) | 그러면 오늘은 산책할 거예요. | Then I will go for a walk today.
+Korean::A1::Discourse connectors & short coherent paragraphs (story, explanation) | 저는 새 휴대폰을 샀어요. 그런데 너무 비쌌어요. | I bought a new mobile. But it was too expensive.
+Korean::A1::Discourse connectors & short coherent paragraphs (story, explanation) | 그래서 이번 달에는 돈이 없어요. | So I have no money this month.
+Korean::A1::Discourse connectors & short coherent paragraphs (story, explanation) | 그러면 다음 달에는 아껴서 쓸 거예요. | Then next month I will spend carefully.
+Korean::A1::Discourse connectors & short coherent paragraphs (story, explanation) | 제 친구는 학생이에요. 그리고 저녁에 아르바이트를 해요. | My friend is a student. And he works part-time in the evening.
+Korean::A1::Discourse connectors & short coherent paragraphs (story, explanation) | 그래서 항상 바빠요. | So he is always busy.
+Korean::A1::Discourse connectors & short coherent paragraphs (story, explanation) | 그런데 주말에는 시간이 있어요. | But he has time at the weekend.
+Korean::A1::Discourse connectors & short coherent paragraphs (story, explanation) | 저는 어제 일을 많이 했어요. 그래서 오늘은 쉬고 싶어요. | I did a lot of work yesterday. So I want to rest today.
+Korean::A1::Discourse connectors & short coherent paragraphs (story, explanation) | 그런데 오늘도 할 일이 있어요. | But I have things to do today too.
+Korean::A1::Discourse connectors & short coherent paragraphs (story, explanation) | 그러면 저녁에 쉴 거예요. | Then I will rest in the evening.
+Korean::A1::Discourse connectors & short coherent paragraphs (story, explanation) | 이 가방은 예뻐요. 그리고 가벼워요. | This bag is pretty. And it is light.
+Korean::A1::Discourse connectors & short coherent paragraphs (story, explanation) | 그래서 저는 이 가방을 샀어요. | So I bought this bag.
