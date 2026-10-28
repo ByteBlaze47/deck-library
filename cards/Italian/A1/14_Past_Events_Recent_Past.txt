@@ -1,0 +1,56 @@
+#lang: it -> en
+Italian::A1::Past events (very basic – recent past with avere/essere) | Ho mangiato una pizza. | I ate a pizza.
+Italian::A1::Past events (very basic – recent past with avere/essere) | Hai mangiato? | Have you eaten?
+Italian::A1::Past events (very basic – recent past with avere/essere) | Ha parlato con Luca. | He spoke with Luca.
+Italian::A1::Past events (very basic – recent past with avere/essere) | Abbiamo lavorato tutto il giorno. | We worked all day.
+Italian::A1::Past events (very basic – recent past with avere/essere) | Avete studiato ieri? | Did you study yesterday?
+Italian::A1::Past events (very basic – recent past with avere/essere) | Hanno comprato una casa. | They bought a house.
+Italian::A1::Past events (very basic – recent past with avere/essere) | Ieri ho guardato un film. | Yesterday I watched a film.
+Italian::A1::Past events (very basic – recent past with avere/essere) | Stamattina ho bevuto un caffè. | This morning I drank a coffee.
+Italian::A1::Past events (very basic – recent past with avere/essere) | Ho venduto la mia macchina. | I sold my car.
+Italian::A1::Past events (very basic – recent past with avere/essere) | Abbiamo ricevuto una lettera. | We received a letter.
+Italian::A1::Past events (very basic – recent past with avere/essere) | Ha dormito bene? | Did you sleep well? (formal)
+Italian::A1::Past events (very basic – recent past with avere/essere) | Ho capito tutto. | I understood everything.
+Italian::A1::Past events (very basic – recent past with avere/essere) | Ho finito il lavoro. | I finished the work.
+Italian::A1::Past events (very basic – recent past with avere/essere) | Hai preso l'autobus? | Did you take the bus?
+Italian::A1::Past events (very basic – recent past with avere/essere) | Ho preso un taxi. | I took a taxi.
+Italian::A1::Past events (very basic – recent past with avere/essere) | Ho fatto la spesa. | I did the shopping.
+Italian::A1::Past events (very basic – recent past with avere/essere) | Abbiamo fatto una passeggiata. | We went for a walk.
+Italian::A1::Past events (very basic – recent past with avere/essere) | Ho letto un libro. | I read a book.
+Italian::A1::Past events (very basic – recent past with avere/essere) | Ho scritto una mail. | I wrote an email.
+Italian::A1::Past events (very basic – recent past with avere/essere) | Ho visto Maria ieri. | I saw Maria yesterday.
+Italian::A1::Past events (very basic – recent past with avere/essere) | Ho aperto la finestra. | I opened the window.
+Italian::A1::Past events (very basic – recent past with avere/essere) | Ho detto la verità. | I told the truth.
+Italian::A1::Past events (very basic – recent past with avere/essere) | Ha avuto un problema. | He had a problem.
+Italian::A1::Past events (very basic – recent past with avere/essere) | Ho avuto molta paura. | I was very scared.
+Italian::A1::Past events (very basic – recent past with avere/essere) | Sono andato al mercato. | I went to the market. (male speaker)
+Italian::A1::Past events (very basic – recent past with avere/essere) | Sono andata al cinema. | I went to the cinema. (female speaker)
+Italian::A1::Past events (very basic – recent past with avere/essere) | Sei venuto alla festa? | Did you come to the party? (to a man)
+Italian::A1::Past events (very basic – recent past with avere/essere) | Siamo arrivati alle otto. | We arrived at eight. (masculine or mixed group)
+Italian::A1::Past events (very basic – recent past with avere/essere) | Siete arrivate tardi. | You arrived late. (feminine plural)
+Italian::A1::Past events (very basic – recent past with avere/essere) | Lei è partita ieri. | She left yesterday.
+Italian::A1::Past events (very basic – recent past with avere/essere) | Lui è uscito alle nove. | He went out at nine.
+Italian::A1::Past events (very basic – recent past with avere/essere) | Sono stato a Roma. | I've been to Rome. (male speaker)
+Italian::A1::Past events (very basic – recent past with avere/essere) | Sono stata malata. | I was ill. (female speaker)
+Italian::A1::Past events (very basic – recent past with avere/essere) | Siamo stati a casa. | We stayed at home.
+Italian::A1::Past events (very basic – recent past with avere/essere) | Marco è tornato a casa. | Marco came back home.
+Italian::A1::Past events (very basic – recent past with avere/essere) | Anna è entrata in classe. | Anna went into the classroom.
+Italian::A1::Past events (very basic – recent past with avere/essere) | Sono rimasto a casa. | I stayed at home. (male speaker)
+Italian::A1::Past events (very basic – recent past with avere/essere) | Sono nato a Milano. | I was born in Milan. (male speaker)
+Italian::A1::Past events (very basic – recent past with avere/essere) | Sono nata nel 1998. | I was born in 1998. (female speaker)
+Italian::A1::Past events (very basic – recent past with avere/essere) | Non ho mangiato niente. | I haven't eaten anything.
+Italian::A1::Past events (very basic – recent past with avere/essere) | Non sono andato al lavoro. | I didn't go to work. (male speaker)
+Italian::A1::Past events (very basic – recent past with avere/essere) | Non ho visto nessuno. | I didn't see anyone.
+Italian::A1::Past events (very basic – recent past with avere/essere) | Ho comprato le mele e le ho mangiate. | I bought the apples and I ate them.
+Italian::A1::Past events (very basic – recent past with avere/essere) | Ho visto Luca e l'ho salutato. | I saw Luca and greeted him.
+Italian::A1::Past events (very basic – recent past with avere/essere) | Hai visto Anna? Sì, l'ho vista. | Did you see Anna? Yes, I saw her.
+Italian::A1::Past events (very basic – recent past with avere/essere) | Ho chiamato i miei amici e li ho invitati. | I called my friends and invited them.
+Italian::A1::Past events (very basic – recent past with avere/essere) | Le ho comprate ieri. | I bought them yesterday. (feminine plural)
+Italian::A1::Past events (very basic – recent past with avere/essere) | Ieri sera ho cenato fuori. | Yesterday evening I ate out.
+Italian::A1::Past events (very basic – recent past with avere/essere) | Stamattina mi sono svegliato presto. | This morning I woke up early. (male speaker)
+Italian::A1::Past events (very basic – recent past with avere/essere) | Ieri mi sono alzata tardi. | Yesterday I got up late. (female speaker)
+Italian::A1::Past events (very basic – recent past with avere/essere) | Due giorni fa ho telefonato a mia madre. | Two days ago I phoned my mother.
+Italian::A1::Past events (very basic – recent past with avere/essere) | La settimana scorsa siamo andati al mare. | Last week we went to the seaside.
+Italian::A1::Past events (very basic – recent past with avere/essere) | L'anno scorso ho studiato a Firenze. | Last year I studied in Florence.
+Italian::A1::Past events (very basic – recent past with avere/essere) | Poco fa ho parlato con lui. | I spoke to him a little while ago.
+Italian::A1::Past events (very basic – recent past with avere/essere) | Che cosa hai fatto ieri? | What did you do yesterday?
