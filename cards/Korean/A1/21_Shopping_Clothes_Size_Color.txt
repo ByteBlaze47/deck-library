@@ -1,0 +1,46 @@
+#lang: ko -> en
+Korean::A1::Shopping detailed (clothes, size, color) | 이 티셔츠 좀 보여 주세요. | Please show me this T-shirt.
+Korean::A1::Shopping detailed (clothes, size, color) | 이 바지는 어때요? | How about these trousers?
+Korean::A1::Shopping detailed (clothes, size, color) | 이 옷은 예뻐요. | These clothes are pretty.
+Korean::A1::Shopping detailed (clothes, size, color) | 이 치마는 너무 짧아요. | This skirt is too short.
+Korean::A1::Shopping detailed (clothes, size, color) | 이 셔츠는 너무 커요. | This shirt is too big.
+Korean::A1::Shopping detailed (clothes, size, color) | 이 신발은 작아요. | These shoes are small.
+Korean::A1::Shopping detailed (clothes, size, color) | 더 큰 사이즈 있어요? | Do you have a bigger size?
+Korean::A1::Shopping detailed (clothes, size, color) | 더 작은 사이즈 있어요? | Do you have a smaller size?
+Korean::A1::Shopping detailed (clothes, size, color) | 사이즈가 어떻게 되세요? | What size are you?
+Korean::A1::Shopping detailed (clothes, size, color) | 저는 중간 사이즈를 입어요. | I wear a medium size.
+Korean::A1::Shopping detailed (clothes, size, color) | 저는 이백육십 사이즈 신발을 신어요. | I wear size 260 shoes.
+Korean::A1::Shopping detailed (clothes, size, color) | 입어 봐도 돼요? | May I try it on?
+Korean::A1::Shopping detailed (clothes, size, color) | 네, 입어 보세요. | Yes, please try it on.
+Korean::A1::Shopping detailed (clothes, size, color) | 탈의실은 어디예요? | Where is the fitting room?
+Korean::A1::Shopping detailed (clothes, size, color) | 탈의실은 저쪽이에요. | The fitting room is over there.
+Korean::A1::Shopping detailed (clothes, size, color) | 다른 색 있어요? | Do you have another colour?
+Korean::A1::Shopping detailed (clothes, size, color) | 흰색 있어요? | Do you have white?
+Korean::A1::Shopping detailed (clothes, size, color) | 검은색으로 주세요. | Black, please.
+Korean::A1::Shopping detailed (clothes, size, color) | 저는 빨간색을 좋아해요. | I like red.
+Korean::A1::Shopping detailed (clothes, size, color) | 저는 파란색 가방을 샀어요. | I bought a blue bag.
+Korean::A1::Shopping detailed (clothes, size, color) | 노란색 우산이 예뻐요. | The yellow umbrella is pretty.
+Korean::A1::Shopping detailed (clothes, size, color) | 초록색 모자를 써 보세요. | Please try on the green hat.
+Korean::A1::Shopping detailed (clothes, size, color) | 분홍색 양말을 샀어요. | I bought pink socks.
+Korean::A1::Shopping detailed (clothes, size, color) | 회색 코트가 따뜻해요. | The grey coat is warm.
+Korean::A1::Shopping detailed (clothes, size, color) | 갈색 구두를 신어 봤어요. | I tried on brown shoes.
+Korean::A1::Shopping detailed (clothes, size, color) | 이 색이 더 잘 어울려요. | This colour suits you better.
+Korean::A1::Shopping detailed (clothes, size, color) | 이 옷이 잘 어울려요. | These clothes suit you well.
+Korean::A1::Shopping detailed (clothes, size, color) | 이 바지는 저한테 안 맞아요. | These trousers do not fit me.
+Korean::A1::Shopping detailed (clothes, size, color) | 조금 꽉 껴요. | It is a bit tight.
+Korean::A1::Shopping detailed (clothes, size, color) | 조금 헐렁해요. | It is a bit loose.
+Korean::A1::Shopping detailed (clothes, size, color) | 이것으로 할게요. | I will take this one.
+Korean::A1::Shopping detailed (clothes, size, color) | 이것을 사기로 했어요. | I decided to buy this.
+Korean::A1::Shopping detailed (clothes, size, color) | 저는 이 코트를 사기로 했어요. | I have decided to buy this coat.
+Korean::A1::Shopping detailed (clothes, size, color) | 저는 내일 다시 오기로 했어요. | I have decided to come again tomorrow.
+Korean::A1::Shopping detailed (clothes, size, color) | 저는 청바지를 한 벌 샀어요. | I bought a pair of jeans.
+Korean::A1::Shopping detailed (clothes, size, color) | 저는 원피스를 입어 봤어요. | I tried on a dress.
+Korean::A1::Shopping detailed (clothes, size, color) | 저는 모자를 쓰고 안경을 써요. | I wear a hat and glasses.
+Korean::A1::Shopping detailed (clothes, size, color) | 저는 장갑을 껴요. | I wear gloves.
+Korean::A1::Shopping detailed (clothes, size, color) | 저는 목도리를 해요. | I wear a scarf.
+Korean::A1::Shopping detailed (clothes, size, color) | 저는 운동화를 신어요. | I wear trainers.
+Korean::A1::Shopping detailed (clothes, size, color) | 이 가방은 가볍고 예뻐요. | This bag is light and pretty.
+Korean::A1::Shopping detailed (clothes, size, color) | 이 옷은 세일해서 싸요. | These clothes are cheap because they are on sale.
+Korean::A1::Shopping detailed (clothes, size, color) | 교환할 수 있어요? | Can I exchange it?
+Korean::A1::Shopping detailed (clothes, size, color) | 환불해 주세요. | Please give me a refund.
+Korean::A1::Shopping detailed (clothes, size, color) | 선물용으로 포장해 주세요. | Please gift-wrap it.
