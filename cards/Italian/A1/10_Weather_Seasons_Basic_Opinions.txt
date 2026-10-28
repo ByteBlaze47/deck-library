@@ -1,0 +1,41 @@
+#lang: it -> en
+Italian::A1::Weather, seasons & basic opinions | Che tempo fa? | What's the weather like?
+Italian::A1::Weather, seasons & basic opinions | Fa bel tempo. | The weather is nice.
+Italian::A1::Weather, seasons & basic opinions | Fa brutto tempo. | The weather is bad.
+Italian::A1::Weather, seasons & basic opinions | Fa caldo. | It's hot.
+Italian::A1::Weather, seasons & basic opinions | Fa freddo. | It's cold.
+Italian::A1::Weather, seasons & basic opinions | Fa fresco la sera. | It's cool in the evening.
+Italian::A1::Weather, seasons & basic opinions | Piove. | It's raining.
+Italian::A1::Weather, seasons & basic opinions | Nevica in montagna. | It's snowing in the mountains.
+Italian::A1::Weather, seasons & basic opinions | C'è il sole. | It's sunny.
+Italian::A1::Weather, seasons & basic opinions | C'è vento. | It's windy.
+Italian::A1::Weather, seasons & basic opinions | C'è la nebbia. | It's foggy.
+Italian::A1::Weather, seasons & basic opinions | Il cielo è nuvoloso. | The sky is cloudy.
+Italian::A1::Weather, seasons & basic opinions | Oggi è una giornata bellissima. | Today is a beautiful day.
+Italian::A1::Weather, seasons & basic opinions | Domani fa caldo. | It will be hot tomorrow.
+Italian::A1::Weather, seasons & basic opinions | Quando piove, resto a casa. | When it rains, I stay at home.
+Italian::A1::Weather, seasons & basic opinions | In estate fa molto caldo. | In summer it's very hot.
+Italian::A1::Weather, seasons & basic opinions | In inverno fa freddo e nevica. | In winter it's cold and it snows.
+Italian::A1::Weather, seasons & basic opinions | La primavera è bella. | Spring is lovely.
+Italian::A1::Weather, seasons & basic opinions | L'autunno è fresco. | Autumn is cool.
+Italian::A1::Weather, seasons & basic opinions | Le estati sono calde. | The summers are hot.
+Italian::A1::Weather, seasons & basic opinions | Gli inverni sono lunghi. | The winters are long.
+Italian::A1::Weather, seasons & basic opinions | Oggi la temperatura è venti gradi. | Today the temperature is twenty degrees.
+Italian::A1::Weather, seasons & basic opinions | Ci sono trenta gradi. | It's thirty degrees.
+Italian::A1::Weather, seasons & basic opinions | Ho caldo. | I'm hot.
+Italian::A1::Weather, seasons & basic opinions | Ho freddo. | I'm cold.
+Italian::A1::Weather, seasons & basic opinions | Siamo contenti: c'è il sole. | We're happy: it's sunny.
+Italian::A1::Weather, seasons & basic opinions | Il mare è calmo. | The sea is calm.
+Italian::A1::Weather, seasons & basic opinions | La neve è bianca. | The snow is white.
+Italian::A1::Weather, seasons & basic opinions | Mi piace la pioggia. | I like the rain.
+Italian::A1::Weather, seasons & basic opinions | Non mi piace il caldo. | I don't like the heat.
+Italian::A1::Weather, seasons & basic opinions | Secondo me, la primavera è bellissima. | In my opinion, spring is beautiful.
+Italian::A1::Weather, seasons & basic opinions | Secondo me, l'inverno è troppo lungo. | In my opinion, winter is too long.
+Italian::A1::Weather, seasons & basic opinions | Penso che sia una bella giornata. | I think it's a lovely day.
+Italian::A1::Weather, seasons & basic opinions | Penso che domani sia freddo. | I think it will be cold tomorrow.
+Italian::A1::Weather, seasons & basic opinions | Credo che il tempo sia brutto. | I think the weather is bad.
+Italian::A1::Weather, seasons & basic opinions | Com'è il tempo oggi? | What's the weather like today?
+Italian::A1::Weather, seasons & basic opinions | È umido. | It's humid.
+Italian::A1::Weather, seasons & basic opinions | Il sole è caldo. | The sun is hot.
+Italian::A1::Weather, seasons & basic opinions | Porto l'ombrello perché piove. | I'm taking an umbrella because it's raining.
+Italian::A1::Weather, seasons & basic opinions | Metto il cappotto perché fa freddo. | I put on my coat because it's cold.
