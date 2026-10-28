@@ -1,0 +1,41 @@
+#lang: ru -> en
+Russian::A1::Shopping, prices & quantities (expanded) | Сколько стоит эта футболка? | How much does this T-shirt cost?
+Russian::A1::Shopping, prices & quantities (expanded) | Эта футболка стоит пятьсот рублей. | This T-shirt costs five hundred roubles.
+Russian::A1::Shopping, prices & quantities (expanded) | Эти джинсы дороже, чем те. | These jeans are more expensive than those.
+Russian::A1::Shopping, prices & quantities (expanded) | Это платье дешевле. | This dress is cheaper.
+Russian::A1::Shopping, prices & quantities (expanded) | Эта сумка лучше, чем та. | This bag is better than that one.
+Russian::A1::Shopping, prices & quantities (expanded) | Эта куртка больше. | This jacket is bigger.
+Russian::A1::Shopping, prices & quantities (expanded) | У вас есть размер поменьше? | Do you have a smaller size?
+Russian::A1::Shopping, prices & quantities (expanded) | Мне нужен размер побольше. | I need a bigger size.
+Russian::A1::Shopping, prices & quantities (expanded) | Можно примерить? | May I try it on?
+Russian::A1::Shopping, prices & quantities (expanded) | Примерочная там. | The fitting room is over there.
+Russian::A1::Shopping, prices & quantities (expanded) | Мне это не подходит. | This doesn't suit me.
+Russian::A1::Shopping, prices & quantities (expanded) | Мне нравится этот цвет. | I like this colour.
+Russian::A1::Shopping, prices & quantities (expanded) | У вас нет такого же в синем цвете? | Don't you have the same one in blue?
+Russian::A1::Shopping, prices & quantities (expanded) | К сожалению, синего цвета нет. | Unfortunately, there is no blue.
+Russian::A1::Shopping, prices & quantities (expanded) | Мне нужно много денег. | I need a lot of money.
+Russian::A1::Shopping, prices & quantities (expanded) | У меня мало денег. | I have little money.
+Russian::A1::Shopping, prices & quantities (expanded) | Сколько у вас сумок? | How many bags do you have?
+Russian::A1::Shopping, prices & quantities (expanded) | В магазине много людей. | There are a lot of people in the shop.
+Russian::A1::Shopping, prices & quantities (expanded) | Здесь мало места. | There is little room here.
+Russian::A1::Shopping, prices & quantities (expanded) | Достаточно ли этого? | Is this enough?
+Russian::A1::Shopping, prices & quantities (expanded) | Этого достаточно. | That's enough.
+Russian::A1::Shopping, prices & quantities (expanded) | Дайте мне пять килограммов яблок. | Give me five kilograms of apples.
+Russian::A1::Shopping, prices & quantities (expanded) | Мне нужно два литра молока. | I need two litres of milk.
+Russian::A1::Shopping, prices & quantities (expanded) | Это стоит двадцать тысяч рублей. | This costs twenty thousand roubles.
+Russian::A1::Shopping, prices & quantities (expanded) | Стакан воды стоит пятьдесят рублей. | A glass of water costs fifty roubles.
+Russian::A1::Shopping, prices & quantities (expanded) | Я покупаю кусок торта. | I'm buying a piece of cake.
+Russian::A1::Shopping, prices & quantities (expanded) | Мы купили метр ткани. | We bought a metre of fabric.
+Russian::A1::Shopping, prices & quantities (expanded) | Сто грамм сыра, пожалуйста. | A hundred grams of cheese, please.
+Russian::A1::Shopping, prices & quantities (expanded) | Это самый дорогой магазин. | This is the most expensive shop.
+Russian::A1::Shopping, prices & quantities (expanded) | Это самое дешёвое кафе. | This is the cheapest café.
+Russian::A1::Shopping, prices & quantities (expanded) | Это не очень дорого. | This isn't very expensive.
+Russian::A1::Shopping, prices & quantities (expanded) | Это слишком дорого для меня. | This is too expensive for me.
+Russian::A1::Shopping, prices & quantities (expanded) | У нас нет такого размера. | We don't have that size.
+Russian::A1::Shopping, prices & quantities (expanded) | Здесь нет скидок. | There are no discounts here.
+Russian::A1::Shopping, prices & quantities (expanded) | Я не вижу цены. | I can't see the price.
+Russian::A1::Shopping, prices & quantities (expanded) | Где касса? | Where is the till?
+Russian::A1::Shopping, prices & quantities (expanded) | Оплатите на кассе. | Pay at the till.
+Russian::A1::Shopping, prices & quantities (expanded) | Вам нужен пакет? | Do you need a bag?
+Russian::A1::Shopping, prices & quantities (expanded) | Чек не нужен. | I don't need a receipt.
+Russian::A1::Shopping, prices & quantities (expanded) | Спасибо за покупку! | Thank you for your purchase!
