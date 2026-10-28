@@ -1,0 +1,41 @@
+#lang: ru -> en
+Russian::A1::Describing people & appearance | Мой брат высокий. | My brother is tall.
+Russian::A1::Describing people & appearance | Моя сестра высокая. | My sister is tall.
+Russian::A1::Describing people & appearance | Мои друзья молодые. | My friends are young.
+Russian::A1::Describing people & appearance | Он красивый мужчина. | He is a handsome man.
+Russian::A1::Describing people & appearance | Она красивая женщина. | She is a beautiful woman.
+Russian::A1::Describing people & appearance | У неё длинные тёмные волосы. | She has long dark hair.
+Russian::A1::Describing people & appearance | У него голубые глаза. | He has blue eyes.
+Russian::A1::Describing people & appearance | Он блондин. | He is a blond man.
+Russian::A1::Describing people & appearance | Она брюнетка. | She is a brunette.
+Russian::A1::Describing people & appearance | Человек с рыжими волосами — мой дядя. | The man with red hair is my uncle.
+Russian::A1::Describing people & appearance | Девочка с длинными косами — моя дочь. | The girl with long plaits is my daughter.
+Russian::A1::Describing people & appearance | Мужчина с бородой — наш учитель. | The man with a beard is our teacher.
+Russian::A1::Describing people & appearance | Он высокий, как отец. | He is tall, like his father.
+Russian::A1::Describing people & appearance | Она стройная, как мать. | She is slim, like her mother.
+Russian::A1::Describing people & appearance | Он худой, а она полная. | He is thin and she is plump.
+Russian::A1::Describing people & appearance | Мой дедушка старый, но здоровый. | My grandfather is old but healthy.
+Russian::A1::Describing people & appearance | Эта женщина очень добрая. | This woman is very kind.
+Russian::A1::Describing people & appearance | Тот человек очень строгий. | That man is very strict.
+Russian::A1::Describing people & appearance | Она умная и весёлая девушка. | She is a clever and cheerful girl.
+Russian::A1::Describing people & appearance | Он добрый, но ленивый. | He is kind but lazy.
+Russian::A1::Describing people & appearance | Он рад, а она не рада. | He is glad, and she is not.
+Russian::A1::Describing people & appearance | Они очень похожи на отца. | They look very much like their father.
+Russian::A1::Describing people & appearance | Как выглядит ваш брат? | What does your brother look like?
+Russian::A1::Describing people & appearance | Он среднего роста. | He is of average height.
+Russian::A1::Describing people & appearance | Ему сорок лет. | He is forty years old.
+Russian::A1::Describing people & appearance | Ей около пятидесяти. | She is about fifty.
+Russian::A1::Describing people & appearance | Это мальчик, который живёт рядом. | This is the boy who lives next door.
+Russian::A1::Describing people & appearance | Женщина, которая работает здесь, моя тётя. | The woman who works here is my aunt.
+Russian::A1::Describing people & appearance | Человек, который стоит там, мой начальник. | The man who is standing there is my boss.
+Russian::A1::Describing people & appearance | Это друг, с которым я работаю. | This is the friend I work with.
+Russian::A1::Describing people & appearance | Моя новая учительница очень молодая. | My new teacher is very young.
+Russian::A1::Describing people & appearance | Маленькие дети шумные. | Small children are noisy.
+Russian::A1::Describing people & appearance | Наша соседка — приятная пожилая женщина. | Our neighbour is a pleasant elderly woman.
+Russian::A1::Describing people & appearance | Он носит синюю куртку и чёрные ботинки. | He wears a blue jacket and black boots.
+Russian::A1::Describing people & appearance | Она в красном платье. | She is in a red dress.
+Russian::A1::Describing people & appearance | На нём серая рубашка. | He is wearing a grey shirt.
+Russian::A1::Describing people & appearance | Мой новый друг — очень интересный человек. | My new friend is a very interesting person.
+Russian::A1::Describing people & appearance | Они грустные сегодня. | They are sad today.
+Russian::A1::Describing people & appearance | Какой он? — Он спокойный и серьёзный. | What is he like? — He is calm and serious.
+Russian::A1::Describing people & appearance | Она такая же высокая, как я. | She is as tall as I am.
