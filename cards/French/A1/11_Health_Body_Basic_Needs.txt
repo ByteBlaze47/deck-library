@@ -1,0 +1,41 @@
+#lang: fr -> en
+French::A1::Health, body & basic needs | J'ai mal à la tête. | I have a headache.
+French::A1::Health, body & basic needs | Il a mal au ventre. | He has a stomach ache.
+French::A1::Health, body & basic needs | Elle a mal aux dents. | She has toothache.
+French::A1::Health, body & basic needs | Tu as mal au dos ? | Does your back hurt?
+French::A1::Health, body & basic needs | Nous avons mal aux pieds. | Our feet hurt.
+French::A1::Health, body & basic needs | Vous avez mal à la gorge ? | Do you have a sore throat?
+French::A1::Health, body & basic needs | J'ai mal à la main. | My hand hurts.
+French::A1::Health, body & basic needs | Il a mal au genou. | His knee hurts.
+French::A1::Health, body & basic needs | Elle a mal à l'oreille. | Her ear hurts.
+French::A1::Health, body & basic needs | Ils ont mal aux yeux. | Their eyes hurt.
+French::A1::Health, body & basic needs | Je ne suis pas malade. | I am not ill.
+French::A1::Health, body & basic needs | Il n'est pas fatigué. | He is not tired.
+French::A1::Health, body & basic needs | Je n'ai pas de fièvre. | I don't have a temperature.
+French::A1::Health, body & basic needs | Tu n'as pas faim ? | Aren't you hungry?
+French::A1::Health, body & basic needs | Nous n'avons pas soif. | We aren't thirsty.
+French::A1::Health, body & basic needs | Elle n'a plus mal à la tête. | She no longer has a headache.
+French::A1::Health, body & basic needs | Je ne tousse plus. | I'm not coughing any more.
+French::A1::Health, body & basic needs | Il ne fume plus. | He doesn't smoke any more.
+French::A1::Health, body & basic needs | Je ne mange jamais de sucre le soir. | I never eat sugar in the evening.
+French::A1::Health, body & basic needs | Elle ne dort jamais bien. | She never sleeps well.
+French::A1::Health, body & basic needs | Nous ne sommes jamais malades en été. | We are never ill in summer.
+French::A1::Health, body & basic needs | Ils ne boivent jamais de café. | They never drink coffee.
+French::A1::Health, body & basic needs | Tu ne vas pas bien ? | Aren't you feeling well?
+French::A1::Health, body & basic needs | Je me sens mal. | I feel unwell.
+French::A1::Health, body & basic needs | Je me sens mieux aujourd'hui. | I feel better today.
+French::A1::Health, body & basic needs | J'ai besoin d'un médecin. | I need a doctor.
+French::A1::Health, body & basic needs | Elle a besoin de repos. | She needs some rest.
+French::A1::Health, body & basic needs | Il a besoin d'eau. | He needs water.
+French::A1::Health, body & basic needs | J'ai chaud et j'ai froid en même temps. | I am hot and cold at the same time.
+French::A1::Health, body & basic needs | Il a sommeil. | He is sleepy.
+French::A1::Health, body & basic needs | Nous avons faim. | We are hungry.
+French::A1::Health, body & basic needs | Tu as soif ? | Are you thirsty?
+French::A1::Health, body & basic needs | Ma tête est lourde et mes yeux sont rouges. | My head feels heavy and my eyes are red.
+French::A1::Health, body & basic needs | Le médecin regarde mon bras. | The doctor is looking at my arm.
+French::A1::Health, body & basic needs | Il touche mon ventre. | He is touching my stomach.
+French::A1::Health, body & basic needs | Ouvrez la bouche, s'il vous plaît. | Open your mouth, please.
+French::A1::Health, body & basic needs | Respirez profondément. | Breathe deeply.
+French::A1::Health, body & basic needs | Je prends un médicament le matin. | I take a medicine in the morning.
+French::A1::Health, body & basic needs | Je ne prends plus de médicament. | I no longer take any medicine.
+French::A1::Health, body & basic needs | Reposez-vous et buvez beaucoup d'eau. | Rest and drink plenty of water.
