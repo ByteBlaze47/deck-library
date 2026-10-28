@@ -1,0 +1,51 @@
+#lang: ko -> en
+Korean::A1::Making plans & invitations (weekend, meeting) | 이번 주말에 뭐 할 거예요? | What are you going to do this weekend?
+Korean::A1::Making plans & invitations (weekend, meeting) | 저는 주말에 영화를 볼 거예요. | I am going to watch a film at the weekend.
+Korean::A1::Making plans & invitations (weekend, meeting) | 저는 내일 친구를 만날 거예요. | I am going to meet a friend tomorrow.
+Korean::A1::Making plans & invitations (weekend, meeting) | 저는 다음 주에 여행을 갈 거예요. | I am going on a trip next week.
+Korean::A1::Making plans & invitations (weekend, meeting) | 같이 영화 볼래요? | Shall we watch a film together?
+Korean::A1::Making plans & invitations (weekend, meeting) | 같이 점심 먹을래요? | Shall we have lunch together?
+Korean::A1::Making plans & invitations (weekend, meeting) | 같이 커피 마실래요? | Shall we have coffee together?
+Korean::A1::Making plans & invitations (weekend, meeting) | 저는 오늘 집에 있을래요. | I will stay at home today.
+Korean::A1::Making plans & invitations (weekend, meeting) | 저는 오늘 쉬고 싶어요. | I want to rest today.
+Korean::A1::Making plans & invitations (weekend, meeting) | 우리 같이 갈까요? | Shall we go together?
+Korean::A1::Making plans & invitations (weekend, meeting) | 우리 뭐 먹을까요? | What shall we eat?
+Korean::A1::Making plans & invitations (weekend, meeting) | 우리 어디에서 만날까요? | Where shall we meet?
+Korean::A1::Making plans & invitations (weekend, meeting) | 우리 몇 시에 만날까요? | What time shall we meet?
+Korean::A1::Making plans & invitations (weekend, meeting) | 우리 일곱 시에 만나요. | Let's meet at seven.
+Korean::A1::Making plans & invitations (weekend, meeting) | 우리 역 앞에서 만나요. | Let's meet in front of the station.
+Korean::A1::Making plans & invitations (weekend, meeting) | 우리 같이 공부해요. | Let's study together.
+Korean::A1::Making plans & invitations (weekend, meeting) | 우리 같이 운동해요. | Let's exercise together.
+Korean::A1::Making plans & invitations (weekend, meeting) | 우리 영화 보러 가요. | Let's go to see a film.
+Korean::A1::Making plans & invitations (weekend, meeting) | 우리 점심 먹으러 가요. | Let's go for lunch.
+Korean::A1::Making plans & invitations (weekend, meeting) | 우리 집에 놀러 오세요. | Please come to visit our home.
+Korean::A1::Making plans & invitations (weekend, meeting) | 저희 집에 초대하고 싶어요. | I would like to invite you to our home.
+Korean::A1::Making plans & invitations (weekend, meeting) | 이번 토요일에 시간 있어요? | Do you have time this Saturday?
+Korean::A1::Making plans & invitations (weekend, meeting) | 네, 시간 있어요. | Yes, I have time.
+Korean::A1::Making plans & invitations (weekend, meeting) | 미안해요, 시간이 없어요. | Sorry, I do not have time.
+Korean::A1::Making plans & invitations (weekend, meeting) | 토요일에는 약속이 있어요. | I have an appointment on Saturday.
+Korean::A1::Making plans & invitations (weekend, meeting) | 일요일은 괜찮아요. | Sunday is fine.
+Korean::A1::Making plans & invitations (weekend, meeting) | 좋아요. 그렇게 해요. | Good. Let's do that.
+Korean::A1::Making plans & invitations (weekend, meeting) | 저도 같이 가고 싶어요. | I want to go together too.
+Korean::A1::Making plans & invitations (weekend, meeting) | 다음에 같이 가요. | Let's go together next time.
+Korean::A1::Making plans & invitations (weekend, meeting) | 저는 친구를 만나고 영화를 볼 거예요. | I will meet a friend and watch a film.
+Korean::A1::Making plans & invitations (weekend, meeting) | 저는 점심을 먹고 쇼핑할 거예요. | I will have lunch and then go shopping.
+Korean::A1::Making plans & invitations (weekend, meeting) | 저는 공원에서 산책하고 커피를 마실 거예요. | I will walk in the park and drink coffee.
+Korean::A1::Making plans & invitations (weekend, meeting) | 제 생일 파티에 오세요. | Please come to my birthday party.
+Korean::A1::Making plans & invitations (weekend, meeting) | 파티는 토요일 저녁 여섯 시예요. | The party is on Saturday at six in the evening.
+Korean::A1::Making plans & invitations (weekend, meeting) | 같이 노래방에 갈까요? | Shall we go to karaoke together?
+Korean::A1::Making plans & invitations (weekend, meeting) | 같이 산책할까요? | Shall we go for a walk together?
+Korean::A1::Making plans & invitations (weekend, meeting) | 내일 몇 시에 일어날 거예요? | What time will you get up tomorrow?
+Korean::A1::Making plans & invitations (weekend, meeting) | 저는 내일 여덟 시에 일어날 거예요. | I will get up at eight tomorrow.
+Korean::A1::Making plans & invitations (weekend, meeting) | 저는 방학에 한국에 갈 거예요. | I will go to Korea during the holidays.
+Korean::A1::Making plans & invitations (weekend, meeting) | 저는 여름에 바다에 갈 거예요. | I will go to the seaside in summer.
+Korean::A1::Making plans & invitations (weekend, meeting) | 저는 겨울에 스키를 탈 거예요. | I will go skiing in winter.
+Korean::A1::Making plans & invitations (weekend, meeting) | 이번 주말에 등산하러 갈까요? | Shall we go hiking this weekend?
+Korean::A1::Making plans & invitations (weekend, meeting) | 좋아요. 몇 시에 만날까요? | Great. What time shall we meet?
+Korean::A1::Making plans & invitations (weekend, meeting) | 아침 아홉 시에 만나요. | Let's meet at nine in the morning.
+Korean::A1::Making plans & invitations (weekend, meeting) | 거기에서 봐요. | See you there.
+Korean::A1::Making plans & invitations (weekend, meeting) | 내일 만나요. | See you tomorrow.
+Korean::A1::Making plans & invitations (weekend, meeting) | 그럼 그때 봐요. | Then see you then.
+Korean::A1::Making plans & invitations (weekend, meeting) | 오늘 저녁에 같이 밥 먹을까요? | Shall we have dinner together this evening?
+Korean::A1::Making plans & invitations (weekend, meeting) | 저는 내일 약속이 있어요. | I have an appointment tomorrow.
+Korean::A1::Making plans & invitations (weekend, meeting) | 우리 다음 주에 다시 만나요. | Let's meet again next week.
