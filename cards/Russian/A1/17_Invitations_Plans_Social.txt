@@ -1,0 +1,41 @@
+#lang: ru -> en
+Russian::A1::Invitations, plans & social arrangements | Приходите ко мне в гости! | Come and visit me! (formal)
+Russian::A1::Invitations, plans & social arrangements | Приходи ко мне завтра. | Come to my place tomorrow. (informal)
+Russian::A1::Invitations, plans & social arrangements | Давай пойдём в кино. | Let's go to the cinema.
+Russian::A1::Invitations, plans & social arrangements | Давайте встретимся в субботу. | Let's meet on Saturday.
+Russian::A1::Invitations, plans & social arrangements | Хотите пойти в театр? | Would you like to go to the theatre?
+Russian::A1::Invitations, plans & social arrangements | С удовольствием! | With pleasure!
+Russian::A1::Invitations, plans & social arrangements | Спасибо, я с удовольствием приду. | Thank you, I'll gladly come.
+Russian::A1::Invitations, plans & social arrangements | К сожалению, я не могу. | Unfortunately, I can't.
+Russian::A1::Invitations, plans & social arrangements | Я занят в субботу. | I'm busy on Saturday. (male)
+Russian::A1::Invitations, plans & social arrangements | Может быть, в воскресенье? | Maybe on Sunday?
+Russian::A1::Invitations, plans & social arrangements | В воскресенье я свободен. | On Sunday I'm free. (male)
+Russian::A1::Invitations, plans & social arrangements | Во сколько встретимся? | What time shall we meet?
+Russian::A1::Invitations, plans & social arrangements | Встретимся в шесть у метро. | Let's meet at six by the metro.
+Russian::A1::Invitations, plans & social arrangements | Где мы встретимся? | Where shall we meet?
+Russian::A1::Invitations, plans & social arrangements | Если будет дождь, мы останемся дома. | If it rains, we will stay at home.
+Russian::A1::Invitations, plans & social arrangements | Если ты свободен, приходи. | If you're free, come over.
+Russian::A1::Invitations, plans & social arrangements | Если вы придёте, я приготовлю ужин. | If you come, I'll cook dinner.
+Russian::A1::Invitations, plans & social arrangements | Я приду, если успею. | I'll come if I have time.
+Russian::A1::Invitations, plans & social arrangements | Я не пойду, потому что устал. | I won't go because I'm tired. (male)
+Russian::A1::Invitations, plans & social arrangements | Мы останемся дома, потому что холодно. | We'll stay at home because it's cold.
+Russian::A1::Invitations, plans & social arrangements | Я хочу пойти, но у меня нет времени. | I want to go but I have no time.
+Russian::A1::Invitations, plans & social arrangements | Он придёт, а она не придёт. | He will come, but she won't.
+Russian::A1::Invitations, plans & social arrangements | Завтра я буду дома весь день. | Tomorrow I'll be at home all day.
+Russian::A1::Invitations, plans & social arrangements | На следующей неделе мы поедем на дачу. | Next week we'll go to the dacha.
+Russian::A1::Invitations, plans & social arrangements | Что вы будете делать в выходные? | What will you be doing at the weekend?
+Russian::A1::Invitations, plans & social arrangements | В выходные я буду отдыхать. | At the weekend I'll be resting.
+Russian::A1::Invitations, plans & social arrangements | Я приготовлю обед, а ты купи хлеб. | I'll cook lunch and you buy some bread.
+Russian::A1::Invitations, plans & social arrangements | Принеси, пожалуйста, вино. | Please bring some wine.
+Russian::A1::Invitations, plans & social arrangements | Вы придёте с женой? | Will you come with your wife?
+Russian::A1::Invitations, plans & social arrangements | Да, мы придём вдвоём. | Yes, we'll come together.
+Russian::A1::Invitations, plans & social arrangements | Можно прийти с другом? | May I come with a friend?
+Russian::A1::Invitations, plans & social arrangements | Конечно, будем рады. | Of course, we'll be glad.
+Russian::A1::Invitations, plans & social arrangements | Мы отмечаем мой день рождения. | We are celebrating my birthday.
+Russian::A1::Invitations, plans & social arrangements | Поздравляю с днём рождения! | Happy birthday!
+Russian::A1::Invitations, plans & social arrangements | Это вам подарок. | This is a present for you.
+Russian::A1::Invitations, plans & social arrangements | Большое спасибо за приглашение. | Thank you very much for the invitation.
+Russian::A1::Invitations, plans & social arrangements | Позвоните, если что-нибудь изменится. | Call if anything changes.
+Russian::A1::Invitations, plans & social arrangements | Я напишу вам, когда приеду. | I'll write to you when I arrive.
+Russian::A1::Invitations, plans & social arrangements | Мы обязательно увидимся! | We'll definitely see each other!
+Russian::A1::Invitations, plans & social arrangements | До встречи! | See you soon!
