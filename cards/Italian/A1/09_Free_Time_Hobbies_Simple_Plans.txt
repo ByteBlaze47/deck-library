@@ -1,0 +1,51 @@
+#lang: it -> en
+Italian::A1::Free time, hobbies & simple plans | Nel tempo libero leggo. | In my free time I read.
+Italian::A1::Free time, hobbies & simple plans | Mi piace ascoltare musica. | I like listening to music.
+Italian::A1::Free time, hobbies & simple plans | Mi piace giocare a calcio. | I like playing football.
+Italian::A1::Free time, hobbies & simple plans | Che cosa ti piace fare? | What do you like doing?
+Italian::A1::Free time, hobbies & simple plans | Gioco a tennis il sabato. | I play tennis on Saturdays.
+Italian::A1::Free time, hobbies & simple plans | Vado in palestra due volte a settimana. | I go to the gym twice a week.
+Italian::A1::Free time, hobbies & simple plans | Voglio andare al cinema. | I want to go to the cinema.
+Italian::A1::Free time, hobbies & simple plans | Vuoi venire con me? | Do you want to come with me?
+Italian::A1::Free time, hobbies & simple plans | Sì, volentieri! | Yes, gladly!
+Italian::A1::Free time, hobbies & simple plans | Non voglio uscire stasera. | I don't want to go out tonight.
+Italian::A1::Free time, hobbies & simple plans | Possiamo andare al parco. | We can go to the park.
+Italian::A1::Free time, hobbies & simple plans | Puoi venire domani? | Can you come tomorrow?
+Italian::A1::Free time, hobbies & simple plans | Non posso, devo lavorare. | I can't, I have to work.
+Italian::A1::Free time, hobbies & simple plans | Devo studiare per l'esame. | I have to study for the exam.
+Italian::A1::Free time, hobbies & simple plans | Dobbiamo partire presto. | We have to leave early.
+Italian::A1::Free time, hobbies & simple plans | Può aspettare un momento? | Can you wait a moment? (formal)
+Italian::A1::Free time, hobbies & simple plans | Vogliono giocare a carte. | They want to play cards.
+Italian::A1::Free time, hobbies & simple plans | Potete aiutarmi? | Can you help me? (plural)
+Italian::A1::Free time, hobbies & simple plans | Domani vado al mare. | Tomorrow I'm going to the seaside.
+Italian::A1::Free time, hobbies & simple plans | Sabato esco con gli amici. | On Saturday I'm going out with friends.
+Italian::A1::Free time, hobbies & simple plans | Domenica vengo da te. | On Sunday I'm coming to yours.
+Italian::A1::Free time, hobbies & simple plans | Che cosa fai nel weekend? | What are you doing at the weekend?
+Italian::A1::Free time, hobbies & simple plans | Ho un appuntamento con Marta. | I have a meeting with Marta.
+Italian::A1::Free time, hobbies & simple plans | Esco con Luca. | I'm going out with Luca.
+Italian::A1::Free time, hobbies & simple plans | Vado al cinema senza Marco. | I'm going to the cinema without Marco.
+Italian::A1::Free time, hobbies & simple plans | Preferisco stare a casa. | I prefer staying at home.
+Italian::A1::Free time, hobbies & simple plans | Mi piace dormire fino a tardi. | I like sleeping in late.
+Italian::A1::Free time, hobbies & simple plans | Suono la chitarra. | I play the guitar.
+Italian::A1::Free time, hobbies & simple plans | Canto in un coro. | I sing in a choir.
+Italian::A1::Free time, hobbies & simple plans | Disegno e dipingo. | I draw and paint.
+Italian::A1::Free time, hobbies & simple plans | Cucino con mia madre. | I cook with my mother.
+Italian::A1::Free time, hobbies & simple plans | Faccio una passeggiata con il cane. | I go for a walk with the dog.
+Italian::A1::Free time, hobbies & simple plans | Viaggio con la famiglia in estate. | I travel with my family in the summer.
+Italian::A1::Free time, hobbies & simple plans | Guardiamo una partita alla televisione. | We watch a match on television.
+Italian::A1::Free time, hobbies & simple plans | Il mio hobby è la fotografia. | My hobby is photography.
+Italian::A1::Free time, hobbies & simple plans | Che sport fai? | What sport do you do?
+Italian::A1::Free time, hobbies & simple plans | Faccio nuoto. | I go swimming.
+Italian::A1::Free time, hobbies & simple plans | Andiamo in bicicletta. | We go cycling.
+Italian::A1::Free time, hobbies & simple plans | Vuole venire al museo? | Would you like to come to the museum? (formal)
+Italian::A1::Free time, hobbies & simple plans | Posso venire con voi? | Can I come with you? (plural)
+Italian::A1::Free time, hobbies & simple plans | Possiamo incontrarci alle sei? | Can we meet at six?
+Italian::A1::Free time, hobbies & simple plans | Dove vogliamo andare? | Where do we want to go?
+Italian::A1::Free time, hobbies & simple plans | Non possiamo restare qui. | We can't stay here.
+Italian::A1::Free time, hobbies & simple plans | Devi riposare. | You have to rest. (informal)
+Italian::A1::Free time, hobbies & simple plans | Deve restare a casa. | He has to stay at home.
+Italian::A1::Free time, hobbies & simple plans | Domani ho tempo libero. | Tomorrow I have free time.
+Italian::A1::Free time, hobbies & simple plans | Questa sera c'è una festa. | There's a party this evening.
+Italian::A1::Free time, hobbies & simple plans | Vengo alla festa con un'amica. | I'm coming to the party with a friend.
+Italian::A1::Free time, hobbies & simple plans | Dopo il film mangiamo una pizza. | After the film we'll have a pizza.
+Italian::A1::Free time, hobbies & simple plans | Che bello! A presto! | How lovely! See you soon!
