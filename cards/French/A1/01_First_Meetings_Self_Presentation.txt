@@ -1,0 +1,41 @@
+#lang: fr -> en
+French::A1::First meetings & self-presentation (café, school, work) | Bonjour, je m'appelle Claire. | Hello, my name is Claire.
+French::A1::First meetings & self-presentation (café, school, work) | Salut, je suis Paul. | Hi, I'm Paul.
+French::A1::First meetings & self-presentation (café, school, work) | Et toi, tu t'appelles comment ? | And you, what's your name?
+French::A1::First meetings & self-presentation (café, school, work) | Et vous, vous vous appelez comment ? | And you, what is your name? (formal)
+French::A1::First meetings & self-presentation (café, school, work) | Je suis étudiante. | I am a student.
+French::A1::First meetings & self-presentation (café, school, work) | Il est professeur. | He is a teacher.
+French::A1::First meetings & self-presentation (café, school, work) | Elle est médecin. | She is a doctor.
+French::A1::First meetings & self-presentation (café, school, work) | Nous sommes au café. | We are at the café.
+French::A1::First meetings & self-presentation (café, school, work) | Vous êtes français, monsieur ? | Are you French, sir?
+French::A1::First meetings & self-presentation (café, school, work) | Tu es anglaise ? | Are you English?
+French::A1::First meetings & self-presentation (café, school, work) | Je suis anglais. | I am English.
+French::A1::First meetings & self-presentation (café, school, work) | Ils sont à l'école. | They are at school.
+French::A1::First meetings & self-presentation (café, school, work) | Elles sont au bureau. | They are at the office.
+French::A1::First meetings & self-presentation (café, school, work) | J'ai vingt ans. | I am twenty years old.
+French::A1::First meetings & self-presentation (café, school, work) | Tu as quel âge ? | How old are you?
+French::A1::First meetings & self-presentation (café, school, work) | Vous avez quel âge, madame ? | How old are you, madam?
+French::A1::First meetings & self-presentation (café, school, work) | Il a un frère. | He has a brother.
+French::A1::First meetings & self-presentation (café, school, work) | Elle a une sœur. | She has a sister.
+French::A1::First meetings & self-presentation (café, school, work) | Nous avons un cours à neuf heures. | We have a class at nine o'clock.
+French::A1::First meetings & self-presentation (café, school, work) | Ils ont un professeur sympathique. | They have a nice teacher.
+French::A1::First meetings & self-presentation (café, school, work) | Le café est ici. | The café is here.
+French::A1::First meetings & self-presentation (café, school, work) | La classe est grande. | The classroom is big.
+French::A1::First meetings & self-presentation (café, school, work) | L'école est près d'ici. | The school is near here.
+French::A1::First meetings & self-presentation (café, school, work) | Les étudiants sont contents. | The students are happy.
+French::A1::First meetings & self-presentation (café, school, work) | Le directeur est dans le bureau. | The manager is in the office.
+French::A1::First meetings & self-presentation (café, school, work) | La directrice est très gentille. | The manager is very kind.
+French::A1::First meetings & self-presentation (café, school, work) | Tu es prêt ? | Are you ready?
+French::A1::First meetings & self-presentation (café, school, work) | Vous êtes prête, madame ? | Are you ready, madam?
+French::A1::First meetings & self-presentation (café, school, work) | Enchanté de faire votre connaissance. | Pleased to meet you.
+French::A1::First meetings & self-presentation (café, school, work) | Enchantée, je suis la nouvelle collègue. | Pleased to meet you, I am the new colleague.
+French::A1::First meetings & self-presentation (café, school, work) | Tu es de Paris ? | Are you from Paris?
+French::A1::First meetings & self-presentation (café, school, work) | Non, je suis de Lyon. | No, I am from Lyon.
+French::A1::First meetings & self-presentation (café, school, work) | Vous êtes d'où, monsieur ? | Where are you from, sir?
+French::A1::First meetings & self-presentation (café, school, work) | Je suis de Londres. | I am from London.
+French::A1::First meetings & self-presentation (café, school, work) | On est amis maintenant. | We are friends now.
+French::A1::First meetings & self-presentation (café, school, work) | Tu as un stylo, s'il te plaît ? | Do you have a pen, please?
+French::A1::First meetings & self-presentation (café, school, work) | Vous avez un moment, madame ? | Do you have a moment, madam?
+French::A1::First meetings & self-presentation (café, school, work) | J'ai un nouveau collègue. | I have a new colleague.
+French::A1::First meetings & self-presentation (café, school, work) | Au revoir, à demain ! | Goodbye, see you tomorrow!
+French::A1::First meetings & self-presentation (café, school, work) | Bonne journée, monsieur. | Have a good day, sir.
