@@ -1,0 +1,56 @@
+#lang: zh -> en
+Chinese::A1::Longer connected descriptions of a typical day / short narrative | 我每天早上六点起床，然后洗脸刷牙。 | I get up at six o'clock every morning and then wash my face and brush my teeth.
+Chinese::A1::Longer connected descriptions of a typical day / short narrative | 起床以后，我先喝一杯水，然后吃早饭。 | After getting up, I first drink a glass of water and then have breakfast.
+Chinese::A1::Longer connected descriptions of a typical day / short narrative | 我早饭常常吃面包和鸡蛋，有时候也喝牛奶。 | I often eat bread and eggs for breakfast, and sometimes I also drink milk.
+Chinese::A1::Longer connected descriptions of a typical day / short narrative | 吃完早饭，我坐地铁去公司。 | After finishing breakfast, I take the metro to the office.
+Chinese::A1::Longer connected descriptions of a typical day / short narrative | 地铁很快，所以我七点半就到了。 | The metro is fast, so I arrive as early as half past seven.
+Chinese::A1::Longer connected descriptions of a typical day / short narrative | 我在一家大公司工作，我的同事都很友好。 | I work at a big company, and my colleagues are all very friendly.
+Chinese::A1::Longer connected descriptions of a typical day / short narrative | 上午我先回邮件，然后开会。 | In the morning I first reply to emails and then have a meeting.
+Chinese::A1::Longer connected descriptions of a typical day / short narrative | 十二点，我和同事一起去饭馆吃午饭。 | At twelve o'clock I go to a restaurant with my colleagues to have lunch.
+Chinese::A1::Longer connected descriptions of a typical day / short narrative | 我们常常吃面条，可是今天我想吃米饭。 | We often eat noodles, but today I want to eat rice.
+Chinese::A1::Longer connected descriptions of a typical day / short narrative | 下午我很忙，所以没有时间休息。 | I am very busy in the afternoon, so I have no time to rest.
+Chinese::A1::Longer connected descriptions of a typical day / short narrative | 五点下班以后，我先去超市买菜，然后回家。 | After finishing work at five, I first go to the supermarket to buy vegetables and then go home.
+Chinese::A1::Longer connected descriptions of a typical day / short narrative | 到家以后，我先做饭，然后看电视。 | After getting home, I first cook and then watch television.
+Chinese::A1::Longer connected descriptions of a typical day / short narrative | 我今天很累，所以晚上不想出去。 | I am very tired today, so I don't want to go out this evening.
+Chinese::A1::Longer connected descriptions of a typical day / short narrative | 我想去公园，可是天气不好。 | I want to go to the park, but the weather is bad.
+Chinese::A1::Longer connected descriptions of a typical day / short narrative | 今天下雨了，所以我没有去公园。 | It rained today, so I didn't go to the park.
+Chinese::A1::Longer connected descriptions of a typical day / short narrative | 昨天我去了商店，买了一件衣服，然后回家了。 | Yesterday I went to the shop, bought a piece of clothing and then went home.
+Chinese::A1::Longer connected descriptions of a typical day / short narrative | 我先去银行，接着去邮局，最后去超市。 | I first go to the bank, then to the post office, and finally to the supermarket.
+Chinese::A1::Longer connected descriptions of a typical day / short narrative | 他每天早上先跑步，然后吃早饭，最后去上班。 | Every morning he first goes running, then has breakfast, and finally goes to work.
+Chinese::A1::Longer connected descriptions of a typical day / short narrative | 我的朋友小王是学生，他每天八点上课。 | My friend Xiao Wang is a student, and he has class at eight o'clock every day.
+Chinese::A1::Longer connected descriptions of a typical day / short narrative | 他的学校很大，所以他骑自行车去上课。 | His school is very big, so he cycles to class.
+Chinese::A1::Longer connected descriptions of a typical day / short narrative | 他中午在学校吃饭，下午在图书馆看书。 | He eats at school at noon and reads in the library in the afternoon.
+Chinese::A1::Longer connected descriptions of a typical day / short narrative | 晚上他回家做饭，然后给妈妈打电话。 | In the evening he goes home to cook and then phones his mum.
+Chinese::A1::Longer connected descriptions of a typical day / short narrative | 他很忙，可是他很高兴。 | He is very busy, but he is very happy.
+Chinese::A1::Longer connected descriptions of a typical day / short narrative | 周末我不上班，所以可以多睡一会儿。 | I don't work at the weekend, so I can sleep a little longer.
+Chinese::A1::Longer connected descriptions of a typical day / short narrative | 星期六早上我去市场买菜，然后在家做饭。 | On Saturday morning I go to the market to buy vegetables and then cook at home.
+Chinese::A1::Longer connected descriptions of a typical day / short narrative | 星期六下午我常常去看朋友，我们一起喝茶聊天。 | On Saturday afternoon I often go to see friends, and we drink tea and chat together.
+Chinese::A1::Longer connected descriptions of a typical day / short narrative | 星期天我在家休息，也洗衣服和打扫房间。 | On Sunday I rest at home, and also do the washing and clean the room.
+Chinese::A1::Longer connected descriptions of a typical day / short narrative | 我想去旅游，可是我没有时间，也没有钱。 | I want to go travelling, but I have neither time nor money.
+Chinese::A1::Longer connected descriptions of a typical day / short narrative | 因为明天有考试，所以今晚我要看书。 | Because there is an exam tomorrow, I have to study tonight.
+Chinese::A1::Longer connected descriptions of a typical day / short narrative | 我喜欢中国菜，所以我想学做饭。 | I like Chinese food, so I want to learn to cook.
+Chinese::A1::Longer connected descriptions of a typical day / short narrative | 我今天没去上班，因为我生病了。 | I didn't go to work today because I was ill.
+Chinese::A1::Longer connected descriptions of a typical day / short narrative | 我头疼，所以我去医院看了医生。 | I had a headache, so I went to the hospital to see a doctor.
+Chinese::A1::Longer connected descriptions of a typical day / short narrative | 医生说我要多喝水，多休息。 | The doctor said I should drink more water and rest more.
+Chinese::A1::Longer connected descriptions of a typical day / short narrative | 我吃了药，然后就睡觉了。 | I took some medicine and then went to sleep.
+Chinese::A1::Longer connected descriptions of a typical day / short narrative | 今天我觉得好多了，可是我还不想工作。 | Today I feel much better, but I still don't want to work.
+Chinese::A1::Longer connected descriptions of a typical day / short narrative | 我有一个朋友，他住在上海，他是医生。 | I have a friend who lives in Shanghai, and he is a doctor.
+Chinese::A1::Longer connected descriptions of a typical day / short narrative | 他每天都很忙，所以我们很少见面。 | He is very busy every day, so we rarely meet.
+Chinese::A1::Longer connected descriptions of a typical day / short narrative | 我们常常打电话，有时候也发短信。 | We often phone each other, and sometimes we also send text messages.
+Chinese::A1::Longer connected descriptions of a typical day / short narrative | 下个月他要来北京，我很高兴。 | Next month he is coming to Beijing, and I am very happy.
+Chinese::A1::Longer connected descriptions of a typical day / short narrative | 我想带他去长城，然后请他吃北京烤鸭。 | I want to take him to the Great Wall and then treat him to Peking duck.
+Chinese::A1::Longer connected descriptions of a typical day / short narrative | 昨天是我的生日，我的朋友们来我家吃饭。 | Yesterday was my birthday, and my friends came to my home to eat.
+Chinese::A1::Longer connected descriptions of a typical day / short narrative | 他们送了我很多礼物，我很高兴。 | They gave me lots of presents, and I was very happy.
+Chinese::A1::Longer connected descriptions of a typical day / short narrative | 我们一起吃了蛋糕，还唱了生日歌。 | We ate cake together and also sang the birthday song.
+Chinese::A1::Longer connected descriptions of a typical day / short narrative | 十点以后他们回家了，我也去睡觉了。 | After ten o'clock they went home, and I went to bed too.
+Chinese::A1::Longer connected descriptions of a typical day / short narrative | 我家有四口人：爸爸、妈妈、哥哥和我。 | There are four people in my family: Dad, Mum, my older brother and me.
+Chinese::A1::Longer connected descriptions of a typical day / short narrative | 爸爸是司机，妈妈是老师，哥哥是学生。 | Dad is a driver, Mum is a teacher and my older brother is a student.
+Chinese::A1::Longer connected descriptions of a typical day / short narrative | 我们住在北京，我们的家不大，可是很温暖。 | We live in Beijing; our home is not big, but it is very cosy.
+Chinese::A1::Longer connected descriptions of a typical day / short narrative | 每天晚上我们一起吃饭，然后聊天。 | Every evening we eat together and then chat.
+Chinese::A1::Longer connected descriptions of a typical day / short narrative | 周末我们常常一起去公园，或者去看电影。 | At the weekend we often go to the park together, or go and see a film.
+Chinese::A1::Longer connected descriptions of a typical day / short narrative | 我很爱我的家人，他们也很爱我。 | I love my family very much, and they love me too.
+Chinese::A1::Longer connected descriptions of a typical day / short narrative | 我是英国人，可是我现在住在中国。 | I am British, but I live in China now.
+Chinese::A1::Longer connected descriptions of a typical day / short narrative | 我在这儿学中文，也交了很多朋友。 | I study Chinese here, and I have also made lots of friends.
+Chinese::A1::Longer connected descriptions of a typical day / short narrative | 中文很难，可是我觉得很有意思。 | Chinese is very difficult, but I think it is very interesting.
+Chinese::A1::Longer connected descriptions of a typical day / short narrative | 我每天学习一个小时，所以我进步了很多。 | I study for an hour every day, so I have made a lot of progress.
+Chinese::A1::Longer connected descriptions of a typical day / short narrative | 我想以后在中国工作，所以我要努力学习。 | I want to work in China in the future, so I will study hard.
