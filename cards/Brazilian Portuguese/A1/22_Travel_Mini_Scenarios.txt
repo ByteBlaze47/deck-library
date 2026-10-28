@@ -1,0 +1,40 @@
+Brazilian Portuguese::A1::Travel / movement mini-scenarios | Eu vou viajar de avião. | I am going to travel by plane.
+Brazilian Portuguese::A1::Travel / movement mini-scenarios | O voo chega às dez da manhã. | The flight arrives at ten in the morning.
+Brazilian Portuguese::A1::Travel / movement mini-scenarios | Onde fica o portão de embarque? | Where is the boarding gate?
+Brazilian Portuguese::A1::Travel / movement mini-scenarios | Eu preciso do meu passaporte. | I need my passport.
+Brazilian Portuguese::A1::Travel / movement mini-scenarios | Aqui está a minha mala. | Here is my suitcase.
+Brazilian Portuguese::A1::Travel / movement mini-scenarios | Eu tenho uma mala pequena e uma mochila. | I have a small suitcase and a rucksack.
+Brazilian Portuguese::A1::Travel / movement mini-scenarios | Qual é o seu destino? | What is your destination?
+Brazilian Portuguese::A1::Travel / movement mini-scenarios | Eu vou para o Rio de Janeiro. | I am going to Rio de Janeiro.
+Brazilian Portuguese::A1::Travel / movement mini-scenarios | Quanto custa a passagem? | How much is the ticket?
+Brazilian Portuguese::A1::Travel / movement mini-scenarios | Uma passagem para Salvador, por favor. | One ticket to Salvador, please.
+Brazilian Portuguese::A1::Travel / movement mini-scenarios | O ônibus sai às oito e chega às quatro. | The bus leaves at eight and arrives at four.
+Brazilian Portuguese::A1::Travel / movement mini-scenarios | De onde sai o ônibus? | Where does the bus leave from?
+Brazilian Portuguese::A1::Travel / movement mini-scenarios | Sai da rodoviária. | It leaves from the bus station.
+Brazilian Portuguese::A1::Travel / movement mini-scenarios | O trem para São Paulo chega em dez minutos. | The train to São Paulo arrives in ten minutes.
+Brazilian Portuguese::A1::Travel / movement mini-scenarios | Eu estou esperando o táxi. | I am waiting for the taxi.
+Brazilian Portuguese::A1::Travel / movement mini-scenarios | Você pode me levar ao hotel? | Can you take me to the hotel?
+Brazilian Portuguese::A1::Travel / movement mini-scenarios | Eu tenho uma reserva em nome de Silva. | I have a reservation in the name of Silva.
+Brazilian Portuguese::A1::Travel / movement mini-scenarios | Tem um quarto livre? | Is there a room available?
+Brazilian Portuguese::A1::Travel / movement mini-scenarios | Quanto custa o quarto por noite? | How much is the room per night?
+Brazilian Portuguese::A1::Travel / movement mini-scenarios | Eu quero um quarto para duas pessoas. | I want a room for two people.
+Brazilian Portuguese::A1::Travel / movement mini-scenarios | O café da manhã está incluído? | Is breakfast included?
+Brazilian Portuguese::A1::Travel / movement mini-scenarios | A que horas é o café da manhã? | What time is breakfast?
+Brazilian Portuguese::A1::Travel / movement mini-scenarios | O café da manhã é das seis às dez. | Breakfast is from six to ten.
+Brazilian Portuguese::A1::Travel / movement mini-scenarios | Onde fica o elevador? | Where is the lift?
+Brazilian Portuguese::A1::Travel / movement mini-scenarios | O meu quarto é o número vinte e três. | My room is number twenty-three.
+Brazilian Portuguese::A1::Travel / movement mini-scenarios | Posso ter a chave, por favor? | Can I have the key, please?
+Brazilian Portuguese::A1::Travel / movement mini-scenarios | Eu vou chegar tarde hoje. | I am going to arrive late today.
+Brazilian Portuguese::A1::Travel / movement mini-scenarios | Estamos chegando ao aeroporto. | We are arriving at the airport.
+Brazilian Portuguese::A1::Travel / movement mini-scenarios | O voo está atrasado. | The flight is delayed.
+Brazilian Portuguese::A1::Travel / movement mini-scenarios | Eu vou ficar três noites no hotel. | I am going to stay three nights at the hotel.
+Brazilian Portuguese::A1::Travel / movement mini-scenarios | Nós vamos visitar a praia e o museu. | We are going to visit the beach and the museum.
+Brazilian Portuguese::A1::Travel / movement mini-scenarios | Você vem comigo ao centro? | Are you coming with me to the centre?
+Brazilian Portuguese::A1::Travel / movement mini-scenarios | Eu venho de São Paulo. | I come from São Paulo.
+Brazilian Portuguese::A1::Travel / movement mini-scenarios | Ela vem de ônibus. | She comes by bus.
+Brazilian Portuguese::A1::Travel / movement mini-scenarios | Meus amigos vêm amanhã. | My friends are coming tomorrow.
+Brazilian Portuguese::A1::Travel / movement mini-scenarios | Eu chego em casa às nove. | I get home at nine.
+Brazilian Portuguese::A1::Travel / movement mini-scenarios | Onde eu pego o ônibus para o centro? | Where do I catch the bus to the centre?
+Brazilian Portuguese::A1::Travel / movement mini-scenarios | Você pode tirar uma foto, por favor? | Can you take a photo, please?
+Brazilian Portuguese::A1::Travel / movement mini-scenarios | Boa viagem e até logo! | Have a good trip and see you soon!
+Brazilian Portuguese::A1::Travel / movement mini-scenarios | Estou muito feliz porque vou viajar amanhã. | I am very happy because I am going to travel tomorrow.
