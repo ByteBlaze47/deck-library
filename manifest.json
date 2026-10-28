@@ -299,9 +299,11 @@
     {
       "path": "cards/Japanese/N5/18- Location & Spatial Relations (Detailed).txt",
       "url": "cards/Japanese/N5/18- Location & Spatial Relations (Detailed).txt",
-      "size": 9802,
+      "size": 9769,
       "audio_url": "audio/Japanese/N5/18- Location & Spatial Relations (Detailed).zip",
-      "audio_size": 1914862
+      "audio_size": 1914862,
+      "name": "18- Location & Spatial Relations (Detailed).txt",
+      "category": "Japanese/N5"
     },
     {
       "path": "cards/Japanese/N5/19- Transportation & Commuting.txt",
