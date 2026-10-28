@@ -1,0 +1,50 @@
+Brazilian Portuguese::A1::Directions, movement & places in town | Eu vou ao mercado. | I am going to the market.
+Brazilian Portuguese::A1::Directions, movement & places in town | Ela vai à escola. | She goes to school.
+Brazilian Portuguese::A1::Directions, movement & places in town | Nós vamos ao parque. | We go to the park.
+Brazilian Portuguese::A1::Directions, movement & places in town | Para onde você vai? | Where are you going?
+Brazilian Portuguese::A1::Directions, movement & places in town | Eu vou para casa. | I am going home.
+Brazilian Portuguese::A1::Directions, movement & places in town | Eles vão para o trabalho. | They go to work.
+Brazilian Portuguese::A1::Directions, movement & places in town | Onde fica o banco? | Where is the bank?
+Brazilian Portuguese::A1::Directions, movement & places in town | O banco fica perto da praça. | The bank is near the square.
+Brazilian Portuguese::A1::Directions, movement & places in town | Onde fica a estação? | Where is the station?
+Brazilian Portuguese::A1::Directions, movement & places in town | A estação fica longe daqui. | The station is far from here.
+Brazilian Portuguese::A1::Directions, movement & places in town | O hospital fica na avenida principal. | The hospital is on the main avenue.
+Brazilian Portuguese::A1::Directions, movement & places in town | Vá em frente. | Go straight ahead.
+Brazilian Portuguese::A1::Directions, movement & places in town | Siga em frente até a praça. | Go straight on to the square.
+Brazilian Portuguese::A1::Directions, movement & places in town | Vire à direita. | Turn right.
+Brazilian Portuguese::A1::Directions, movement & places in town | Vire à esquerda. | Turn left.
+Brazilian Portuguese::A1::Directions, movement & places in town | Dobre na segunda rua. | Turn at the second street.
+Brazilian Portuguese::A1::Directions, movement & places in town | Atravesse a rua. | Cross the street.
+Brazilian Portuguese::A1::Directions, movement & places in town | É reto, não é longe. | It is straight ahead, it is not far.
+Brazilian Portuguese::A1::Directions, movement & places in town | Fica ao lado do correio. | It is next to the post office.
+Brazilian Portuguese::A1::Directions, movement & places in town | Fica em frente à farmácia. | It is opposite the pharmacy.
+Brazilian Portuguese::A1::Directions, movement & places in town | Fica entre a padaria e o banco. | It is between the bakery and the bank.
+Brazilian Portuguese::A1::Directions, movement & places in town | Fica atrás da igreja. | It is behind the church.
+Brazilian Portuguese::A1::Directions, movement & places in town | Fica na esquina. | It is on the corner.
+Brazilian Portuguese::A1::Directions, movement & places in town | Eu vou a pé. | I go on foot.
+Brazilian Portuguese::A1::Directions, movement & places in town | Você vai de ônibus ou de carro? | Do you go by bus or by car?
+Brazilian Portuguese::A1::Directions, movement & places in town | Eu vou de metrô. | I go by metro.
+Brazilian Portuguese::A1::Directions, movement & places in town | Nós vamos pro centro. | We are going to the centre.
+Brazilian Portuguese::A1::Directions, movement & places in town | Ela vai pra praia hoje. | She is going to the beach today.
+Brazilian Portuguese::A1::Directions, movement & places in town | Eu vou pra escola de bicicleta. | I go to school by bicycle.
+Brazilian Portuguese::A1::Directions, movement & places in town | Onde é o ponto de ônibus? | Where is the bus stop?
+Brazilian Portuguese::A1::Directions, movement & places in town | O ponto fica depois do banco. | The stop is after the bank.
+Brazilian Portuguese::A1::Directions, movement & places in town | Você sabe onde fica o museu? | Do you know where the museum is?
+Brazilian Portuguese::A1::Directions, movement & places in town | Não sei, desculpe. | I do not know, sorry.
+Brazilian Portuguese::A1::Directions, movement & places in town | O museu fica no centro da cidade. | The museum is in the city centre.
+Brazilian Portuguese::A1::Directions, movement & places in town | O cinema fica a dez minutos daqui. | The cinema is ten minutes from here.
+Brazilian Portuguese::A1::Directions, movement & places in town | Vamos ao café? | Shall we go to the café?
+Brazilian Portuguese::A1::Directions, movement & places in town | Vamos pra casa agora. | Let's go home now.
+Brazilian Portuguese::A1::Directions, movement & places in town | Eles vão à igreja no domingo. | They go to church on Sunday.
+Brazilian Portuguese::A1::Directions, movement & places in town | Meus amigos vão ao teatro. | My friends go to the theatre.
+Brazilian Portuguese::A1::Directions, movement & places in town | Eu não vou ao banco hoje. | I am not going to the bank today.
+Brazilian Portuguese::A1::Directions, movement & places in town | A rua é longa e tem muitas lojas. | The street is long and has many shops.
+Brazilian Portuguese::A1::Directions, movement & places in town | A praça é grande e bonita. | The square is big and beautiful.
+Brazilian Portuguese::A1::Directions, movement & places in town | Pare aqui, por favor. | Stop here, please.
+Brazilian Portuguese::A1::Directions, movement & places in town | Espere aqui um momento. | Wait here a moment.
+Brazilian Portuguese::A1::Directions, movement & places in town | Desculpe, onde fica o banheiro? | Excuse me, where is the toilet?
+Brazilian Portuguese::A1::Directions, movement & places in town | Fica no fim do corredor. | It is at the end of the corridor.
+Brazilian Portuguese::A1::Directions, movement & places in town | Ali, à direita. | Over there, on the right.
+Brazilian Portuguese::A1::Directions, movement & places in town | Aqui, à esquerda. | Here, on the left.
+Brazilian Portuguese::A1::Directions, movement & places in town | O aeroporto fica a trinta minutos de táxi. | The airport is thirty minutes away by taxi.
+Brazilian Portuguese::A1::Directions, movement & places in town | Para chegar lá, siga reto e vire à esquerda. | To get there, go straight and turn left.
