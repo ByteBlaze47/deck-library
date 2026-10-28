@@ -1,0 +1,61 @@
+#lang: ko -> en
+Korean::A1::Mixed review & cumulative integration (all themes + all structures) | 저는 박지민이에요. 서울에서 일하는 회사원이에요. | I am Park Jimin. I am an office worker in Seoul.
+Korean::A1::Mixed review & cumulative integration (all themes + all structures) | 이분은 제 선생님이세요. | This is my teacher.
+Korean::A1::Mixed review & cumulative integration (all themes + all structures) | 어머니는 시장에서 과일을 사세요. | My mother buys fruit at the market.
+Korean::A1::Mixed review & cumulative integration (all themes + all structures) | 저는 열두 시에 친구와 점심을 먹어요. | I have lunch with a friend at twelve.
+Korean::A1::Mixed review & cumulative integration (all themes + all structures) | 이 우유는 이천오백 원이에요. | This milk is two thousand five hundred won.
+Korean::A1::Mixed review & cumulative integration (all themes + all structures) | 은행은 우체국 옆에 있어요. | The bank is next to the post office.
+Korean::A1::Mixed review & cumulative integration (all themes + all structures) | 저는 내일 기차로 대전에 갈 거예요. | I will go to Daejeon by train tomorrow.
+Korean::A1::Mixed review & cumulative integration (all themes + all structures) | 오늘은 흐리고 바람이 불어요. | It is cloudy and windy today.
+Korean::A1::Mixed review & cumulative integration (all themes + all structures) | 저는 지금 친구에게 전화하고 있어요. | I am phoning a friend now.
+Korean::A1::Mixed review & cumulative integration (all themes + all structures) | 저는 머리가 아파서 약을 먹었어요. | I had a headache, so I took medicine.
+Korean::A1::Mixed review & cumulative integration (all themes + all structures) | 제 방에는 침대와 책상이 있어요. | There is a bed and a desk in my room.
+Korean::A1::Mixed review & cumulative integration (all themes + all structures) | 저는 월요일부터 금요일까지 학교에 가요. | I go to school from Monday to Friday.
+Korean::A1::Mixed review & cumulative integration (all themes + all structures) | 같이 저녁 먹을래요? | Shall we have dinner together?
+Korean::A1::Mixed review & cumulative integration (all themes + all structures) | 저는 어제 한강에서 자전거를 탔어요. | I rode a bicycle on the Han River yesterday.
+Korean::A1::Mixed review & cumulative integration (all themes + all structures) | 저는 여름보다 가을을 더 좋아해요. | I like autumn more than summer.
+Korean::A1::Mixed review & cumulative integration (all themes + all structures) | 이 신발은 너무 작아요. 더 큰 것 있어요? | These shoes are too small. Do you have a bigger pair?
+Korean::A1::Mixed review & cumulative integration (all themes + all structures) | 제가 문을 열어 드릴게요. | I will open the door for you.
+Korean::A1::Mixed review & cumulative integration (all themes + all structures) | 저는 키가 크고 안경을 쓴 남자를 알아요. | I know a tall man who wears glasses.
+Korean::A1::Mixed review & cumulative integration (all themes + all structures) | 여보세요? 누구세요? | Hello? Who is this?
+Korean::A1::Mixed review & cumulative integration (all themes + all structures) | 저는 한국어를 읽을 수 있어요. | I can read Korean.
+Korean::A1::Mixed review & cumulative integration (all themes + all structures) | 여기에서 뛰면 안 돼요. | You must not run here.
+Korean::A1::Mixed review & cumulative integration (all themes + all structures) | 저는 피곤해서 일찍 집에 갔어요. | I was tired, so I went home early.
+Korean::A1::Mixed review & cumulative integration (all themes + all structures) | 저는 샤워한 후에 아침을 먹어요. | I eat breakfast after showering.
+Korean::A1::Mixed review & cumulative integration (all themes + all structures) | 이 사무실에는 컴퓨터와 프린터가 있어요. | There is a computer and a printer in this office.
+Korean::A1::Mixed review & cumulative integration (all themes + all structures) | 처음 뵙겠습니다. 잘 부탁드립니다. | How do you do? I look forward to working with you.
+Korean::A1::Mixed review & cumulative integration (all themes + all structures) | 저는 퇴근하고 친구를 만나서 저녁을 먹었어요. | After work I met a friend and had dinner.
+Korean::A1::Mixed review & cumulative integration (all themes + all structures) | 그래서 오늘은 조금 늦게 잘 거예요. | So I will go to bed a little late today.
+Korean::A1::Mixed review & cumulative integration (all themes + all structures) | 저는 아직 아침을 안 먹었어요. | I have not had breakfast yet.
+Korean::A1::Mixed review & cumulative integration (all themes + all structures) | 저는 한국 드라마를 보면서 한국어를 배워요. | I learn Korean by watching Korean dramas.
+Korean::A1::Mixed review & cumulative integration (all themes + all structures) | 이 근처에 좋은 식당이 있어요? | Is there a good restaurant near here?
+Korean::A1::Mixed review & cumulative integration (all themes + all structures) | 저는 김치찌개를 좋아하지만 너무 매우면 못 먹어요. | I like kimchi stew, but I cannot eat it if it is too spicy.
+Korean::A1::Mixed review & cumulative integration (all themes + all structures) | 이것은 제가 만든 케이크예요. | This is a cake I made.
+Korean::A1::Mixed review & cumulative integration (all themes + all structures) | 저는 어제 산 옷을 오늘 입었어요. | I wore today the clothes I bought yesterday.
+Korean::A1::Mixed review & cumulative integration (all themes + all structures) | 내일 시험이 있어서 오늘은 못 놀아요. | I have an exam tomorrow, so I cannot play today.
+Korean::A1::Mixed review & cumulative integration (all themes + all structures) | 저는 겨울에 눈이 오면 기분이 좋아요. | I feel happy when it snows in winter.
+Korean::A1::Mixed review & cumulative integration (all themes + all structures) | 이 버스는 서울역에 가요? | Does this bus go to Seoul Station?
+Korean::A1::Mixed review & cumulative integration (all themes + all structures) | 저는 일곱 시에 일어나서 운동했어요. | I got up at seven and exercised.
+Korean::A1::Mixed review & cumulative integration (all themes + all structures) | 제 동생은 대학교에 다니는 학생이에요. | My younger sibling is a university student.
+Korean::A1::Mixed review & cumulative integration (all themes + all structures) | 이번 주말에 같이 등산할까요? | Shall we go hiking together this weekend?
+Korean::A1::Mixed review & cumulative integration (all themes + all structures) | 저는 매운 음식을 먹을 수 있지만 좋아하지 않아요. | I can eat spicy food, but I do not like it.
+Korean::A1::Mixed review & cumulative integration (all themes + all structures) | 저는 오 년 전에 한국에 처음 왔어요. | I first came to Korea five years ago.
+Korean::A1::Mixed review & cumulative integration (all themes + all structures) | 이 가게에서 우산을 팔아요. | This shop sells umbrellas.
+Korean::A1::Mixed review & cumulative integration (all themes + all structures) | 저는 빵을 먹으면서 커피를 마셔요. | I drink coffee while eating bread.
+Korean::A1::Mixed review & cumulative integration (all themes + all structures) | 오늘은 제가 점심을 살게요. | I will treat you to lunch today.
+Korean::A1::Mixed review & cumulative integration (all themes + all structures) | 저는 회의가 끝난 후에 전화할게요. | I will phone after the meeting ends.
+Korean::A1::Mixed review & cumulative integration (all themes + all structures) | 저는 그 영화를 보지 않았어요. | I have not seen that film.
+Korean::A1::Mixed review & cumulative integration (all themes + all structures) | 저는 어머니께 선물을 드렸어요. | I gave a present to my mother.
+Korean::A1::Mixed review & cumulative integration (all themes + all structures) | 할아버지께서는 공원에서 산책하세요. | Grandfather takes a walk in the park.
+Korean::A1::Mixed review & cumulative integration (all themes + all structures) | 죄송합니다. 다시 한번 말씀해 주십시오. | I am sorry. Please say that once more.
+Korean::A1::Mixed review & cumulative integration (all themes + all structures) | 저는 지하철 안에서 책을 읽어요. | I read a book on the underground.
+Korean::A1::Mixed review & cumulative integration (all themes + all structures) | 저는 다음 주에 이사할 거라서 바빠요. | I am busy because I am moving next week.
+Korean::A1::Mixed review & cumulative integration (all themes + all structures) | 이 길을 따라 쭉 가면 은행이 나와요. | If you go straight along this road, you will come to a bank.
+Korean::A1::Mixed review & cumulative integration (all themes + all structures) | 저는 영국에서 온 학생이고 한국어를 배우고 있어요. | I am a student from Britain and I am learning Korean.
+Korean::A1::Mixed review & cumulative integration (all themes + all structures) | 저는 한국이 좋아서 계속 한국에서 살고 싶어요. | I like Korea, so I want to keep living in Korea.
+Korean::A1::Mixed review & cumulative integration (all themes + all structures) | 오늘 하루는 정말 길었어요. 그래서 저는 일찍 잘 거예요. | Today was really long. So I will go to bed early.
+Korean::A1::Mixed review & cumulative integration (all themes + all structures) | 감사합니다. 안녕히 계세요. | Thank you. Goodbye.
+Korean::A1::Mixed review & cumulative integration (all themes + all structures) | 저는 토요일에 친구 집에서 저녁을 먹을 거예요. | I will have dinner at a friend's home on Saturday.
+Korean::A1::Mixed review & cumulative integration (all themes + all structures) | 이 지하철은 사람이 많아서 불편해요. | This underground train is crowded, so it is uncomfortable.
+Korean::A1::Mixed review & cumulative integration (all themes + all structures) | 저는 한국 노래를 들으면서 한국어를 연습해요. | I practise Korean by listening to Korean songs.
+Korean::A1::Mixed review & cumulative integration (all themes + all structures) | 어머니는 저에게 따뜻한 옷을 사 주셨어요. | My mother bought me warm clothes.
