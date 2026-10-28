@@ -1,0 +1,46 @@
+#lang: it -> en
+Italian::A1::Family, people & physical description | Questa è la mia famiglia. | This is my family.
+Italian::A1::Family, people & physical description | Ho un fratello e una sorella. | I have a brother and a sister.
+Italian::A1::Family, people & physical description | Mio padre si chiama Carlo. | My father is called Carlo.
+Italian::A1::Family, people & physical description | Mia madre è molto simpatica. | My mother is very nice.
+Italian::A1::Family, people & physical description | I miei genitori sono a casa. | My parents are at home.
+Italian::A1::Family, people & physical description | Hai dei fratelli? | Do you have any brothers or sisters? (informal)
+Italian::A1::Family, people & physical description | No, sono figlio unico. | No, I'm an only child. (male speaker)
+Italian::A1::Family, people & physical description | Ho una nonna e due nonni. | I have a grandmother and two grandfathers.
+Italian::A1::Family, people & physical description | Mio zio è alto e magro. | My uncle is tall and thin.
+Italian::A1::Family, people & physical description | Mia zia è bassa e bionda. | My aunt is short and blonde.
+Italian::A1::Family, people & physical description | Il bambino è piccolo. | The little boy is small.
+Italian::A1::Family, people & physical description | La bambina è carina. | The little girl is pretty.
+Italian::A1::Family, people & physical description | I ragazzi sono simpatici. | The boys are nice.
+Italian::A1::Family, people & physical description | Le ragazze sono alte. | The girls are tall.
+Italian::A1::Family, people & physical description | Ho un cane nero e un gatto bianco. | I have a black dog and a white cat.
+Italian::A1::Family, people & physical description | Mia sorella ha i capelli lunghi. | My sister has long hair.
+Italian::A1::Family, people & physical description | Mio fratello ha i capelli corti e castani. | My brother has short brown hair.
+Italian::A1::Family, people & physical description | Lei ha gli occhi azzurri. | She has blue eyes.
+Italian::A1::Family, people & physical description | Lui ha gli occhi verdi. | He has green eyes.
+Italian::A1::Family, people & physical description | Il mio amico è giovane. | My friend is young.
+Italian::A1::Family, people & physical description | La mia amica è molto intelligente. | My friend is very intelligent. (female)
+Italian::A1::Family, people & physical description | Quanti anni hai? | How old are you? (informal)
+Italian::A1::Family, people & physical description | Ho venticinque anni. | I am twenty-five years old.
+Italian::A1::Family, people & physical description | Mio nonno ha settant'anni. | My grandfather is seventy years old.
+Italian::A1::Family, people & physical description | Mia cugina ha un figlio. | My cousin has a son. (female cousin)
+Italian::A1::Family, people & physical description | Mio cugino è simpatico e divertente. | My cousin is nice and funny. (male cousin)
+Italian::A1::Family, people & physical description | Siamo una famiglia grande. | We are a big family.
+Italian::A1::Family, people & physical description | Hanno due figli e una figlia. | They have two sons and a daughter.
+Italian::A1::Family, people & physical description | Marco è sposato con Elena. | Marco is married to Elena.
+Italian::A1::Family, people & physical description | Elena non è single. | Elena isn't single.
+Italian::A1::Family, people & physical description | Il marito di Anna è alto. | Anna's husband is tall.
+Italian::A1::Family, people & physical description | La moglie di Paolo è italiana. | Paolo's wife is Italian.
+Italian::A1::Family, people & physical description | Ha una famiglia numerosa. | He has a large family.
+Italian::A1::Family, people & physical description | Com'è tua madre? | What is your mother like?
+Italian::A1::Family, people & physical description | È bassa, ma molto forte. | She is short, but very strong.
+Italian::A1::Family, people & physical description | Com'è il tuo amico? | What is your friend like?
+Italian::A1::Family, people & physical description | È un ragazzo gentile e simpatico. | He is a kind, nice boy.
+Italian::A1::Family, people & physical description | Ho una vecchia zia a Firenze. | I have an elderly aunt in Florence.
+Italian::A1::Family, people & physical description | I miei nonni sono vecchi, ma felici. | My grandparents are old, but happy.
+Italian::A1::Family, people & physical description | Le mie sorelle sono bionde. | My sisters are blonde.
+Italian::A1::Family, people & physical description | Gli amici di mio fratello sono simpatici. | My brother's friends are nice.
+Italian::A1::Family, people & physical description | Un uomo e una donna sono qui. | A man and a woman are here.
+Italian::A1::Family, people & physical description | Questo è mio nipote. | This is my nephew.
+Italian::A1::Family, people & physical description | Ho una foto della mia famiglia. | I have a photo of my family.
+Italian::A1::Family, people & physical description | Ho tre amici e due amiche. | I have three male friends and two female friends.
