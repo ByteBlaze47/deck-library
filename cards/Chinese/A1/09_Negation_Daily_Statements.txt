@@ -1,0 +1,41 @@
+#lang: zh -> en
+Chinese::A1::Negation in daily statements | 我不是老师。 | I am not a teacher.
+Chinese::A1::Negation in daily statements | 他不是医生。 | He is not a doctor.
+Chinese::A1::Negation in daily statements | 我不去学校。 | I am not going to school.
+Chinese::A1::Negation in daily statements | 他不来。 | He is not coming.
+Chinese::A1::Negation in daily statements | 我不喝咖啡。 | I don't drink coffee.
+Chinese::A1::Negation in daily statements | 她不吃肉。 | She doesn't eat meat.
+Chinese::A1::Negation in daily statements | 我不喜欢这个。 | I don't like this.
+Chinese::A1::Negation in daily statements | 我不知道。 | I don't know.
+Chinese::A1::Negation in daily statements | 我不会说法语。 | I can't speak French.
+Chinese::A1::Negation in daily statements | 我不想去。 | I don't want to go.
+Chinese::A1::Negation in daily statements | 他今天不忙。 | He is not busy today.
+Chinese::A1::Negation in daily statements | 今天不冷。 | It is not cold today.
+Chinese::A1::Negation in daily statements | 这个不贵。 | This is not expensive.
+Chinese::A1::Negation in daily statements | 我不累。 | I am not tired.
+Chinese::A1::Negation in daily statements | 我不饿。 | I am not hungry.
+Chinese::A1::Negation in daily statements | 我没有钱。 | I don't have any money.
+Chinese::A1::Negation in daily statements | 我没有时间。 | I don't have time.
+Chinese::A1::Negation in daily statements | 他没有手机。 | He doesn't have a mobile phone.
+Chinese::A1::Negation in daily statements | 她没有哥哥。 | She doesn't have an older brother.
+Chinese::A1::Negation in daily statements | 我家没有狗。 | There is no dog in my home.
+Chinese::A1::Negation in daily statements | 我没去学校。 | I didn't go to school.
+Chinese::A1::Negation in daily statements | 他昨天没来。 | He didn't come yesterday.
+Chinese::A1::Negation in daily statements | 我没吃早饭。 | I didn't have breakfast.
+Chinese::A1::Negation in daily statements | 她没喝咖啡。 | She didn't drink coffee.
+Chinese::A1::Negation in daily statements | 我没看电视。 | I didn't watch television.
+Chinese::A1::Negation in daily statements | 我们没买东西。 | We didn't buy anything.
+Chinese::A1::Negation in daily statements | 他还没下班。 | He hasn't finished work yet.
+Chinese::A1::Negation in daily statements | 我还没吃饭。 | I haven't eaten yet.
+Chinese::A1::Negation in daily statements | 我没有笔。 | I don't have a pen.
+Chinese::A1::Negation in daily statements | 我没有看见他。 | I didn't see him.
+Chinese::A1::Negation in daily statements | 我昨天晚上没睡好。 | I didn't sleep well last night.
+Chinese::A1::Negation in daily statements | 不要说话。 | Don't talk.
+Chinese::A1::Negation in daily statements | 不要走。 | Don't go.
+Chinese::A1::Negation in daily statements | 别哭。 | Don't cry.
+Chinese::A1::Negation in daily statements | 别忘了。 | Don't forget.
+Chinese::A1::Negation in daily statements | 别担心。 | Don't worry.
+Chinese::A1::Negation in daily statements | 请不要在这儿吃东西。 | Please don't eat here.
+Chinese::A1::Negation in daily statements | 你别去了。 | Don't go, then.
+Chinese::A1::Negation in daily statements | 我不是不喜欢，我是没有时间。 | It's not that I don't like it; I just don't have time.
+Chinese::A1::Negation in daily statements | 他不是我的老师，是我的朋友。 | He is not my teacher; he is my friend.
