@@ -1,0 +1,41 @@
+#lang: zh -> en
+Chinese::A1::Dense lexical clusters & compounding in familiar domains (food, family, transport, time) | 我坐出租车去火车站。 | I take a taxi to the railway station.
+Chinese::A1::Dense lexical clusters & compounding in familiar domains (food, family, transport, time) | 他在公共汽车站等车。 | He is waiting for the bus at the bus stop.
+Chinese::A1::Dense lexical clusters & compounding in familiar domains (food, family, transport, time) | 地铁站离飞机场很远。 | The metro station is very far from the airport.
+Chinese::A1::Dense lexical clusters & compounding in familiar domains (food, family, transport, time) | 她骑自行车去咖啡店。 | She cycles to the café.
+Chinese::A1::Dense lexical clusters & compounding in familiar domains (food, family, transport, time) | 前面有一个红绿灯。 | There is a set of traffic lights ahead.
+Chinese::A1::Dense lexical clusters & compounding in familiar domains (food, family, transport, time) | 我在火车站买了两张火车票。 | I bought two train tickets at the railway station.
+Chinese::A1::Dense lexical clusters & compounding in familiar domains (food, family, transport, time) | 我要一碗牛肉面和一杯苹果汁。 | I'd like a bowl of beef noodles and a glass of apple juice.
+Chinese::A1::Dense lexical clusters & compounding in familiar domains (food, family, transport, time) | 他吃了一份鸡蛋炒饭。 | He ate a portion of egg fried rice.
+Chinese::A1::Dense lexical clusters & compounding in familiar domains (food, family, transport, time) | 这家饭馆的米饭很好吃。 | The rice at this restaurant is delicious.
+Chinese::A1::Dense lexical clusters & compounding in familiar domains (food, family, transport, time) | 我早饭吃面包，午饭吃米饭，晚饭吃面条。 | I eat bread for breakfast, rice for lunch and noodles for dinner.
+Chinese::A1::Dense lexical clusters & compounding in familiar domains (food, family, transport, time) | 我爱吃水果，特别是苹果和香蕉。 | I love eating fruit, especially apples and bananas.
+Chinese::A1::Dense lexical clusters & compounding in familiar domains (food, family, transport, time) | 我们常常去那家咖啡店喝咖啡。 | We often go to that café for coffee.
+Chinese::A1::Dense lexical clusters & compounding in familiar domains (food, family, transport, time) | 她在饭馆工作，是服务员。 | She works in a restaurant as a waitress.
+Chinese::A1::Dense lexical clusters & compounding in familiar domains (food, family, transport, time) | 爸爸妈妈今天去超市了。 | Mum and Dad went to the supermarket today.
+Chinese::A1::Dense lexical clusters & compounding in familiar domains (food, family, transport, time) | 哥哥姐姐都在北京工作。 | My older brother and sister both work in Beijing.
+Chinese::A1::Dense lexical clusters & compounding in familiar domains (food, family, transport, time) | 我有很多兄弟姐妹。 | I have lots of brothers and sisters.
+Chinese::A1::Dense lexical clusters & compounding in familiar domains (food, family, transport, time) | 爷爷奶奶住在上海。 | My grandparents live in Shanghai.
+Chinese::A1::Dense lexical clusters & compounding in familiar domains (food, family, transport, time) | 外公外婆今年都七十五岁。 | My maternal grandparents are both seventy-five this year.
+Chinese::A1::Dense lexical clusters & compounding in familiar domains (food, family, transport, time) | 周末我们全家人一起吃饭。 | At the weekend our whole family eats together.
+Chinese::A1::Dense lexical clusters & compounding in familiar domains (food, family, transport, time) | 我的亲戚都住在北京。 | My relatives all live in Beijing.
+Chinese::A1::Dense lexical clusters & compounding in familiar domains (food, family, transport, time) | 我家人都爱吃饺子。 | My family all love eating dumplings.
+Chinese::A1::Dense lexical clusters & compounding in familiar domains (food, family, transport, time) | 周末上午我去超市，下午去图书馆。 | On weekend mornings I go to the supermarket, and in the afternoon to the library.
+Chinese::A1::Dense lexical clusters & compounding in familiar domains (food, family, transport, time) | 星期天下午我们去公园。 | On Sunday afternoon we go to the park.
+Chinese::A1::Dense lexical clusters & compounding in familiar domains (food, family, transport, time) | 今天上午我在公司，下午在家。 | This morning I am at the office, and in the afternoon at home.
+Chinese::A1::Dense lexical clusters & compounding in familiar domains (food, family, transport, time) | 他每天工作八个小时。 | He works eight hours every day.
+Chinese::A1::Dense lexical clusters & compounding in familiar domains (food, family, transport, time) | 我坐公共汽车要二十分钟。 | It takes me twenty minutes by bus.
+Chinese::A1::Dense lexical clusters & compounding in familiar domains (food, family, transport, time) | 坐地铁去机场要四十分钟。 | It takes forty minutes by metro to get to the airport.
+Chinese::A1::Dense lexical clusters & compounding in familiar domains (food, family, transport, time) | 我等了你十分钟。 | I waited for you for ten minutes.
+Chinese::A1::Dense lexical clusters & compounding in familiar domains (food, family, transport, time) | 他每个星期六都去图书馆看书。 | He goes to the library to read every Saturday.
+Chinese::A1::Dense lexical clusters & compounding in familiar domains (food, family, transport, time) | 她每个月给家人打一次电话。 | She phones her family once a month.
+Chinese::A1::Dense lexical clusters & compounding in familiar domains (food, family, transport, time) | 火车票多少钱一张？ | How much is a train ticket?
+Chinese::A1::Dense lexical clusters & compounding in familiar domains (food, family, transport, time) | 一张火车票三百块。 | A train ticket is three hundred yuan.
+Chinese::A1::Dense lexical clusters & compounding in familiar domains (food, family, transport, time) | 飞机票比火车票贵。 | Plane tickets are more expensive than train tickets.
+Chinese::A1::Dense lexical clusters & compounding in familiar domains (food, family, transport, time) | 我买了一张去上海的飞机票。 | I bought a plane ticket to Shanghai.
+Chinese::A1::Dense lexical clusters & compounding in familiar domains (food, family, transport, time) | 请问，汽车站在哪儿？ | Excuse me, where is the bus station?
+Chinese::A1::Dense lexical clusters & compounding in familiar domains (food, family, transport, time) | 这条路上有很多汽车和自行车。 | There are lots of cars and bicycles on this road.
+Chinese::A1::Dense lexical clusters & compounding in familiar domains (food, family, transport, time) | 出租车司机很友好。 | The taxi driver is very friendly.
+Chinese::A1::Dense lexical clusters & compounding in familiar domains (food, family, transport, time) | 我女朋友的爸爸妈妈是老师。 | My girlfriend's parents are teachers.
+Chinese::A1::Dense lexical clusters & compounding in familiar domains (food, family, transport, time) | 我的男朋友是中国人。 | My boyfriend is Chinese.
+Chinese::A1::Dense lexical clusters & compounding in familiar domains (food, family, transport, time) | 我同学的哥哥在咖啡店工作。 | My classmate's older brother works in a café.
