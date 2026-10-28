@@ -1,0 +1,41 @@
+#lang: it -> en
+Italian::A1::Meeting people & basic self-introduction (formal & informal) | Ciao! | Hello!
+Italian::A1::Meeting people & basic self-introduction (formal & informal) | Buongiorno. | Good morning.
+Italian::A1::Meeting people & basic self-introduction (formal & informal) | Buonasera. | Good evening.
+Italian::A1::Meeting people & basic self-introduction (formal & informal) | Buonanotte. | Good night.
+Italian::A1::Meeting people & basic self-introduction (formal & informal) | Arrivederci. | Goodbye.
+Italian::A1::Meeting people & basic self-introduction (formal & informal) | A presto! | See you soon!
+Italian::A1::Meeting people & basic self-introduction (formal & informal) | Piacere! | Pleased to meet you!
+Italian::A1::Meeting people & basic self-introduction (formal & informal) | Mi chiamo Marco. | My name is Marco.
+Italian::A1::Meeting people & basic self-introduction (formal & informal) | Come ti chiami? | What is your name? (informal)
+Italian::A1::Meeting people & basic self-introduction (formal & informal) | Come si chiama? | What is your name? (formal)
+Italian::A1::Meeting people & basic self-introduction (formal & informal) | Io sono Giulia. | I am Giulia.
+Italian::A1::Meeting people & basic self-introduction (formal & informal) | Sono inglese. | I am English.
+Italian::A1::Meeting people & basic self-introduction (formal & informal) | Lei è la signora Rossi? | Are you Mrs Rossi? (formal)
+Italian::A1::Meeting people & basic self-introduction (formal & informal) | Tu sei Luca? | Are you Luca? (informal)
+Italian::A1::Meeting people & basic self-introduction (formal & informal) | Sì, sono io. | Yes, it's me.
+Italian::A1::Meeting people & basic self-introduction (formal & informal) | No, non sono Luca. | No, I am not Luca.
+Italian::A1::Meeting people & basic self-introduction (formal & informal) | Come stai? | How are you? (informal)
+Italian::A1::Meeting people & basic self-introduction (formal & informal) | Come sta? | How are you? (formal)
+Italian::A1::Meeting people & basic self-introduction (formal & informal) | Sto bene, grazie. | I'm well, thank you.
+Italian::A1::Meeting people & basic self-introduction (formal & informal) | E tu? | And you? (informal)
+Italian::A1::Meeting people & basic self-introduction (formal & informal) | E Lei? | And you? (formal)
+Italian::A1::Meeting people & basic self-introduction (formal & informal) | Di dove sei? | Where are you from? (informal)
+Italian::A1::Meeting people & basic self-introduction (formal & informal) | Di dov'è, signora? | Where are you from, madam? (formal)
+Italian::A1::Meeting people & basic self-introduction (formal & informal) | Sono di Roma. | I'm from Rome.
+Italian::A1::Meeting people & basic self-introduction (formal & informal) | Siamo di Milano. | We are from Milan.
+Italian::A1::Meeting people & basic self-introduction (formal & informal) | Lui è Paolo e lei è Anna. | He is Paolo and she is Anna.
+Italian::A1::Meeting people & basic self-introduction (formal & informal) | Chi è lui? | Who is he?
+Italian::A1::Meeting people & basic self-introduction (formal & informal) | Chi è lei? | Who is she?
+Italian::A1::Meeting people & basic self-introduction (formal & informal) | Loro sono i miei amici. | They are my friends.
+Italian::A1::Meeting people & basic self-introduction (formal & informal) | Sei italiano o inglese? | Are you Italian or English? (informal)
+Italian::A1::Meeting people & basic self-introduction (formal & informal) | È americana, signora? | Are you American, madam? (formal)
+Italian::A1::Meeting people & basic self-introduction (formal & informal) | Sono americano. | I am American. (male speaker)
+Italian::A1::Meeting people & basic self-introduction (formal & informal) | Lei è francese. | She is French.
+Italian::A1::Meeting people & basic self-introduction (formal & informal) | Voi siete studenti? | Are you students? (plural)
+Italian::A1::Meeting people & basic self-introduction (formal & informal) | Sì, siamo studenti. | Yes, we are students.
+Italian::A1::Meeting people & basic self-introduction (formal & informal) | Mi chiamo Sara e sono di Napoli. | My name is Sara and I'm from Naples.
+Italian::A1::Meeting people & basic self-introduction (formal & informal) | Si chiama Marco. | His name is Marco.
+Italian::A1::Meeting people & basic self-introduction (formal & informal) | Come si chiamano? | What are their names?
+Italian::A1::Meeting people & basic self-introduction (formal & informal) | Si chiamano Luca e Marta. | They are called Luca and Marta.
+Italian::A1::Meeting people & basic self-introduction (formal & informal) | Molto lieto di conoscerla. | Pleased to meet you. (formal, male speaker)
