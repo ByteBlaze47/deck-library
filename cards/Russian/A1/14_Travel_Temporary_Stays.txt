@@ -1,0 +1,46 @@
+#lang: ru -> en
+Russian::A1::Travel & temporary stays | Я еду в Москву на неделю. | I'm going to Moscow for a week.
+Russian::A1::Travel & temporary stays | Мы живём в гостинице. | We're staying at a hotel.
+Russian::A1::Travel & temporary stays | Мы приехали в Москву вчера. | We arrived in Moscow yesterday.
+Russian::A1::Travel & temporary stays | Мы остановились в центре. | We stayed in the centre.
+Russian::A1::Travel & temporary stays | Я забронировал номер на три дня. | I have booked a room for three days. (male)
+Russian::A1::Travel & temporary stays | В номере есть Wi-Fi? | Is there Wi-Fi in the room?
+Russian::A1::Travel & temporary stays | Какой у вас номер? | What is your room number?
+Russian::A1::Travel & temporary stays | Ключ от номера у администратора. | The room key is with the receptionist.
+Russian::A1::Travel & temporary stays | Вот мой паспорт. | Here is my passport.
+Russian::A1::Travel & temporary stays | Заполните эту анкету, пожалуйста. | Please fill in this form.
+Russian::A1::Travel & temporary stays | Завтрак включён в цену. | Breakfast is included in the price.
+Russian::A1::Travel & temporary stays | Во сколько отправляется поезд? | What time does the train leave?
+Russian::A1::Travel & temporary stays | Поезд отправляется через час. | The train leaves in an hour.
+Russian::A1::Travel & temporary stays | Поезд прибывает в шесть утра. | The train arrives at six in the morning.
+Russian::A1::Travel & temporary stays | Мы купили билеты на поезд. | We bought train tickets.
+Russian::A1::Travel & temporary stays | Я потерял билет. | I lost my ticket. (male)
+Russian::A1::Travel & temporary stays | Он нашёл свой багаж. | He found his luggage.
+Russian::A1::Travel & temporary stays | Мы сели в поезд. | We boarded the train.
+Russian::A1::Travel & temporary stays | Я сижу у окна. | I'm sitting by the window.
+Russian::A1::Travel & temporary stays | Самолёт вылетает в десять утра. | The plane departs at ten a.m.
+Russian::A1::Travel & temporary stays | Самолёт прилетел вовремя. | The plane arrived on time.
+Russian::A1::Travel & temporary stays | Рейс опаздывает на час. | The flight is an hour late.
+Russian::A1::Travel & temporary stays | Я лечу в Санкт-Петербург. | I'm flying to St Petersburg.
+Russian::A1::Travel & temporary stays | Мы были в Казани два дня. | We were in Kazan for two days.
+Russian::A1::Travel & temporary stays | Через неделю я вернусь домой. | In a week I'll be back home.
+Russian::A1::Travel & temporary stays | Через два дня мы уезжаем. | In two days we're leaving.
+Russian::A1::Travel & temporary stays | Я уехал в среду. | I left on Wednesday. (male)
+Russian::A1::Travel & temporary stays | Она приехала в пятницу. | She arrived on Friday.
+Russian::A1::Travel & temporary stays | Мы осмотрели город. | We saw the sights of the city.
+Russian::A1::Travel & temporary stays | Я купил сувениры для семьи. | I bought souvenirs for my family.
+Russian::A1::Travel & temporary stays | Мы много фотографировали. | We took lots of photos.
+Russian::A1::Travel & temporary stays | Я сфотографировал собор. | I photographed the cathedral. (male)
+Russian::A1::Travel & temporary stays | Мы были в музее и в театре. | We were at the museum and the theatre.
+Russian::A1::Travel & temporary stays | Где можно обменять деньги? | Where can I exchange money?
+Russian::A1::Travel & temporary stays | Обменный пункт рядом с банком. | The exchange office is next to the bank.
+Russian::A1::Travel & temporary stays | Я хочу взять карту города. | I'd like to get a city map.
+Russian::A1::Travel & temporary stays | У вас есть свободные номера? | Do you have any free rooms?
+Russian::A1::Travel & temporary stays | Нет, все номера заняты. | No, all the rooms are taken.
+Russian::A1::Travel & temporary stays | Я хочу заказать такси в аэропорт. | I want to book a taxi to the airport.
+Russian::A1::Travel & temporary stays | Такси приедет через десять минут. | The taxi will arrive in ten minutes.
+Russian::A1::Travel & temporary stays | Я путешествую один. | I'm travelling alone. (male)
+Russian::A1::Travel & temporary stays | Мы путешествуем вдвоём. | The two of us are travelling together.
+Russian::A1::Travel & temporary stays | Я хочу остаться ещё на одну ночь. | I want to stay one more night.
+Russian::A1::Travel & temporary stays | Выезд из гостиницы в двенадцать. | Check-out is at twelve.
+Russian::A1::Travel & temporary stays | Счастливого пути! | Have a good trip!
