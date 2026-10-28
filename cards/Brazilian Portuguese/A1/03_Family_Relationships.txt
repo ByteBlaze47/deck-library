@@ -1,0 +1,40 @@
+Brazilian Portuguese::A1::Family & relationships | Esta é a minha família. | This is my family.
+Brazilian Portuguese::A1::Family & relationships | Eu tenho uma família grande. | I have a big family.
+Brazilian Portuguese::A1::Family & relationships | Meu pai se chama Carlos. | My father is called Carlos.
+Brazilian Portuguese::A1::Family & relationships | Minha mãe se chama Helena. | My mother is called Helena.
+Brazilian Portuguese::A1::Family & relationships | Meus pais são brasileiros. | My parents are Brazilian.
+Brazilian Portuguese::A1::Family & relationships | Eu tenho um irmão e duas irmãs. | I have one brother and two sisters.
+Brazilian Portuguese::A1::Family & relationships | Meu irmão é mais velho que eu. | My brother is older than me.
+Brazilian Portuguese::A1::Family & relationships | Minha irmã é muito simpática. | My sister is very friendly.
+Brazilian Portuguese::A1::Family & relationships | Meus irmãos moram em São Paulo. | My brothers and sisters live in São Paulo.
+Brazilian Portuguese::A1::Family & relationships | Minhas irmãs são estudantes. | My sisters are students.
+Brazilian Portuguese::A1::Family & relationships | Esta é a minha avó. | This is my grandmother.
+Brazilian Portuguese::A1::Family & relationships | Meu avô é aposentado. | My grandfather is retired.
+Brazilian Portuguese::A1::Family & relationships | Meus avós são muito carinhosos. | My grandparents are very affectionate.
+Brazilian Portuguese::A1::Family & relationships | Meu tio é o irmão da minha mãe. | My uncle is my mother's brother.
+Brazilian Portuguese::A1::Family & relationships | Minha tia é a irmã do meu pai. | My aunt is my father's sister.
+Brazilian Portuguese::A1::Family & relationships | Meus primos são crianças. | My cousins are children.
+Brazilian Portuguese::A1::Family & relationships | Minha prima é a filha da minha tia. | My cousin is my aunt's daughter.
+Brazilian Portuguese::A1::Family & relationships | Você tem filhos? | Do you have children?
+Brazilian Portuguese::A1::Family & relationships | Sim, eu tenho um filho e uma filha. | Yes, I have a son and a daughter.
+Brazilian Portuguese::A1::Family & relationships | O meu filho é o menino que está aqui. | My son is the boy who is here.
+Brazilian Portuguese::A1::Family & relationships | A minha filha é a menina que usa óculos. | My daughter is the girl who wears glasses.
+Brazilian Portuguese::A1::Family & relationships | Meu marido é o homem que está ali. | My husband is the man who is over there.
+Brazilian Portuguese::A1::Family & relationships | Minha esposa é a mulher que fala inglês. | My wife is the woman who speaks English.
+Brazilian Portuguese::A1::Family & relationships | Seu pai é médico? | Is your father a doctor?
+Brazilian Portuguese::A1::Family & relationships | Sua mãe é professora? | Is your mother a teacher?
+Brazilian Portuguese::A1::Family & relationships | Seus irmãos são altos? | Are your brothers tall?
+Brazilian Portuguese::A1::Family & relationships | Suas irmãs são casadas? | Are your sisters married?
+Brazilian Portuguese::A1::Family & relationships | Ele é o meu namorado. | He is my boyfriend.
+Brazilian Portuguese::A1::Family & relationships | Ela é a minha namorada. | She is my girlfriend.
+Brazilian Portuguese::A1::Family & relationships | Eles são os meus sogros. | They are my parents-in-law.
+Brazilian Portuguese::A1::Family & relationships | Ela é a minha melhor amiga. | She is my best friend.
+Brazilian Portuguese::A1::Family & relationships | Ele é o meu colega de trabalho. | He is my work colleague.
+Brazilian Portuguese::A1::Family & relationships | Nossa família é pequena. | Our family is small.
+Brazilian Portuguese::A1::Family & relationships | Nossos filhos são simpáticos. | Our children are friendly.
+Brazilian Portuguese::A1::Family & relationships | Os pais dela são professores. | Her parents are teachers.
+Brazilian Portuguese::A1::Family & relationships | O pai dele é engenheiro. | His father is an engineer.
+Brazilian Portuguese::A1::Family & relationships | A mãe dele é a Rita. | His mother is Rita.
+Brazilian Portuguese::A1::Family & relationships | Ele é o tio que mora em Recife. | He is the uncle who lives in Recife.
+Brazilian Portuguese::A1::Family & relationships | Elas são as primas que moram aqui. | They are the cousins who live here.
+Brazilian Portuguese::A1::Family & relationships | Eu amo muito a minha família. | I love my family very much.
