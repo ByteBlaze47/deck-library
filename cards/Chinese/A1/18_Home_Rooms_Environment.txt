@@ -1,0 +1,41 @@
+#lang: zh -> en
+Chinese::A1::Home, rooms & daily environment | 这是我的家。 | This is my home.
+Chinese::A1::Home, rooms & daily environment | 我家有三个房间。 | My home has three rooms.
+Chinese::A1::Home, rooms & daily environment | 我家有一个客厅。 | My home has a living room.
+Chinese::A1::Home, rooms & daily environment | 客厅里有一张沙发。 | There is a sofa in the living room.
+Chinese::A1::Home, rooms & daily environment | 沙发在窗户旁边。 | The sofa is next to the window.
+Chinese::A1::Home, rooms & daily environment | 卧室里有一张床。 | There is a bed in the bedroom.
+Chinese::A1::Home, rooms & daily environment | 床上有两个枕头。 | There are two pillows on the bed.
+Chinese::A1::Home, rooms & daily environment | 书房里有很多书。 | There are lots of books in the study.
+Chinese::A1::Home, rooms & daily environment | 厨房在客厅旁边。 | The kitchen is next to the living room.
+Chinese::A1::Home, rooms & daily environment | 洗手间在卧室后面。 | The bathroom is behind the bedroom.
+Chinese::A1::Home, rooms & daily environment | 我的房间不大，可是很干净。 | My room is not big, but it is very clean.
+Chinese::A1::Home, rooms & daily environment | 我的房间在二楼。 | My room is on the second floor.
+Chinese::A1::Home, rooms & daily environment | 我家在六楼。 | My home is on the sixth floor.
+Chinese::A1::Home, rooms & daily environment | 我家有一个小阳台。 | My home has a small balcony.
+Chinese::A1::Home, rooms & daily environment | 阳台上有很多花。 | There are lots of flowers on the balcony.
+Chinese::A1::Home, rooms & daily environment | 桌子上有一杯水。 | There is a glass of water on the table.
+Chinese::A1::Home, rooms & daily environment | 桌子上面有一盏灯。 | There is a lamp above the table.
+Chinese::A1::Home, rooms & daily environment | 椅子下面有一只猫。 | There is a cat under the chair.
+Chinese::A1::Home, rooms & daily environment | 门后面有一把伞。 | There is an umbrella behind the door.
+Chinese::A1::Home, rooms & daily environment | 窗户旁边有一张桌子。 | There is a table next to the window.
+Chinese::A1::Home, rooms & daily environment | 冰箱里有牛奶和鸡蛋。 | There are milk and eggs in the fridge.
+Chinese::A1::Home, rooms & daily environment | 冰箱在厨房里。 | The fridge is in the kitchen.
+Chinese::A1::Home, rooms & daily environment | 电视在沙发前面。 | The television is in front of the sofa.
+Chinese::A1::Home, rooms & daily environment | 电视机在客厅里。 | The television is in the living room.
+Chinese::A1::Home, rooms & daily environment | 衣服在柜子里。 | The clothes are in the wardrobe.
+Chinese::A1::Home, rooms & daily environment | 手机在床上。 | The phone is on the bed.
+Chinese::A1::Home, rooms & daily environment | 书在书架上。 | The books are on the bookshelf.
+Chinese::A1::Home, rooms & daily environment | 我的书包在椅子上。 | My bag is on the chair.
+Chinese::A1::Home, rooms & daily environment | 家里有人吗？ | Is anyone at home?
+Chinese::A1::Home, rooms & daily environment | 家里没有人。 | There is nobody at home.
+Chinese::A1::Home, rooms & daily environment | 妈妈在厨房做饭。 | Mum is cooking in the kitchen.
+Chinese::A1::Home, rooms & daily environment | 爸爸在客厅看电视。 | Dad is watching television in the living room.
+Chinese::A1::Home, rooms & daily environment | 我在房间里学习。 | I study in my room.
+Chinese::A1::Home, rooms & daily environment | 我们家有一个花园。 | Our home has a garden.
+Chinese::A1::Home, rooms & daily environment | 花园里有一棵树。 | There is a tree in the garden.
+Chinese::A1::Home, rooms & daily environment | 我家门口有一家小商店。 | There is a small shop at the door of my home.
+Chinese::A1::Home, rooms & daily environment | 我家旁边有一个公园。 | There is a park next to my home.
+Chinese::A1::Home, rooms & daily environment | 我家对面是学校。 | Opposite my home is a school.
+Chinese::A1::Home, rooms & daily environment | 我家很安静。 | My home is very quiet.
+Chinese::A1::Home, rooms & daily environment | 我爱我的家。 | I love my home.
