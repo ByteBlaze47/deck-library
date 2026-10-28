@@ -1,0 +1,41 @@
+#lang: zh -> en
+Chinese::A1::Yes/no questions & confirmation in social talk | 你好吗？ | How are you?
+Chinese::A1::Yes/no questions & confirmation in social talk | 我很好，你呢？ | I am well, and you?
+Chinese::A1::Yes/no questions & confirmation in social talk | 你是学生吗？ | Are you a student?
+Chinese::A1::Yes/no questions & confirmation in social talk | 你是中国人吗？ | Are you Chinese?
+Chinese::A1::Yes/no questions & confirmation in social talk | 他是你的朋友吗？ | Is he your friend?
+Chinese::A1::Yes/no questions & confirmation in social talk | 你忙吗？ | Are you busy?
+Chinese::A1::Yes/no questions & confirmation in social talk | 你累吗？ | Are you tired?
+Chinese::A1::Yes/no questions & confirmation in social talk | 你饿吗？ | Are you hungry?
+Chinese::A1::Yes/no questions & confirmation in social talk | 你渴吗？ | Are you thirsty?
+Chinese::A1::Yes/no questions & confirmation in social talk | 你有时间吗？ | Do you have time?
+Chinese::A1::Yes/no questions & confirmation in social talk | 你有手机吗？ | Do you have a mobile phone?
+Chinese::A1::Yes/no questions & confirmation in social talk | 你有哥哥吗？ | Do you have an older brother?
+Chinese::A1::Yes/no questions & confirmation in social talk | 你喜欢咖啡吗？ | Do you like coffee?
+Chinese::A1::Yes/no questions & confirmation in social talk | 你喜欢中国菜吗？ | Do you like Chinese food?
+Chinese::A1::Yes/no questions & confirmation in social talk | 你会说中文吗？ | Can you speak Chinese?
+Chinese::A1::Yes/no questions & confirmation in social talk | 你想喝茶吗？ | Would you like to drink tea?
+Chinese::A1::Yes/no questions & confirmation in social talk | 你去学校吗？ | Are you going to school?
+Chinese::A1::Yes/no questions & confirmation in social talk | 你今天上班吗？ | Are you working today?
+Chinese::A1::Yes/no questions & confirmation in social talk | 他在家吗？ | Is he at home?
+Chinese::A1::Yes/no questions & confirmation in social talk | 这是你的书吗？ | Is this your book?
+Chinese::A1::Yes/no questions & confirmation in social talk | 这个贵吗？ | Is this expensive?
+Chinese::A1::Yes/no questions & confirmation in social talk | 今天冷吗？ | Is it cold today?
+Chinese::A1::Yes/no questions & confirmation in social talk | 你是老师，对吗？ | You are a teacher, right?
+Chinese::A1::Yes/no questions & confirmation in social talk | 你是英国人，是吗？ | You are British, aren't you?
+Chinese::A1::Yes/no questions & confirmation in social talk | 你是不是学生？ | Are you a student or not?
+Chinese::A1::Yes/no questions & confirmation in social talk | 你喝不喝咖啡？ | Do you want coffee or not?
+Chinese::A1::Yes/no questions & confirmation in social talk | 你去不去公园？ | Are you going to the park or not?
+Chinese::A1::Yes/no questions & confirmation in social talk | 你忙不忙？ | Are you busy or not?
+Chinese::A1::Yes/no questions & confirmation in social talk | 他是不是你的老师？ | Is he your teacher or not?
+Chinese::A1::Yes/no questions & confirmation in social talk | 这个好不好？ | Is this good or not?
+Chinese::A1::Yes/no questions & confirmation in social talk | 你有没有时间？ | Do you have time or not?
+Chinese::A1::Yes/no questions & confirmation in social talk | 你吃了吗？ | Have you eaten?
+Chinese::A1::Yes/no questions & confirmation in social talk | 我是学生，你呢？ | I am a student, and you?
+Chinese::A1::Yes/no questions & confirmation in social talk | 我喝茶，你呢？ | I am drinking tea, and you?
+Chinese::A1::Yes/no questions & confirmation in social talk | 我们走吧。 | Let's go.
+Chinese::A1::Yes/no questions & confirmation in social talk | 我们去吃饭吧。 | Let's go and eat.
+Chinese::A1::Yes/no questions & confirmation in social talk | 你来吧。 | Come on, then.
+Chinese::A1::Yes/no questions & confirmation in social talk | 我们坐这儿吧。 | Let's sit here.
+Chinese::A1::Yes/no questions & confirmation in social talk | 我们明天见，好吗？ | See you tomorrow, all right?
+Chinese::A1::Yes/no questions & confirmation in social talk | 我可以坐这儿吗？ | May I sit here?
