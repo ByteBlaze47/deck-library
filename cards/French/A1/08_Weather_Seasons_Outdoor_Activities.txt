@@ -1,0 +1,41 @@
+#lang: fr -> en
+French::A1::Weather, seasons & outdoor activities | Il fait beau aujourd'hui. | The weather is lovely today.
+French::A1::Weather, seasons & outdoor activities | Il fait chaud en été. | It is hot in summer.
+French::A1::Weather, seasons & outdoor activities | Il fait froid en hiver. | It is cold in winter.
+French::A1::Weather, seasons & outdoor activities | Il fait mauvais ce matin. | The weather is bad this morning.
+French::A1::Weather, seasons & outdoor activities | Il pleut beaucoup en automne. | It rains a lot in autumn.
+French::A1::Weather, seasons & outdoor activities | Il neige en janvier. | It snows in January.
+French::A1::Weather, seasons & outdoor activities | Il y a du vent aujourd'hui. | It is windy today.
+French::A1::Weather, seasons & outdoor activities | Il y a du soleil. | It is sunny.
+French::A1::Weather, seasons & outdoor activities | Il y a des nuages. | It is cloudy.
+French::A1::Weather, seasons & outdoor activities | Quel temps fait-il ? | What's the weather like?
+French::A1::Weather, seasons & outdoor activities | Le printemps est ma saison préférée. | Spring is my favourite season.
+French::A1::Weather, seasons & outdoor activities | L'été est plus chaud que le printemps. | Summer is hotter than spring.
+French::A1::Weather, seasons & outdoor activities | L'hiver est plus froid que l'automne. | Winter is colder than autumn.
+French::A1::Weather, seasons & outdoor activities | Aujourd'hui, il fait moins chaud qu'hier. | Today, it is less hot than yesterday.
+French::A1::Weather, seasons & outdoor activities | Il fait aussi froid ici qu'à Londres. | It is as cold here as in London.
+French::A1::Weather, seasons & outdoor activities | Je fais une promenade dans le parc. | I am going for a walk in the park.
+French::A1::Weather, seasons & outdoor activities | Tu fais du vélo ? | Do you cycle?
+French::A1::Weather, seasons & outdoor activities | Il fait du sport le dimanche. | He does sport on Sundays.
+French::A1::Weather, seasons & outdoor activities | Nous faisons du camping en juillet. | We go camping in July.
+French::A1::Weather, seasons & outdoor activities | Vous faites une randonnée en montagne ? | Are you going hiking in the mountains?
+French::A1::Weather, seasons & outdoor activities | Elles font de la natation. | They go swimming.
+French::A1::Weather, seasons & outdoor activities | Je vais à la plage. | I am going to the beach.
+French::A1::Weather, seasons & outdoor activities | Tu vas au parc ? | Are you going to the park?
+French::A1::Weather, seasons & outdoor activities | Elle va à la campagne. | She is going to the countryside.
+French::A1::Weather, seasons & outdoor activities | Nous allons à la montagne en hiver. | We go to the mountains in winter.
+French::A1::Weather, seasons & outdoor activities | Ils vont au bord de la mer. | They are going to the seaside.
+French::A1::Weather, seasons & outdoor activities | Je viens du Canada. | I come from Canada.
+French::A1::Weather, seasons & outdoor activities | Tu viens avec nous ? | Are you coming with us?
+French::A1::Weather, seasons & outdoor activities | Il vient de Marseille. | He comes from Marseille.
+French::A1::Weather, seasons & outdoor activities | Nous venons de la plage. | We are coming from the beach.
+French::A1::Weather, seasons & outdoor activities | Vous venez à la fête ? | Are you coming to the party?
+French::A1::Weather, seasons & outdoor activities | Ils viennent en voiture. | They are coming by car.
+French::A1::Weather, seasons & outdoor activities | Je prends un parapluie. | I am taking an umbrella.
+French::A1::Weather, seasons & outdoor activities | Tu prends ton manteau ? | Are you taking your coat?
+French::A1::Weather, seasons & outdoor activities | Elle prend le soleil sur la terrasse. | She is sunbathing on the terrace.
+French::A1::Weather, seasons & outdoor activities | Nous prenons le train pour la montagne. | We are taking the train to the mountains.
+French::A1::Weather, seasons & outdoor activities | Vous prenez des photos du paysage ? | Are you taking photos of the scenery?
+French::A1::Weather, seasons & outdoor activities | Les journées sont plus longues en été. | The days are longer in summer.
+French::A1::Weather, seasons & outdoor activities | La mer est meilleure en juillet qu'en mars. | The sea is better in July than in March.
+French::A1::Weather, seasons & outdoor activities | Il fait vraiment un temps magnifique ! | The weather is really magnificent!
