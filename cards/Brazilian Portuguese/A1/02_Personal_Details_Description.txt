@@ -1,0 +1,45 @@
+Brazilian Portuguese::A1::Personal details & basic description | Quantos anos você tem? | How old are you?
+Brazilian Portuguese::A1::Personal details & basic description | Eu tenho vinte anos. | I am twenty years old.
+Brazilian Portuguese::A1::Personal details & basic description | Ela tem trinta e dois anos. | She is thirty-two years old.
+Brazilian Portuguese::A1::Personal details & basic description | Meu pai tem cinquenta e oito anos. | My father is fifty-eight years old.
+Brazilian Portuguese::A1::Personal details & basic description | Eu sou professor. | I am a teacher.
+Brazilian Portuguese::A1::Personal details & basic description | Ela é médica. | She is a doctor.
+Brazilian Portuguese::A1::Personal details & basic description | Qual é a sua profissão? | What is your profession?
+Brazilian Portuguese::A1::Personal details & basic description | Ele é engenheiro. | He is an engineer.
+Brazilian Portuguese::A1::Personal details & basic description | Nós somos estudantes. | We are students.
+Brazilian Portuguese::A1::Personal details & basic description | Eu sou um estudante. | I am a student.
+Brazilian Portuguese::A1::Personal details & basic description | Ela é uma advogada. | She is a lawyer.
+Brazilian Portuguese::A1::Personal details & basic description | Você é casado? | Are you married?
+Brazilian Portuguese::A1::Personal details & basic description | Não, eu sou solteiro. | No, I am single.
+Brazilian Portuguese::A1::Personal details & basic description | Ela é casada. | She is married.
+Brazilian Portuguese::A1::Personal details & basic description | Eu sou divorciado. | I am divorced.
+Brazilian Portuguese::A1::Personal details & basic description | Ele é um homem simpático. | He is a friendly man.
+Brazilian Portuguese::A1::Personal details & basic description | Ela é muito inteligente. | She is very intelligent.
+Brazilian Portuguese::A1::Personal details & basic description | Eu sou um pouco tímido. | I am a little shy.
+Brazilian Portuguese::A1::Personal details & basic description | Meus amigos são engraçados. | My friends are funny.
+Brazilian Portuguese::A1::Personal details & basic description | As meninas são altas. | The girls are tall.
+Brazilian Portuguese::A1::Personal details & basic description | Os meninos são baixos. | The boys are short.
+Brazilian Portuguese::A1::Personal details & basic description | Eu estou cansado hoje. | I am tired today.
+Brazilian Portuguese::A1::Personal details & basic description | Ela está feliz. | She is happy.
+Brazilian Portuguese::A1::Personal details & basic description | Ele está triste agora. | He is sad now.
+Brazilian Portuguese::A1::Personal details & basic description | Nós estamos ocupados. | We are busy.
+Brazilian Portuguese::A1::Personal details & basic description | Eu sou feliz, mas hoje estou cansado. | I am a happy person, but today I am tired.
+Brazilian Portuguese::A1::Personal details & basic description | Ele é calmo, mas hoje está nervoso. | He is calm, but today he is nervous.
+Brazilian Portuguese::A1::Personal details & basic description | Quantos anos ele tem? | How old is he?
+Brazilian Portuguese::A1::Personal details & basic description | Ele tem quarenta e um anos. | He is forty-one years old.
+Brazilian Portuguese::A1::Personal details & basic description | Minha avó tem setenta e cinco anos. | My grandmother is seventy-five years old.
+Brazilian Portuguese::A1::Personal details & basic description | O meu irmão tem dezoito anos. | My brother is eighteen years old.
+Brazilian Portuguese::A1::Personal details & basic description | Minha irmã tem quinze anos. | My sister is fifteen years old.
+Brazilian Portuguese::A1::Personal details & basic description | O número é sessenta e sete. | The number is sixty-seven.
+Brazilian Portuguese::A1::Personal details & basic description | Meu telefone termina em oitenta e quatro. | My phone number ends in eighty-four.
+Brazilian Portuguese::A1::Personal details & basic description | Ela é uma pessoa muito legal. | She is a very nice person.
+Brazilian Portuguese::A1::Personal details & basic description | Ele fala pouco. | He does not talk much.
+Brazilian Portuguese::A1::Personal details & basic description | Eu sou muito curioso. | I am very curious.
+Brazilian Portuguese::A1::Personal details & basic description | Você está bem? | Are you well?
+Brazilian Portuguese::A1::Personal details & basic description | Eu não estou doente. | I am not ill.
+Brazilian Portuguese::A1::Personal details & basic description | Ela não é professora; é enfermeira. | She is not a teacher; she is a nurse.
+Brazilian Portuguese::A1::Personal details & basic description | Eles são casados e felizes. | They are married and happy.
+Brazilian Portuguese::A1::Personal details & basic description | Nós somos jovens. | We are young.
+Brazilian Portuguese::A1::Personal details & basic description | Meu chefe é um homem sério. | My boss is a serious man.
+Brazilian Portuguese::A1::Personal details & basic description | A minha vizinha é uma mulher simpática. | My neighbour is a friendly woman.
+Brazilian Portuguese::A1::Personal details & basic description | Eu sou pouco paciente. | I am not very patient.
