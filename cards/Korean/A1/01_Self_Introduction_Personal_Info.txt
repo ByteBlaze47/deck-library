@@ -1,0 +1,41 @@
+#lang: ko -> en
+Korean::A1::Self-introduction & basic personal information (name, age, nationality, occupation) | 안녕하세요. | Hello.
+Korean::A1::Self-introduction & basic personal information (name, age, nationality, occupation) | 저는 민수예요. | I am Minsu.
+Korean::A1::Self-introduction & basic personal information (name, age, nationality, occupation) | 제 이름은 수진이에요. | My name is Sujin.
+Korean::A1::Self-introduction & basic personal information (name, age, nationality, occupation) | 만나서 반갑습니다. | Nice to meet you.
+Korean::A1::Self-introduction & basic personal information (name, age, nationality, occupation) | 저는 학생이에요. | I am a student.
+Korean::A1::Self-introduction & basic personal information (name, age, nationality, occupation) | 저는 선생님이 아니에요. | I am not a teacher.
+Korean::A1::Self-introduction & basic personal information (name, age, nationality, occupation) | 이분은 제 친구예요. | This person is my friend.
+Korean::A1::Self-introduction & basic personal information (name, age, nationality, occupation) | 저는 영국 사람이에요. | I am British.
+Korean::A1::Self-introduction & basic personal information (name, age, nationality, occupation) | 저는 한국 사람이 아니에요. | I am not Korean.
+Korean::A1::Self-introduction & basic personal information (name, age, nationality, occupation) | 제 국적은 미국이에요. | My nationality is American.
+Korean::A1::Self-introduction & basic personal information (name, age, nationality, occupation) | 어느 나라 사람이에요? | Which country are you from?
+Korean::A1::Self-introduction & basic personal information (name, age, nationality, occupation) | 저는 캐나다 사람이에요. | I am Canadian.
+Korean::A1::Self-introduction & basic personal information (name, age, nationality, occupation) | 이름이 뭐예요? | What is your name?
+Korean::A1::Self-introduction & basic personal information (name, age, nationality, occupation) | 제 이름은 존이에요. | My name is John.
+Korean::A1::Self-introduction & basic personal information (name, age, nationality, occupation) | 저는 스무 살이에요. | I am twenty years old.
+Korean::A1::Self-introduction & basic personal information (name, age, nationality, occupation) | 몇 살이에요? | How old are you?
+Korean::A1::Self-introduction & basic personal information (name, age, nationality, occupation) | 저는 서른 살이에요. | I am thirty.
+Korean::A1::Self-introduction & basic personal information (name, age, nationality, occupation) | 직업이 뭐예요? | What do you do for a living?
+Korean::A1::Self-introduction & basic personal information (name, age, nationality, occupation) | 저는 회사원이에요. | I am an office worker.
+Korean::A1::Self-introduction & basic personal information (name, age, nationality, occupation) | 저는 의사예요. | I am a doctor.
+Korean::A1::Self-introduction & basic personal information (name, age, nationality, occupation) | 민수 씨는 학생이에요? | Is Minsu a student?
+Korean::A1::Self-introduction & basic personal information (name, age, nationality, occupation) | 네, 학생이에요. | Yes, he is a student.
+Korean::A1::Self-introduction & basic personal information (name, age, nationality, occupation) | 아니요, 학생이 아니에요. | No, he is not a student.
+Korean::A1::Self-introduction & basic personal information (name, age, nationality, occupation) | 저는 간호사가 아니에요. | I am not a nurse.
+Korean::A1::Self-introduction & basic personal information (name, age, nationality, occupation) | 이분은 김 선생님이에요. | This is Mr Kim, the teacher.
+Korean::A1::Self-introduction & basic personal information (name, age, nationality, occupation) | 저는 프랑스 사람이에요. | I am French.
+Korean::A1::Self-introduction & basic personal information (name, age, nationality, occupation) | 제 친구는 일본 사람이에요. | My friend is Japanese.
+Korean::A1::Self-introduction & basic personal information (name, age, nationality, occupation) | 저는 런던에서 왔어요. | I come from London.
+Korean::A1::Self-introduction & basic personal information (name, age, nationality, occupation) | 저는 요리사예요. | I am a chef.
+Korean::A1::Self-introduction & basic personal information (name, age, nationality, occupation) | 수진 씨는 가수예요. | Sujin is a singer.
+Korean::A1::Self-introduction & basic personal information (name, age, nationality, occupation) | 저는 대학생이에요. | I am a university student.
+Korean::A1::Self-introduction & basic personal information (name, age, nationality, occupation) | 제 직업은 엔지니어예요. | My job is engineer.
+Korean::A1::Self-introduction & basic personal information (name, age, nationality, occupation) | 저는 이 학교 학생이에요. | I am a student at this school.
+Korean::A1::Self-introduction & basic personal information (name, age, nationality, occupation) | 이것은 제 이름이에요. | This is my name.
+Korean::A1::Self-introduction & basic personal information (name, age, nationality, occupation) | 저는 한국어 선생님이 아니에요. | I am not a Korean teacher.
+Korean::A1::Self-introduction & basic personal information (name, age, nationality, occupation) | 저는 회사원이고 제 친구는 학생이에요. | I am an office worker and my friend is a student.
+Korean::A1::Self-introduction & basic personal information (name, age, nationality, occupation) | 안녕히 계세요. | Goodbye (to someone staying).
+Korean::A1::Self-introduction & basic personal information (name, age, nationality, occupation) | 안녕히 가세요. | Goodbye (to someone leaving).
+Korean::A1::Self-introduction & basic personal information (name, age, nationality, occupation) | 저는 독일 사람이에요. | I am German.
+Korean::A1::Self-introduction & basic personal information (name, age, nationality, occupation) | 저는 중국 사람이 아니에요. | I am not Chinese.
