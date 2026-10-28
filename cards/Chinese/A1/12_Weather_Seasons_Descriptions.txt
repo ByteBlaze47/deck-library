@@ -1,0 +1,36 @@
+#lang: zh -> en
+Chinese::A1::Weather, seasons & simple descriptions | 今天天气很好。 | The weather is very good today.
+Chinese::A1::Weather, seasons & simple descriptions | 今天天气不好。 | The weather is not good today.
+Chinese::A1::Weather, seasons & simple descriptions | 今天很热。 | It is very hot today.
+Chinese::A1::Weather, seasons & simple descriptions | 今天很冷。 | It is very cold today.
+Chinese::A1::Weather, seasons & simple descriptions | 今天很热，我不想出去。 | It is very hot today; I don't want to go out.
+Chinese::A1::Weather, seasons & simple descriptions | 外面下雨了。 | It has started raining outside.
+Chinese::A1::Weather, seasons & simple descriptions | 昨天下雨了。 | It rained yesterday.
+Chinese::A1::Weather, seasons & simple descriptions | 今天不下雨。 | It is not raining today.
+Chinese::A1::Weather, seasons & simple descriptions | 明天会下雪。 | It will snow tomorrow.
+Chinese::A1::Weather, seasons & simple descriptions | 今天有风。 | It is windy today.
+Chinese::A1::Weather, seasons & simple descriptions | 今天有太阳。 | It is sunny today.
+Chinese::A1::Weather, seasons & simple descriptions | 天很蓝。 | The sky is very blue.
+Chinese::A1::Weather, seasons & simple descriptions | 天阴了。 | The sky has become overcast.
+Chinese::A1::Weather, seasons & simple descriptions | 天黑了。 | It has got dark.
+Chinese::A1::Weather, seasons & simple descriptions | 天亮了。 | It has got light.
+Chinese::A1::Weather, seasons & simple descriptions | 天气太热了。 | The weather is too hot.
+Chinese::A1::Weather, seasons & simple descriptions | 春天很暖和。 | Spring is very warm.
+Chinese::A1::Weather, seasons & simple descriptions | 夏天很热。 | Summer is very hot.
+Chinese::A1::Weather, seasons & simple descriptions | 秋天很凉快。 | Autumn is nice and cool.
+Chinese::A1::Weather, seasons & simple descriptions | 冬天很冷。 | Winter is very cold.
+Chinese::A1::Weather, seasons & simple descriptions | 我最喜欢秋天。 | I like autumn best.
+Chinese::A1::Weather, seasons & simple descriptions | 北京的冬天非常冷。 | Winter in Beijing is extremely cold.
+Chinese::A1::Weather, seasons & simple descriptions | 伦敦常常下雨。 | It often rains in London.
+Chinese::A1::Weather, seasons & simple descriptions | 这儿的夏天非常热。 | Summer here is extremely hot.
+Chinese::A1::Weather, seasons & simple descriptions | 春天来了。 | Spring has come.
+Chinese::A1::Weather, seasons & simple descriptions | 天气冷了，我穿了外套。 | The weather has got cold, so I put on a coat.
+Chinese::A1::Weather, seasons & simple descriptions | 现在不热了。 | It is no longer hot now.
+Chinese::A1::Weather, seasons & simple descriptions | 今天二十度。 | It is twenty degrees today.
+Chinese::A1::Weather, seasons & simple descriptions | 今天比昨天热。 | Today is hotter than yesterday.
+Chinese::A1::Weather, seasons & simple descriptions | 明天天气怎么样？ | What will the weather be like tomorrow?
+Chinese::A1::Weather, seasons & simple descriptions | 今天天气怎么样？ | What is the weather like today?
+Chinese::A1::Weather, seasons & simple descriptions | 明天是晴天。 | Tomorrow will be a sunny day.
+Chinese::A1::Weather, seasons & simple descriptions | 今天是阴天。 | Today is an overcast day.
+Chinese::A1::Weather, seasons & simple descriptions | 雨很大。 | The rain is very heavy.
+Chinese::A1::Weather, seasons & simple descriptions | 这个季节很漂亮。 | This season is very beautiful.
