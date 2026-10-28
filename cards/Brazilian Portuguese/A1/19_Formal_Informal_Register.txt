@@ -1,0 +1,40 @@
+Brazilian Portuguese::A1::Formal vs. informal register shifts | Bom dia, o senhor deseja alguma coisa? | Good morning, sir, would you like anything?
+Brazilian Portuguese::A1::Formal vs. informal register shifts | Boa tarde, a senhora precisa de ajuda? | Good afternoon, madam, do you need help?
+Brazilian Portuguese::A1::Formal vs. informal register shifts | Como o senhor se chama? | What is your name, sir?
+Brazilian Portuguese::A1::Formal vs. informal register shifts | De onde a senhora é? | Where are you from, madam?
+Brazilian Portuguese::A1::Formal vs. informal register shifts | O senhor pode esperar um momento? | Could you wait a moment, sir?
+Brazilian Portuguese::A1::Formal vs. informal register shifts | A senhora quer um café? | Would you like a coffee, madam?
+Brazilian Portuguese::A1::Formal vs. informal register shifts | Por favor, sente-se. | Please, sit down.
+Brazilian Portuguese::A1::Formal vs. informal register shifts | Com licença, posso entrar? | Excuse me, may I come in?
+Brazilian Portuguese::A1::Formal vs. informal register shifts | Desculpe, eu não entendo. | Sorry, I do not understand.
+Brazilian Portuguese::A1::Formal vs. informal register shifts | Pode repetir, por favor? | Could you repeat that, please?
+Brazilian Portuguese::A1::Formal vs. informal register shifts | Fale mais devagar, por favor. | Speak more slowly, please.
+Brazilian Portuguese::A1::Formal vs. informal register shifts | Muito obrigado pela ajuda. | Thank you very much for your help.
+Brazilian Portuguese::A1::Formal vs. informal register shifts | Não há de quê. | Not at all.
+Brazilian Portuguese::A1::Formal vs. informal register shifts | Com prazer. | With pleasure.
+Brazilian Portuguese::A1::Formal vs. informal register shifts | Desculpe o incômodo. | Sorry for the bother.
+Brazilian Portuguese::A1::Formal vs. informal register shifts | Tudo bem? | All right?
+Brazilian Portuguese::A1::Formal vs. informal register shifts | E aí, tudo certo? | Hey, all good?
+Brazilian Portuguese::A1::Formal vs. informal register shifts | Beleza, e você? | All good, and you?
+Brazilian Portuguese::A1::Formal vs. informal register shifts | Valeu, cara! | Cheers, mate!
+Brazilian Portuguese::A1::Formal vs. informal register shifts | Fala, galera! | Hello, everyone!
+Brazilian Portuguese::A1::Formal vs. informal register shifts | Tô com fome. | I am hungry.
+Brazilian Portuguese::A1::Formal vs. informal register shifts | Eu tô cansado hoje. | I am tired today.
+Brazilian Portuguese::A1::Formal vs. informal register shifts | Cê vai pro trabalho? | Are you going to work?
+Brazilian Portuguese::A1::Formal vs. informal register shifts | Cê quer vir comigo? | Do you want to come with me?
+Brazilian Portuguese::A1::Formal vs. informal register shifts | Pra mim, tá bom. | That is fine by me.
+Brazilian Portuguese::A1::Formal vs. informal register shifts | Você pode me ajudar? | Can you help me?
+Brazilian Portuguese::A1::Formal vs. informal register shifts | O senhor pode me ajudar, por favor? | Could you help me, please, sir?
+Brazilian Portuguese::A1::Formal vs. informal register shifts | Eu gostaria de um café, por favor. | I would like a coffee, please.
+Brazilian Portuguese::A1::Formal vs. informal register shifts | Eu gostaria de falar com o gerente. | I would like to speak to the manager.
+Brazilian Portuguese::A1::Formal vs. informal register shifts | Prazer em conhecê-lo, senhor. | Pleased to meet you, sir.
+Brazilian Portuguese::A1::Formal vs. informal register shifts | Prazer em conhecê-la, senhora. | Pleased to meet you, madam.
+Brazilian Portuguese::A1::Formal vs. informal register shifts | Este é o senhor Silva. | This is Mr Silva.
+Brazilian Portuguese::A1::Formal vs. informal register shifts | Esta é a senhora Costa. | This is Mrs Costa.
+Brazilian Portuguese::A1::Formal vs. informal register shifts | Seja bem-vindo! | Welcome!
+Brazilian Portuguese::A1::Formal vs. informal register shifts | Fique à vontade. | Make yourself at home.
+Brazilian Portuguese::A1::Formal vs. informal register shifts | Aqui está o seu documento, senhor. | Here is your document, sir.
+Brazilian Portuguese::A1::Formal vs. informal register shifts | Tenha um ótimo dia, senhora. | Have a great day, madam.
+Brazilian Portuguese::A1::Formal vs. informal register shifts | Boa viagem! | Have a good trip!
+Brazilian Portuguese::A1::Formal vs. informal register shifts | Até logo, e obrigado de novo. | See you soon, and thank you again.
+Brazilian Portuguese::A1::Formal vs. informal register shifts | Com licença, eu preciso ir. | Excuse me, I need to go.
