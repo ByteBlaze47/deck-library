@@ -1,0 +1,51 @@
+#lang: zh -> en
+Chinese::A1::Daily routines & schedules (morning to evening) | 我每天早上六点半起床。 | I get up at half past six every morning.
+Chinese::A1::Daily routines & schedules (morning to evening) | 我起床以后刷牙洗脸。 | After getting up, I brush my teeth and wash my face.
+Chinese::A1::Daily routines & schedules (morning to evening) | 我七点吃早饭。 | I have breakfast at seven o'clock.
+Chinese::A1::Daily routines & schedules (morning to evening) | 我早饭吃面包和鸡蛋。 | I eat bread and eggs for breakfast.
+Chinese::A1::Daily routines & schedules (morning to evening) | 我八点去上班。 | I go to work at eight o'clock.
+Chinese::A1::Daily routines & schedules (morning to evening) | 他每天坐地铁去公司。 | He goes to the office by metro every day.
+Chinese::A1::Daily routines & schedules (morning to evening) | 她早上九点开始工作。 | She starts work at nine o'clock in the morning.
+Chinese::A1::Daily routines & schedules (morning to evening) | 我们十二点吃午饭。 | We have lunch at twelve o'clock.
+Chinese::A1::Daily routines & schedules (morning to evening) | 中午我在公司吃饭。 | At noon I eat at the office.
+Chinese::A1::Daily routines & schedules (morning to evening) | 下午我有一个会。 | I have a meeting in the afternoon.
+Chinese::A1::Daily routines & schedules (morning to evening) | 我下午五点下班。 | I finish work at five o'clock in the afternoon.
+Chinese::A1::Daily routines & schedules (morning to evening) | 下班以后我去超市买菜。 | After work I go to the supermarket to buy vegetables.
+Chinese::A1::Daily routines & schedules (morning to evening) | 我去商店买东西。 | I go to the shop to buy things.
+Chinese::A1::Daily routines & schedules (morning to evening) | 他去图书馆看书。 | He goes to the library to read.
+Chinese::A1::Daily routines & schedules (morning to evening) | 她去公园跑步。 | She goes to the park to run.
+Chinese::A1::Daily routines & schedules (morning to evening) | 我们去朋友家玩儿。 | We go to a friend's house to hang out.
+Chinese::A1::Daily routines & schedules (morning to evening) | 我晚上六点回家。 | I go home at six o'clock in the evening.
+Chinese::A1::Daily routines & schedules (morning to evening) | 我回家做饭。 | I go home and cook.
+Chinese::A1::Daily routines & schedules (morning to evening) | 我七点吃晚饭。 | I have dinner at seven o'clock.
+Chinese::A1::Daily routines & schedules (morning to evening) | 吃完晚饭，我看电视。 | After dinner, I watch television.
+Chinese::A1::Daily routines & schedules (morning to evening) | 我晚上在家看书。 | I read at home in the evening.
+Chinese::A1::Daily routines & schedules (morning to evening) | 他每天晚上给妈妈打电话。 | He phones his mum every evening.
+Chinese::A1::Daily routines & schedules (morning to evening) | 我十点洗澡。 | I have a shower at ten o'clock.
+Chinese::A1::Daily routines & schedules (morning to evening) | 我十一点睡觉。 | I go to bed at eleven o'clock.
+Chinese::A1::Daily routines & schedules (morning to evening) | 他每天早上都喝咖啡。 | He drinks coffee every morning.
+Chinese::A1::Daily routines & schedules (morning to evening) | 周末我不早起。 | I don't get up early at the weekend.
+Chinese::A1::Daily routines & schedules (morning to evening) | 今天早上我起床了。 | I got up this morning.
+Chinese::A1::Daily routines & schedules (morning to evening) | 我吃了早饭。 | I have had breakfast.
+Chinese::A1::Daily routines & schedules (morning to evening) | 他喝了一杯咖啡。 | He drank a cup of coffee.
+Chinese::A1::Daily routines & schedules (morning to evening) | 她已经下班了。 | She has already finished work.
+Chinese::A1::Daily routines & schedules (morning to evening) | 我昨天晚上看了电视。 | I watched television last night.
+Chinese::A1::Daily routines & schedules (morning to evening) | 我们昨天去了公园。 | We went to the park yesterday.
+Chinese::A1::Daily routines & schedules (morning to evening) | 他今天去了学校。 | He went to school today.
+Chinese::A1::Daily routines & schedules (morning to evening) | 我买了两本书。 | I bought two books.
+Chinese::A1::Daily routines & schedules (morning to evening) | 我洗了澡就睡觉了。 | I had a bath and then went to bed.
+Chinese::A1::Daily routines & schedules (morning to evening) | 她每天都很早到公司。 | She arrives at the office very early every day.
+Chinese::A1::Daily routines & schedules (morning to evening) | 我每天晚上都在家。 | I am at home every evening.
+Chinese::A1::Daily routines & schedules (morning to evening) | 你每天几点起床？ | What time do you get up every day?
+Chinese::A1::Daily routines & schedules (morning to evening) | 你早上吃什么？ | What do you eat in the morning?
+Chinese::A1::Daily routines & schedules (morning to evening) | 你下班以后做什么？ | What do you do after work?
+Chinese::A1::Daily routines & schedules (morning to evening) | 星期一我去上课。 | On Monday I go to class.
+Chinese::A1::Daily routines & schedules (morning to evening) | 星期六我去看电影。 | On Saturday I go to see a film.
+Chinese::A1::Daily routines & schedules (morning to evening) | 星期天我在家休息。 | On Sunday I rest at home.
+Chinese::A1::Daily routines & schedules (morning to evening) | 他每天走路去学校。 | He walks to school every day.
+Chinese::A1::Daily routines & schedules (morning to evening) | 我每天喝很多水。 | I drink a lot of water every day.
+Chinese::A1::Daily routines & schedules (morning to evening) | 我现在去上班。 | I am going to work now.
+Chinese::A1::Daily routines & schedules (morning to evening) | 他们现在去吃午饭。 | They are going to have lunch now.
+Chinese::A1::Daily routines & schedules (morning to evening) | 我今天不去上班。 | I am not going to work today.
+Chinese::A1::Daily routines & schedules (morning to evening) | 我明天早上去跑步。 | I will go running tomorrow morning.
+Chinese::A1::Daily routines & schedules (morning to evening) | 每天都一样，我很忙。 | Every day is the same; I am very busy.
