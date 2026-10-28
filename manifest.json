@@ -613,6 +613,12 @@
       "size": 7154,
       "audio_url": "audio/Spanish/A1/9- Irregular_backbone_verbs.zip",
       "audio_size": 2707848
+    },
+    {
+      "path": "cards/Brazilian Portuguese/A1/01_Greetings_Introductions.txt",
+      "name": "01_Greetings_Introductions.txt",
+      "category": "Brazilian Portuguese/A1",
+      "size": 4046
     }
   ]
 }
