@@ -1,0 +1,51 @@
+#lang: it -> en
+Italian::A1::Health, body & simple needs | Dove ti fa male? | Where does it hurt? (informal)
+Italian::A1::Health, body & simple needs | Mi fa male la testa. | I have a headache.
+Italian::A1::Health, body & simple needs | Mi fa male lo stomaco. | I have a stomach ache.
+Italian::A1::Health, body & simple needs | Mi fanno male i piedi. | My feet hurt.
+Italian::A1::Health, body & simple needs | Ti fa male la gola? | Does your throat hurt?
+Italian::A1::Health, body & simple needs | Gli fa male la schiena. | His back hurts.
+Italian::A1::Health, body & simple needs | Le fa male il braccio. | Her arm hurts.
+Italian::A1::Health, body & simple needs | Ho mal di denti. | I have toothache.
+Italian::A1::Health, body & simple needs | Ho la febbre. | I have a fever.
+Italian::A1::Health, body & simple needs | Ho la tosse. | I have a cough.
+Italian::A1::Health, body & simple needs | Ho il raffreddore. | I have a cold.
+Italian::A1::Health, body & simple needs | Sono stanco. | I'm tired. (male speaker)
+Italian::A1::Health, body & simple needs | Sono malata. | I'm ill. (female speaker)
+Italian::A1::Health, body & simple needs | Sto male. | I feel unwell.
+Italian::A1::Health, body & simple needs | Non sto bene oggi. | I'm not well today.
+Italian::A1::Health, body & simple needs | Ho bisogno di riposo. | I need rest.
+Italian::A1::Health, body & simple needs | Hai bisogno di un medico? | Do you need a doctor?
+Italian::A1::Health, body & simple needs | Abbiamo bisogno di aiuto. | We need help.
+Italian::A1::Health, body & simple needs | Ho bisogno di una medicina. | I need some medicine.
+Italian::A1::Health, body & simple needs | Devi andare dal dottore. | You have to go to the doctor. (informal)
+Italian::A1::Health, body & simple needs | Deve bere molta acqua. | You must drink a lot of water. (formal)
+Italian::A1::Health, body & simple needs | Dovete riposare. | You must rest. (plural)
+Italian::A1::Health, body & simple needs | Devo prendere la medicina. | I have to take the medicine.
+Italian::A1::Health, body & simple needs | Questo è il mio braccio. | This is my arm.
+Italian::A1::Health, body & simple needs | Ecco la mia mano. | Here is my hand.
+Italian::A1::Health, body & simple needs | Ho le mani fredde. | My hands are cold.
+Italian::A1::Health, body & simple needs | Alza il tuo braccio. | Raise your arm. (informal)
+Italian::A1::Health, body & simple needs | Il suo naso è piccolo. | His nose is small.
+Italian::A1::Health, body & simple needs | I suoi occhi sono belli. | Her eyes are beautiful.
+Italian::A1::Health, body & simple needs | Le sue gambe sono lunghe. | Her legs are long.
+Italian::A1::Health, body & simple needs | La sua bocca è rossa. | Her mouth is red.
+Italian::A1::Health, body & simple needs | I nostri piedi sono sporchi. | Our feet are dirty.
+Italian::A1::Health, body & simple needs | Le vostre orecchie sono piccole. | Your ears are small. (plural)
+Italian::A1::Health, body & simple needs | Il loro dottore è bravo. | Their doctor is good.
+Italian::A1::Health, body & simple needs | La mia testa è pesante. | My head is heavy.
+Italian::A1::Health, body & simple needs | Mi aiuti, per favore? | Can you help me, please? (informal)
+Italian::A1::Health, body & simple needs | Ti chiamo il medico. | I'll call the doctor for you.
+Italian::A1::Health, body & simple needs | Non ti sento bene. | I can't hear you well.
+Italian::A1::Health, body & simple needs | Mi senti? | Can you hear me?
+Italian::A1::Health, body & simple needs | Gli do una medicina. | I give him a medicine.
+Italian::A1::Health, body & simple needs | Le do dell'acqua. | I give her some water.
+Italian::A1::Health, body & simple needs | Ti porto un tè caldo. | I'll bring you a hot tea.
+Italian::A1::Health, body & simple needs | Mi dà un appuntamento, dottore? | Can you give me an appointment, doctor? (formal)
+Italian::A1::Health, body & simple needs | La farmacia è aperta fino alle otto. | The pharmacy is open until eight.
+Italian::A1::Health, body & simple needs | Prendo una pastiglia due volte al giorno. | I take a tablet twice a day.
+Italian::A1::Health, body & simple needs | Ho allergia ai gatti. | I'm allergic to cats.
+Italian::A1::Health, body & simple needs | Non ho dolore. | I'm not in pain.
+Italian::A1::Health, body & simple needs | Ho dolore alla gamba. | I have pain in my leg.
+Italian::A1::Health, body & simple needs | Sto meglio, grazie. | I feel better, thank you.
+Italian::A1::Health, body & simple needs | Guarisci presto! | Get well soon! (informal)
