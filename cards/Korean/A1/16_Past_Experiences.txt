@@ -1,0 +1,51 @@
+#lang: ko -> en
+Korean::A1::Past experiences (yesterday, last weekend) | 저는 어제 학교에 갔어요. | I went to school yesterday.
+Korean::A1::Past experiences (yesterday, last weekend) | 저는 어제 친구를 만났어요. | I met a friend yesterday.
+Korean::A1::Past experiences (yesterday, last weekend) | 저는 어제 영화를 봤어요. | I watched a film yesterday.
+Korean::A1::Past experiences (yesterday, last weekend) | 저는 어제 집에서 쉬었어요. | I rested at home yesterday.
+Korean::A1::Past experiences (yesterday, last weekend) | 저는 어제 일하지 않았어요. | I did not work yesterday.
+Korean::A1::Past experiences (yesterday, last weekend) | 저는 어제 저녁에 요리했어요. | I cooked yesterday evening.
+Korean::A1::Past experiences (yesterday, last weekend) | 저는 지난주에 부산에 갔어요. | I went to Busan last week.
+Korean::A1::Past experiences (yesterday, last weekend) | 저는 지난 주말에 등산했어요. | I went hiking last weekend.
+Korean::A1::Past experiences (yesterday, last weekend) | 저는 지난달에 이사했어요. | I moved last month.
+Korean::A1::Past experiences (yesterday, last weekend) | 저는 작년에 한국에 왔어요. | I came to Korea last year.
+Korean::A1::Past experiences (yesterday, last weekend) | 저는 그저께 시장에 갔어요. | I went to the market the day before yesterday.
+Korean::A1::Past experiences (yesterday, last weekend) | 저는 오늘 아침에 커피를 마셨어요. | I drank coffee this morning.
+Korean::A1::Past experiences (yesterday, last weekend) | 저는 아침에 늦게 일어났어요. | I got up late in the morning.
+Korean::A1::Past experiences (yesterday, last weekend) | 저는 어제 열 시에 잤어요. | I went to bed at ten yesterday.
+Korean::A1::Past experiences (yesterday, last weekend) | 저는 어제 한국어를 공부했어요. | I studied Korean yesterday.
+Korean::A1::Past experiences (yesterday, last weekend) | 저는 어젯밤에 책을 읽었어요. | I read a book last night.
+Korean::A1::Past experiences (yesterday, last weekend) | 저는 지난 토요일에 쇼핑했어요. | I went shopping last Saturday.
+Korean::A1::Past experiences (yesterday, last weekend) | 저는 지난 일요일에 교회에 갔어요. | I went to church last Sunday.
+Korean::A1::Past experiences (yesterday, last weekend) | 저는 어제 비빔밥을 먹었어요. | I ate bibimbap yesterday.
+Korean::A1::Past experiences (yesterday, last weekend) | 저는 어제 택시를 탔어요. | I took a taxi yesterday.
+Korean::A1::Past experiences (yesterday, last weekend) | 저는 오늘 일찍 일어났어요. | I got up early today.
+Korean::A1::Past experiences (yesterday, last weekend) | 어제 뭐 했어요? | What did you do yesterday?
+Korean::A1::Past experiences (yesterday, last weekend) | 지난 주말에 뭐 했어요? | What did you do last weekend?
+Korean::A1::Past experiences (yesterday, last weekend) | 어디에 갔어요? | Where did you go?
+Korean::A1::Past experiences (yesterday, last weekend) | 누구를 만났어요? | Who did you meet?
+Korean::A1::Past experiences (yesterday, last weekend) | 저는 친구와 같이 갔어요. | I went with a friend.
+Korean::A1::Past experiences (yesterday, last weekend) | 저는 혼자 갔어요. | I went alone.
+Korean::A1::Past experiences (yesterday, last weekend) | 어제는 날씨가 좋았어요. | The weather was nice yesterday.
+Korean::A1::Past experiences (yesterday, last weekend) | 어제는 비가 왔어요. | It rained yesterday.
+Korean::A1::Past experiences (yesterday, last weekend) | 지난주는 아주 바빴어요. | Last week was very busy.
+Korean::A1::Past experiences (yesterday, last weekend) | 영화가 재미있었어요. | The film was interesting.
+Korean::A1::Past experiences (yesterday, last weekend) | 음식이 맛있었어요. | The food was delicious.
+Korean::A1::Past experiences (yesterday, last weekend) | 시험이 어려웠어요. | The exam was difficult.
+Korean::A1::Past experiences (yesterday, last weekend) | 저는 어제 피곤했어요. | I was tired yesterday.
+Korean::A1::Past experiences (yesterday, last weekend) | 저는 어렸을 때 서울에 살았어요. | I lived in Seoul when I was young.
+Korean::A1::Past experiences (yesterday, last weekend) | 저는 어제 집에 있었어요. | I was at home yesterday.
+Korean::A1::Past experiences (yesterday, last weekend) | 저는 어제 숙제를 했어요. | I did my homework yesterday.
+Korean::A1::Past experiences (yesterday, last weekend) | 저는 어제 샤워하고 잤어요. | I took a shower and went to bed yesterday.
+Korean::A1::Past experiences (yesterday, last weekend) | 저는 어제 친구를 만나고 영화를 봤어요. | I met a friend and watched a film yesterday.
+Korean::A1::Past experiences (yesterday, last weekend) | 저는 지난주에 감기에 걸렸어요. | I caught a cold last week.
+Korean::A1::Past experiences (yesterday, last weekend) | 저는 어제 병원에 갔어요. | I went to the hospital yesterday.
+Korean::A1::Past experiences (yesterday, last weekend) | 저는 이틀 전에 도착했어요. | I arrived two days ago.
+Korean::A1::Past experiences (yesterday, last weekend) | 저는 삼 년 전에 한국어를 배웠어요. | I learned Korean three years ago.
+Korean::A1::Past experiences (yesterday, last weekend) | 저는 방금 집에 왔어요. | I have just come home.
+Korean::A1::Past experiences (yesterday, last weekend) | 저는 아까 점심을 먹었어요. | I had lunch a little while ago.
+Korean::A1::Past experiences (yesterday, last weekend) | 어제 저는 사진을 많이 찍었어요. | I took many photos yesterday.
+Korean::A1::Past experiences (yesterday, last weekend) | 저는 주말에 청소했어요. | I cleaned at the weekend.
+Korean::A1::Past experiences (yesterday, last weekend) | 저는 어제 선물을 샀어요. | I bought a present yesterday.
+Korean::A1::Past experiences (yesterday, last weekend) | 저는 지난 여름에 바다에 갔어요. | I went to the seaside last summer.
+Korean::A1::Past experiences (yesterday, last weekend) | 어제 우리는 같이 저녁을 먹었어요. | We had dinner together yesterday.
