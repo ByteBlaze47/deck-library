@@ -1,0 +1,51 @@
+#lang: it -> en
+Italian::A1::Food, drink & simple preferences | Mangio una mela. | I eat an apple.
+Italian::A1::Food, drink & simple preferences | Bevo un bicchiere d'acqua. | I drink a glass of water.
+Italian::A1::Food, drink & simple preferences | Mi piace il caffè. | I like coffee.
+Italian::A1::Food, drink & simple preferences | Non mi piace il tè. | I don't like tea.
+Italian::A1::Food, drink & simple preferences | Ti piace la pizza? | Do you like pizza?
+Italian::A1::Food, drink & simple preferences | Ti piacciono gli spaghetti? | Do you like spaghetti?
+Italian::A1::Food, drink & simple preferences | Sì, mi piacciono molto. | Yes, I like them a lot.
+Italian::A1::Food, drink & simple preferences | A Marco piace il formaggio. | Marco likes cheese.
+Italian::A1::Food, drink & simple preferences | A Giulia piacciono i dolci. | Giulia likes sweets.
+Italian::A1::Food, drink & simple preferences | Gli piace la carne. | He likes meat.
+Italian::A1::Food, drink & simple preferences | Le piace il pesce. | She likes fish.
+Italian::A1::Food, drink & simple preferences | Prendo del pane. | I'm having some bread.
+Italian::A1::Food, drink & simple preferences | Compro dell'acqua e del latte. | I buy some water and some milk.
+Italian::A1::Food, drink & simple preferences | Mangio della frutta ogni giorno. | I eat some fruit every day.
+Italian::A1::Food, drink & simple preferences | Beviamo del vino rosso. | We drink some red wine.
+Italian::A1::Food, drink & simple preferences | Metto un po' di zucchero nel caffè. | I put a little sugar in my coffee.
+Italian::A1::Food, drink & simple preferences | Mangio poco la mattina. | I eat little in the morning.
+Italian::A1::Food, drink & simple preferences | Mangio tanto a pranzo. | I eat a lot at lunch.
+Italian::A1::Food, drink & simple preferences | C'è tanta pasta. | There is a lot of pasta.
+Italian::A1::Food, drink & simple preferences | Ci sono pochi biscotti. | There are few biscuits.
+Italian::A1::Food, drink & simple preferences | Vendono pane fresco qui. | They sell fresh bread here.
+Italian::A1::Food, drink & simple preferences | Scrivo la lista della spesa. | I write the shopping list.
+Italian::A1::Food, drink & simple preferences | Mio padre vende frutta al mercato. | My father sells fruit at the market.
+Italian::A1::Food, drink & simple preferences | Preferisco il tè al limone. | I prefer lemon tea.
+Italian::A1::Food, drink & simple preferences | Preferite la carne o il pesce? | Do you prefer meat or fish? (plural)
+Italian::A1::Food, drink & simple preferences | Finisco la zuppa. | I finish the soup.
+Italian::A1::Food, drink & simple preferences | Capisco il menu. | I understand the menu.
+Italian::A1::Food, drink & simple preferences | Pulisco la cucina dopo cena. | I clean the kitchen after dinner.
+Italian::A1::Food, drink & simple preferences | Apriamo una bottiglia di acqua. | We open a bottle of water.
+Italian::A1::Food, drink & simple preferences | Mangiamo insieme stasera. | We're eating together tonight.
+Italian::A1::Food, drink & simple preferences | Chiedo un bicchiere di latte. | I ask for a glass of milk.
+Italian::A1::Food, drink & simple preferences | Il pane è buono. | The bread is good.
+Italian::A1::Food, drink & simple preferences | La minestra è calda. | The soup is hot.
+Italian::A1::Food, drink & simple preferences | Il gelato è freddo. | The ice cream is cold.
+Italian::A1::Food, drink & simple preferences | Le verdure sono fresche. | The vegetables are fresh.
+Italian::A1::Food, drink & simple preferences | Gli spaghetti sono troppo salati. | The spaghetti is too salty.
+Italian::A1::Food, drink & simple preferences | Mi piace mangiare fuori. | I like eating out.
+Italian::A1::Food, drink & simple preferences | Non mi piace cucinare. | I don't like cooking.
+Italian::A1::Food, drink & simple preferences | Mi piace bere il tè caldo. | I like drinking hot tea.
+Italian::A1::Food, drink & simple preferences | Faccio colazione con latte e biscotti. | I have breakfast with milk and biscuits.
+Italian::A1::Food, drink & simple preferences | Mangi la carne? | Do you eat meat? (informal)
+Italian::A1::Food, drink & simple preferences | No, sono vegetariana. | No, I'm vegetarian. (female speaker)
+Italian::A1::Food, drink & simple preferences | Mia sorella non mangia uova. | My sister doesn't eat eggs.
+Italian::A1::Food, drink & simple preferences | Ci piace la cucina italiana. | We like Italian cuisine.
+Italian::A1::Food, drink & simple preferences | Vi piacciono le lasagne? | Do you like lasagne? (plural)
+Italian::A1::Food, drink & simple preferences | A loro piace la frutta. | They like fruit.
+Italian::A1::Food, drink & simple preferences | Compriamo delle mele e delle arance. | We buy some apples and some oranges.
+Italian::A1::Food, drink & simple preferences | Ho fame. | I'm hungry.
+Italian::A1::Food, drink & simple preferences | Ho sete. | I'm thirsty.
+Italian::A1::Food, drink & simple preferences | Ho molta fame, ma poca sete. | I'm very hungry, but not very thirsty.
