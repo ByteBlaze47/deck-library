@@ -1,0 +1,61 @@
+#lang: ru -> en
+Russian::A1::Mixed review & cumulative integration | Здравствуйте, меня зовут Дмитрий, я врач из Казани. | Hello, my name is Dmitry, I'm a doctor from Kazan.
+Russian::A1::Mixed review & cumulative integration | Вы не подскажете, где находится ближайшая аптека? | Could you tell me where the nearest chemist's is?
+Russian::A1::Mixed review & cumulative integration | Аптека находится на углу, рядом с банком. | The chemist's is on the corner, next to the bank.
+Russian::A1::Mixed review & cumulative integration | Мне нужны таблетки от головной боли. | I need tablets for a headache.
+Russian::A1::Mixed review & cumulative integration | У вас есть что-нибудь от кашля? | Do you have anything for a cough?
+Russian::A1::Mixed review & cumulative integration | Сколько это стоит? — Двести пятьдесят рублей. | How much is it? — Two hundred and fifty roubles.
+Russian::A1::Mixed review & cumulative integration | Я заплачу картой, можно? | I'll pay by card, may I?
+Russian::A1::Mixed review & cumulative integration | Вчера мы с Антоном ходили в кино на новый фильм. | Yesterday Anton and I went to the cinema to see a new film.
+Russian::A1::Mixed review & cumulative integration | Фильм мне не понравился, но Антону очень понравился. | I didn't like the film but Anton liked it a lot.
+Russian::A1::Mixed review & cumulative integration | Завтра я встречусь с подругой в кафе у вокзала. | Tomorrow I'll meet a friend at the café by the station.
+Russian::A1::Mixed review & cumulative integration | Моя подруга Лена работает переводчицей в большой компании. | My friend Lena works as a translator in a big company.
+Russian::A1::Mixed review & cumulative integration | У неё есть муж и двое маленьких детей. | She has a husband and two small children.
+Russian::A1::Mixed review & cumulative integration | Дети ходят в детский сад рядом с домом. | The children go to a nursery near their home.
+Russian::A1::Mixed review & cumulative integration | Её муж инженер, он часто ездит в командировки. | Her husband is an engineer, he often goes on business trips.
+Russian::A1::Mixed review & cumulative integration | Сейчас он в Новосибирске, а вернётся в пятницу. | Now he is in Novosibirsk and will return on Friday.
+Russian::A1::Mixed review & cumulative integration | Она очень скучает по нему, но не жалуется. | She misses him a lot but doesn't complain.
+Russian::A1::Mixed review & cumulative integration | Я хочу заказать суп, салат и стакан сока. | I want to order soup, a salad and a glass of juice.
+Russian::A1::Mixed review & cumulative integration | Нам, пожалуйста, меню на английском языке. | A menu in English for us, please.
+Russian::A1::Mixed review & cumulative integration | Мы возьмём два чая без сахара и один кофе с молоком. | We'll have two teas without sugar and one coffee with milk.
+Russian::A1::Mixed review & cumulative integration | Всё было очень вкусно, спасибо большое. | Everything was very tasty, thank you very much.
+Russian::A1::Mixed review & cumulative integration | Принесите счёт, пожалуйста. | Bring the bill, please.
+Russian::A1::Mixed review & cumulative integration | Простите, вы не знаете, который час? | Excuse me, do you know what time it is?
+Russian::A1::Mixed review & cumulative integration | Сейчас без пятнадцати два. | It's a quarter to two.
+Russian::A1::Mixed review & cumulative integration | Мне нужно успеть на поезд в три часа. | I need to catch the three o'clock train.
+Russian::A1::Mixed review & cumulative integration | Вокзал далеко, поэтому я поеду на такси. | The station is far, so I'll take a taxi.
+Russian::A1::Mixed review & cumulative integration | Поезд прибывает на второй путь. | The train is arriving at platform two.
+Russian::A1::Mixed review & cumulative integration | Я купил билет в один конец. | I bought a one-way ticket. (male)
+Russian::A1::Mixed review & cumulative integration | Где мне сесть на автобус до аэропорта? | Where can I catch the bus to the airport?
+Russian::A1::Mixed review & cumulative integration | Автобус отходит от остановки напротив гостиницы. | The bus leaves from the stop opposite the hotel.
+Russian::A1::Mixed review & cumulative integration | В субботу мы едем к бабушке в деревню. | On Saturday we're going to Grandma's in the village.
+Russian::A1::Mixed review & cumulative integration | Там у неё большой дом с садом. | She has a big house with a garden there.
+Russian::A1::Mixed review & cumulative integration | Летом в саду растут яблоки и помидоры. | In summer apples and tomatoes grow in the garden.
+Russian::A1::Mixed review & cumulative integration | Зимой там тихо и очень холодно. | In winter it's quiet and very cold there.
+Russian::A1::Mixed review & cumulative integration | Я люблю бабушкин дом, потому что там тепло и уютно. | I love Grandma's house because it's warm and cosy there.
+Russian::A1::Mixed review & cumulative integration | Мой отец любит рыбалку, а мать любит читать. | My father likes fishing and my mother likes reading.
+Russian::A1::Mixed review & cumulative integration | Мне двадцать восемь лет, а моему брату пятнадцать. | I'm twenty-eight and my brother is fifteen.
+Russian::A1::Mixed review & cumulative integration | Он ходит в школу и занимается футболом. | He goes to school and plays football.
+Russian::A1::Mixed review & cumulative integration | Его учительница говорит, что он умный мальчик. | His teacher says he's a clever boy.
+Russian::A1::Mixed review & cumulative integration | Сегодня я встал рано, потому что у меня был важный день. | Today I got up early because I had an important day. (male)
+Russian::A1::Mixed review & cumulative integration | Я выпил кофе, съел бутерброд и поехал на работу. | I drank coffee, ate a sandwich and went to work. (male)
+Russian::A1::Mixed review & cumulative integration | На работе я написал письмо клиенту и позвонил начальнику. | At work I wrote a letter to a client and phoned my boss.
+Russian::A1::Mixed review & cumulative integration | В обед я пошёл в столовую с коллегой. | At lunchtime I went to the canteen with a colleague.
+Russian::A1::Mixed review & cumulative integration | Вечером я вернулся домой и приготовил ужин. | In the evening I returned home and cooked dinner.
+Russian::A1::Mixed review & cumulative integration | После ужина мы с женой посмотрели телевизор. | After dinner my wife and I watched television.
+Russian::A1::Mixed review & cumulative integration | Потом я позвонил родителям и рассказал о своём дне. | Then I phoned my parents and told them about my day.
+Russian::A1::Mixed review & cumulative integration | Мне пора ложиться спать, завтра рано вставать. | It's time for me to go to bed, I have to get up early tomorrow.
+Russian::A1::Mixed review & cumulative integration | Спокойной ночи, до завтра! | Good night, see you tomorrow!
+Russian::A1::Mixed review & cumulative integration | Извините, я опоздал. Автобус пришёл поздно. | Sorry, I'm late. The bus came late. (male)
+Russian::A1::Mixed review & cumulative integration | Ничего страшного, проходите, пожалуйста. | It doesn't matter, please come in.
+Russian::A1::Mixed review & cumulative integration | Садитесь, вот ваше место. | Sit down, here is your seat.
+Russian::A1::Mixed review & cumulative integration | Откройте книги на странице десять. | Open your books at page ten.
+Russian::A1::Mixed review & cumulative integration | Повторите, пожалуйста, это слово. | Please repeat this word.
+Russian::A1::Mixed review & cumulative integration | Как это сказать по-русски? | How do you say this in Russian?
+Russian::A1::Mixed review & cumulative integration | Я ещё плохо говорю, но очень хочу учиться. | I don't speak well yet but I very much want to learn.
+Russian::A1::Mixed review & cumulative integration | Вы очень хорошо говорите по-русски! | You speak Russian very well!
+Russian::A1::Mixed review & cumulative integration | Спасибо, вы очень добры. | Thank you, you're very kind.
+Russian::A1::Mixed review & cumulative integration | Я рад, что мы познакомились. | I'm glad we've met. (male)
+Russian::A1::Mixed review & cumulative integration | Давайте встретимся ещё раз на следующей неделе. | Let's meet again next week.
+Russian::A1::Mixed review & cumulative integration | Я позвоню вам, когда буду свободен. | I'll call you when I'm free.
+Russian::A1::Mixed review & cumulative integration | Всего доброго, и до скорой встречи! | All the best, and see you soon!
