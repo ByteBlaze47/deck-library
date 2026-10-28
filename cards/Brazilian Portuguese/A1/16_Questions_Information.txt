@@ -1,0 +1,40 @@
+Brazilian Portuguese::A1::Questions & information exchange | O que é isso? | What is this?
+Brazilian Portuguese::A1::Questions & information exchange | O que você quer? | What do you want?
+Brazilian Portuguese::A1::Questions & information exchange | Quem é aquele homem? | Who is that man?
+Brazilian Portuguese::A1::Questions & information exchange | Quem são eles? | Who are they?
+Brazilian Portuguese::A1::Questions & information exchange | Onde você mora? | Where do you live?
+Brazilian Portuguese::A1::Questions & information exchange | Onde ela trabalha? | Where does she work?
+Brazilian Portuguese::A1::Questions & information exchange | Quando é a reunião? | When is the meeting?
+Brazilian Portuguese::A1::Questions & information exchange | Quando vocês chegam? | When do you arrive?
+Brazilian Portuguese::A1::Questions & information exchange | Como você vai ao trabalho? | How do you get to work?
+Brazilian Portuguese::A1::Questions & information exchange | Como está a sua família? | How is your family?
+Brazilian Portuguese::A1::Questions & information exchange | Por que você estuda português? | Why do you study Portuguese?
+Brazilian Portuguese::A1::Questions & information exchange | Porque eu quero viajar pro Brasil. | Because I want to travel to Brazil.
+Brazilian Portuguese::A1::Questions & information exchange | Qual é o seu livro favorito? | What is your favourite book?
+Brazilian Portuguese::A1::Questions & information exchange | Quais são os seus planos? | What are your plans?
+Brazilian Portuguese::A1::Questions & information exchange | Quanto custa o ingresso? | How much is the ticket?
+Brazilian Portuguese::A1::Questions & information exchange | Quantos irmãos você tem? | How many brothers and sisters do you have?
+Brazilian Portuguese::A1::Questions & information exchange | Quantas horas você trabalha? | How many hours do you work?
+Brazilian Portuguese::A1::Questions & information exchange | Você fala inglês? | Do you speak English?
+Brazilian Portuguese::A1::Questions & information exchange | Você é de São Paulo? | Are you from São Paulo?
+Brazilian Portuguese::A1::Questions & information exchange | Ela mora aqui? | Does she live here?
+Brazilian Portuguese::A1::Questions & information exchange | Eles são seus amigos? | Are they your friends?
+Brazilian Portuguese::A1::Questions & information exchange | Tem alguma pergunta? | Is there any question?
+Brazilian Portuguese::A1::Questions & information exchange | Você sabe onde ela está? | Do you know where she is?
+Brazilian Portuguese::A1::Questions & information exchange | Você sabe que horas são? | Do you know what time it is?
+Brazilian Portuguese::A1::Questions & information exchange | Você sabe quem é ele? | Do you know who he is?
+Brazilian Portuguese::A1::Questions & information exchange | Eu não sei quando ela chega. | I do not know when she arrives.
+Brazilian Portuguese::A1::Questions & information exchange | Eu quero saber onde fica o hotel. | I want to know where the hotel is.
+Brazilian Portuguese::A1::Questions & information exchange | Pode me dizer como se chama isso? | Can you tell me what this is called?
+Brazilian Portuguese::A1::Questions & information exchange | O senhor mora aqui? | Do you live here, sir?
+Brazilian Portuguese::A1::Questions & information exchange | A senhora é a professora? | Are you the teacher, madam?
+Brazilian Portuguese::A1::Questions & information exchange | Com quem você mora? | Who do you live with?
+Brazilian Portuguese::A1::Questions & information exchange | Eu moro com os meus pais. | I live with my parents.
+Brazilian Portuguese::A1::Questions & information exchange | Para quem é este presente? | Who is this present for?
+Brazilian Portuguese::A1::Questions & information exchange | De quem é este livro? | Whose book is this?
+Brazilian Portuguese::A1::Questions & information exchange | É da minha irmã. | It is my sister's.
+Brazilian Portuguese::A1::Questions & information exchange | Em que cidade você mora? | Which city do you live in?
+Brazilian Portuguese::A1::Questions & information exchange | Qual é a sua cor favorita? | What is your favourite colour?
+Brazilian Portuguese::A1::Questions & information exchange | Qual você prefere, o azul ou o verde? | Which do you prefer, the blue one or the green one?
+Brazilian Portuguese::A1::Questions & information exchange | O que você faz nos fins de semana? | What do you do at weekends?
+Brazilian Portuguese::A1::Questions & information exchange | Por que você está triste? | Why are you sad?
