@@ -1,0 +1,46 @@
+#lang: ko -> en
+Korean::A1::Transportation & getting around | 저는 버스로 학교에 가요. | I go to school by bus.
+Korean::A1::Transportation & getting around | 저는 지하철로 회사에 가요. | I go to work by underground.
+Korean::A1::Transportation & getting around | 저는 택시로 집에 가요. | I go home by taxi.
+Korean::A1::Transportation & getting around | 저는 자전거로 공원에 가요. | I go to the park by bicycle.
+Korean::A1::Transportation & getting around | 저는 걸어서 학교에 가요. | I walk to school.
+Korean::A1::Transportation & getting around | 저는 기차로 부산에 가요. | I go to Busan by train.
+Korean::A1::Transportation & getting around | 저는 비행기로 제주도에 가요. | I go to Jeju Island by plane.
+Korean::A1::Transportation & getting around | 내일 버스를 탈 거예요. | I will take the bus tomorrow.
+Korean::A1::Transportation & getting around | 내일 지하철을 탈 거예요. | I will take the underground tomorrow.
+Korean::A1::Transportation & getting around | 저는 택시를 안 탈 거예요. | I will not take a taxi.
+Korean::A1::Transportation & getting around | 저는 내일 서울에 갈 거예요. | I will go to Seoul tomorrow.
+Korean::A1::Transportation & getting around | 저는 주말에 부산에 갈 거예요. | I will go to Busan at the weekend.
+Korean::A1::Transportation & getting around | 저는 다음 주에 대구에 갈 거예요. | I will go to Daegu next week.
+Korean::A1::Transportation & getting around | 어디에 갈 거예요? | Where will you go?
+Korean::A1::Transportation & getting around | 어떻게 가요? | How do you get there?
+Korean::A1::Transportation & getting around | 뭐로 가요? | What do you go by?
+Korean::A1::Transportation & getting around | 버스 정류장은 어디예요? | Where is the bus stop?
+Korean::A1::Transportation & getting around | 지하철역은 어디예요? | Where is the underground station?
+Korean::A1::Transportation & getting around | 이 버스는 시청에 가요? | Does this bus go to City Hall?
+Korean::A1::Transportation & getting around | 네, 시청에 가요. | Yes, it goes to City Hall.
+Korean::A1::Transportation & getting around | 아니요, 시청에 안 가요. | No, it does not go to City Hall.
+Korean::A1::Transportation & getting around | 이 지하철은 강남에 가요. | This underground train goes to Gangnam.
+Korean::A1::Transportation & getting around | 몇 번 버스를 타요? | Which number bus do you take?
+Korean::A1::Transportation & getting around | 이백 번 버스를 타세요. | Please take bus number 200.
+Korean::A1::Transportation & getting around | 여기에서 내려요. | I get off here.
+Korean::A1::Transportation & getting around | 다음 역에서 내릴 거예요. | I will get off at the next station.
+Korean::A1::Transportation & getting around | 이번 역은 서울역이에요. | This station is Seoul Station.
+Korean::A1::Transportation & getting around | 다음 역은 명동이에요. | The next station is Myeongdong.
+Korean::A1::Transportation & getting around | 갈아타야 해요. | I have to change.
+Korean::A1::Transportation & getting around | 이 호선으로 갈아타세요. | Please change to Line 2.
+Korean::A1::Transportation & getting around | 택시를 타고 가요. | I go by taxi.
+Korean::A1::Transportation & getting around | 기사님, 공항에 가 주세요. | Driver, please take me to the airport.
+Korean::A1::Transportation & getting around | 여기에서 세워 주세요. | Please stop here.
+Korean::A1::Transportation & getting around | 서울역까지 얼마나 걸려요? | How long does it take to Seoul Station?
+Korean::A1::Transportation & getting around | 삼십 분쯤 걸려요. | It takes about thirty minutes.
+Korean::A1::Transportation & getting around | 버스가 빨리 와요. | The bus comes quickly.
+Korean::A1::Transportation & getting around | 지하철이 느려요. | The underground is slow.
+Korean::A1::Transportation & getting around | 기차표는 얼마예요? | How much is the train ticket?
+Korean::A1::Transportation & getting around | 표를 한 장 주세요. | One ticket, please.
+Korean::A1::Transportation & getting around | 저는 교통카드가 있어요. | I have a transport card.
+Korean::A1::Transportation & getting around | 교통카드를 충전할 거예요. | I will top up my transport card.
+Korean::A1::Transportation & getting around | 오늘은 걸어서 갈 거예요. | I will walk today.
+Korean::A1::Transportation & getting around | 저는 매일 지하철로 학교에 가요. | I go to school by underground every day.
+Korean::A1::Transportation & getting around | 저는 내일 친구를 만나러 갈 거예요. | I am going to meet a friend tomorrow.
+Korean::A1::Transportation & getting around | 저는 공항에 갈 거예요. | I am going to the airport.
