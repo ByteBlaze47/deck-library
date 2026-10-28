@@ -1,0 +1,41 @@
+#lang: ru -> en
+Russian::A1::Leisure, hobbies & free time | Что вы любите делать в свободное время? | What do you like to do in your free time?
+Russian::A1::Leisure, hobbies & free time | Я люблю читать и слушать музыку. | I like reading and listening to music.
+Russian::A1::Leisure, hobbies & free time | Он играет в футбол. | He plays football.
+Russian::A1::Leisure, hobbies & free time | Она играет на гитаре. | She plays the guitar.
+Russian::A1::Leisure, hobbies & free time | Мы смотрим фильм два часа. | We watch a film for two hours.
+Russian::A1::Leisure, hobbies & free time | Я читал книгу всю неделю. | I read the book all week. (male)
+Russian::A1::Leisure, hobbies & free time | Мы отдыхали три дня. | We rested for three days.
+Russian::A1::Leisure, hobbies & free time | Я занимаюсь спортом каждую субботу. | I do sport every Saturday.
+Russian::A1::Leisure, hobbies & free time | Он увлекается фотографией. | He is keen on photography.
+Russian::A1::Leisure, hobbies & free time | Она интересуется музыкой. | She is interested in music.
+Russian::A1::Leisure, hobbies & free time | Я занимаюсь танцами. | I do dancing.
+Russian::A1::Leisure, hobbies & free time | Я хожу в бассейн. | I go to the swimming pool.
+Russian::A1::Leisure, hobbies & free time | Мы идём в кино в пятницу. | We are going to the cinema on Friday.
+Russian::A1::Leisure, hobbies & free time | Мой день рождения — пятого мая. | My birthday is on the fifth of May.
+Russian::A1::Leisure, hobbies & free time | Сегодня первое сентября. | Today is the first of September.
+Russian::A1::Leisure, hobbies & free time | Концерт будет десятого июня. | The concert will be on the tenth of June.
+Russian::A1::Leisure, hobbies & free time | Какое сегодня число? | What's the date today?
+Russian::A1::Leisure, hobbies & free time | Сегодня двадцатое октября. | Today is the twentieth of October.
+Russian::A1::Leisure, hobbies & free time | В январе мы едем в горы. | In January we are going to the mountains.
+Russian::A1::Leisure, hobbies & free time | Я люблю гулять в парке и кормить птиц. | I like walking in the park and feeding the birds.
+Russian::A1::Leisure, hobbies & free time | Мы с друзьями ходим в кафе. | My friends and I go to cafés.
+Russian::A1::Leisure, hobbies & free time | Он собирает марки и монеты. | He collects stamps and coins.
+Russian::A1::Leisure, hobbies & free time | Она рисует и поёт. | She draws and sings.
+Russian::A1::Leisure, hobbies & free time | Я скучаю по друзьям. | I miss my friends.
+Russian::A1::Leisure, hobbies & free time | Я жду выходных. | I'm waiting for the weekend.
+Russian::A1::Leisure, hobbies & free time | Мы думаем о поездке. | We are thinking about a trip.
+Russian::A1::Leisure, hobbies & free time | Они говорят о футболе. | They are talking about football.
+Russian::A1::Leisure, hobbies & free time | Я мечтаю о путешествии. | I dream of a journey.
+Russian::A1::Leisure, hobbies & free time | Он спрашивает о цене. | He asks about the price.
+Russian::A1::Leisure, hobbies & free time | Мы много играем в шахматы. | We play chess a lot.
+Russian::A1::Leisure, hobbies & free time | Я готовлю пирог на выходные. | I'm baking a pie for the weekend.
+Russian::A1::Leisure, hobbies & free time | Вечером я смотрю сериалы. | In the evening I watch series.
+Russian::A1::Leisure, hobbies & free time | Давайте проведём неделю в горах. | Let's spend a week in the mountains.
+Russian::A1::Leisure, hobbies & free time | Моя сестра танцует и поёт. | My sister dances and sings.
+Russian::A1::Leisure, hobbies & free time | Мы любим кино и театр. | We like cinema and theatre.
+Russian::A1::Leisure, hobbies & free time | Я встретился с другом. | I met a friend. (male)
+Russian::A1::Leisure, hobbies & free time | Мы весь день отдыхали у моря. | We relaxed by the sea all day.
+Russian::A1::Leisure, hobbies & free time | Он учился играть на пианино полгода. | He learned to play the piano for half a year.
+Russian::A1::Leisure, hobbies & free time | На выходных я ничего не делаю. | At the weekend I do nothing.
+Russian::A1::Leisure, hobbies & free time | Свободное время — это очень важно. | Free time is very important.
