@@ -1,0 +1,61 @@
+#lang: zh -> en
+Chinese::A1::Mixed review & integration across all prior themes and structures | 你好，我叫大卫，我是英国人。 | Hello, my name is David, and I am British.
+Chinese::A1::Mixed review & integration across all prior themes and structures | 我今年二十五岁，是一名老师。 | I am twenty-five this year and I am a teacher.
+Chinese::A1::Mixed review & integration across all prior themes and structures | 我有一个姐姐，没有哥哥。 | I have an older sister and no older brother.
+Chinese::A1::Mixed review & integration across all prior themes and structures | 我姐姐今年三十岁，她是医生。 | My older sister is thirty this year, and she is a doctor.
+Chinese::A1::Mixed review & integration across all prior themes and structures | 这是我的书，那是你的笔。 | This is my book, and that is your pen.
+Chinese::A1::Mixed review & integration across all prior themes and structures | 现在是下午三点十分。 | It is ten past three in the afternoon now.
+Chinese::A1::Mixed review & integration across all prior themes and structures | 今天是星期五，明天是星期六。 | Today is Friday, and tomorrow is Saturday.
+Chinese::A1::Mixed review & integration across all prior themes and structures | 我每天早上七点起床，八点去上班。 | I get up at seven every morning and go to work at eight.
+Chinese::A1::Mixed review & integration across all prior themes and structures | 我的家在北京，学校在我家旁边。 | My home is in Beijing, and the school is next to my home.
+Chinese::A1::Mixed review & integration across all prior themes and structures | 桌子上有两本书和一杯茶。 | There are two books and a cup of tea on the table.
+Chinese::A1::Mixed review & integration across all prior themes and structures | 你喜欢喝咖啡吗？ | Do you like drinking coffee?
+Chinese::A1::Mixed review & integration across all prior themes and structures | 你住在哪儿？ | Where do you live?
+Chinese::A1::Mixed review & integration across all prior themes and structures | 我不喝酒，也不抽烟。 | I don't drink alcohol, and I don't smoke either.
+Chinese::A1::Mixed review & integration across all prior themes and structures | 我没有哥哥，也没有弟弟。 | I have neither an older brother nor a younger brother.
+Chinese::A1::Mixed review & integration across all prior themes and structures | 请给我一碗面条和一杯水。 | Please give me a bowl of noodles and a glass of water.
+Chinese::A1::Mixed review & integration across all prior themes and structures | 这件衣服多少钱？ | How much is this piece of clothing?
+Chinese::A1::Mixed review & integration across all prior themes and structures | 这件比那件便宜。 | This one is cheaper than that one.
+Chinese::A1::Mixed review & integration across all prior themes and structures | 今天很冷，明天也很冷。 | It is cold today, and it will be cold tomorrow too.
+Chinese::A1::Mixed review & integration across all prior themes and structures | 我坐地铁去公司，要四十分钟。 | I go to the office by metro, and it takes forty minutes.
+Chinese::A1::Mixed review & integration across all prior themes and structures | 你从这儿一直往前走，然后往右拐。 | Go straight ahead from here and then turn right.
+Chinese::A1::Mixed review & integration across all prior themes and structures | 我会说中文，可是不会写汉字。 | I can speak Chinese, but I can't write characters.
+Chinese::A1::Mixed review & integration across all prior themes and structures | 我想明天去看电影，你想去吗？ | I want to go and see a film tomorrow; do you want to go?
+Chinese::A1::Mixed review & integration across all prior themes and structures | 我昨天去了超市，买了很多水果。 | Yesterday I went to the supermarket and bought lots of fruit.
+Chinese::A1::Mixed review & integration across all prior themes and structures | 你去过上海吗？我没去过。 | Have you ever been to Shanghai? I haven't.
+Chinese::A1::Mixed review & integration across all prior themes and structures | 我们周末一起去公园，好吗？ | Shall we go to the park together at the weekend?
+Chinese::A1::Mixed review & integration across all prior themes and structures | 那个高高的女孩是我的同学。 | That tall girl is my classmate.
+Chinese::A1::Mixed review & integration across all prior themes and structures | 我的房间很小，可是很干净。 | My room is very small, but it is very clean.
+Chinese::A1::Mixed review & integration across all prior themes and structures | 我家附近有一家很好吃的饭馆。 | There is a very good restaurant near my home.
+Chinese::A1::Mixed review & integration across all prior themes and structures | 你什么时候下班？我们一起吃饭吧。 | When do you finish work? Let's eat together.
+Chinese::A1::Mixed review & integration across all prior themes and structures | 因为我今天很忙，所以我不去了。 | Because I am very busy today, I won't go.
+Chinese::A1::Mixed review & integration across all prior themes and structures | 对不起，我没有时间，下次吧。 | Sorry, I don't have time; next time.
+Chinese::A1::Mixed review & integration across all prior themes and structures | 您好，请问银行怎么走？ | Hello, excuse me, how do I get to the bank?
+Chinese::A1::Mixed review & integration across all prior themes and structures | 他不是老师，他是我的朋友。 | He is not a teacher; he is my friend.
+Chinese::A1::Mixed review & integration across all prior themes and structures | 我的朋友没有手机，所以我给他写信。 | My friend doesn't have a mobile phone, so I write him letters.
+Chinese::A1::Mixed review & integration across all prior themes and structures | 昨天我没去上班，因为我头疼。 | I didn't go to work yesterday because I had a headache.
+Chinese::A1::Mixed review & integration across all prior themes and structures | 今天天气很好，所以我们去公园玩儿了。 | The weather is very good today, so we went to the park to have fun.
+Chinese::A1::Mixed review & integration across all prior themes and structures | 早上我喝了咖啡，可是中午没有吃饭。 | I drank coffee in the morning, but I didn't eat at noon.
+Chinese::A1::Mixed review & integration across all prior themes and structures | 请你别说话，我在看书。 | Please don't talk; I am reading.
+Chinese::A1::Mixed review & integration across all prior themes and structures | 你要两个还是三个？ | Do you want two or three?
+Chinese::A1::Mixed review & integration across all prior themes and structures | 我想买一张去北京的火车票。 | I would like to buy a train ticket to Beijing.
+Chinese::A1::Mixed review & integration across all prior themes and structures | 她每天晚上八点在家看电视，十一点睡觉。 | Every evening she watches television at home at eight and goes to bed at eleven.
+Chinese::A1::Mixed review & integration across all prior themes and structures | 他昨天下午去了图书馆，借了三本书。 | Yesterday afternoon he went to the library and borrowed three books.
+Chinese::A1::Mixed review & integration across all prior themes and structures | 我们明天上午十点在地铁站见面，然后一起去商店。 | We'll meet at the metro station at ten tomorrow morning and then go to the shops together.
+Chinese::A1::Mixed review & integration across all prior themes and structures | 下班以后我先去超市，然后回家做晚饭。 | After work I first go to the supermarket and then go home to cook dinner.
+Chinese::A1::Mixed review & integration across all prior themes and structures | 我爸爸是司机，妈妈是老师，他们都在北京工作。 | My dad is a driver and my mum is a teacher; they both work in Beijing.
+Chinese::A1::Mixed review & integration across all prior themes and structures | 我家有四口人，还有一只小狗，它很可爱。 | There are four people in my family, and also a little dog, which is very cute.
+Chinese::A1::Mixed review & integration across all prior themes and structures | 这家饭馆的菜不太辣，可是很好吃，我很喜欢。 | The food at this restaurant is not too spicy, but it is very tasty, and I like it very much.
+Chinese::A1::Mixed review & integration across all prior themes and structures | 我去过中国两次，可是我还不会说很多中文。 | I have been to China twice, but I still can't speak much Chinese.
+Chinese::A1::Mixed review & integration across all prior themes and structures | 明天会下雨，所以你要带伞。 | It will rain tomorrow, so you need to bring an umbrella.
+Chinese::A1::Mixed review & integration across all prior themes and structures | 我想学中文，因为我喜欢中国的文化，也想去中国工作。 | I want to learn Chinese because I like Chinese culture and also want to work in China.
+Chinese::A1::Mixed review & integration across all prior themes and structures | 昨天晚上我和朋友们去饭馆吃饭，我们点了很多菜，大家都很高兴。 | Last night I went to a restaurant with my friends; we ordered lots of dishes, and everyone was very happy.
+Chinese::A1::Mixed review & integration across all prior themes and structures | 我从星期一到星期五都上班，周末我常常在家休息或者去公园。 | I work from Monday to Friday, and at the weekend I often rest at home or go to the park.
+Chinese::A1::Mixed review & integration across all prior themes and structures | 你能帮我拿一下这个包吗？它有点儿重。 | Can you help me carry this bag? It is a bit heavy.
+Chinese::A1::Mixed review & integration across all prior themes and structures | 我先去银行取钱，然后去商店买一件红色的衣服，最后回家。 | I will first go to the bank to withdraw money, then go to a shop to buy a red top, and finally go home.
+Chinese::A1::Mixed review & integration across all prior themes and structures | 我的同事小王是上海人，他会说英文，也会说一点儿法文。 | My colleague Xiao Wang is from Shanghai; he can speak English and also a little French.
+Chinese::A1::Mixed review & integration across all prior themes and structures | 这个周末我没有空，因为我要去机场接我的朋友。 | I'm not free this weekend because I am going to the airport to pick up my friend.
+Chinese::A1::Mixed review & integration across all prior themes and structures | 我们家附近有一个很大的公园，周末那儿有很多人。 | There is a very big park near our home, and there are lots of people there at the weekend.
+Chinese::A1::Mixed review & integration across all prior themes and structures | 我今年夏天想去中国旅游，先去北京，然后去上海。 | This summer I want to travel in China, first to Beijing and then to Shanghai.
+Chinese::A1::Mixed review & integration across all prior themes and structures | 我学中文已经一年了，现在我可以买东西，也可以问路。 | I have been studying Chinese for a year now, and I can buy things and also ask the way.
+Chinese::A1::Mixed review & integration across all prior themes and structures | 谢谢你今天帮我，我很高兴认识你，明天见！ | Thank you for helping me today; I am very happy to have met you; see you tomorrow!
