@@ -1,0 +1,45 @@
+Brazilian Portuguese::A1::Current actions & progressive situations | Eu estou lendo um livro. | I am reading a book.
+Brazilian Portuguese::A1::Current actions & progressive situations | O que você está fazendo? | What are you doing?
+Brazilian Portuguese::A1::Current actions & progressive situations | Estou cozinhando o almoço. | I am cooking lunch.
+Brazilian Portuguese::A1::Current actions & progressive situations | Ela está falando ao telefone. | She is talking on the phone.
+Brazilian Portuguese::A1::Current actions & progressive situations | Ele está dormindo agora. | He is sleeping now.
+Brazilian Portuguese::A1::Current actions & progressive situations | Nós estamos esperando o ônibus. | We are waiting for the bus.
+Brazilian Portuguese::A1::Current actions & progressive situations | Eles estão comendo na cozinha. | They are eating in the kitchen.
+Brazilian Portuguese::A1::Current actions & progressive situations | As crianças estão brincando no jardim. | The children are playing in the garden.
+Brazilian Portuguese::A1::Current actions & progressive situations | Meu pai está assistindo ao jogo. | My father is watching the match.
+Brazilian Portuguese::A1::Current actions & progressive situations | Minha mãe está preparando o café. | My mother is making the coffee.
+Brazilian Portuguese::A1::Current actions & progressive situations | O gato está dormindo no sofá. | The cat is sleeping on the sofa.
+Brazilian Portuguese::A1::Current actions & progressive situations | O cachorro está correndo no parque. | The dog is running in the park.
+Brazilian Portuguese::A1::Current actions & progressive situations | Eu estou escrevendo uma mensagem. | I am writing a message.
+Brazilian Portuguese::A1::Current actions & progressive situations | Você está ouvindo música? | Are you listening to music?
+Brazilian Portuguese::A1::Current actions & progressive situations | Não, eu estou estudando. | No, I am studying.
+Brazilian Portuguese::A1::Current actions & progressive situations | Ela está tomando banho. | She is having a shower.
+Brazilian Portuguese::A1::Current actions & progressive situations | Nós estamos jantando agora. | We are having dinner now.
+Brazilian Portuguese::A1::Current actions & progressive situations | Eu normalmente janto às oito, mas hoje estou jantando mais cedo. | I normally have dinner at eight, but today I am having dinner earlier.
+Brazilian Portuguese::A1::Current actions & progressive situations | Ele geralmente trabalha em casa, mas hoje está trabalhando no escritório. | He usually works at home, but today he is working at the office.
+Brazilian Portuguese::A1::Current actions & progressive situations | Eu estou esperando você aqui na porta. | I am waiting for you here at the door.
+Brazilian Portuguese::A1::Current actions & progressive situations | Onde você está trabalhando agora? | Where are you working now?
+Brazilian Portuguese::A1::Current actions & progressive situations | Estou trabalhando em São Paulo. | I am working in São Paulo.
+Brazilian Portuguese::A1::Current actions & progressive situations | Eles estão morando no Rio. | They are living in Rio.
+Brazilian Portuguese::A1::Current actions & progressive situations | A professora está escrevendo no quadro. | The teacher is writing on the board.
+Brazilian Portuguese::A1::Current actions & progressive situations | Os alunos estão ouvindo com atenção. | The students are listening attentively.
+Brazilian Portuguese::A1::Current actions & progressive situations | Estou limpando a casa. | I am cleaning the house.
+Brazilian Portuguese::A1::Current actions & progressive situations | Meu irmão está lavando o carro na rua. | My brother is washing the car in the street.
+Brazilian Portuguese::A1::Current actions & progressive situations | Minha irmã está pintando o quarto. | My sister is painting the bedroom.
+Brazilian Portuguese::A1::Current actions & progressive situations | O bebê está chorando. | The baby is crying.
+Brazilian Portuguese::A1::Current actions & progressive situations | Os vizinhos estão cantando. | The neighbours are singing.
+Brazilian Portuguese::A1::Current actions & progressive situations | Está chovendo lá fora. | It is raining outside.
+Brazilian Portuguese::A1::Current actions & progressive situations | Está fazendo muito calor aqui. | It is very hot here.
+Brazilian Portuguese::A1::Current actions & progressive situations | Estou pensando em você. | I am thinking about you.
+Brazilian Portuguese::A1::Current actions & progressive situations | Ela está sorrindo. | She is smiling.
+Brazilian Portuguese::A1::Current actions & progressive situations | Estamos andando na praia. | We are walking on the beach.
+Brazilian Portuguese::A1::Current actions & progressive situations | Eu estou comprando pão na padaria. | I am buying bread at the bakery.
+Brazilian Portuguese::A1::Current actions & progressive situations | Ele está vendo televisão na sala. | He is watching television in the living room.
+Brazilian Portuguese::A1::Current actions & progressive situations | A gente está estudando português agora. | We are studying Portuguese now.
+Brazilian Portuguese::A1::Current actions & progressive situations | Vocês estão fazendo o quê? | What are you doing?
+Brazilian Portuguese::A1::Current actions & progressive situations | Estamos fazendo compras no centro. | We are shopping in the centre.
+Brazilian Portuguese::A1::Current actions & progressive situations | Eu não estou dormindo. | I am not sleeping.
+Brazilian Portuguese::A1::Current actions & progressive situations | Ela não está trabalhando hoje. | She is not working today.
+Brazilian Portuguese::A1::Current actions & progressive situations | Elas estão pedindo a conta. | They are asking for the bill.
+Brazilian Portuguese::A1::Current actions & progressive situations | Eu estou saindo de casa agora. | I am leaving the house now.
+Brazilian Portuguese::A1::Current actions & progressive situations | Estou chegando em casa. | I am arriving home.
