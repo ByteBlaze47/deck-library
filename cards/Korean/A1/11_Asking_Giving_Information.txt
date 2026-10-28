@@ -1,0 +1,41 @@
+#lang: ko -> en
+Korean::A1::Asking for & giving simple information (phone, address, email) | 이름이 뭐예요? | What is your name?
+Korean::A1::Asking for & giving simple information (phone, address, email) | 이것은 뭐예요? | What is this?
+Korean::A1::Asking for & giving simple information (phone, address, email) | 저것은 뭐예요? | What is that?
+Korean::A1::Asking for & giving simple information (phone, address, email) | 이분은 누구예요? | Who is this person?
+Korean::A1::Asking for & giving simple information (phone, address, email) | 누가 와요? | Who is coming?
+Korean::A1::Asking for & giving simple information (phone, address, email) | 어디에 살아요? | Where do you live?
+Korean::A1::Asking for & giving simple information (phone, address, email) | 어디에서 왔어요? | Where are you from?
+Korean::A1::Asking for & giving simple information (phone, address, email) | 언제 와요? | When are you coming?
+Korean::A1::Asking for & giving simple information (phone, address, email) | 생일이 언제예요? | When is your birthday?
+Korean::A1::Asking for & giving simple information (phone, address, email) | 전화번호가 뭐예요? | What is your phone number?
+Korean::A1::Asking for & giving simple information (phone, address, email) | 제 전화번호는 공일공 이삼사오 육칠팔구예요. | My phone number is 010 2345 6789.
+Korean::A1::Asking for & giving simple information (phone, address, email) | 주소가 어디예요? | What is your address?
+Korean::A1::Asking for & giving simple information (phone, address, email) | 제 주소는 서울시 강남구예요. | My address is Gangnam-gu, Seoul.
+Korean::A1::Asking for & giving simple information (phone, address, email) | 이메일 주소가 뭐예요? | What is your email address?
+Korean::A1::Asking for & giving simple information (phone, address, email) | 제 이메일 주소를 알려 드릴게요. | I will tell you my email address.
+Korean::A1::Asking for & giving simple information (phone, address, email) | 이메일로 보내 주세요. | Please send it by email.
+Korean::A1::Asking for & giving simple information (phone, address, email) | 문자 메시지를 보낼게요. | I will send a text message.
+Korean::A1::Asking for & giving simple information (phone, address, email) | 이름을 어떻게 써요? | How do you write your name?
+Korean::A1::Asking for & giving simple information (phone, address, email) | 성함이 어떻게 되세요? | May I ask your name?
+Korean::A1::Asking for & giving simple information (phone, address, email) | 연락처를 알려 주세요. | Please tell me your contact details.
+Korean::A1::Asking for & giving simple information (phone, address, email) | 제 연락처는 여기에 있어요. | My contact details are here.
+Korean::A1::Asking for & giving simple information (phone, address, email) | 이 번호가 맞아요? | Is this number correct?
+Korean::A1::Asking for & giving simple information (phone, address, email) | 네, 맞아요. | Yes, that is right.
+Korean::A1::Asking for & giving simple information (phone, address, email) | 아니요, 틀려요. | No, that is wrong.
+Korean::A1::Asking for & giving simple information (phone, address, email) | 다시 말해 주세요. | Please say it again.
+Korean::A1::Asking for & giving simple information (phone, address, email) | 천천히 말해 주세요. | Please speak slowly.
+Korean::A1::Asking for & giving simple information (phone, address, email) | 잘 모르겠어요. | I do not really know.
+Korean::A1::Asking for & giving simple information (phone, address, email) | 저는 한국어를 조금 해요. | I speak a little Korean.
+Korean::A1::Asking for & giving simple information (phone, address, email) | 영어를 할 수 있어요? | Can you speak English?
+Korean::A1::Asking for & giving simple information (phone, address, email) | 이 단어는 무슨 뜻이에요? | What does this word mean?
+Korean::A1::Asking for & giving simple information (phone, address, email) | 이것은 한국어로 뭐예요? | What is this in Korean?
+Korean::A1::Asking for & giving simple information (phone, address, email) | '감사합니다'는 영어로 뭐예요? | What is "감사합니다" in English?
+Korean::A1::Asking for & giving simple information (phone, address, email) | 무슨 일이에요? | What is the matter?
+Korean::A1::Asking for & giving simple information (phone, address, email) | 왜 와요? | Why are you coming?
+Korean::A1::Asking for & giving simple information (phone, address, email) | 어떻게 지내요? | How are you getting on?
+Korean::A1::Asking for & giving simple information (phone, address, email) | 잘 지내요. | I am doing well.
+Korean::A1::Asking for & giving simple information (phone, address, email) | 저는 어디에서 만날까요? | Where shall we meet?
+Korean::A1::Asking for & giving simple information (phone, address, email) | 몇 시에 만날까요? | What time shall we meet?
+Korean::A1::Asking for & giving simple information (phone, address, email) | 그 사람은 누구예요? | Who is that person?
+Korean::A1::Asking for & giving simple information (phone, address, email) | 제 친구는 서울에 살아요. | My friend lives in Seoul.
