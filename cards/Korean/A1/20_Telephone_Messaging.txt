@@ -1,0 +1,41 @@
+#lang: ko -> en
+Korean::A1::Telephone & simple messaging situations | 여보세요. | Hello (on the phone).
+Korean::A1::Telephone & simple messaging situations | 여보세요, 민수 씨 계세요? | Hello, is Minsu there?
+Korean::A1::Telephone & simple messaging situations | 네, 전데요. | Yes, speaking.
+Korean::A1::Telephone & simple messaging situations | 잠시만 기다려 주세요. | Please hold on a moment.
+Korean::A1::Telephone & simple messaging situations | 지금 통화 괜찮으세요? | Is it all right to talk now?
+Korean::A1::Telephone & simple messaging situations | 지금 바빠서 나중에 전화할게요. | I am busy now, so I will call later.
+Korean::A1::Telephone & simple messaging situations | 나중에 다시 전화해 주세요. | Please call back later.
+Korean::A1::Telephone & simple messaging situations | 전화 잘못 거셨어요. | You have the wrong number.
+Korean::A1::Telephone & simple messaging situations | 죄송합니다. 잘못 걸었어요. | I am sorry. I dialled the wrong number.
+Korean::A1::Telephone & simple messaging situations | 소리가 잘 안 들려요. | I cannot hear you well.
+Korean::A1::Telephone & simple messaging situations | 조금 크게 말해 주세요. | Please speak a little louder.
+Korean::A1::Telephone & simple messaging situations | 전화번호를 알려 주세요. | Please tell me your phone number.
+Korean::A1::Telephone & simple messaging situations | 제가 다시 전화할게요. | I will call you again.
+Korean::A1::Telephone & simple messaging situations | 메시지를 남겨 주세요. | Please leave a message.
+Korean::A1::Telephone & simple messaging situations | 문자 메시지를 보냈어요. | I sent a text message.
+Korean::A1::Telephone & simple messaging situations | 문자 받았어요? | Did you get my text?
+Korean::A1::Telephone & simple messaging situations | 네, 받았어요. | Yes, I got it.
+Korean::A1::Telephone & simple messaging situations | 아직 못 받았어요. | I have not received it yet.
+Korean::A1::Telephone & simple messaging situations | 카카오톡으로 연락해요. | I will contact you on KakaoTalk.
+Korean::A1::Telephone & simple messaging situations | 이메일을 확인했어요. | I checked my email.
+Korean::A1::Telephone & simple messaging situations | 답장을 보낼게요. | I will send a reply.
+Korean::A1::Telephone & simple messaging situations | 지금 어디예요? | Where are you now?
+Korean::A1::Telephone & simple messaging situations | 지금 가고 있어요. | I am on my way now.
+Korean::A1::Telephone & simple messaging situations | 거의 다 왔어요. | I am almost there.
+Korean::A1::Telephone & simple messaging situations | 십 분 후에 도착해요. | I will arrive in ten minutes.
+Korean::A1::Telephone & simple messaging situations | 조금 늦을 것 같아요. | I think I will be a little late.
+Korean::A1::Telephone & simple messaging situations | 오늘 만나는 거죠? | We are meeting today, right?
+Korean::A1::Telephone & simple messaging situations | 내일 시간 있죠? | You have time tomorrow, don't you?
+Korean::A1::Telephone & simple messaging situations | 이 길이 맞죠? | This is the right road, isn't it?
+Korean::A1::Telephone & simple messaging situations | 날씨가 좋죠? | The weather is nice, isn't it?
+Korean::A1::Telephone & simple messaging situations | 저 알죠? | You know me, right?
+Korean::A1::Telephone & simple messaging situations | 네, 알아요. | Yes, I know.
+Korean::A1::Telephone & simple messaging situations | 네, 알겠어요. | Yes, I understand.
+Korean::A1::Telephone & simple messaging situations | 네, 그럴게요. | Yes, I will do that.
+Korean::A1::Telephone & simple messaging situations | 아니에요, 괜찮아요. | No, it is fine.
+Korean::A1::Telephone & simple messaging situations | 아, 그래요? | Oh, really?
+Korean::A1::Telephone & simple messaging situations | 정말요? | Really?
+Korean::A1::Telephone & simple messaging situations | 고마워요. | Thank you.
+Korean::A1::Telephone & simple messaging situations | 안녕, 내일 봐. | Bye, see you tomorrow.
+Korean::A1::Telephone & simple messaging situations | 통화 감사합니다. | Thank you for the call.
