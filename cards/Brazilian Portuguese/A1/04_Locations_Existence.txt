@@ -1,0 +1,50 @@
+Brazilian Portuguese::A1::Daily locations & existence | Eu estou em casa. | I am at home.
+Brazilian Portuguese::A1::Daily locations & existence | Ela está no trabalho. | She is at work.
+Brazilian Portuguese::A1::Daily locations & existence | Nós estamos na cidade. | We are in the city.
+Brazilian Portuguese::A1::Daily locations & existence | Onde você está? | Where are you?
+Brazilian Portuguese::A1::Daily locations & existence | Eu estou aqui. | I am here.
+Brazilian Portuguese::A1::Daily locations & existence | Meu irmão está ali. | My brother is over there.
+Brazilian Portuguese::A1::Daily locations & existence | O banco está perto daqui? | Is the bank near here?
+Brazilian Portuguese::A1::Daily locations & existence | A escola está longe de casa. | The school is far from home.
+Brazilian Portuguese::A1::Daily locations & existence | O parque está perto da minha casa. | The park is near my house.
+Brazilian Portuguese::A1::Daily locations & existence | Minha casa tem três quartos. | My house has three bedrooms.
+Brazilian Portuguese::A1::Daily locations & existence | Na minha casa tem uma sala grande. | In my house there is a big living room.
+Brazilian Portuguese::A1::Daily locations & existence | Tem uma cozinha pequena. | There is a small kitchen.
+Brazilian Portuguese::A1::Daily locations & existence | Tem dois banheiros no apartamento. | There are two bathrooms in the flat.
+Brazilian Portuguese::A1::Daily locations & existence | Não tem jardim na casa. | There is no garden at the house.
+Brazilian Portuguese::A1::Daily locations & existence | Tem um sofá na sala. | There is a sofa in the living room.
+Brazilian Portuguese::A1::Daily locations & existence | Tem uma cama no quarto. | There is a bed in the bedroom.
+Brazilian Portuguese::A1::Daily locations & existence | O gato está no quarto. | The cat is in the bedroom.
+Brazilian Portuguese::A1::Daily locations & existence | O cachorro está no jardim. | The dog is in the garden.
+Brazilian Portuguese::A1::Daily locations & existence | As chaves estão na mesa. | The keys are on the table.
+Brazilian Portuguese::A1::Daily locations & existence | O livro está na bolsa. | The book is in the bag.
+Brazilian Portuguese::A1::Daily locations & existence | Os copos estão na cozinha. | The glasses are in the kitchen.
+Brazilian Portuguese::A1::Daily locations & existence | O telefone está no carro. | The phone is in the car.
+Brazilian Portuguese::A1::Daily locations & existence | Tem um supermercado na rua. | There is a supermarket on the street.
+Brazilian Portuguese::A1::Daily locations & existence | Tem muitas lojas no centro. | There are many shops in the centre.
+Brazilian Portuguese::A1::Daily locations & existence | Tem um restaurante aqui perto? | Is there a restaurant near here?
+Brazilian Portuguese::A1::Daily locations & existence | Não tem restaurante aqui. | There is no restaurant here.
+Brazilian Portuguese::A1::Daily locations & existence | Tem uma farmácia ali. | There is a pharmacy over there.
+Brazilian Portuguese::A1::Daily locations & existence | A farmácia está do lado do banco. | The pharmacy is next to the bank.
+Brazilian Portuguese::A1::Daily locations & existence | O hotel está em frente ao parque. | The hotel is opposite the park.
+Brazilian Portuguese::A1::Daily locations & existence | A padaria está na esquina. | The bakery is on the corner.
+Brazilian Portuguese::A1::Daily locations & existence | Meu escritório é longe do centro. | My office is far from the centre.
+Brazilian Portuguese::A1::Daily locations & existence | A casa da minha avó é perto da praia. | My grandmother's house is near the beach.
+Brazilian Portuguese::A1::Daily locations & existence | O meu quarto está no segundo andar. | My bedroom is on the second floor.
+Brazilian Portuguese::A1::Daily locations & existence | O banheiro está lá em cima. | The bathroom is upstairs.
+Brazilian Portuguese::A1::Daily locations & existence | A cozinha está lá embaixo. | The kitchen is downstairs.
+Brazilian Portuguese::A1::Daily locations & existence | Tem uma televisão no quarto? | Is there a television in the bedroom?
+Brazilian Portuguese::A1::Daily locations & existence | Tem sim, e tem um computador também. | Yes, there is, and there is a computer too.
+Brazilian Portuguese::A1::Daily locations & existence | Quantos quartos tem a casa? | How many bedrooms does the house have?
+Brazilian Portuguese::A1::Daily locations & existence | Tem alguém em casa? | Is anyone at home?
+Brazilian Portuguese::A1::Daily locations & existence | Não tem ninguém aqui. | There is nobody here.
+Brazilian Portuguese::A1::Daily locations & existence | Os meus pais estão na praia. | My parents are at the beach.
+Brazilian Portuguese::A1::Daily locations & existence | A minha amiga está no hospital. | My friend is at the hospital.
+Brazilian Portuguese::A1::Daily locations & existence | O aluno está na sala de aula. | The student is in the classroom.
+Brazilian Portuguese::A1::Daily locations & existence | Nós estamos no ônibus. | We are on the bus.
+Brazilian Portuguese::A1::Daily locations & existence | Tem uma fonte na praça. | There is a fountain in the square.
+Brazilian Portuguese::A1::Daily locations & existence | O mercado é pequeno, mas tem de tudo. | The market is small, but it has everything.
+Brazilian Portuguese::A1::Daily locations & existence | Eu moro na cidade, mas meus pais moram no campo. | I live in the city, but my parents live in the countryside.
+Brazilian Portuguese::A1::Daily locations & existence | A biblioteca está aberta? | Is the library open?
+Brazilian Portuguese::A1::Daily locations & existence | Tem muitas pessoas na rua hoje. | There are many people in the street today.
+Brazilian Portuguese::A1::Daily locations & existence | Aqui é perto, mas ali é longe. | Here is close, but over there is far.
