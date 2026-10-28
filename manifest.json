@@ -173,7 +173,9 @@
       "url": "cards/German/A1/06_Shopping_and_Money.txt",
       "size": 10616,
       "audio_url": "audio/German/A1/06_Shopping_and_Money.zip",
-      "audio_size": 5206230
+      "audio_size": 5206230,
+      "name": "06_Shopping_and_Money.txt",
+      "category": "German/A1"
     },
     {
       "path": "cards/German/A1/07_House_and_Home.txt",
