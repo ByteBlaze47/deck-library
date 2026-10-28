@@ -455,7 +455,9 @@
       "url": "cards/Spanish/A1/1- Meeting_people_register_map.txt",
       "size": 4886,
       "audio_url": "audio/Spanish/A1/1- Meeting_people_register_map.zip",
-      "audio_size": 1887601
+      "audio_size": 1887601,
+      "name": "1- Meeting_people_register_map.txt",
+      "category": "Spanish/A1"
     },
     {
       "path": "cards/Spanish/A1/10- Reflexive_daily_routines.txt",
