@@ -1,0 +1,51 @@
+#lang: ko -> en
+Korean::A1::Food & ordering at a restaurant / café | 여기 메뉴 있어요? | Do you have a menu here?
+Korean::A1::Food & ordering at a restaurant / café | 메뉴 좀 주세요. | Please give me the menu.
+Korean::A1::Food & ordering at a restaurant / café | 뭐 드릴까요? | What can I get you?
+Korean::A1::Food & ordering at a restaurant / café | 김치찌개 하나 주세요. | One kimchi stew, please.
+Korean::A1::Food & ordering at a restaurant / café | 비빔밥 두 개 주세요. | Two bibimbaps, please.
+Korean::A1::Food & ordering at a restaurant / café | 불고기 일 인분 주세요. | One portion of bulgogi, please.
+Korean::A1::Food & ordering at a restaurant / café | 냉면 한 그릇 주세요. | One bowl of cold noodles, please.
+Korean::A1::Food & ordering at a restaurant / café | 물 좀 주세요. | Please give me some water.
+Korean::A1::Food & ordering at a restaurant / café | 커피 한 잔 주세요. | One coffee, please.
+Korean::A1::Food & ordering at a restaurant / café | 아이스 아메리카노 주세요. | An iced Americano, please.
+Korean::A1::Food & ordering at a restaurant / café | 따뜻한 차 주세요. | Warm tea, please.
+Korean::A1::Food & ordering at a restaurant / café | 케이크도 주세요. | Cake as well, please.
+Korean::A1::Food & ordering at a restaurant / café | 저는 김치를 좋아해요. | I like kimchi.
+Korean::A1::Food & ordering at a restaurant / café | 저는 매운 음식을 좋아해요. | I like spicy food.
+Korean::A1::Food & ordering at a restaurant / café | 저는 고기를 좋아해요. | I like meat.
+Korean::A1::Food & ordering at a restaurant / café | 저는 생선을 안 좋아해요. | I do not like fish.
+Korean::A1::Food & ordering at a restaurant / café | 저는 단 음식을 안 좋아해요. | I do not like sweet food.
+Korean::A1::Food & ordering at a restaurant / café | 저는 커피를 좋아하지 않아요. | I do not like coffee.
+Korean::A1::Food & ordering at a restaurant / café | 저는 고기를 안 먹어요. | I do not eat meat.
+Korean::A1::Food & ordering at a restaurant / café | 저는 매운 음식을 못 먹어요. | I cannot eat spicy food.
+Korean::A1::Food & ordering at a restaurant / café | 저는 술을 못 마셔요. | I cannot drink alcohol.
+Korean::A1::Food & ordering at a restaurant / café | 너무 매워요. | It is too spicy.
+Korean::A1::Food & ordering at a restaurant / café | 이것은 짜요. | This is salty.
+Korean::A1::Food & ordering at a restaurant / café | 이 음식은 맛있어요. | This food is delicious.
+Korean::A1::Food & ordering at a restaurant / café | 이 음식은 맛없어요. | This food is not tasty.
+Korean::A1::Food & ordering at a restaurant / café | 덜 맵게 해 주세요. | Please make it less spicy.
+Korean::A1::Food & ordering at a restaurant / café | 고추를 빼 주세요. | Please leave out the chilli.
+Korean::A1::Food & ordering at a restaurant / café | 저는 채식주의자예요. | I am a vegetarian.
+Korean::A1::Food & ordering at a restaurant / café | 여기에서 먹어요. | I will eat here.
+Korean::A1::Food & ordering at a restaurant / café | 포장해 주세요. | Takeaway, please.
+Korean::A1::Food & ordering at a restaurant / café | 밥 더 주세요. | Please give me more rice.
+Korean::A1::Food & ordering at a restaurant / café | 반찬 더 주세요. | Please give me more side dishes.
+Korean::A1::Food & ordering at a restaurant / café | 숟가락 좀 주세요. | Please give me a spoon.
+Korean::A1::Food & ordering at a restaurant / café | 젓가락 좀 주세요. | Please give me chopsticks.
+Korean::A1::Food & ordering at a restaurant / café | 휴지 좀 주세요. | Please give me some tissues.
+Korean::A1::Food & ordering at a restaurant / café | 계산해 주세요. | The bill, please.
+Korean::A1::Food & ordering at a restaurant / café | 잘 먹겠습니다. | Thank you for the meal (before eating).
+Korean::A1::Food & ordering at a restaurant / café | 잘 먹었습니다. | Thank you for the meal (after eating).
+Korean::A1::Food & ordering at a restaurant / café | 저는 아침에 빵을 먹어요. | I eat bread in the morning.
+Korean::A1::Food & ordering at a restaurant / café | 저는 점심에 국수를 먹어요. | I eat noodles at lunch.
+Korean::A1::Food & ordering at a restaurant / café | 저는 저녁에 밥을 먹어요. | I eat rice in the evening.
+Korean::A1::Food & ordering at a restaurant / café | 오늘 뭐 먹을까요? | What shall we eat today?
+Korean::A1::Food & ordering at a restaurant / café | 저는 김밥을 먹고 싶어요. | I want to eat gimbap.
+Korean::A1::Food & ordering at a restaurant / café | 저는 우유를 안 마셔요. | I do not drink milk.
+Korean::A1::Food & ordering at a restaurant / café | 저는 과일을 좋아해요. | I like fruit.
+Korean::A1::Food & ordering at a restaurant / café | 이 식당은 유명해요. | This restaurant is famous.
+Korean::A1::Food & ordering at a restaurant / café | 이 카페는 조용해요. | This cafe is quiet.
+Korean::A1::Food & ordering at a restaurant / café | 저는 차보다 커피를 좋아해요. | I like coffee more than tea.
+Korean::A1::Food & ordering at a restaurant / café | 사이다 한 병 주세요. | One bottle of lemonade-style soda, please.
+Korean::A1::Food & ordering at a restaurant / café | 저는 샐러드를 안 먹어요. | I do not eat salad.
