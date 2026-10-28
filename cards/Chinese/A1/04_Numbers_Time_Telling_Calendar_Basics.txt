@@ -1,0 +1,41 @@
+#lang: zh -> en
+Chinese::A1::Numbers, time-telling & calendar basics | 一，二，三，四，五。 | One, two, three, four, five.
+Chinese::A1::Numbers, time-telling & calendar basics | 六，七，八，九，十。 | Six, seven, eight, nine, ten.
+Chinese::A1::Numbers, time-telling & calendar basics | 我有两个朋友。 | I have two friends.
+Chinese::A1::Numbers, time-telling & calendar basics | 现在是两点。 | It is two o'clock now.
+Chinese::A1::Numbers, time-telling & calendar basics | 现在几点？ | What time is it now?
+Chinese::A1::Numbers, time-telling & calendar basics | 现在三点十分。 | It is ten past three now.
+Chinese::A1::Numbers, time-telling & calendar basics | 现在四点半。 | It is half past four now.
+Chinese::A1::Numbers, time-telling & calendar basics | 现在五点一刻。 | It is a quarter past five now.
+Chinese::A1::Numbers, time-telling & calendar basics | 现在差五分六点。 | It is five to six now.
+Chinese::A1::Numbers, time-telling & calendar basics | 现在是中午十二点。 | It is twelve noon now.
+Chinese::A1::Numbers, time-telling & calendar basics | 现在是晚上十点。 | It is ten o'clock at night now.
+Chinese::A1::Numbers, time-telling & calendar basics | 现在是早上七点。 | It is seven o'clock in the morning now.
+Chinese::A1::Numbers, time-telling & calendar basics | 她今年二十二岁。 | She is twenty-two this year.
+Chinese::A1::Numbers, time-telling & calendar basics | 今天是星期一。 | Today is Monday.
+Chinese::A1::Numbers, time-telling & calendar basics | 明天是星期二。 | Tomorrow is Tuesday.
+Chinese::A1::Numbers, time-telling & calendar basics | 昨天是星期天。 | Yesterday was Sunday.
+Chinese::A1::Numbers, time-telling & calendar basics | 后天是星期四。 | The day after tomorrow is Thursday.
+Chinese::A1::Numbers, time-telling & calendar basics | 今天几月几号？ | What is the date today?
+Chinese::A1::Numbers, time-telling & calendar basics | 今天是十月十六号。 | Today is the sixteenth of October.
+Chinese::A1::Numbers, time-telling & calendar basics | 明天是十月十七号。 | Tomorrow is the seventeenth of October.
+Chinese::A1::Numbers, time-telling & calendar basics | 我的生日是三月五号。 | My birthday is on the fifth of March.
+Chinese::A1::Numbers, time-telling & calendar basics | 他的生日是十二月二十号。 | His birthday is on the twentieth of December.
+Chinese::A1::Numbers, time-telling & calendar basics | 现在是二零二六年。 | It is the year 2026 now.
+Chinese::A1::Numbers, time-telling & calendar basics | 一年有十二个月。 | There are twelve months in a year.
+Chinese::A1::Numbers, time-telling & calendar basics | 一个星期有七天。 | There are seven days in a week.
+Chinese::A1::Numbers, time-telling & calendar basics | 一天有二十四个小时。 | There are twenty-four hours in a day.
+Chinese::A1::Numbers, time-telling & calendar basics | 一个小时有六十分钟。 | There are sixty minutes in an hour.
+Chinese::A1::Numbers, time-telling & calendar basics | 现在是下午两点二十分。 | It is twenty past two in the afternoon now.
+Chinese::A1::Numbers, time-telling & calendar basics | 我六点起床。 | I get up at six o'clock.
+Chinese::A1::Numbers, time-telling & calendar basics | 他七点半吃早饭。 | He has breakfast at half past seven.
+Chinese::A1::Numbers, time-telling & calendar basics | 我们八点上课。 | We have class at eight o'clock.
+Chinese::A1::Numbers, time-telling & calendar basics | 你几点下班？ | What time do you finish work?
+Chinese::A1::Numbers, time-telling & calendar basics | 我五点下班。 | I finish work at five o'clock.
+Chinese::A1::Numbers, time-telling & calendar basics | 星期六我不上班。 | I don't work on Saturday.
+Chinese::A1::Numbers, time-telling & calendar basics | 星期天我在家。 | I am at home on Sunday.
+Chinese::A1::Numbers, time-telling & calendar basics | 我二十二岁，我姐姐二十五岁。 | I am twenty-two; my older sister is twenty-five.
+Chinese::A1::Numbers, time-telling & calendar basics | 十月有三十一天。 | October has thirty-one days.
+Chinese::A1::Numbers, time-telling & calendar basics | 二月有二十八天。 | February has twenty-eight days.
+Chinese::A1::Numbers, time-telling & calendar basics | 现在是两点二十二分。 | It is twenty-two minutes past two now.
+Chinese::A1::Numbers, time-telling & calendar basics | 我有两百块钱。 | I have two hundred yuan.
