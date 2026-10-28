@@ -1,0 +1,46 @@
+#lang: it -> en
+Italian::A1::Shopping for everyday items | Uno, due, tre, quattro, cinque. | One, two, three, four, five.
+Italian::A1::Shopping for everyday items | Sei, sette, otto, nove, dieci. | Six, seven, eight, nine, ten.
+Italian::A1::Shopping for everyday items | Undici, dodici, tredici, quattordici. | Eleven, twelve, thirteen, fourteen.
+Italian::A1::Shopping for everyday items | Venti, trenta, quaranta, cinquanta. | Twenty, thirty, forty, fifty.
+Italian::A1::Shopping for everyday items | Sessanta, settanta, ottanta, novanta, cento. | Sixty, seventy, eighty, ninety, one hundred.
+Italian::A1::Shopping for everyday items | Ventuno, ventidue, trentatré. | Twenty-one, twenty-two, thirty-three.
+Italian::A1::Shopping for everyday items | Quanto costa questo? | How much does this cost?
+Italian::A1::Shopping for everyday items | Quanto costano queste scarpe? | How much do these shoes cost?
+Italian::A1::Shopping for everyday items | Costa dieci euro. | It costs ten euros.
+Italian::A1::Shopping for everyday items | Costano quarantacinque euro. | They cost forty-five euros.
+Italian::A1::Shopping for everyday items | Questa maglietta è bella. | This T-shirt is nice.
+Italian::A1::Shopping for everyday items | Questo cappotto è troppo caro. | This coat is too expensive.
+Italian::A1::Shopping for everyday items | Quella borsa è economica. | That bag is cheap.
+Italian::A1::Shopping for everyday items | Quei pantaloni sono lunghi. | Those trousers are long.
+Italian::A1::Shopping for everyday items | Quelle scarpe sono nuove. | Those shoes are new.
+Italian::A1::Shopping for everyday items | Quest'orologio costa poco. | This watch is cheap.
+Italian::A1::Shopping for everyday items | Quello zaino è rosso. | That rucksack is red.
+Italian::A1::Shopping for everyday items | Quanti euro sono? | How many euros is it?
+Italian::A1::Shopping for everyday items | Sono ottanta euro. | It's eighty euros.
+Italian::A1::Shopping for everyday items | Compro due chili di mele. | I buy two kilos of apples.
+Italian::A1::Shopping for everyday items | Prendo questo. | I'll take this one.
+Italian::A1::Shopping for everyday items | Prendo questa camicia. | I'll take this shirt.
+Italian::A1::Shopping for everyday items | Cerco un regalo per mia madre. | I'm looking for a present for my mother.
+Italian::A1::Shopping for everyday items | Che taglia hai? | What size are you? (informal)
+Italian::A1::Shopping for everyday items | Porto la quarantadue. | I'm a size forty-two.
+Italian::A1::Shopping for everyday items | Il negozio apre alle nove. | The shop opens at nine.
+Italian::A1::Shopping for everyday items | Il negozio chiude alle sette. | The shop closes at seven.
+Italian::A1::Shopping for everyday items | Il supermercato è aperto. | The supermarket is open.
+Italian::A1::Shopping for everyday items | La farmacia è chiusa. | The pharmacy is closed.
+Italian::A1::Shopping for everyday items | Pago in contanti. | I'm paying in cash.
+Italian::A1::Shopping for everyday items | Pago con la carta. | I'm paying by card.
+Italian::A1::Shopping for everyday items | Dov'è la cassa? | Where is the till?
+Italian::A1::Shopping for everyday items | Ecco lo scontrino. | Here is the receipt.
+Italian::A1::Shopping for everyday items | Ecco il resto. | Here is your change.
+Italian::A1::Shopping for everyday items | Ho solo venti euro. | I only have twenty euros.
+Italian::A1::Shopping for everyday items | Compro un paio di scarpe nere. | I'm buying a pair of black shoes.
+Italian::A1::Shopping for everyday items | Compro una giacca blu e due camicie bianche. | I'm buying a blue jacket and two white shirts.
+Italian::A1::Shopping for everyday items | Questi pantaloni sono grigi. | These trousers are grey.
+Italian::A1::Shopping for everyday items | Queste borse sono belle. | These bags are beautiful.
+Italian::A1::Shopping for everyday items | Questi libri costano quindici euro. | These books cost fifteen euros.
+Italian::A1::Shopping for everyday items | Quel libro è interessante. | That book is interesting.
+Italian::A1::Shopping for everyday items | Quegli zaini sono piccoli. | Those rucksacks are small.
+Italian::A1::Shopping for everyday items | Al mercato c'è molta frutta. | At the market there is lots of fruit.
+Italian::A1::Shopping for everyday items | Compro il pane in panetteria. | I buy bread at the bakery.
+Italian::A1::Shopping for everyday items | Sono duecento euro in tutto. | It's two hundred euros in total.
