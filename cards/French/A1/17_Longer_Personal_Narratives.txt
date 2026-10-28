@@ -1,0 +1,51 @@
+#lang: fr -> en
+French::A1::Longer personal narratives (weekend stories, daily recount) | Samedi, je me suis levé tard, puis j'ai pris un café. | On Saturday, I got up late, then I had a coffee.
+French::A1::Longer personal narratives (weekend stories, daily recount) | Quand je suis arrivé au marché, j'ai acheté du pain. | When I arrived at the market, I bought some bread.
+French::A1::Longer personal narratives (weekend stories, daily recount) | Avant de partir, j'ai fermé la porte. | Before leaving, I closed the door.
+French::A1::Longer personal narratives (weekend stories, daily recount) | Avant de manger, nous avons lavé nos mains. | Before eating, we washed our hands.
+French::A1::Longer personal narratives (weekend stories, daily recount) | Pendant que je cuisine, il met la table. | While I cook, he lays the table.
+French::A1::Longer personal narratives (weekend stories, daily recount) | Pendant que tu travailles, je lis un livre. | While you work, I read a book.
+French::A1::Longer personal narratives (weekend stories, daily recount) | Quand il arrive, nous dînons ensemble. | When he arrives, we have dinner together.
+French::A1::Longer personal narratives (weekend stories, daily recount) | Quand elle est rentrée, elle a téléphoné à sa mère. | When she got home, she phoned her mother.
+French::A1::Longer personal narratives (weekend stories, daily recount) | Le matin, je prends le métro, mais hier j'ai pris le bus. | In the morning I take the metro, but yesterday I took the bus.
+French::A1::Longer personal narratives (weekend stories, daily recount) | D'habitude, je mange à midi, mais aujourd'hui j'ai mangé à une heure. | Usually I eat at noon, but today I ate at one o'clock.
+French::A1::Longer personal narratives (weekend stories, daily recount) | Hier, j'ai vu mon ami et je l'ai invité à dîner. | Yesterday, I saw my friend and invited him to dinner.
+French::A1::Longer personal narratives (weekend stories, daily recount) | Il est venu à huit heures et il m'a apporté des fleurs. | He came at eight o'clock and brought me some flowers.
+French::A1::Longer personal narratives (weekend stories, daily recount) | Je les ai mises dans un vase. | I put them in a vase.
+French::A1::Longer personal narratives (weekend stories, daily recount) | Nous avons mangé, puis nous avons regardé un film. | We ate, then we watched a film.
+French::A1::Longer personal narratives (weekend stories, daily recount) | Je n'ai pas aimé le film, mais je l'ai regardé. | I didn't like the film, but I watched it.
+French::A1::Longer personal narratives (weekend stories, daily recount) | Il ne m'a pas dit la vérité. | He didn't tell me the truth.
+French::A1::Longer personal narratives (weekend stories, daily recount) | Je ne l'ai pas vu hier. | I didn't see him yesterday.
+French::A1::Longer personal narratives (weekend stories, daily recount) | Elle ne les a pas invités à la fête. | She didn't invite them to the party.
+French::A1::Longer personal narratives (weekend stories, daily recount) | Nous ne sommes pas allés au restaurant. | We didn't go to the restaurant.
+French::A1::Longer personal narratives (weekend stories, daily recount) | Ils ne sont pas restés longtemps. | They didn't stay long.
+French::A1::Longer personal narratives (weekend stories, daily recount) | Je ne suis jamais allé à Rome. | I have never been to Rome.
+French::A1::Longer personal narratives (weekend stories, daily recount) | Je n'ai jamais mangé de sushis. | I have never eaten sushi.
+French::A1::Longer personal narratives (weekend stories, daily recount) | Elle ne travaille plus dans cette banque. | She no longer works in that bank.
+French::A1::Longer personal narratives (weekend stories, daily recount) | Je ne vais pas le voir demain. | I'm not going to see him tomorrow.
+French::A1::Longer personal narratives (weekend stories, daily recount) | Il ne veut pas me parler. | He doesn't want to talk to me.
+French::A1::Longer personal narratives (weekend stories, daily recount) | Je ne peux pas t'aider maintenant. | I can't help you now.
+French::A1::Longer personal narratives (weekend stories, daily recount) | Nous ne voulons pas les déranger. | We don't want to disturb them.
+French::A1::Longer personal narratives (weekend stories, daily recount) | Tu ne dois pas la regarder comme ça. | You mustn't look at her like that.
+French::A1::Longer personal narratives (weekend stories, daily recount) | Dimanche, je me suis reposé à la maison. | On Sunday, I rested at home.
+French::A1::Longer personal narratives (weekend stories, daily recount) | Le matin, je lis le journal avant de prendre ma douche. | In the morning, I read the newspaper before taking my shower.
+French::A1::Longer personal narratives (weekend stories, daily recount) | Après le déjeuner, nous sommes sortis. | After lunch, we went out.
+French::A1::Longer personal narratives (weekend stories, daily recount) | Après le dîner, il a fait la vaisselle. | After dinner, he did the washing-up.
+French::A1::Longer personal narratives (weekend stories, daily recount) | Pendant les vacances, nous avons beaucoup voyagé. | During the holidays, we travelled a lot.
+French::A1::Longer personal narratives (weekend stories, daily recount) | Pendant que nous marchons, nous parlons. | While we walk, we talk.
+French::A1::Longer personal narratives (weekend stories, daily recount) | Tous les jours, je me lève à sept heures, mais dimanche je me suis levé à dix heures. | Every day I get up at seven, but on Sunday I got up at ten.
+French::A1::Longer personal narratives (weekend stories, daily recount) | Hier soir, j'ai appelé ma sœur et nous avons parlé une heure. | Last night I called my sister and we talked for an hour.
+French::A1::Longer personal narratives (weekend stories, daily recount) | Elle m'a dit : « Je vais venir demain. » | She told me: "I'm going to come tomorrow."
+French::A1::Longer personal narratives (weekend stories, daily recount) | Je lui ai répondu : « Je ne peux pas. » | I answered her: "I can't."
+French::A1::Longer personal narratives (weekend stories, daily recount) | Nous prenons un taxi parce qu'il pleut maintenant. | We are taking a taxi because it is raining now.
+French::A1::Longer personal narratives (weekend stories, daily recount) | Samedi dernier, nous sommes allés à la plage et nous avons nagé. | Last Saturday, we went to the beach and swam.
+French::A1::Longer personal narratives (weekend stories, daily recount) | Le soir, nous avons mangé du poisson sur la terrasse. | In the evening, we ate fish on the terrace.
+French::A1::Longer personal narratives (weekend stories, daily recount) | Je ne l'ai pas acheté parce que c'est trop cher. | I didn't buy it because it is too expensive.
+French::A1::Longer personal narratives (weekend stories, daily recount) | Avant de dormir, je lis un peu. | Before sleeping, I read a little.
+French::A1::Longer personal narratives (weekend stories, daily recount) | Avant de sortir, tu dois prendre tes clés. | Before going out, you must take your keys.
+French::A1::Longer personal narratives (weekend stories, daily recount) | Quand tu pars, ne la laisse pas seule. | When you leave, don't leave her alone.
+French::A1::Longer personal narratives (weekend stories, daily recount) | Quand ils sont arrivés, nous ne les avons pas reconnus. | When they arrived, we didn't recognise them.
+French::A1::Longer personal narratives (weekend stories, daily recount) | Je vais te raconter ma journée. | I'm going to tell you about my day.
+French::A1::Longer personal narratives (weekend stories, daily recount) | D'abord, je suis allé au bureau et j'ai lu mes emails. | First, I went to the office and read my emails.
+French::A1::Longer personal narratives (weekend stories, daily recount) | Ensuite, j'ai déjeuné avec un collègue. | Then I had lunch with a colleague.
+French::A1::Longer personal narratives (weekend stories, daily recount) | Enfin, je suis rentré et je me suis couché tôt. | Finally, I came home and went to bed early.
