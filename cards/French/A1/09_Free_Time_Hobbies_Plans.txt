@@ -1,0 +1,46 @@
+#lang: fr -> en
+French::A1::Free time, hobbies & simple plans | Je vais jouer au tennis demain. | I am going to play tennis tomorrow.
+French::A1::Free time, hobbies & simple plans | Tu vas regarder un film ce soir ? | Are you going to watch a film this evening?
+French::A1::Free time, hobbies & simple plans | Il va lire un livre. | He is going to read a book.
+French::A1::Free time, hobbies & simple plans | Elle va écouter de la musique. | She is going to listen to music.
+French::A1::Free time, hobbies & simple plans | Nous allons visiter un musée samedi. | We are going to visit a museum on Saturday.
+French::A1::Free time, hobbies & simple plans | Vous allez voyager en été ? | Are you going to travel in the summer?
+French::A1::Free time, hobbies & simple plans | Ils vont organiser une fête. | They are going to organise a party.
+French::A1::Free time, hobbies & simple plans | Elles vont danser toute la nuit. | They are going to dance all night.
+French::A1::Free time, hobbies & simple plans | Je veux apprendre la guitare. | I want to learn the guitar.
+French::A1::Free time, hobbies & simple plans | Tu veux jouer aux cartes ? | Do you want to play cards?
+French::A1::Free time, hobbies & simple plans | Il veut faire du ski. | He wants to go skiing.
+French::A1::Free time, hobbies & simple plans | Nous voulons aller au cinéma. | We want to go to the cinema.
+French::A1::Free time, hobbies & simple plans | Vous voulez dîner avec nous ? | Do you want to have dinner with us?
+French::A1::Free time, hobbies & simple plans | Ils veulent voir ce spectacle. | They want to see this show.
+French::A1::Free time, hobbies & simple plans | Je peux venir avec toi. | I can come with you.
+French::A1::Free time, hobbies & simple plans | Tu peux venir à six heures ? | Can you come at six o'clock?
+French::A1::Free time, hobbies & simple plans | Elle peut chanter très bien. | She can sing very well.
+French::A1::Free time, hobbies & simple plans | Nous pouvons jouer dans le jardin. | We can play in the garden.
+French::A1::Free time, hobbies & simple plans | Vous pouvez entrer, madame. | You may come in, madam.
+French::A1::Free time, hobbies & simple plans | Ils peuvent rester jusqu'à minuit. | They can stay until midnight.
+French::A1::Free time, hobbies & simple plans | Je dois travailler ce week-end. | I have to work this weekend.
+French::A1::Free time, hobbies & simple plans | Tu dois ranger ta chambre. | You must tidy your room.
+French::A1::Free time, hobbies & simple plans | Il doit rentrer avant dix heures. | He has to be home before ten o'clock.
+French::A1::Free time, hobbies & simple plans | Nous devons partir bientôt. | We have to leave soon.
+French::A1::Free time, hobbies & simple plans | Vous devez acheter les billets. | You must buy the tickets.
+French::A1::Free time, hobbies & simple plans | Ils doivent finir leurs devoirs. | They have to finish their homework.
+French::A1::Free time, hobbies & simple plans | Qu'est-ce que tu aimes faire le dimanche ? | What do you like doing on Sundays?
+French::A1::Free time, hobbies & simple plans | J'aime lire et dessiner. | I like reading and drawing.
+French::A1::Free time, hobbies & simple plans | Il adore cuisiner. | He loves cooking.
+French::A1::Free time, hobbies & simple plans | Elle déteste attendre. | She hates waiting.
+French::A1::Free time, hobbies & simple plans | Nous préférons rester à la maison. | We prefer to stay at home.
+French::A1::Free time, hobbies & simple plans | Je voudrais voyager en Italie. | I would like to travel to Italy.
+French::A1::Free time, hobbies & simple plans | On va se promener au bord de la rivière ? | Shall we go for a walk by the river?
+French::A1::Free time, hobbies & simple plans | Qu'est-ce que vous allez faire demain ? | What are you going to do tomorrow?
+French::A1::Free time, hobbies & simple plans | Demain, je vais me reposer. | Tomorrow, I am going to rest.
+French::A1::Free time, hobbies & simple plans | La semaine prochaine, nous allons partir en vacances. | Next week, we are going on holiday.
+French::A1::Free time, hobbies & simple plans | Ce soir, je vais cuisiner pour mes amis. | This evening, I am going to cook for my friends.
+French::A1::Free time, hobbies & simple plans | Elle va peindre un tableau. | She is going to paint a picture.
+French::A1::Free time, hobbies & simple plans | Ils vont jouer au basket. | They are going to play basketball.
+French::A1::Free time, hobbies & simple plans | Mon passe-temps préféré est la photographie. | My favourite hobby is photography.
+French::A1::Free time, hobbies & simple plans | Tu peux jouer du piano ? | Can you play the piano?
+French::A1::Free time, hobbies & simple plans | Oui, mais je dois pratiquer. | Yes, but I have to practise.
+French::A1::Free time, hobbies & simple plans | On peut aller à la piscine samedi. | We can go to the swimming pool on Saturday.
+French::A1::Free time, hobbies & simple plans | Je vais retrouver mes amis au café. | I am going to meet my friends at the café.
+French::A1::Free time, hobbies & simple plans | Bon week-end et amusez-vous bien ! | Have a good weekend and enjoy yourselves!
