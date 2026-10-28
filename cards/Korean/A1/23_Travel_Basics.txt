@@ -1,0 +1,51 @@
+#lang: ko -> en
+Korean::A1::Travel basics (hotel, ticket, directions longer) | 호텔을 예약하고 싶어요. | I would like to book a hotel.
+Korean::A1::Travel basics (hotel, ticket, directions longer) | 이 호텔에 방이 있어요? | Does this hotel have a room?
+Korean::A1::Travel basics (hotel, ticket, directions longer) | 일 인실을 주세요. | A single room, please.
+Korean::A1::Travel basics (hotel, ticket, directions longer) | 이 인실을 주세요. | A double room, please.
+Korean::A1::Travel basics (hotel, ticket, directions longer) | 하룻밤에 얼마예요? | How much is it per night?
+Korean::A1::Travel basics (hotel, ticket, directions longer) | 이틀 묵을 거예요. | I will stay two nights.
+Korean::A1::Travel basics (hotel, ticket, directions longer) | 체크인은 몇 시예요? | What time is check-in?
+Korean::A1::Travel basics (hotel, ticket, directions longer) | 체크아웃은 열한 시예요. | Check-out is at eleven.
+Korean::A1::Travel basics (hotel, ticket, directions longer) | 여권을 보여 주세요. | Please show me your passport.
+Korean::A1::Travel basics (hotel, ticket, directions longer) | 여기에 이름을 써 주세요. | Please write your name here.
+Korean::A1::Travel basics (hotel, ticket, directions longer) | 방 열쇠 여기 있어요. | Here is your room key.
+Korean::A1::Travel basics (hotel, ticket, directions longer) | 방은 오 층에 있어요. | The room is on the fifth floor.
+Korean::A1::Travel basics (hotel, ticket, directions longer) | 엘리베이터를 타고 올라가세요. | Please take the lift up.
+Korean::A1::Travel basics (hotel, ticket, directions longer) | 아침 식사는 몇 시예요? | What time is breakfast?
+Korean::A1::Travel basics (hotel, ticket, directions longer) | 아침 식사는 일 층 식당에서 일곱 시부터 열 시까지예요. | Breakfast is in the ground-floor restaurant from seven to ten.
+Korean::A1::Travel basics (hotel, ticket, directions longer) | 와이파이 비밀번호가 뭐예요? | What is the Wi-Fi password?
+Korean::A1::Travel basics (hotel, ticket, directions longer) | 방에 수건이 없어요. | There are no towels in the room.
+Korean::A1::Travel basics (hotel, ticket, directions longer) | 뜨거운 물이 안 나와요. | There is no hot water.
+Korean::A1::Travel basics (hotel, ticket, directions longer) | 에어컨이 고장 났어요. | The air conditioner is broken.
+Korean::A1::Travel basics (hotel, ticket, directions longer) | 다른 방으로 바꿔 주세요. | Please change me to another room.
+Korean::A1::Travel basics (hotel, ticket, directions longer) | 짐을 맡길 수 있어요? | Can I leave my luggage?
+Korean::A1::Travel basics (hotel, ticket, directions longer) | 공항 가는 버스가 있어요? | Is there a bus to the airport?
+Korean::A1::Travel basics (hotel, ticket, directions longer) | 공항버스는 호텔 앞에서 타세요. | Please take the airport bus in front of the hotel.
+Korean::A1::Travel basics (hotel, ticket, directions longer) | 기차표를 사고 싶어요. | I would like to buy a train ticket.
+Korean::A1::Travel basics (hotel, ticket, directions longer) | 부산행 표를 두 장 주세요. | Two tickets to Busan, please.
+Korean::A1::Travel basics (hotel, ticket, directions longer) | 편도예요, 왕복이에요? | Is it one way or return?
+Korean::A1::Travel basics (hotel, ticket, directions longer) | 왕복으로 주세요. | A return, please.
+Korean::A1::Travel basics (hotel, ticket, directions longer) | 창가 자리로 주세요. | A window seat, please.
+Korean::A1::Travel basics (hotel, ticket, directions longer) | 기차는 몇 시에 출발해요? | What time does the train depart?
+Korean::A1::Travel basics (hotel, ticket, directions longer) | 기차는 열 시 삼십 분에 도착해요. | The train arrives at 10:30.
+Korean::A1::Travel basics (hotel, ticket, directions longer) | 몇 번 승강장에서 타요? | Which platform do I board from?
+Korean::A1::Travel basics (hotel, ticket, directions longer) | 삼 번 승강장에서 타세요. | Please board from platform three.
+Korean::A1::Travel basics (hotel, ticket, directions longer) | 지도 있어요? | Do you have a map?
+Korean::A1::Travel basics (hotel, ticket, directions longer) | 관광 안내소는 역 안에 있어요. | The tourist information centre is inside the station.
+Korean::A1::Travel basics (hotel, ticket, directions longer) | 여기에서 지하철역까지 어떻게 가요? | How do I get to the underground station from here?
+Korean::A1::Travel basics (hotel, ticket, directions longer) | 이 길로 쭉 가다가 사거리에서 오른쪽으로 가세요. | Go straight along this road and turn right at the crossroads.
+Korean::A1::Travel basics (hotel, ticket, directions longer) | 횡단보도를 건너서 왼쪽으로 가세요. | Cross the pedestrian crossing and turn left.
+Korean::A1::Travel basics (hotel, ticket, directions longer) | 신호등에서 왼쪽으로 돌아가세요. | Turn left at the traffic lights.
+Korean::A1::Travel basics (hotel, ticket, directions longer) | 저 건물 뒤에 있어요. | It is behind that building.
+Korean::A1::Travel basics (hotel, ticket, directions longer) | 걸어서 오 분 걸려요. | It takes five minutes on foot.
+Korean::A1::Travel basics (hotel, ticket, directions longer) | 여기에서 멀어요? | Is it far from here?
+Korean::A1::Travel basics (hotel, ticket, directions longer) | 길을 잃었어요. | I am lost.
+Korean::A1::Travel basics (hotel, ticket, directions longer) | 이 주소로 가 주세요. | Please take me to this address.
+Korean::A1::Travel basics (hotel, ticket, directions longer) | 사진을 찍어도 돼요? | May I take photos?
+Korean::A1::Travel basics (hotel, ticket, directions longer) | 여기는 관광객이 많아요. | There are many tourists here.
+Korean::A1::Travel basics (hotel, ticket, directions longer) | 이 박물관은 문을 몇 시에 열어요? | What time does this museum open?
+Korean::A1::Travel basics (hotel, ticket, directions longer) | 입장료는 얼마예요? | How much is the admission fee?
+Korean::A1::Travel basics (hotel, ticket, directions longer) | 학생 할인이 있어요? | Is there a student discount?
+Korean::A1::Travel basics (hotel, ticket, directions longer) | 기념품 가게는 출구 옆에 있어요. | The souvenir shop is next to the exit.
+Korean::A1::Travel basics (hotel, ticket, directions longer) | 즐거운 여행 되세요. | Have a pleasant trip.
