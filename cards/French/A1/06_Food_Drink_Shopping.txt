@@ -1,0 +1,51 @@
+#lang: fr -> en
+French::A1::Food, drink & shopping (market, supermarket) | Je voudrais du pain, s'il vous plaît. | I would like some bread, please.
+French::A1::Food, drink & shopping (market, supermarket) | Je mange une pomme. | I am eating an apple.
+French::A1::Food, drink & shopping (market, supermarket) | Je mange des pommes. | I eat apples.
+French::A1::Food, drink & shopping (market, supermarket) | Elle boit du thé le matin. | She drinks tea in the morning.
+French::A1::Food, drink & shopping (market, supermarket) | Il boit de l'eau. | He drinks water.
+French::A1::Food, drink & shopping (market, supermarket) | Nous prenons un café. | We are having a coffee.
+French::A1::Food, drink & shopping (market, supermarket) | Nous faisons les courses le samedi. | We do the shopping on Saturdays.
+French::A1::Food, drink & shopping (market, supermarket) | Je vais au marché. | I am going to the market.
+French::A1::Food, drink & shopping (market, supermarket) | Tu vas au supermarché ? | Are you going to the supermarket?
+French::A1::Food, drink & shopping (market, supermarket) | Elle va à la boulangerie. | She is going to the bakery.
+French::A1::Food, drink & shopping (market, supermarket) | Ils vont à la boucherie. | They are going to the butcher's.
+French::A1::Food, drink & shopping (market, supermarket) | Un kilo de tomates, s'il vous plaît. | A kilo of tomatoes, please.
+French::A1::Food, drink & shopping (market, supermarket) | Une bouteille d'eau, s'il vous plaît. | A bottle of water, please.
+French::A1::Food, drink & shopping (market, supermarket) | Un litre de lait, s'il vous plaît. | A litre of milk, please.
+French::A1::Food, drink & shopping (market, supermarket) | Un paquet de pâtes. | A packet of pasta.
+French::A1::Food, drink & shopping (market, supermarket) | Une douzaine d'œufs, s'il vous plaît. | A dozen eggs, please.
+French::A1::Food, drink & shopping (market, supermarket) | Un morceau de fromage. | A piece of cheese.
+French::A1::Food, drink & shopping (market, supermarket) | Une tranche de jambon. | A slice of ham.
+French::A1::Food, drink & shopping (market, supermarket) | Il y a beaucoup de fruits frais ici. | There is a lot of fresh fruit here.
+French::A1::Food, drink & shopping (market, supermarket) | Peu de gens achètent du poisson ici. | Few people buy fish here.
+French::A1::Food, drink & shopping (market, supermarket) | Je choisis des légumes. | I am choosing some vegetables.
+French::A1::Food, drink & shopping (market, supermarket) | Tu finis ton repas ? | Are you finishing your meal?
+French::A1::Food, drink & shopping (market, supermarket) | Elle remplit le panier. | She fills the basket.
+French::A1::Food, drink & shopping (market, supermarket) | Nous choisissons du fromage. | We are choosing some cheese.
+French::A1::Food, drink & shopping (market, supermarket) | Vous finissez le gâteau ? | Are you finishing the cake?
+French::A1::Food, drink & shopping (market, supermarket) | Ils vendent du poisson frais. | They sell fresh fish.
+French::A1::Food, drink & shopping (market, supermarket) | J'attends mon ami devant le magasin. | I am waiting for my friend in front of the shop.
+French::A1::Food, drink & shopping (market, supermarket) | Elle perd souvent son porte-monnaie. | She often loses her purse.
+French::A1::Food, drink & shopping (market, supermarket) | Il rend le sac au vendeur. | He gives the bag back to the shop assistant.
+French::A1::Food, drink & shopping (market, supermarket) | Nous répondons au vendeur. | We answer the shop assistant.
+French::A1::Food, drink & shopping (market, supermarket) | Je fais la cuisine ce soir. | I am cooking this evening.
+French::A1::Food, drink & shopping (market, supermarket) | Tu fais le thé ? | Are you making the tea?
+French::A1::Food, drink & shopping (market, supermarket) | Il fait des crêpes pour le dîner. | He is making pancakes for dinner.
+French::A1::Food, drink & shopping (market, supermarket) | Nous allons au restaurant ce soir. | We are going to the restaurant this evening.
+French::A1::Food, drink & shopping (market, supermarket) | Vous allez bien ? | Are you well?
+French::A1::Food, drink & shopping (market, supermarket) | Ils font du riz avec du poulet. | They are making rice with chicken.
+French::A1::Food, drink & shopping (market, supermarket) | Combien coûte le fromage ? | How much does the cheese cost?
+French::A1::Food, drink & shopping (market, supermarket) | Ça coûte huit euros. | It costs eight euros.
+French::A1::Food, drink & shopping (market, supermarket) | Les pommes de terre sont à deux euros le kilo. | The potatoes are two euros a kilo.
+French::A1::Food, drink & shopping (market, supermarket) | C'est trop cher. | That is too expensive.
+French::A1::Food, drink & shopping (market, supermarket) | Je prends de la viande et des légumes. | I am taking some meat and some vegetables.
+French::A1::Food, drink & shopping (market, supermarket) | Il achète une baguette et des croissants. | He buys a baguette and some croissants.
+French::A1::Food, drink & shopping (market, supermarket) | J'aime le chocolat, alors j'achète du chocolat. | I like chocolate, so I am buying some chocolate.
+French::A1::Food, drink & shopping (market, supermarket) | Nous mangeons de la salade et du poisson. | We are eating salad and fish.
+French::A1::Food, drink & shopping (market, supermarket) | Il y a assez de pain pour tout le monde. | There is enough bread for everyone.
+French::A1::Food, drink & shopping (market, supermarket) | Tu veux un peu de sucre ? | Would you like a little sugar?
+French::A1::Food, drink & shopping (market, supermarket) | Oui, un peu, merci. | Yes, a little, thank you.
+French::A1::Food, drink & shopping (market, supermarket) | Je voudrais une bouteille de vin rouge. | I would like a bottle of red wine.
+French::A1::Food, drink & shopping (market, supermarket) | Voilà, c'est tout pour aujourd'hui. | That's all for today.
+French::A1::Food, drink & shopping (market, supermarket) | Bon appétit ! | Enjoy your meal!
