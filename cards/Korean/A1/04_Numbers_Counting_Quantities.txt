@@ -1,0 +1,46 @@
+#lang: ko -> en
+Korean::A1::Numbers, counting & basic quantities (age, money, objects) | 하나, 둘, 셋. | One, two, three.
+Korean::A1::Numbers, counting & basic quantities (age, money, objects) | 저는 사과가 세 개 있어요. | I have three apples.
+Korean::A1::Numbers, counting & basic quantities (age, money, objects) | 저는 형이 두 명 있어요. | I have two older brothers.
+Korean::A1::Numbers, counting & basic quantities (age, money, objects) | 저는 스물다섯 살이에요. | I am twenty-five years old.
+Korean::A1::Numbers, counting & basic quantities (age, money, objects) | 우리 아버지는 쉰 살이에요. | My father is fifty years old.
+Korean::A1::Numbers, counting & basic quantities (age, money, objects) | 일, 이, 삼. | One, two, three (Sino-Korean).
+Korean::A1::Numbers, counting & basic quantities (age, money, objects) | 제 전화번호는 공일공 일이삼사 오육칠팔이에요. | My phone number is 010 1234 5678.
+Korean::A1::Numbers, counting & basic quantities (age, money, objects) | 오늘은 오월 오일이에요. | Today is the fifth of May.
+Korean::A1::Numbers, counting & basic quantities (age, money, objects) | 이 책은 만 원이에요. | This book is ten thousand won.
+Korean::A1::Numbers, counting & basic quantities (age, money, objects) | 커피는 사천오백 원이에요. | The coffee is four thousand five hundred won.
+Korean::A1::Numbers, counting & basic quantities (age, money, objects) | 이 가방은 이만 원이에요. | This bag is twenty thousand won.
+Korean::A1::Numbers, counting & basic quantities (age, money, objects) | 택시비는 팔천 원이에요. | The taxi fare is eight thousand won.
+Korean::A1::Numbers, counting & basic quantities (age, money, objects) | 김밥 한 줄은 삼천 원이에요. | One roll of gimbap is three thousand won.
+Korean::A1::Numbers, counting & basic quantities (age, money, objects) | 저는 학생이 열 명 있어요. | There are ten students.
+Korean::A1::Numbers, counting & basic quantities (age, money, objects) | 교실에 의자가 열두 개 있어요. | There are twelve chairs in the classroom.
+Korean::A1::Numbers, counting & basic quantities (age, money, objects) | 저는 연필이 다섯 자루 있어요. | I have five pencils.
+Korean::A1::Numbers, counting & basic quantities (age, money, objects) | 저는 책이 네 권 있어요. | I have four books.
+Korean::A1::Numbers, counting & basic quantities (age, money, objects) | 저는 커피를 두 잔 마셔요. | I drink two cups of coffee.
+Korean::A1::Numbers, counting & basic quantities (age, money, objects) | 물 한 병 주세요. | One bottle of water, please.
+Korean::A1::Numbers, counting & basic quantities (age, money, objects) | 맥주 세 병 주세요. | Three bottles of beer, please.
+Korean::A1::Numbers, counting & basic quantities (age, money, objects) | 저는 고양이가 한 마리 있어요. | I have one cat.
+Korean::A1::Numbers, counting & basic quantities (age, money, objects) | 개가 두 마리 있어요. | There are two dogs.
+Korean::A1::Numbers, counting & basic quantities (age, money, objects) | 종이 열 장이 필요해요. | I need ten sheets of paper.
+Korean::A1::Numbers, counting & basic quantities (age, money, objects) | 버스가 한 대 와요. | A bus is coming.
+Korean::A1::Numbers, counting & basic quantities (age, money, objects) | 저는 차가 두 대 있어요. | I have two cars.
+Korean::A1::Numbers, counting & basic quantities (age, money, objects) | 오늘은 이십 도예요. | It is twenty degrees today.
+Korean::A1::Numbers, counting & basic quantities (age, money, objects) | 지금은 아홉 시 십 분이에요. | It is ten past nine now.
+Korean::A1::Numbers, counting & basic quantities (age, money, objects) | 저는 일 년에 한 번 여행해요. | I travel once a year.
+Korean::A1::Numbers, counting & basic quantities (age, money, objects) | 한 달에 두 번 영화를 봐요. | I watch films twice a month.
+Korean::A1::Numbers, counting & basic quantities (age, money, objects) | 이 방은 이십 제곱미터예요. | This room is twenty square metres.
+Korean::A1::Numbers, counting & basic quantities (age, money, objects) | 우리 집은 삼 층이에요. | Our home is on the third floor.
+Korean::A1::Numbers, counting & basic quantities (age, money, objects) | 저는 오 층에 살아요. | I live on the fifth floor.
+Korean::A1::Numbers, counting & basic quantities (age, money, objects) | 버스 오십 번을 타요. | I take the number fifty bus.
+Korean::A1::Numbers, counting & basic quantities (age, money, objects) | 이 사과는 몇 개예요? | How many apples are these?
+Korean::A1::Numbers, counting & basic quantities (age, money, objects) | 이것은 얼마예요? | How much is this?
+Korean::A1::Numbers, counting & basic quantities (age, money, objects) | 몇 명이에요? | How many people are there?
+Korean::A1::Numbers, counting & basic quantities (age, money, objects) | 저는 백 원이 있어요. | I have one hundred won.
+Korean::A1::Numbers, counting & basic quantities (age, money, objects) | 천 원짜리 지폐가 있어요. | I have a one-thousand-won note.
+Korean::A1::Numbers, counting & basic quantities (age, money, objects) | 오만 원 있어요? | Do you have fifty thousand won?
+Korean::A1::Numbers, counting & basic quantities (age, money, objects) | 저는 일 학년이에요. | I am a first-year student.
+Korean::A1::Numbers, counting & basic quantities (age, money, objects) | 우리 반은 스무 명이에요. | Our class has twenty people.
+Korean::A1::Numbers, counting & basic quantities (age, money, objects) | 삼 더하기 사는 칠이에요. | Three plus four is seven.
+Korean::A1::Numbers, counting & basic quantities (age, money, objects) | 저는 열 시에 일어나요. | I get up at ten o'clock.
+Korean::A1::Numbers, counting & basic quantities (age, money, objects) | 오늘이 며칠이에요? | What is the date today?
+Korean::A1::Numbers, counting & basic quantities (age, money, objects) | 사과 두 개와 귤 세 개를 샀어요. | I bought two apples and three tangerines.
