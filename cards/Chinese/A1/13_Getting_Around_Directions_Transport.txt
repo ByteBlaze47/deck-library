@@ -1,0 +1,46 @@
+#lang: zh -> en
+Chinese::A1::Getting around (directions, transport basics) | 我坐地铁去上班。 | I go to work by metro.
+Chinese::A1::Getting around (directions, transport basics) | 他坐公共汽车去学校。 | He goes to school by bus.
+Chinese::A1::Getting around (directions, transport basics) | 她骑自行车去公园。 | She cycles to the park.
+Chinese::A1::Getting around (directions, transport basics) | 我们开车去北京。 | We are driving to Beijing.
+Chinese::A1::Getting around (directions, transport basics) | 我走路回家。 | I walk home.
+Chinese::A1::Getting around (directions, transport basics) | 你怎么去？ | How are you getting there?
+Chinese::A1::Getting around (directions, transport basics) | 我坐出租车去机场。 | I take a taxi to the airport.
+Chinese::A1::Getting around (directions, transport basics) | 火车站在哪儿？ | Where is the railway station?
+Chinese::A1::Getting around (directions, transport basics) | 请问，地铁站怎么走？ | Excuse me, how do I get to the metro station?
+Chinese::A1::Getting around (directions, transport basics) | 一直走。 | Go straight on.
+Chinese::A1::Getting around (directions, transport basics) | 往前走。 | Go forward.
+Chinese::A1::Getting around (directions, transport basics) | 往左拐。 | Turn left.
+Chinese::A1::Getting around (directions, transport basics) | 往右拐。 | Turn right.
+Chinese::A1::Getting around (directions, transport basics) | 向前走五分钟。 | Walk forward for five minutes.
+Chinese::A1::Getting around (directions, transport basics) | 到路口往右拐。 | Turn right at the junction.
+Chinese::A1::Getting around (directions, transport basics) | 你从这儿一直往前走。 | From here, just keep going straight ahead.
+Chinese::A1::Getting around (directions, transport basics) | 从我家到学校很近。 | It is very close from my home to the school.
+Chinese::A1::Getting around (directions, transport basics) | 从学校到公司很远。 | It is very far from the school to the office.
+Chinese::A1::Getting around (directions, transport basics) | 从这儿到火车站有多远？ | How far is it from here to the railway station?
+Chinese::A1::Getting around (directions, transport basics) | 从这儿到机场坐地铁要一个小时。 | It takes an hour by metro from here to the airport.
+Chinese::A1::Getting around (directions, transport basics) | 我从家去公司。 | I go from home to the office.
+Chinese::A1::Getting around (directions, transport basics) | 他从北京来。 | He comes from Beijing.
+Chinese::A1::Getting around (directions, transport basics) | 我从八点工作到五点。 | I work from eight until five.
+Chinese::A1::Getting around (directions, transport basics) | 从星期一到星期五我上班。 | I work from Monday to Friday.
+Chinese::A1::Getting around (directions, transport basics) | 我去银行取钱。 | I go to the bank to withdraw money.
+Chinese::A1::Getting around (directions, transport basics) | 他去机场接朋友。 | He goes to the airport to pick up a friend.
+Chinese::A1::Getting around (directions, transport basics) | 她来我家吃饭。 | She comes to my home to eat.
+Chinese::A1::Getting around (directions, transport basics) | 你来我家玩儿吧。 | Come over to my place.
+Chinese::A1::Getting around (directions, transport basics) | 我回家了。 | I have gone home.
+Chinese::A1::Getting around (directions, transport basics) | 他回北京了。 | He has gone back to Beijing.
+Chinese::A1::Getting around (directions, transport basics) | 我在等公共汽车。 | I am waiting for the bus.
+Chinese::A1::Getting around (directions, transport basics) | 他在开车。 | He is driving.
+Chinese::A1::Getting around (directions, transport basics) | 她在骑自行车。 | She is cycling.
+Chinese::A1::Getting around (directions, transport basics) | 我在地铁上。 | I am on the metro.
+Chinese::A1::Getting around (directions, transport basics) | 公共汽车来了。 | The bus has come.
+Chinese::A1::Getting around (directions, transport basics) | 车在这儿停。 | The car stops here.
+Chinese::A1::Getting around (directions, transport basics) | 这儿离火车站很近。 | It is very close to the railway station here.
+Chinese::A1::Getting around (directions, transport basics) | 学校离我家不远。 | The school is not far from my home.
+Chinese::A1::Getting around (directions, transport basics) | 公司离这儿很远。 | The office is very far from here.
+Chinese::A1::Getting around (directions, transport basics) | 到了吗？ | Are we there yet?
+Chinese::A1::Getting around (directions, transport basics) | 我们到了。 | We have arrived.
+Chinese::A1::Getting around (directions, transport basics) | 我到家了。 | I have arrived home.
+Chinese::A1::Getting around (directions, transport basics) | 请在这儿停车。 | Please stop the car here.
+Chinese::A1::Getting around (directions, transport basics) | 你在哪儿下车？ | Where do you get off?
+Chinese::A1::Getting around (directions, transport basics) | 我在下一站下车。 | I get off at the next stop.
