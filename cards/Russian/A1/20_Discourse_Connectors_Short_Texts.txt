@@ -1,0 +1,46 @@
+#lang: ru -> en
+Russian::A1::Discourse connectors & short coherent texts | Я встал, умылся и пошёл на кухню. | I got up, washed and went to the kitchen. (male)
+Russian::A1::Discourse connectors & short coherent texts | Я люблю кофе, а мой муж любит чай. | I love coffee, and my husband loves tea.
+Russian::A1::Discourse connectors & short coherent texts | Он хочет пойти в кино, но у него нет билета. | He wants to go to the cinema but he doesn't have a ticket.
+Russian::A1::Discourse connectors & short coherent texts | Я дома, потому что я болею. | I'm at home because I'm ill.
+Russian::A1::Discourse connectors & short coherent texts | Когда я прихожу домой, я сразу готовлю ужин. | When I come home I cook dinner straight away.
+Russian::A1::Discourse connectors & short coherent texts | Когда мы были в Москве, мы жили у друзей. | When we were in Moscow we stayed with friends.
+Russian::A1::Discourse connectors & short coherent texts | Если у меня будет время, я позвоню вам. | If I have time, I'll call you.
+Russian::A1::Discourse connectors & short coherent texts | Я иду в магазин, чтобы купить хлеб. | I'm going to the shop to buy bread.
+Russian::A1::Discourse connectors & short coherent texts | Она учит русский, чтобы работать в России. | She's learning Russian in order to work in Russia.
+Russian::A1::Discourse connectors & short coherent texts | Он надел куртку, чтобы не замёрзнуть. | He put on a jacket so as not to freeze.
+Russian::A1::Discourse connectors & short coherent texts | Я не пошёл на работу, потому что был болен. | I didn't go to work because I was ill. (male)
+Russian::A1::Discourse connectors & short coherent texts | Меня зовут Ольга, мне двадцать пять лет, и я живу в Москве. | My name is Olga, I'm twenty-five and I live in Moscow.
+Russian::A1::Discourse connectors & short coherent texts | Я работаю в банке. Моя работа интересная, но трудная. | I work in a bank. My job is interesting but hard.
+Russian::A1::Discourse connectors & short coherent texts | Утром я пью кофе. Потом я иду на работу. | In the morning I drink coffee. Then I go to work.
+Russian::A1::Discourse connectors & short coherent texts | Сначала мы пообедали, а потом пошли гулять. | First we had lunch and then went for a walk.
+Russian::A1::Discourse connectors & short coherent texts | Сначала я позвоню врачу, а потом поеду на работу. | First I'll phone the doctor, and then I'll go to work.
+Russian::A1::Discourse connectors & short coherent texts | Во-первых, там дёшево. Во-вторых, там красиво. | Firstly, it's cheap there. Secondly, it's beautiful there.
+Russian::A1::Discourse connectors & short coherent texts | Кроме того, там много музеев. | Besides, there are many museums there.
+Russian::A1::Discourse connectors & short coherent texts | Поэтому мы любим этот город. | That's why we love this city.
+Russian::A1::Discourse connectors & short coherent texts | Однако погода там не очень хорошая. | However, the weather there isn't very good.
+Russian::A1::Discourse connectors & short coherent texts | Сегодня суббота. Я не работаю. Я отдыхаю дома. | Today is Saturday. I'm not working. I'm resting at home.
+Russian::A1::Discourse connectors & short coherent texts | Этот город мне нравится, а вот погода — нет. | I like this city, but not the weather.
+Russian::A1::Discourse connectors & short coherent texts | Что касается меня, я люблю читать. | As for me, I like reading.
+Russian::A1::Discourse connectors & short coherent texts | Моя семья небольшая: родители, брат и я. | My family is small: my parents, my brother and me.
+Russian::A1::Discourse connectors & short coherent texts | Мой брат живёт далеко, но мы часто звоним друг другу. | My brother lives far away but we often call each other.
+Russian::A1::Discourse connectors & short coherent texts | Я думаю, что русский язык трудный, но очень красивый. | I think Russian is difficult but very beautiful.
+Russian::A1::Discourse connectors & short coherent texts | Он сказал, что придёт в семь. | He said he would come at seven.
+Russian::A1::Discourse connectors & short coherent texts | Она спросила, где находится аптека. | She asked where the chemist's was.
+Russian::A1::Discourse connectors & short coherent texts | Я не знаю, когда он вернётся. | I don't know when he will return.
+Russian::A1::Discourse connectors & short coherent texts | Я знаю, что вы заняты, но мне нужна помощь. | I know you're busy but I need help.
+Russian::A1::Discourse connectors & short coherent texts | Мы пошли в парк, хотя шёл дождь. | We went to the park although it was raining.
+Russian::A1::Discourse connectors & short coherent texts | Я устал, поэтому лягу спать рано. | I'm tired, so I'll go to bed early.
+Russian::A1::Discourse connectors & short coherent texts | Пока я готовил ужин, жена читала книгу. | While I was cooking dinner, my wife read a book.
+Russian::A1::Discourse connectors & short coherent texts | Как только я приеду, я позвоню. | As soon as I arrive, I'll call.
+Russian::A1::Discourse connectors & short coherent texts | После работы я иду в спортзал, а потом возвращаюсь домой. | After work I go to the gym and then return home.
+Russian::A1::Discourse connectors & short coherent texts | Перед сном я обычно читаю. | Before bed I usually read.
+Russian::A1::Discourse connectors & short coherent texts | Вчера я был в музее. Там было очень интересно. | Yesterday I was at the museum. It was very interesting there.
+Russian::A1::Discourse connectors & short coherent texts | Мы хотели поехать на море, но погода была плохая. | We wanted to go to the sea but the weather was bad.
+Russian::A1::Discourse connectors & short coherent texts | Он не только добрый, но и умный. | He's not only kind but also clever.
+Russian::A1::Discourse connectors & short coherent texts | Или чай, или кофе — мне всё равно. | Either tea or coffee — I don't mind.
+Russian::A1::Discourse connectors & short coherent texts | Ни он, ни она не знают об этом. | Neither he nor she knows about it.
+Russian::A1::Discourse connectors & short coherent texts | Я хочу не только отдохнуть, но и посмотреть город. | I want not only to rest but also to see the city.
+Russian::A1::Discourse connectors & short coherent texts | Вот мой день: я работаю, обедаю, гуляю и ужинаю с семьёй. | That's my day: I work, have lunch, walk and have dinner with my family.
+Russian::A1::Discourse connectors & short coherent texts | Это было давно, но я хорошо помню тот день. | It was long ago but I remember that day well.
+Russian::A1::Discourse connectors & short coherent texts | Вот и всё, что я хотел сказать. | That's all I wanted to say.
