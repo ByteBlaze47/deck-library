@@ -1,0 +1,36 @@
+#lang: ru -> en
+Russian::A1::Family & close relationships | Это моя семья. | This is my family.
+Russian::A1::Family & close relationships | Это мой отец. | This is my father.
+Russian::A1::Family & close relationships | Это моя мать. | This is my mother.
+Russian::A1::Family & close relationships | Мой папа врач. | My dad is a doctor.
+Russian::A1::Family & close relationships | Моя мама учительница. | My mum is a teacher.
+Russian::A1::Family & close relationships | У меня есть брат. | I have a brother.
+Russian::A1::Family & close relationships | У меня есть сестра. | I have a sister.
+Russian::A1::Family & close relationships | У тебя есть дети? | Do you have children?
+Russian::A1::Family & close relationships | У вас большая семья? | Do you have a big family?
+Russian::A1::Family & close relationships | Это дом моих родителей. | This is my parents' house.
+Russian::A1::Family & close relationships | Мои родители живут в Москве. | My parents live in Moscow.
+Russian::A1::Family & close relationships | Как зовут вашу сестру? | What is your sister called?
+Russian::A1::Family & close relationships | Мою сестру зовут Ольга. | My sister's name is Olga.
+Russian::A1::Family & close relationships | Моего брата зовут Павел. | My brother's name is Pavel.
+Russian::A1::Family & close relationships | Это жена моего брата. | This is my brother's wife.
+Russian::A1::Family & close relationships | Это муж моей сестры. | This is my sister's husband.
+Russian::A1::Family & close relationships | Моя бабушка очень добрая. | My grandmother is very kind.
+Russian::A1::Family & close relationships | Мой дедушка старый. | My grandfather is old.
+Russian::A1::Family & close relationships | У нас есть дочь. | We have a daughter.
+Russian::A1::Family & close relationships | У них есть сын. | They have a son.
+Russian::A1::Family & close relationships | Наш сын маленький. | Our son is little.
+Russian::A1::Family & close relationships | Наша дочь студентка. | Our daughter is a student.
+Russian::A1::Family & close relationships | Его родители дома. | His parents are at home.
+Russian::A1::Family & close relationships | Её брат работает в банке. | Her brother works in a bank.
+Russian::A1::Family & close relationships | Их дети в школе. | Their children are at school.
+Russian::A1::Family & close relationships | Мой дядя живёт в Казани. | My uncle lives in Kazan.
+Russian::A1::Family & close relationships | Моя тётя любит готовить. | My aunt likes cooking.
+Russian::A1::Family & close relationships | Это мои двоюродные братья. | These are my cousins.
+Russian::A1::Family & close relationships | У моей подруги нет сестры. | My friend doesn't have a sister.
+Russian::A1::Family & close relationships | У моего друга два брата. | My friend has two brothers.
+Russian::A1::Family & close relationships | Мой муж инженер. | My husband is an engineer.
+Russian::A1::Family & close relationships | Моя жена дома. | My wife is at home.
+Russian::A1::Family & close relationships | Я люблю свою семью. | I love my family.
+Russian::A1::Family & close relationships | Мы с братом очень похожи. | My brother and I are very alike.
+Russian::A1::Family & close relationships | Вся семья дома. | The whole family is at home.
