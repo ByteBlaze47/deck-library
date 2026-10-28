@@ -1,0 +1,41 @@
+#lang: ko -> en
+Korean::A1::Weather, seasons & simple descriptions | 오늘 날씨가 어때요? | What is the weather like today?
+Korean::A1::Weather, seasons & simple descriptions | 오늘은 날씨가 좋아요. | The weather is nice today.
+Korean::A1::Weather, seasons & simple descriptions | 오늘은 날씨가 나빠요. | The weather is bad today.
+Korean::A1::Weather, seasons & simple descriptions | 오늘은 따뜻해요. | It is warm today.
+Korean::A1::Weather, seasons & simple descriptions | 오늘은 더워요. | It is hot today.
+Korean::A1::Weather, seasons & simple descriptions | 오늘은 추워요. | It is cold today.
+Korean::A1::Weather, seasons & simple descriptions | 오늘은 시원해요. | It is cool today.
+Korean::A1::Weather, seasons & simple descriptions | 오늘은 흐려요. | It is cloudy today.
+Korean::A1::Weather, seasons & simple descriptions | 오늘은 맑아요. | It is clear today.
+Korean::A1::Weather, seasons & simple descriptions | 비가 와요. | It is raining.
+Korean::A1::Weather, seasons & simple descriptions | 눈이 와요. | It is snowing.
+Korean::A1::Weather, seasons & simple descriptions | 바람이 불어요. | The wind is blowing.
+Korean::A1::Weather, seasons & simple descriptions | 바람이 많이 불어요. | The wind is blowing a lot.
+Korean::A1::Weather, seasons & simple descriptions | 비가 많이 와요. | It is raining heavily.
+Korean::A1::Weather, seasons & simple descriptions | 눈이 조금 와요. | It is snowing a little.
+Korean::A1::Weather, seasons & simple descriptions | 내일은 비가 올 거예요. | It will rain tomorrow.
+Korean::A1::Weather, seasons & simple descriptions | 내일은 날씨가 좋을 거예요. | The weather will be nice tomorrow.
+Korean::A1::Weather, seasons & simple descriptions | 한국에는 사계절이 있어요. | Korea has four seasons.
+Korean::A1::Weather, seasons & simple descriptions | 봄은 따뜻해요. | Spring is warm.
+Korean::A1::Weather, seasons & simple descriptions | 여름은 덥고 비가 많이 와요. | Summer is hot and rainy.
+Korean::A1::Weather, seasons & simple descriptions | 가을은 시원하고 맑아요. | Autumn is cool and clear.
+Korean::A1::Weather, seasons & simple descriptions | 겨울은 춥고 눈이 와요. | Winter is cold and it snows.
+Korean::A1::Weather, seasons & simple descriptions | 저는 봄을 좋아해요. | I like spring.
+Korean::A1::Weather, seasons & simple descriptions | 저는 여름을 안 좋아해요. | I do not like summer.
+Korean::A1::Weather, seasons & simple descriptions | 저는 가을이 제일 좋아요. | Autumn is my favourite.
+Korean::A1::Weather, seasons & simple descriptions | 저는 겨울에 스키를 타요. | I go skiing in winter.
+Korean::A1::Weather, seasons & simple descriptions | 오늘은 아주 더워요. | It is very hot today.
+Korean::A1::Weather, seasons & simple descriptions | 오늘은 너무 추워요. | It is too cold today.
+Korean::A1::Weather, seasons & simple descriptions | 오늘은 조금 따뜻해요. | It is a little warm today.
+Korean::A1::Weather, seasons & simple descriptions | 어제는 별로 안 추웠어요. | It was not very cold yesterday.
+Korean::A1::Weather, seasons & simple descriptions | 꽃이 예뻐요. | The flowers are pretty.
+Korean::A1::Weather, seasons & simple descriptions | 하늘이 파래요. | The sky is blue.
+Korean::A1::Weather, seasons & simple descriptions | 구름이 많아요. | There are many clouds.
+Korean::A1::Weather, seasons & simple descriptions | 해가 떠요. | The sun rises.
+Korean::A1::Weather, seasons & simple descriptions | 달이 밝아요. | The moon is bright.
+Korean::A1::Weather, seasons & simple descriptions | 오늘은 기온이 이십 도예요. | The temperature is twenty degrees today.
+Korean::A1::Weather, seasons & simple descriptions | 오늘은 영하 오 도예요. | It is minus five degrees today.
+Korean::A1::Weather, seasons & simple descriptions | 날씨가 정말 좋아요. | The weather is really nice.
+Korean::A1::Weather, seasons & simple descriptions | 우산이 필요해요. | I need an umbrella.
+Korean::A1::Weather, seasons & simple descriptions | 외투를 입으세요. | Please wear a coat.
