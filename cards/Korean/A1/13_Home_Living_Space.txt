@@ -1,0 +1,46 @@
+#lang: ko -> en
+Korean::A1::Home & living space description | 우리 집은 아파트예요. | Our home is a flat.
+Korean::A1::Home & living space description | 우리 집은 서울에 있어요. | Our home is in Seoul.
+Korean::A1::Home & living space description | 집에 방이 세 개 있어요. | There are three rooms in the house.
+Korean::A1::Home & living space description | 거실에 소파가 있어요. | There is a sofa in the living room.
+Korean::A1::Home & living space description | 거실에 텔레비전이 있어요. | There is a television in the living room.
+Korean::A1::Home & living space description | 침실에 침대가 있어요. | There is a bed in the bedroom.
+Korean::A1::Home & living space description | 부엌에 냉장고가 있어요. | There is a fridge in the kitchen.
+Korean::A1::Home & living space description | 부엌에서 요리해요. | I cook in the kitchen.
+Korean::A1::Home & living space description | 화장실은 작아요. | The bathroom is small.
+Korean::A1::Home & living space description | 욕실에서 샤워해요. | I take a shower in the bathroom.
+Korean::A1::Home & living space description | 베란다에 화분이 있어요. | There are flower pots on the balcony.
+Korean::A1::Home & living space description | 현관에 신발이 있어요. | There are shoes in the hallway.
+Korean::A1::Home & living space description | 방이 넓어요. | The room is spacious.
+Korean::A1::Home & living space description | 방이 좁아요. | The room is narrow.
+Korean::A1::Home & living space description | 방이 깨끗해요. | The room is clean.
+Korean::A1::Home & living space description | 방이 더러워요. | The room is dirty.
+Korean::A1::Home & living space description | 거실은 크고 밝아요. | The living room is big and bright.
+Korean::A1::Home & living space description | 제 방은 작지만 아늑해요. | My room is small but cosy.
+Korean::A1::Home & living space description | 저는 큰 창문이 있는 방이 좋아요. | I like a room with a big window.
+Korean::A1::Home & living space description | 책상 위에 컴퓨터가 있어요. | There is a computer on the desk.
+Korean::A1::Home & living space description | 의자 옆에 책장이 있어요. | There is a bookshelf next to the chair.
+Korean::A1::Home & living space description | 벽에 시계가 있어요. | There is a clock on the wall.
+Korean::A1::Home & living space description | 창문 앞에 식탁이 있어요. | There is a dining table in front of the window.
+Korean::A1::Home & living space description | 침대 아래에 가방이 있어요. | There is a bag under the bed.
+Korean::A1::Home & living space description | 문 뒤에 옷이 있어요. | There are clothes behind the door.
+Korean::A1::Home & living space description | 저는 옷장에 옷을 넣어요. | I put clothes in the wardrobe.
+Korean::A1::Home & living space description | 저는 방에서 음악을 들어요. | I listen to music in my room.
+Korean::A1::Home & living space description | 저는 거실에서 텔레비전을 봐요. | I watch television in the living room.
+Korean::A1::Home & living space description | 저는 침실에서 자요. | I sleep in the bedroom.
+Korean::A1::Home & living space description | 저는 식탁에서 밥을 먹어요. | I eat at the dining table.
+Korean::A1::Home & living space description | 우리 집은 이 층이에요. | Our home is on the second floor.
+Korean::A1::Home & living space description | 우리 집은 역에서 가까워요. | Our home is close to the station.
+Korean::A1::Home & living space description | 우리 집은 학교에서 멀어요. | Our home is far from school.
+Korean::A1::Home & living space description | 저는 혼자 살아요. | I live alone.
+Korean::A1::Home & living space description | 저는 룸메이트와 같이 살아요. | I live with a flatmate.
+Korean::A1::Home & living space description | 집세는 한 달에 오십만 원이에요. | The rent is five hundred thousand won a month.
+Korean::A1::Home & living space description | 이 집은 월세예요. | This house is rented monthly.
+Korean::A1::Home & living space description | 저는 새 집으로 이사했어요. | I moved to a new home.
+Korean::A1::Home & living space description | 마당에 나무가 있어요. | There is a tree in the garden.
+Korean::A1::Home & living space description | 우리 집 근처에 공원이 있어요. | There is a park near our home.
+Korean::A1::Home & living space description | 제 방에는 침대와 책상이 있어요. | There is a bed and a desk in my room.
+Korean::A1::Home & living space description | 거실 가운데에 탁자가 있어요. | There is a table in the middle of the living room.
+Korean::A1::Home & living space description | 냉장고 안에 우유가 있어요. | There is milk in the fridge.
+Korean::A1::Home & living space description | 세탁기는 욕실에 있어요. | The washing machine is in the bathroom.
+Korean::A1::Home & living space description | 에어컨이 켜져 있어요. | The air conditioner is on.
