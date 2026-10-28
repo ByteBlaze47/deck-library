@@ -1,0 +1,51 @@
+#lang: ko -> en
+Korean::A1::Locations & directions inside a city / building | 학교는 어디에 있어요? | Where is the school?
+Korean::A1::Locations & directions inside a city / building | 학교는 은행 옆에 있어요. | The school is next to the bank.
+Korean::A1::Locations & directions inside a city / building | 은행은 우체국 앞에 있어요. | The bank is in front of the post office.
+Korean::A1::Locations & directions inside a city / building | 우체국은 병원 뒤에 있어요. | The post office is behind the hospital.
+Korean::A1::Locations & directions inside a city / building | 병원은 공원 근처에 있어요. | The hospital is near the park.
+Korean::A1::Locations & directions inside a city / building | 화장실은 저기에 있어요. | The toilet is over there.
+Korean::A1::Locations & directions inside a city / building | 화장실이 어디에 있어요? | Where is the toilet?
+Korean::A1::Locations & directions inside a city / building | 편의점이 이 근처에 있어요? | Is there a convenience store near here?
+Korean::A1::Locations & directions inside a city / building | 네, 편의점이 있어요. | Yes, there is a convenience store.
+Korean::A1::Locations & directions inside a city / building | 아니요, 편의점이 없어요. | No, there is no convenience store.
+Korean::A1::Locations & directions inside a city / building | 여기에 은행이 없어요. | There is no bank here.
+Korean::A1::Locations & directions inside a city / building | 책상 위에 책이 있어요. | There is a book on the desk.
+Korean::A1::Locations & directions inside a city / building | 의자 아래에 가방이 있어요. | There is a bag under the chair.
+Korean::A1::Locations & directions inside a city / building | 가방 안에 지갑이 있어요. | There is a wallet in the bag.
+Korean::A1::Locations & directions inside a city / building | 저는 도서관에서 공부해요. | I study at the library.
+Korean::A1::Locations & directions inside a city / building | 저는 카페에서 친구를 만나요. | I meet my friend at a cafe.
+Korean::A1::Locations & directions inside a city / building | 저는 공원에서 운동해요. | I exercise in the park.
+Korean::A1::Locations & directions inside a city / building | 저는 시장에서 과일을 사요. | I buy fruit at the market.
+Korean::A1::Locations & directions inside a city / building | 저는 집에 있어요. | I am at home.
+Korean::A1::Locations & directions inside a city / building | 저는 학교에 가요. | I go to school.
+Korean::A1::Locations & directions inside a city / building | 저는 은행에 가요. | I am going to the bank.
+Korean::A1::Locations & directions inside a city / building | 저는 오른쪽으로 가요. | I go to the right.
+Korean::A1::Locations & directions inside a city / building | 왼쪽으로 가세요. | Please go to the left.
+Korean::A1::Locations & directions inside a city / building | 똑바로 가세요. | Please go straight.
+Korean::A1::Locations & directions inside a city / building | 저쪽으로 가세요. | Please go that way.
+Korean::A1::Locations & directions inside a city / building | 이쪽으로 오세요. | Please come this way.
+Korean::A1::Locations & directions inside a city / building | 지하철역은 이쪽에 있어요. | The underground station is on this side.
+Korean::A1::Locations & directions inside a city / building | 지하철역은 여기에서 멀어요. | The underground station is far from here.
+Korean::A1::Locations & directions inside a city / building | 식당은 여기에서 가까워요. | The restaurant is close to here.
+Korean::A1::Locations & directions inside a city / building | 백화점은 어디에 있어요? | Where is the department store?
+Korean::A1::Locations & directions inside a city / building | 백화점은 역 앞에 있어요. | The department store is in front of the station.
+Korean::A1::Locations & directions inside a city / building | 커피숍은 이 층에 있어요. | The coffee shop is on the second floor.
+Korean::A1::Locations & directions inside a city / building | 엘리베이터는 오른쪽에 있어요. | The lift is on the right.
+Korean::A1::Locations & directions inside a city / building | 계단은 왼쪽에 있어요. | The stairs are on the left.
+Korean::A1::Locations & directions inside a city / building | 사무실은 삼 층에 있어요. | The office is on the third floor.
+Korean::A1::Locations & directions inside a city / building | 저는 사무실에서 일해요. | I work in an office.
+Korean::A1::Locations & directions inside a city / building | 저는 학교에서 한국어를 배워요. | I learn Korean at school.
+Korean::A1::Locations & directions inside a city / building | 저는 건물 안에서 기다려요. | I wait inside the building.
+Korean::A1::Locations & directions inside a city / building | 우체국은 건물 밖에 있어요. | The post office is outside the building.
+Korean::A1::Locations & directions inside a city / building | 가게 옆에 약국이 있어요. | There is a pharmacy beside the shop.
+Korean::A1::Locations & directions inside a city / building | 은행과 우체국 사이에 식당이 있어요. | There is a restaurant between the bank and the post office.
+Korean::A1::Locations & directions inside a city / building | 학교 앞에 버스 정류장이 있어요. | There is a bus stop in front of the school.
+Korean::A1::Locations & directions inside a city / building | 공원 안에 카페가 있어요. | There is a cafe inside the park.
+Korean::A1::Locations & directions inside a city / building | 도서관은 어디에서 가까워요? | What is the library close to?
+Korean::A1::Locations & directions inside a city / building | 여기가 어디예요? | Where is this?
+Korean::A1::Locations & directions inside a city / building | 여기는 서울역이에요. | This is Seoul Station.
+Korean::A1::Locations & directions inside a city / building | 저기는 시청이에요. | That over there is City Hall.
+Korean::A1::Locations & directions inside a city / building | 저는 지금 은행에 있어요. | I am at the bank now.
+Korean::A1::Locations & directions inside a city / building | 저는 매일 도서관에 가요. | I go to the library every day.
+Korean::A1::Locations & directions inside a city / building | 어디에 가요? | Where are you going?
