@@ -1,0 +1,50 @@
+Brazilian Portuguese::A1::Descriptions of people & things | Ela é alta e magra. | She is tall and slim.
+Brazilian Portuguese::A1::Descriptions of people & things | Ele é baixo e forte. | He is short and strong.
+Brazilian Portuguese::A1::Descriptions of people & things | O meu irmão tem cabelo preto. | My brother has black hair.
+Brazilian Portuguese::A1::Descriptions of people & things | Minha irmã tem cabelo loiro e olhos azuis. | My sister has blonde hair and blue eyes.
+Brazilian Portuguese::A1::Descriptions of people & things | Ela tem olhos castanhos. | She has brown eyes.
+Brazilian Portuguese::A1::Descriptions of people & things | Ele usa óculos. | He wears glasses.
+Brazilian Portuguese::A1::Descriptions of people & things | A minha avó é pequena e simpática. | My grandmother is small and friendly.
+Brazilian Portuguese::A1::Descriptions of people & things | O meu avô é velho, mas é muito ativo. | My grandfather is old, but he is very active.
+Brazilian Portuguese::A1::Descriptions of people & things | O menino é novo e bonito. | The boy is young and handsome.
+Brazilian Portuguese::A1::Descriptions of people & things | A menina é bonita e inteligente. | The girl is pretty and intelligent.
+Brazilian Portuguese::A1::Descriptions of people & things | Eles são pessoas generosas. | They are generous people.
+Brazilian Portuguese::A1::Descriptions of people & things | Ela é uma professora paciente. | She is a patient teacher.
+Brazilian Portuguese::A1::Descriptions of people & things | O meu chefe é exigente, mas justo. | My boss is demanding, but fair.
+Brazilian Portuguese::A1::Descriptions of people & things | Ele é preguiçoso. | He is lazy.
+Brazilian Portuguese::A1::Descriptions of people & things | Ela é trabalhadora. | She is hardworking.
+Brazilian Portuguese::A1::Descriptions of people & things | A casa é grande e bonita. | The house is big and beautiful.
+Brazilian Portuguese::A1::Descriptions of people & things | O carro é novo e rápido. | The car is new and fast.
+Brazilian Portuguese::A1::Descriptions of people & things | A mesa é redonda. | The table is round.
+Brazilian Portuguese::A1::Descriptions of people & things | Os livros são interessantes. | The books are interesting.
+Brazilian Portuguese::A1::Descriptions of people & things | As flores são amarelas e vermelhas. | The flowers are yellow and red.
+Brazilian Portuguese::A1::Descriptions of people & things | O cachorro é grande e preto. | The dog is big and black.
+Brazilian Portuguese::A1::Descriptions of people & things | O gato é pequeno e branco. | The cat is small and white.
+Brazilian Portuguese::A1::Descriptions of people & things | A rua é longa e estreita. | The street is long and narrow.
+Brazilian Portuguese::A1::Descriptions of people & things | O apartamento é pequeno, mas confortável. | The flat is small, but comfortable.
+Brazilian Portuguese::A1::Descriptions of people & things | O hotel é limpo e barato. | The hotel is clean and cheap.
+Brazilian Portuguese::A1::Descriptions of people & things | A comida é deliciosa. | The food is delicious.
+Brazilian Portuguese::A1::Descriptions of people & things | Hoje ele está muito bonito. | He looks very handsome today.
+Brazilian Portuguese::A1::Descriptions of people & things | Hoje ela está muito elegante. | She looks very elegant today.
+Brazilian Portuguese::A1::Descriptions of people & things | Ele é simpático, mas hoje está nervoso. | He is friendly, but today he is nervous.
+Brazilian Portuguese::A1::Descriptions of people & things | Ela é tranquila, mas hoje está estressada. | She is calm, but today she is stressed.
+Brazilian Portuguese::A1::Descriptions of people & things | A sala está limpa. | The room is clean.
+Brazilian Portuguese::A1::Descriptions of people & things | O quarto está bagunçado. | The bedroom is messy.
+Brazilian Portuguese::A1::Descriptions of people & things | A porta está aberta. | The door is open.
+Brazilian Portuguese::A1::Descriptions of people & things | A janela está fechada. | The window is closed.
+Brazilian Portuguese::A1::Descriptions of people & things | A sopa está salgada. | The soup is salty.
+Brazilian Portuguese::A1::Descriptions of people & things | O bolo está doce. | The cake is sweet.
+Brazilian Portuguese::A1::Descriptions of people & things | Meu irmão é mais alto que eu. | My brother is taller than me.
+Brazilian Portuguese::A1::Descriptions of people & things | Minha irmã é mais nova que eu. | My sister is younger than me.
+Brazilian Portuguese::A1::Descriptions of people & things | Este carro é mais caro que aquele. | This car is more expensive than that one.
+Brazilian Portuguese::A1::Descriptions of people & things | O verão é mais quente que a primavera. | Summer is hotter than spring.
+Brazilian Portuguese::A1::Descriptions of people & things | A minha casa é maior que a sua. | My house is bigger than yours.
+Brazilian Portuguese::A1::Descriptions of people & things | O meu quarto é menor que a sala. | My bedroom is smaller than the living room.
+Brazilian Portuguese::A1::Descriptions of people & things | Ela é uma mulher alta, simpática e muito inteligente. | She is a tall, friendly and very intelligent woman.
+Brazilian Portuguese::A1::Descriptions of people & things | Ele é um homem baixo, forte e muito engraçado. | He is a short, strong and very funny man.
+Brazilian Portuguese::A1::Descriptions of people & things | É uma casa pequena, antiga e muito bonita. | It is a small, old and very beautiful house.
+Brazilian Portuguese::A1::Descriptions of people & things | São dois carros pretos, novos e rápidos. | They are two black, new and fast cars.
+Brazilian Portuguese::A1::Descriptions of people & things | As minhas amigas são divertidas e simpáticas. | My friends are fun and friendly.
+Brazilian Portuguese::A1::Descriptions of people & things | Os meus vizinhos são velhos, mas muito alegres. | My neighbours are old, but very cheerful.
+Brazilian Portuguese::A1::Descriptions of people & things | O sapato azul é novo, mas os sapatos pretos são velhos. | The blue shoe is new, but the black shoes are old.
+Brazilian Portuguese::A1::Descriptions of people & things | Esta camisa branca é minha, e aquelas camisas verdes são do meu irmão. | This white shirt is mine, and those green shirts are my brother's.
