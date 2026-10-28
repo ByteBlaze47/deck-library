@@ -665,6 +665,12 @@
       "name": "14_Past_Events_Recent_Past.txt",
       "category": "Italian/A1",
       "size": 7095
+    },
+    {
+      "path": "cards/Korean/A1/09_Weather_Seasons.txt",
+      "name": "09_Weather_Seasons.txt",
+      "category": "Korean/A1",
+      "size": 4213
     }
   ]
 }
