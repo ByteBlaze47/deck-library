@@ -1,0 +1,41 @@
+#lang: ru -> en
+Russian::A1::Home & living spaces | Это наш дом. | This is our house.
+Russian::A1::Home & living spaces | Мы живём в квартире. | We live in a flat.
+Russian::A1::Home & living spaces | Квартира находится на третьем этаже. | The flat is on the third floor.
+Russian::A1::Home & living spaces | В квартире три комнаты. | There are three rooms in the flat.
+Russian::A1::Home & living spaces | Кухня маленькая, а гостиная большая. | The kitchen is small, but the living room is big.
+Russian::A1::Home & living spaces | Где ванная? | Where is the bathroom?
+Russian::A1::Home & living spaces | Ванная налево. | The bathroom is to the left.
+Russian::A1::Home & living spaces | Книга лежит на столе. | The book is on the table.
+Russian::A1::Home & living spaces | Ключи в сумке. | The keys are in the bag.
+Russian::A1::Home & living spaces | На стене висит картина. | A picture hangs on the wall.
+Russian::A1::Home & living spaces | Кот спит на диване. | The cat is sleeping on the sofa.
+Russian::A1::Home & living spaces | В комнате стоит кровать. | There is a bed in the room.
+Russian::A1::Home & living spaces | Окно открыто. | The window is open.
+Russian::A1::Home & living spaces | Дверь закрыта. | The door is closed.
+Russian::A1::Home & living spaces | Балкон маленький, но светлый. | The balcony is small but bright.
+Russian::A1::Home & living spaces | Цвет стен белый. | The colour of the walls is white.
+Russian::A1::Home & living spaces | У нас новый холодильник. | We have a new fridge.
+Russian::A1::Home & living spaces | В холодильнике есть молоко. | There is milk in the fridge.
+Russian::A1::Home & living spaces | В доме нет лифта. | There is no lift in the building.
+Russian::A1::Home & living spaces | Это квартира моего друга. | This is my friend's flat.
+Russian::A1::Home & living spaces | Комната моей сестры рядом. | My sister's room is next door.
+Russian::A1::Home & living spaces | В углу стоит шкаф. | A wardrobe stands in the corner.
+Russian::A1::Home & living spaces | На полу лежит ковёр. | A carpet lies on the floor.
+Russian::A1::Home & living spaces | Лампа на потолке. | The lamp is on the ceiling.
+Russian::A1::Home & living spaces | Мой компьютер на письменном столе. | My computer is on the desk.
+Russian::A1::Home & living spaces | Стулья вокруг стола. | The chairs are around the table.
+Russian::A1::Home & living spaces | Мы живём в центре города. | We live in the city centre.
+Russian::A1::Home & living spaces | Дом старый, но удобный. | The house is old but comfortable.
+Russian::A1::Home & living spaces | Квартира дорогая. | The flat is expensive.
+Russian::A1::Home & living spaces | Комната слишком тёмная. | The room is too dark.
+Russian::A1::Home & living spaces | Двор очень тихий. | The courtyard is very quiet.
+Russian::A1::Home & living spaces | Рядом с домом есть парк. | There is a park next to the house.
+Russian::A1::Home & living spaces | Магазин напротив дома. | The shop is opposite the house.
+Russian::A1::Home & living spaces | В нашем районе много магазинов. | There are many shops in our neighbourhood.
+Russian::A1::Home & living spaces | Здесь нет кошки. | There is no cat here.
+Russian::A1::Home & living spaces | Где мои очки? | Where are my glasses?
+Russian::A1::Home & living spaces | Они на кухне, на подоконнике. | They are in the kitchen, on the windowsill.
+Russian::A1::Home & living spaces | Дома тепло и уютно. | It is warm and cosy at home.
+Russian::A1::Home & living spaces | Я люблю свою комнату. | I love my room.
+Russian::A1::Home & living spaces | Добро пожаловать в наш дом! | Welcome to our home!
