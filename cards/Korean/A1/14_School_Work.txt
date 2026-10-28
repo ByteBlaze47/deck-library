@@ -1,0 +1,41 @@
+#lang: ko -> en
+Korean::A1::School / work basic situations | 저는 학교에 다녀요. | I attend school.
+Korean::A1::School / work basic situations | 저는 회사에 다녀요. | I work at a company.
+Korean::A1::School / work basic situations | 저는 은행에서 일해요. | I work at a bank.
+Korean::A1::School / work basic situations | 저는 병원에서 일해요. | I work at a hospital.
+Korean::A1::School / work basic situations | 저는 식당에서 일해요. | I work at a restaurant.
+Korean::A1::School / work basic situations | 저는 학교에서 일해요. | I work at a school.
+Korean::A1::School / work basic situations | 저는 한국어 선생님이에요. | I am a Korean teacher.
+Korean::A1::School / work basic situations | 저는 영어를 가르쳐요. | I teach English.
+Korean::A1::School / work basic situations | 저는 한국어를 배워요. | I learn Korean.
+Korean::A1::School / work basic situations | 저는 수학을 공부해요. | I study mathematics.
+Korean::A1::School / work basic situations | 저는 역사를 좋아해요. | I like history.
+Korean::A1::School / work basic situations | 우리 반은 열 명이에요. | Our class has ten students.
+Korean::A1::School / work basic situations | 오늘 수업이 있어요. | I have a class today.
+Korean::A1::School / work basic situations | 수업은 아홉 시에 시작해요. | Class starts at nine.
+Korean::A1::School / work basic situations | 수업은 열두 시에 끝나요. | Class finishes at twelve.
+Korean::A1::School / work basic situations | 저는 월요일부터 금요일까지 일해요. | I work from Monday to Friday.
+Korean::A1::School / work basic situations | 저는 아홉 시부터 여섯 시까지 일해요. | I work from nine to six.
+Korean::A1::School / work basic situations | 저는 하루에 여덟 시간 일해요. | I work eight hours a day.
+Korean::A1::School / work basic situations | 저는 한 시간 동안 공부해요. | I study for one hour.
+Korean::A1::School / work basic situations | 저는 두 시간 동안 운동해요. | I exercise for two hours.
+Korean::A1::School / work basic situations | 회의는 삼십 분 동안 해요. | The meeting lasts thirty minutes.
+Korean::A1::School / work basic situations | 저는 지금 회의하고 있어요. | I am in a meeting now.
+Korean::A1::School / work basic situations | 저는 지금 일하고 있어요. | I am working now.
+Korean::A1::School / work basic situations | 저는 숙제를 하고 있어요. | I am doing my homework.
+Korean::A1::School / work basic situations | 저는 시험을 준비하고 있어요. | I am preparing for an exam.
+Korean::A1::School / work basic situations | 내일 시험이 있어요. | I have an exam tomorrow.
+Korean::A1::School / work basic situations | 저는 시험이 어려워요. | I find the exam difficult.
+Korean::A1::School / work basic situations | 저는 숙제가 많아요. | I have a lot of homework.
+Korean::A1::School / work basic situations | 저는 오늘 바빠요. | I am busy today.
+Korean::A1::School / work basic situations | 저는 오늘 안 바빠요. | I am not busy today.
+Korean::A1::School / work basic situations | 선생님은 교실에 계세요. | The teacher is in the classroom.
+Korean::A1::School / work basic situations | 학생들이 교실에서 공부해요. | The students study in the classroom.
+Korean::A1::School / work basic situations | 저는 교과서를 읽어요. | I read the textbook.
+Korean::A1::School / work basic situations | 저는 공책에 써요. | I write in my notebook.
+Korean::A1::School / work basic situations | 저는 사전을 찾아봐요. | I look it up in the dictionary.
+Korean::A1::School / work basic situations | 점심시간은 열두 시부터 한 시까지예요. | Lunch break is from twelve to one.
+Korean::A1::School / work basic situations | 저는 사무실에서 컴퓨터를 사용해요. | I use a computer in the office.
+Korean::A1::School / work basic situations | 저는 동료와 같이 일해요. | I work with a colleague.
+Korean::A1::School / work basic situations | 제 동료는 친절해요. | My colleague is kind.
+Korean::A1::School / work basic situations | 제 상사는 바빠요. | My boss is busy.
