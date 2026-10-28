@@ -1,0 +1,46 @@
+#lang: ru -> en
+Russian::A1::Work, study & daily obligations | Я работаю в офисе. | I work in an office.
+Russian::A1::Work, study & daily obligations | Он работает инженером. | He works as an engineer.
+Russian::A1::Work, study & daily obligations | Она работает врачом. | She works as a doctor.
+Russian::A1::Work, study & daily obligations | Кем вы работаете? | What do you do for a living?
+Russian::A1::Work, study & daily obligations | Я хочу быть учителем. | I want to be a teacher.
+Russian::A1::Work, study & daily obligations | Мой брат стал программистом. | My brother became a programmer.
+Russian::A1::Work, study & daily obligations | Мы учимся в университете. | We study at university.
+Russian::A1::Work, study & daily obligations | Я изучаю русский язык. | I'm studying Russian.
+Russian::A1::Work, study & daily obligations | Сегодня я пишу письмо. | Today I'm writing a letter.
+Russian::A1::Work, study & daily obligations | Я буду работать завтра. | I will be working tomorrow.
+Russian::A1::Work, study & daily obligations | Мы будем учиться вечером. | We will study in the evening.
+Russian::A1::Work, study & daily obligations | Она будет читать книгу. | She will be reading a book.
+Russian::A1::Work, study & daily obligations | Я прочитаю эту книгу завтра. | I will read this book (to the end) tomorrow.
+Russian::A1::Work, study & daily obligations | Он напишет письмо вечером. | He will write the letter in the evening.
+Russian::A1::Work, study & daily obligations | Я сделаю домашнее задание. | I will do my homework.
+Russian::A1::Work, study & daily obligations | Вы будете делать это сегодня? | Will you be doing this today?
+Russian::A1::Work, study & daily obligations | Я делаю упражнения каждый день. | I do exercises every day.
+Russian::A1::Work, study & daily obligations | Урок начинается в десять часов. | The lesson begins at ten o'clock.
+Russian::A1::Work, study & daily obligations | Преподаватель объясняет грамматику. | The teacher explains the grammar.
+Russian::A1::Work, study & daily obligations | Мне нужно сдать экзамен. | I have to pass an exam.
+Russian::A1::Work, study & daily obligations | Надо учить слова. | One must learn words.
+Russian::A1::Work, study & daily obligations | Нужно работать больше. | One needs to work more.
+Russian::A1::Work, study & daily obligations | Можно задать вопрос? | May I ask a question?
+Russian::A1::Work, study & daily obligations | Я пишу карандашом. | I write with a pencil.
+Russian::A1::Work, study & daily obligations | Мы едем на конференцию самолётом. | We are going to the conference by plane.
+Russian::A1::Work, study & daily obligations | Он общается с клиентами по телефону. | He communicates with clients by phone.
+Russian::A1::Work, study & daily obligations | Она отправляет письма по почте. | She sends letters by post.
+Russian::A1::Work, study & daily obligations | У меня сегодня встреча. | I have a meeting today.
+Russian::A1::Work, study & daily obligations | Встреча будет в среду. | The meeting will be on Wednesday.
+Russian::A1::Work, study & daily obligations | Мой начальник очень строгий. | My boss is very strict.
+Russian::A1::Work, study & daily obligations | Мои коллеги очень добрые. | My colleagues are very kind.
+Russian::A1::Work, study & daily obligations | Я занят. | I'm busy. (male)
+Russian::A1::Work, study & daily obligations | Она занята до пяти. | She is busy until five.
+Russian::A1::Work, study & daily obligations | Мы свободны вечером. | We are free in the evening.
+Russian::A1::Work, study & daily obligations | Он опаздывает на работу. | He is late for work.
+Russian::A1::Work, study & daily obligations | Я не опоздаю. | I won't be late.
+Russian::A1::Work, study & daily obligations | Мне нужно позвонить клиенту. | I need to call a client.
+Russian::A1::Work, study & daily obligations | Я позвоню вам завтра. | I will call you tomorrow.
+Russian::A1::Work, study & daily obligations | Сначала я читаю, потом пишу. | First I read, then I write.
+Russian::A1::Work, study & daily obligations | Он решил задачу. | He solved the problem.
+Russian::A1::Work, study & daily obligations | Она решает задачи каждый день. | She solves problems every day.
+Russian::A1::Work, study & daily obligations | Я скоро закончу работу. | I will finish work soon.
+Russian::A1::Work, study & daily obligations | Мы заканчиваем в шесть. | We finish at six.
+Russian::A1::Work, study & daily obligations | Работа интересная, но трудная. | The job is interesting but hard.
+Russian::A1::Work, study & daily obligations | Я люблю свою работу. | I like my job.
