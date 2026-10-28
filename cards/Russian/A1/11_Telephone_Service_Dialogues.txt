@@ -1,0 +1,36 @@
+#lang: ru -> en
+Russian::A1::Telephone & basic service dialogues | Алло, слушаю вас. | Hello, I'm listening.
+Russian::A1::Telephone & basic service dialogues | Алло, это Анна. | Hello, it's Anna.
+Russian::A1::Telephone & basic service dialogues | Можно Ивана? | Could I speak to Ivan?
+Russian::A1::Telephone & basic service dialogues | Его сейчас нет. | He isn't here right now.
+Russian::A1::Telephone & basic service dialogues | Подождите минуту, пожалуйста. | Wait a minute, please. (formal)
+Russian::A1::Telephone & basic service dialogues | Подожди минуту. | Wait a minute. (informal)
+Russian::A1::Telephone & basic service dialogues | Позвоните мне завтра. | Call me tomorrow. (formal)
+Russian::A1::Telephone & basic service dialogues | Позвони мне вечером. | Call me in the evening. (informal)
+Russian::A1::Telephone & basic service dialogues | Скажите, пожалуйста, ваш номер. | Please tell me your number. (formal)
+Russian::A1::Telephone & basic service dialogues | Скажи мне свой номер. | Tell me your number. (informal)
+Russian::A1::Telephone & basic service dialogues | Повторите, пожалуйста. | Please repeat that. (formal)
+Russian::A1::Telephone & basic service dialogues | Говорите медленнее. | Speak more slowly. (formal)
+Russian::A1::Telephone & basic service dialogues | Не клади трубку. | Don't hang up. (informal)
+Russian::A1::Telephone & basic service dialogues | Не кладите трубку. | Don't hang up. (formal)
+Russian::A1::Telephone & basic service dialogues | Вы не могли бы мне помочь? | Could you help me?
+Russian::A1::Telephone & basic service dialogues | Это правда? | Is that true?
+Russian::A1::Telephone & basic service dialogues | Разве он дома? | Is he really at home?
+Russian::A1::Telephone & basic service dialogues | Он дома? — Да. | Is he at home? — Yes.
+Russian::A1::Telephone & basic service dialogues | Работает ли банк сегодня? | Is the bank open today?
+Russian::A1::Telephone & basic service dialogues | Знаете ли вы этого человека? | Do you know this person?
+Russian::A1::Telephone & basic service dialogues | Я вас не слышу. | I can't hear you.
+Russian::A1::Telephone & basic service dialogues | Плохая связь. | The connection is bad.
+Russian::A1::Telephone & basic service dialogues | Я перезвоню позже. | I'll call back later.
+Russian::A1::Telephone & basic service dialogues | Вы ошиблись номером. | You've got the wrong number.
+Russian::A1::Telephone & basic service dialogues | Можно оставить сообщение? | May I leave a message?
+Russian::A1::Telephone & basic service dialogues | Передайте ему, пожалуйста, привет. | Please give him my regards.
+Russian::A1::Telephone & basic service dialogues | Скажите ему, что я звонил. | Tell him I called. (male speaker)
+Russian::A1::Telephone & basic service dialogues | Мне нужна ваша помощь. | I need your help.
+Russian::A1::Telephone & basic service dialogues | Дайте мне, пожалуйста, адрес. | Please give me the address.
+Russian::A1::Telephone & basic service dialogues | Напишите мне сообщение. | Send me a message. (formal)
+Russian::A1::Telephone & basic service dialogues | Напиши мне письмо. | Write me a letter. (informal)
+Russian::A1::Telephone & basic service dialogues | Я хочу заказать столик. | I'd like to book a table.
+Russian::A1::Telephone & basic service dialogues | На какое время? | For what time?
+Russian::A1::Telephone & basic service dialogues | На семь часов, на двоих. | For seven o'clock, for two.
+Russian::A1::Telephone & basic service dialogues | Спасибо за звонок. До свидания. | Thank you for calling. Goodbye.
