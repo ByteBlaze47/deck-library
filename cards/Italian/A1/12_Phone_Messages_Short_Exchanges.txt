@@ -1,0 +1,46 @@
+#lang: it -> en
+Italian::A1::Phone, messages & short exchanges | Pronto? | Hello? (on the phone)
+Italian::A1::Phone, messages & short exchanges | Chi parla? | Who's speaking?
+Italian::A1::Phone, messages & short exchanges | Sono Marco. | It's Marco.
+Italian::A1::Phone, messages & short exchanges | Ti chiamo domani. | I'll call you tomorrow.
+Italian::A1::Phone, messages & short exchanges | Mi chiami stasera? | Will you call me tonight?
+Italian::A1::Phone, messages & short exchanges | La chiamo subito, signora. | I'll call you right away, madam.
+Italian::A1::Phone, messages & short exchanges | Lo chiamo ogni giorno. | I call him every day.
+Italian::A1::Phone, messages & short exchanges | La chiamo la sera. | I call her in the evening.
+Italian::A1::Phone, messages & short exchanges | Li chiamo domani. | I'll call them tomorrow. (masculine)
+Italian::A1::Phone, messages & short exchanges | Le chiamo domani. | I'll call them tomorrow. (feminine)
+Italian::A1::Phone, messages & short exchanges | Ti scrivo un messaggio. | I'm writing you a message.
+Italian::A1::Phone, messages & short exchanges | Mi scrivi presto? | Will you write to me soon?
+Italian::A1::Phone, messages & short exchanges | Gli scrivo una mail. | I'm writing him an email.
+Italian::A1::Phone, messages & short exchanges | Le scrivo una lettera. | I'm writing her a letter.
+Italian::A1::Phone, messages & short exchanges | Gli telefono dopo cena. | I'll phone him after dinner.
+Italian::A1::Phone, messages & short exchanges | Le telefono alle otto. | I'll phone her at eight.
+Italian::A1::Phone, messages & short exchanges | Ti telefono io. | I'll phone you.
+Italian::A1::Phone, messages & short exchanges | Non ti sento. | I can't hear you.
+Italian::A1::Phone, messages & short exchanges | Non lo vedo. | I can't see him.
+Italian::A1::Phone, messages & short exchanges | Non la capisco. | I don't understand her.
+Italian::A1::Phone, messages & short exchanges | Mi senti bene? | Can you hear me well?
+Italian::A1::Phone, messages & short exchanges | Ti mando una foto. | I'll send you a photo.
+Italian::A1::Phone, messages & short exchanges | Lo mandi a Paola? | Are you sending it to Paola?
+Italian::A1::Phone, messages & short exchanges | Sì, lo mando oggi. | Yes, I'm sending it today.
+Italian::A1::Phone, messages & short exchanges | Hai il mio numero? | Do you have my number?
+Italian::A1::Phone, messages & short exchanges | Ti do il mio numero. | I'll give you my number.
+Italian::A1::Phone, messages & short exchanges | Il telefono è scarico. | The phone's battery is flat.
+Italian::A1::Phone, messages & short exchanges | Non c'è campo. | There's no signal.
+Italian::A1::Phone, messages & short exchanges | Richiamo più tardi. | I'll call back later.
+Italian::A1::Phone, messages & short exchanges | Richiamami domani. | Call me back tomorrow. (informal)
+Italian::A1::Phone, messages & short exchanges | Scrivimi presto. | Write to me soon.
+Italian::A1::Phone, messages & short exchanges | Chiamami! | Call me!
+Italian::A1::Phone, messages & short exchanges | Chiamalo adesso. | Call him now.
+Italian::A1::Phone, messages & short exchanges | Chiamala dopo. | Call her later.
+Italian::A1::Phone, messages & short exchanges | Aspetto il tuo messaggio. | I'm waiting for your message.
+Italian::A1::Phone, messages & short exchanges | Leggo il messaggio e rispondo. | I read the message and reply.
+Italian::A1::Phone, messages & short exchanges | Rispondo a Luca. | I reply to Luca.
+Italian::A1::Phone, messages & short exchanges | Gli rispondo subito. | I'll reply to him right away.
+Italian::A1::Phone, messages & short exchanges | Vi chiamo stasera. | I'll call you this evening. (plural)
+Italian::A1::Phone, messages & short exchanges | Ci chiami domani? | Will you call us tomorrow?
+Italian::A1::Phone, messages & short exchanges | Ci scrivono ogni settimana. | They write to us every week.
+Italian::A1::Phone, messages & short exchanges | Mia madre mi chiama sempre. | My mother always calls me.
+Italian::A1::Phone, messages & short exchanges | Lei non mi risponde. | She doesn't answer me.
+Italian::A1::Phone, messages & short exchanges | La signora Rossi ti chiama alle tre. | Mrs Rossi will call you at three.
+Italian::A1::Phone, messages & short exchanges | Grazie della chiamata! | Thanks for the call!
