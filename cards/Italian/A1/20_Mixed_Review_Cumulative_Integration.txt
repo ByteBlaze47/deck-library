@@ -1,0 +1,61 @@
+#lang: it -> en
+Italian::A1::Mixed review & cumulative integration | Buongiorno, signora, come sta? | Good morning, madam, how are you?
+Italian::A1::Mixed review & cumulative integration | Sto bene, grazie, e Lei? | I'm well, thank you, and you?
+Italian::A1::Mixed review & cumulative integration | Ciao Luca, come stai? | Hi Luca, how are you?
+Italian::A1::Mixed review & cumulative integration | Mi chiamo Chiara e sono di Torino. | My name is Chiara and I'm from Turin.
+Italian::A1::Mixed review & cumulative integration | Mia sorella è alta, ha i capelli lunghi e gli occhi verdi. | My sister is tall, with long hair and green eyes.
+Italian::A1::Mixed review & cumulative integration | I miei genitori vivono in un piccolo appartamento vicino al centro. | My parents live in a small flat near the centre.
+Italian::A1::Mixed review & cumulative integration | La mattina mi alzo alle sei e mezza e faccio colazione. | In the morning I get up at half past six and have breakfast.
+Italian::A1::Mixed review & cumulative integration | Di solito non lavoro il sabato, ma oggi devo andare in ufficio. | I don't usually work on Saturdays, but today I have to go to the office.
+Italian::A1::Mixed review & cumulative integration | Nel salotto c'è un divano grande e sul tavolo ci sono due libri. | In the living room there's a big sofa and on the table there are two books.
+Italian::A1::Mixed review & cumulative integration | Mi piacciono gli spaghetti, ma preferisco la pizza. | I like spaghetti, but I prefer pizza.
+Italian::A1::Mixed review & cumulative integration | Compro del pane e un po' di formaggio al mercato. | I buy some bread and a little cheese at the market.
+Italian::A1::Mixed review & cumulative integration | Scusi, quanto costano queste scarpe? | Excuse me, how much do these shoes cost?
+Italian::A1::Mixed review & cumulative integration | Sono centoventi euro, ma sono molto belle. | They're one hundred and twenty euros, but they're very beautiful.
+Italian::A1::Mixed review & cumulative integration | Scusi, dov'è la stazione? Vada dritto e poi giri a sinistra. | Excuse me, where is the station? Go straight on and then turn left.
+Italian::A1::Mixed review & cumulative integration | Scusa, dov'è il museo? Gira a destra e continua fino alla piazza. | Excuse me, where's the museum? Turn right and continue as far as the square.
+Italian::A1::Mixed review & cumulative integration | Che lavoro fa Lei? Sono medico e lavoro in un ospedale. | What do you do? I'm a doctor and I work in a hospital.
+Italian::A1::Mixed review & cumulative integration | Nel tempo libero mi piace leggere e ascoltare musica. | In my free time I like reading and listening to music.
+Italian::A1::Mixed review & cumulative integration | Stasera voglio uscire, ma devo prima finire i compiti. | Tonight I want to go out, but first I have to finish my homework.
+Italian::A1::Mixed review & cumulative integration | Oggi fa freddo e piove, quindi resto a casa. | It's cold and raining today, so I'm staying at home.
+Italian::A1::Mixed review & cumulative integration | Mi fa male la testa e ho bisogno di riposare. | I have a headache and I need to rest.
+Italian::A1::Mixed review & cumulative integration | Ti chiamo domani, ma ora devo andare. | I'll call you tomorrow, but now I have to go.
+Italian::A1::Mixed review & cumulative integration | Il mio amico mi scrive un messaggio e io gli rispondo subito. | My friend writes me a message and I reply to him right away.
+Italian::A1::Mixed review & cumulative integration | Vorrei un caffè e un cornetto, per favore. | I'd like a coffee and a croissant, please.
+Italian::A1::Mixed review & cumulative integration | Mi porta il conto, per favore? | Could you bring me the bill, please?
+Italian::A1::Mixed review & cumulative integration | Ieri sono andato al cinema con i miei amici. | Yesterday I went to the cinema with my friends.
+Italian::A1::Mixed review & cumulative integration | Abbiamo visto un film molto lungo e poi abbiamo mangiato una pizza. | We watched a very long film and then ate a pizza.
+Italian::A1::Mixed review & cumulative integration | Ho comprato dei libri e li ho letti in due giorni. | I bought some books and read them in two days.
+Italian::A1::Mixed review & cumulative integration | Mia sorella è più giovane di me, ma è più alta. | My sister is younger than me, but she's taller.
+Italian::A1::Mixed review & cumulative integration | Questo è il ristorante più bello della città. | This is the most beautiful restaurant in the city.
+Italian::A1::Mixed review & cumulative integration | Buonasera, ho una prenotazione a nome Bianchi. | Good evening, I have a reservation in the name of Bianchi.
+Italian::A1::Mixed review & cumulative integration | Potrebbe darmi una camera con vista sul mare? | Could you give me a room with a sea view?
+Italian::A1::Mixed review & cumulative integration | La piccola chiesa che vedi laggiù è molto antica. | The little church you can see down there is very old.
+Italian::A1::Mixed review & cumulative integration | C'è un bar che serve un ottimo caffè vicino alla stazione. | There's a café that serves excellent coffee near the station.
+Italian::A1::Mixed review & cumulative integration | Prima mi sono alzato, poi ho fatto la doccia e infine sono uscito. | First I got up, then I showered and finally I went out.
+Italian::A1::Mixed review & cumulative integration | Non vengo alla festa perché devo lavorare. | I'm not coming to the party because I have to work.
+Italian::A1::Mixed review & cumulative integration | Secondo me, il tuo italiano è molto buono. | In my opinion, your Italian is very good.
+Italian::A1::Mixed review & cumulative integration | Penso che sia importante parlare ogni giorno. | I think it's important to speak every day.
+Italian::A1::Mixed review & cumulative integration | Hai ragione, però non sono sicura. | You're right, but I'm not sure. (female speaker)
+Italian::A1::Mixed review & cumulative integration | Il treno parte alle otto, quindi dobbiamo uscire presto. | The train leaves at eight, so we have to leave early.
+Italian::A1::Mixed review & cumulative integration | Dove sono le mie chiavi? Sono sotto il libro, sulla scrivania. | Where are my keys? They're under the book, on the desk.
+Italian::A1::Mixed review & cumulative integration | Quanti anni ha tuo nonno? Ha ottant'anni e sta ancora molto bene. | How old is your grandfather? He's eighty and is still very well.
+Italian::A1::Mixed review & cumulative integration | Che ore sono? Sono le tre meno un quarto. | What time is it? It's a quarter to three.
+Italian::A1::Mixed review & cumulative integration | Mio padre lavora in banca, mia madre insegna inglese. | My father works in a bank, my mother teaches English.
+Italian::A1::Mixed review & cumulative integration | La domenica mangiamo dai nonni e giochiamo a carte. | On Sundays we eat at our grandparents' and play cards.
+Italian::A1::Mixed review & cumulative integration | Hanno comprato una casa nuova, ma è lontana dal centro. | They bought a new house, but it's far from the centre.
+Italian::A1::Mixed review & cumulative integration | Signora, Le piace questo vestito? È più elegante dell'altro. | Madam, do you like this dress? It's more elegant than the other.
+Italian::A1::Mixed review & cumulative integration | Ti piace ballare? Sì, ma ballo male. | Do you like dancing? Yes, but I dance badly.
+Italian::A1::Mixed review & cumulative integration | Mi dispiace, non posso venire perché sto male. | I'm sorry, I can't come because I'm unwell.
+Italian::A1::Mixed review & cumulative integration | Ti aiuto con i compiti, se hai tempo. | I'll help you with your homework if you have time.
+Italian::A1::Mixed review & cumulative integration | Vorrebbe un po' di vino o dell'acqua, signore? | Would you like some wine or some water, sir?
+Italian::A1::Mixed review & cumulative integration | Preferisco l'acqua, grazie, perché devo guidare. | I prefer water, thank you, because I have to drive.
+Italian::A1::Mixed review & cumulative integration | Quando sono arrivata a Roma, ho preso un taxi e sono andata in albergo. | When I arrived in Rome, I took a taxi and went to the hotel.
+Italian::A1::Mixed review & cumulative integration | La stanza è piccola, ma pulita e comoda. | The room is small, but clean and comfortable.
+Italian::A1::Mixed review & cumulative integration | La mattina presto i negozi sono chiusi, invece i bar sono aperti. | Early in the morning the shops are closed, whereas the cafés are open.
+Italian::A1::Mixed review & cumulative integration | Dopo il lavoro vado a casa a piedi, perché mi piace camminare. | After work I walk home, because I like walking.
+Italian::A1::Mixed review & cumulative integration | Se piove domani, non andiamo al mare, restiamo a casa. | If it rains tomorrow, we won't go to the seaside, we'll stay at home.
+Italian::A1::Mixed review & cumulative integration | Pronto, sono Anna: ti ho cercato tutto il giorno! | Hello, it's Anna: I've been trying to reach you all day!
+Italian::A1::Mixed review & cumulative integration | Scusa, non ho sentito il telefono. Ti richiamo subito. | Sorry, I didn't hear the phone. I'll call you right back.
+Italian::A1::Mixed review & cumulative integration | Ho molto lavoro, ma sono contento perché mi piace. | I have a lot of work, but I'm happy because I like it.
+Italian::A1::Mixed review & cumulative integration | Buonanotte, a domani, e grazie di tutto! | Good night, see you tomorrow, and thanks for everything!
