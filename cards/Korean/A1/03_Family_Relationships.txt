@@ -1,0 +1,41 @@
+#lang: ko -> en
+Korean::A1::Family & relationships | 이분은 제 아버지예요. | This is my father.
+Korean::A1::Family & relationships | 이분은 제 어머니예요. | This is my mother.
+Korean::A1::Family & relationships | 제 가족은 네 명이에요. | My family has four members.
+Korean::A1::Family & relationships | 저는 형이 한 명 있어요. | I have one older brother.
+Korean::A1::Family & relationships | 저는 누나가 있어요. | I have an older sister.
+Korean::A1::Family & relationships | 저는 여동생이 두 명 있어요. | I have two younger sisters.
+Korean::A1::Family & relationships | 제 남동생은 학생이에요. | My younger brother is a student.
+Korean::A1::Family & relationships | 저는 외동이에요. | I am an only child.
+Korean::A1::Family & relationships | 이 사람은 제 남편이에요. | This person is my husband.
+Korean::A1::Family & relationships | 이 사람은 제 아내예요. | This person is my wife.
+Korean::A1::Family & relationships | 제 아들은 다섯 살이에요. | My son is five years old.
+Korean::A1::Family & relationships | 제 딸은 일곱 살이에요. | My daughter is seven years old.
+Korean::A1::Family & relationships | 저는 할머니와 할아버지가 계세요. | I have a grandmother and a grandfather.
+Korean::A1::Family & relationships | 할아버지는 부산에 사세요. | My grandfather lives in Busan.
+Korean::A1::Family & relationships | 할머니는 집에 계세요. | My grandmother is at home.
+Korean::A1::Family & relationships | 아버지는 회사에 다니세요. | My father works at a company.
+Korean::A1::Family & relationships | 어머니는 선생님이세요. | My mother is a teacher.
+Korean::A1::Family & relationships | 아버님은 지금 안 계세요. | My father-in-law is not here now.
+Korean::A1::Family & relationships | 어머님은 요리를 잘하세요. | My mother-in-law cooks well.
+Korean::A1::Family & relationships | 이분은 제 친구의 어머니세요. | This is my friend's mother.
+Korean::A1::Family & relationships | 제 친구의 이름은 지민이에요. | My friend's name is Jimin.
+Korean::A1::Family & relationships | 이것은 제 가족의 사진이에요. | This is my family's photo.
+Korean::A1::Family & relationships | 우리 가족은 서울에 살아요. | My family lives in Seoul.
+Korean::A1::Family & relationships | 제 동생의 취미는 축구예요. | My younger sibling's hobby is football.
+Korean::A1::Family & relationships | 저는 삼촌이 한 분 있어요. | I have one uncle.
+Korean::A1::Family & relationships | 이모는 의사예요. | My aunt is a doctor.
+Korean::A1::Family & relationships | 고모는 미국에 살아요. | My aunt on my father's side lives in America.
+Korean::A1::Family & relationships | 사촌은 대학생이에요. | My cousin is a university student.
+Korean::A1::Family & relationships | 저는 부모님과 같이 살아요. | I live with my parents.
+Korean::A1::Family & relationships | 부모님은 한국 분이세요. | My parents are Korean.
+Korean::A1::Family & relationships | 제 형은 결혼했어요. | My older brother is married.
+Korean::A1::Family & relationships | 제 누나는 결혼하지 않았어요. | My older sister is not married.
+Korean::A1::Family & relationships | 저는 아이가 없어요. | I do not have children.
+Korean::A1::Family & relationships | 우리 아버지는 키가 크세요. | My father is tall.
+Korean::A1::Family & relationships | 우리 어머니는 친절하세요. | My mother is kind.
+Korean::A1::Family & relationships | 할아버지, 안녕하세요? | Grandfather, how are you?
+Korean::A1::Family & relationships | 어머니는 어디에 계세요? | Where is your mother?
+Korean::A1::Family & relationships | 아버지는 뭐 하세요? | What does your father do?
+Korean::A1::Family & relationships | 형제가 있어요? | Do you have any brothers or sisters?
+Korean::A1::Family & relationships | 네, 누나가 한 명 있어요. | Yes, I have one older sister.
