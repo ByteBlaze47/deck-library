@@ -1,0 +1,51 @@
+#lang: it -> en
+Italian::A1::Eating out & ordering | Un tavolo per due, per favore. | A table for two, please.
+Italian::A1::Eating out & ordering | Vorrei prenotare un tavolo. | I'd like to book a table.
+Italian::A1::Eating out & ordering | Vorrei il menu, per favore. | I'd like the menu, please.
+Italian::A1::Eating out & ordering | Vorrei un caffè. | I'd like a coffee.
+Italian::A1::Eating out & ordering | Vorremmo due birre. | We'd like two beers.
+Italian::A1::Eating out & ordering | Mi dia un'acqua naturale. | Give me a still water, please. (formal)
+Italian::A1::Eating out & ordering | Mi dia dell'acqua frizzante. | Give me some sparkling water. (formal)
+Italian::A1::Eating out & ordering | Mi porta il conto, per favore? | Could you bring me the bill, please? (formal)
+Italian::A1::Eating out & ordering | Mi porta un po' di pane? | Could you bring me a little bread? (formal)
+Italian::A1::Eating out & ordering | Che cosa desidera? | What would you like? (formal)
+Italian::A1::Eating out & ordering | Che cosa prende? | What are you having? (formal)
+Italian::A1::Eating out & ordering | Che cosa prendi? | What are you having? (informal)
+Italian::A1::Eating out & ordering | Prendo una pizza margherita. | I'll have a margherita pizza.
+Italian::A1::Eating out & ordering | Per primo prendo gli spaghetti. | For my first course I'll have spaghetti.
+Italian::A1::Eating out & ordering | Per secondo prendo il pollo. | For my main course I'll have chicken.
+Italian::A1::Eating out & ordering | Come dolce vorrei un tiramisù. | For dessert I'd like a tiramisu.
+Italian::A1::Eating out & ordering | Da bere vorrei del vino bianco. | To drink I'd like some white wine.
+Italian::A1::Eating out & ordering | Una bottiglia di vino rosso, per favore. | A bottle of red wine, please.
+Italian::A1::Eating out & ordering | Un bicchiere d'acqua, per favore. | A glass of water, please.
+Italian::A1::Eating out & ordering | Un caffè e un cornetto. | A coffee and a croissant.
+Italian::A1::Eating out & ordering | Due porzioni di patatine. | Two portions of chips.
+Italian::A1::Eating out & ordering | Una porzione piccola, grazie. | A small portion, thank you.
+Italian::A1::Eating out & ordering | C'è del pesce fresco oggi? | Is there any fresh fish today?
+Italian::A1::Eating out & ordering | Quali sono i piatti del giorno? | What are today's specials?
+Italian::A1::Eating out & ordering | Il piatto che consiglio è la lasagna. | The dish that I recommend is the lasagne.
+Italian::A1::Eating out & ordering | Ecco la pasta che desidera. | Here is the pasta that you wanted. (formal)
+Italian::A1::Eating out & ordering | La pizza che mangio è buona. | The pizza that I'm eating is good.
+Italian::A1::Eating out & ordering | Il cameriere che serve è giovane. | The waiter who is serving is young.
+Italian::A1::Eating out & ordering | Cerchiamo un ristorante vicino. | We're looking for a nearby restaurant.
+Italian::A1::Eating out & ordering | Il ristorante che preferisco è piccolo. | The restaurant I prefer is small.
+Italian::A1::Eating out & ordering | Ha un menu per vegetariani? | Do you have a vegetarian menu? (formal)
+Italian::A1::Eating out & ordering | Sono allergico alle noci. | I'm allergic to nuts. (male speaker)
+Italian::A1::Eating out & ordering | Senza glutine, per favore. | Gluten-free, please.
+Italian::A1::Eating out & ordering | Senza ghiaccio, grazie. | Without ice, thank you.
+Italian::A1::Eating out & ordering | Con ghiaccio e limone. | With ice and lemon.
+Italian::A1::Eating out & ordering | La carne è ottima. | The meat is excellent.
+Italian::A1::Eating out & ordering | La zuppa è fredda. | The soup is cold.
+Italian::A1::Eating out & ordering | Posso avere un'altra forchetta? | Can I have another fork?
+Italian::A1::Eating out & ordering | Manca un coltello. | A knife is missing.
+Italian::A1::Eating out & ordering | Dov'è il cucchiaio? | Where is the spoon?
+Italian::A1::Eating out & ordering | Il tovagliolo è sul piatto. | The napkin is on the plate.
+Italian::A1::Eating out & ordering | Un po' di sale, per favore. | A little salt, please.
+Italian::A1::Eating out & ordering | Vorrei dell'olio e dell'aceto. | I'd like some oil and vinegar.
+Italian::A1::Eating out & ordering | Potrei avere un po' di pepe? | Could I have a little pepper?
+Italian::A1::Eating out & ordering | Il conto, per favore. | The bill, please.
+Italian::A1::Eating out & ordering | Quanto devo pagare? | How much do I have to pay?
+Italian::A1::Eating out & ordering | Paghiamo insieme. | We're paying together.
+Italian::A1::Eating out & ordering | Il servizio è incluso? | Is service included?
+Italian::A1::Eating out & ordering | Tenga il resto. | Keep the change. (formal)
+Italian::A1::Eating out & ordering | Tutto è delizioso, grazie! | Everything is delicious, thank you!
