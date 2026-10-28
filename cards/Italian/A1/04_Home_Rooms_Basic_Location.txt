@@ -1,0 +1,46 @@
+#lang: it -> en
+Italian::A1::Home, rooms & basic location | Questa è la mia casa. | This is my house.
+Italian::A1::Home, rooms & basic location | La casa ha cinque stanze. | The house has five rooms.
+Italian::A1::Home, rooms & basic location | C'è un salotto grande. | There is a large living room.
+Italian::A1::Home, rooms & basic location | Ci sono due camere da letto. | There are two bedrooms.
+Italian::A1::Home, rooms & basic location | La cucina è piccola. | The kitchen is small.
+Italian::A1::Home, rooms & basic location | Il bagno è in fondo al corridoio. | The bathroom is at the end of the corridor.
+Italian::A1::Home, rooms & basic location | Siamo in cucina. | We are in the kitchen.
+Italian::A1::Home, rooms & basic location | Sono nel giardino. | I am in the garden.
+Italian::A1::Home, rooms & basic location | Il gatto è sul divano. | The cat is on the sofa.
+Italian::A1::Home, rooms & basic location | Il libro è sul tavolo. | The book is on the table.
+Italian::A1::Home, rooms & basic location | Le chiavi sono sotto il letto. | The keys are under the bed.
+Italian::A1::Home, rooms & basic location | Il cane dorme davanti alla porta. | The dog is sleeping in front of the door.
+Italian::A1::Home, rooms & basic location | Il garage è dietro la casa. | The garage is behind the house.
+Italian::A1::Home, rooms & basic location | La lampada è accanto al letto. | The lamp is next to the bed.
+Italian::A1::Home, rooms & basic location | Dov'è il bagno? | Where is the bathroom?
+Italian::A1::Home, rooms & basic location | Dove sono le chiavi? | Where are the keys?
+Italian::A1::Home, rooms & basic location | C'è una sedia nella cucina. | There is a chair in the kitchen.
+Italian::A1::Home, rooms & basic location | Non c'è un balcone. | There isn't a balcony.
+Italian::A1::Home, rooms & basic location | Non ci sono finestre in bagno. | There are no windows in the bathroom.
+Italian::A1::Home, rooms & basic location | Ci sono molti libri sullo scaffale. | There are many books on the shelf.
+Italian::A1::Home, rooms & basic location | Il frigorifero è vicino alla finestra. | The fridge is near the window.
+Italian::A1::Home, rooms & basic location | Lo specchio è nel bagno. | The mirror is in the bathroom.
+Italian::A1::Home, rooms & basic location | Il tappeto è nel salotto. | The rug is in the living room.
+Italian::A1::Home, rooms & basic location | Vivo in un appartamento a Milano. | I live in a flat in Milan.
+Italian::A1::Home, rooms & basic location | Abito al terzo piano. | I live on the third floor.
+Italian::A1::Home, rooms & basic location | C'è un ascensore nel palazzo. | There is a lift in the building.
+Italian::A1::Home, rooms & basic location | Stiamo a casa oggi. | We are staying at home today.
+Italian::A1::Home, rooms & basic location | Sto in camera mia. | I'm in my room.
+Italian::A1::Home, rooms & basic location | Mia madre sta in cucina. | My mother is in the kitchen.
+Italian::A1::Home, rooms & basic location | I bambini stanno in giardino. | The children are in the garden.
+Italian::A1::Home, rooms & basic location | Siamo dai nonni. | We are at my grandparents' house.
+Italian::A1::Home, rooms & basic location | Sono dal dentista. | I'm at the dentist's.
+Italian::A1::Home, rooms & basic location | La televisione è in salotto. | The television is in the living room.
+Italian::A1::Home, rooms & basic location | Il computer è sulla scrivania. | The computer is on the desk.
+Italian::A1::Home, rooms & basic location | La scrivania è tra la porta e la finestra. | The desk is between the door and the window.
+Italian::A1::Home, rooms & basic location | Il quadro è sopra il divano. | The painting is above the sofa.
+Italian::A1::Home, rooms & basic location | C'è un armadio nella camera. | There is a wardrobe in the bedroom.
+Italian::A1::Home, rooms & basic location | Dentro l'armadio ci sono i vestiti. | Inside the wardrobe there are clothes.
+Italian::A1::Home, rooms & basic location | Fuori c'è un piccolo giardino. | Outside there is a small garden.
+Italian::A1::Home, rooms & basic location | Il bagno è a destra e la cucina è a sinistra. | The bathroom is on the right and the kitchen is on the left.
+Italian::A1::Home, rooms & basic location | La mia casa è lontana dal centro. | My house is far from the centre.
+Italian::A1::Home, rooms & basic location | La stazione è vicina a casa mia. | The station is close to my house.
+Italian::A1::Home, rooms & basic location | C'è una pianta sul balcone. | There is a plant on the balcony.
+Italian::A1::Home, rooms & basic location | Il letto è grande e comodo. | The bed is big and comfortable.
+Italian::A1::Home, rooms & basic location | Che bella casa! | What a lovely house!
