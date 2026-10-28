@@ -1,0 +1,41 @@
+#lang: pt-BR -> en
+Brazilian Portuguese::A1::Basic self-introduction & greetings | Olá! | Hello!
+Brazilian Portuguese::A1::Basic self-introduction & greetings | Bom dia. | Good morning.
+Brazilian Portuguese::A1::Basic self-introduction & greetings | Boa tarde. | Good afternoon.
+Brazilian Portuguese::A1::Basic self-introduction & greetings | Boa noite. | Good evening.
+Brazilian Portuguese::A1::Basic self-introduction & greetings | Oi, tudo bem? | Hi, how are you?
+Brazilian Portuguese::A1::Basic self-introduction & greetings | Tudo bem, e você? | Fine, and you?
+Brazilian Portuguese::A1::Basic self-introduction & greetings | Meu nome é Ana. | My name is Ana.
+Brazilian Portuguese::A1::Basic self-introduction & greetings | Eu sou o Pedro. | I am Pedro.
+Brazilian Portuguese::A1::Basic self-introduction & greetings | Qual é o seu nome? | What is your name?
+Brazilian Portuguese::A1::Basic self-introduction & greetings | Como você se chama? | What are you called?
+Brazilian Portuguese::A1::Basic self-introduction & greetings | Eu me chamo Lucas. | I am called Lucas.
+Brazilian Portuguese::A1::Basic self-introduction & greetings | Muito prazer! | Pleased to meet you!
+Brazilian Portuguese::A1::Basic self-introduction & greetings | O prazer é meu. | The pleasure is mine.
+Brazilian Portuguese::A1::Basic self-introduction & greetings | Eu sou brasileiro. | I am Brazilian.
+Brazilian Portuguese::A1::Basic self-introduction & greetings | Ela é brasileira. | She is Brazilian.
+Brazilian Portuguese::A1::Basic self-introduction & greetings | De onde você é? | Where are you from?
+Brazilian Portuguese::A1::Basic self-introduction & greetings | Eu sou do Brasil. | I am from Brazil.
+Brazilian Portuguese::A1::Basic self-introduction & greetings | Ele é de Portugal. | He is from Portugal.
+Brazilian Portuguese::A1::Basic self-introduction & greetings | Nós somos da Inglaterra. | We are from England.
+Brazilian Portuguese::A1::Basic self-introduction & greetings | Você é inglês? | Are you English?
+Brazilian Portuguese::A1::Basic self-introduction & greetings | Não, eu não sou inglês. | No, I am not English.
+Brazilian Portuguese::A1::Basic self-introduction & greetings | Eu sou americana. | I am American.
+Brazilian Portuguese::A1::Basic self-introduction & greetings | Quem é ele? | Who is he?
+Brazilian Portuguese::A1::Basic self-introduction & greetings | Ele é meu amigo. | He is my friend.
+Brazilian Portuguese::A1::Basic self-introduction & greetings | Quem é ela? | Who is she?
+Brazilian Portuguese::A1::Basic self-introduction & greetings | Ela é a Maria. | She is Maria.
+Brazilian Portuguese::A1::Basic self-introduction & greetings | Você é a Carla? | Are you Carla?
+Brazilian Portuguese::A1::Basic self-introduction & greetings | Sim, sou eu. | Yes, it is me.
+Brazilian Portuguese::A1::Basic self-introduction & greetings | Eu não sou o João. | I am not João.
+Brazilian Portuguese::A1::Basic self-introduction & greetings | De onde ele é? | Where is he from?
+Brazilian Portuguese::A1::Basic self-introduction & greetings | Ela é do Rio de Janeiro. | She is from Rio de Janeiro.
+Brazilian Portuguese::A1::Basic self-introduction & greetings | Qual é o seu telefone? | What is your phone number?
+Brazilian Portuguese::A1::Basic self-introduction & greetings | Qual é o seu e-mail? | What is your email address?
+Brazilian Portuguese::A1::Basic self-introduction & greetings | Meu e-mail é ana@exemplo.com. | My email address is ana@exemplo.com.
+Brazilian Portuguese::A1::Basic self-introduction & greetings | Até logo! | See you soon!
+Brazilian Portuguese::A1::Basic self-introduction & greetings | Tchau! | Bye!
+Brazilian Portuguese::A1::Basic self-introduction & greetings | Até amanhã. | See you tomorrow.
+Brazilian Portuguese::A1::Basic self-introduction & greetings | Obrigado! | Thank you!
+Brazilian Portuguese::A1::Basic self-introduction & greetings | De nada. | You are welcome.
+Brazilian Portuguese::A1::Basic self-introduction & greetings | Prazer em conhecer você. | Nice to meet you.
