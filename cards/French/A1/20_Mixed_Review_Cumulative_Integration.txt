@@ -1,0 +1,61 @@
+#lang: fr -> en
+French::A1::Mixed review & cumulative integration | Bonjour madame, je m'appelle Thomas et je suis étudiant. | Hello madam, my name is Thomas and I am a student.
+French::A1::Mixed review & cumulative integration | Tu habites où ? J'habite dans un petit appartement près de la gare. | Where do you live? I live in a small flat near the station.
+French::A1::Mixed review & cumulative integration | Ce matin, je me suis levé à six heures et j'ai pris un café. | This morning, I got up at six and had a coffee.
+French::A1::Mixed review & cumulative integration | Demain, nous allons visiter le musée avec mes parents. | Tomorrow, we are going to visit the museum with my parents.
+French::A1::Mixed review & cumulative integration | Pourriez-vous m'indiquer où se trouve la pharmacie, s'il vous plaît ? | Could you tell me where the pharmacy is, please?
+French::A1::Mixed review & cumulative integration | Tourne à droite, puis continue tout droit jusqu'au pont. | Turn right, then carry straight on to the bridge.
+French::A1::Mixed review & cumulative integration | Je voudrais deux croissants et une baguette, s'il vous plaît. | I would like two croissants and a baguette, please.
+French::A1::Mixed review & cumulative integration | Je les prends maintenant, mais je ne veux pas de sac. | I'll have them now, but I don't want a bag.
+French::A1::Mixed review & cumulative integration | Hier soir, ma sœur est arrivée de Londres avec son mari. | Last night, my sister arrived from London with her husband.
+French::A1::Mixed review & cumulative integration | Ils sont fatigués, donc ils vont se coucher tôt. | They are tired, so they are going to go to bed early.
+French::A1::Mixed review & cumulative integration | Mon frère est plus grand que moi, mais je suis plus rapide. | My brother is taller than me, but I am faster.
+French::A1::Mixed review & cumulative integration | Il fait beau, alors nous allons faire une promenade au parc. | The weather is nice, so we are going for a walk in the park.
+French::A1::Mixed review & cumulative integration | Elle a mal à la tête parce qu'elle n'a pas dormi. | She has a headache because she hasn't slept.
+French::A1::Mixed review & cumulative integration | Vous devez prendre ce médicament deux fois par jour. | You must take this medicine twice a day.
+French::A1::Mixed review & cumulative integration | Je ne fume plus et je ne bois jamais d'alcool. | I no longer smoke and I never drink alcohol.
+French::A1::Mixed review & cumulative integration | Cette robe rouge est très jolie, mais elle est trop chère. | This red dress is very pretty, but it is too expensive.
+French::A1::Mixed review & cumulative integration | Tu veux du fromage ? Oui, j'en voudrais un peu, merci. | Would you like some cheese? Yes, I'd like a little, thank you.
+French::A1::Mixed review & cumulative integration | Nous avons dîné chez des amis et nous avons parlé jusqu'à minuit. | We had dinner at friends' and talked until midnight.
+French::A1::Mixed review & cumulative integration | Quand je rentre, ma mère prépare le dîner. | When I get home, my mother is making dinner.
+French::A1::Mixed review & cumulative integration | Avant de partir au travail, je prends toujours mon parapluie. | Before leaving for work, I always take my umbrella.
+French::A1::Mixed review & cumulative integration | Pendant que tu fais les courses, je prépare le repas. | While you do the shopping, I'll prepare the meal.
+French::A1::Mixed review & cumulative integration | Allô ? Bonjour, puis-je parler à Madame Lefèvre, s'il vous plaît ? | Hello? Good morning, may I speak to Mrs Lefèvre, please?
+French::A1::Mixed review & cumulative integration | Elle n'est pas là, mais je peux lui laisser un message. | She isn't here, but I can leave her a message.
+French::A1::Mixed review & cumulative integration | Je t'ai envoyé un message hier, mais tu ne m'as pas répondu. | I sent you a message yesterday, but you didn't reply.
+French::A1::Mixed review & cumulative integration | Veuillez agréer, Madame, l'expression de mes salutations distinguées. | Yours faithfully, Madam.
+French::A1::Mixed review & cumulative integration | Êtes-vous libre jeudi après-midi pour une réunion ? | Are you free on Thursday afternoon for a meeting?
+French::A1::Mixed review & cumulative integration | Cependant, je ne peux pas venir avant quatre heures. | However, I can't come before four o'clock.
+French::A1::Mixed review & cumulative integration | Le train que je dois prendre part à huit heures dix du quai deux. | The train I have to take leaves at ten past eight from platform two.
+French::A1::Mixed review & cumulative integration | Nous sommes descendus du bus et nous avons marché jusqu'à l'hôtel. | We got off the bus and walked to the hotel.
+French::A1::Mixed review & cumulative integration | Les enfants sont allés à l'école, puis ils sont rentrés à midi. | The children went to school, then they came home at noon.
+French::A1::Mixed review & cumulative integration | Qu'est-ce que tu as fait pendant le week-end ? | What did you do during the weekend?
+French::A1::Mixed review & cumulative integration | Samedi, j'ai fait du sport et dimanche, j'ai lu un livre. | On Saturday, I did sport and on Sunday, I read a book.
+French::A1::Mixed review & cumulative integration | Mon grand-père connaît bien cette ville parce qu'il y est né. | My grandfather knows this town well because he was born here.
+French::A1::Mixed review & cumulative integration | Mes amis qui habitent à Lyon vont venir me voir en juillet. | My friends who live in Lyon are going to come and see me in July.
+French::A1::Mixed review & cumulative integration | J'adore la mer, donc je vais souvent à la plage en été. | I love the sea, so I often go to the beach in summer.
+French::A1::Mixed review & cumulative integration | Il y a de la soupe et du pain sur la table. | There is some soup and some bread on the table.
+French::A1::Mixed review & cumulative integration | Elle a acheté un kilo de pommes et une bouteille de jus d'orange. | She bought a kilo of apples and a bottle of orange juice.
+French::A1::Mixed review & cumulative integration | Je ne veux pas manger de viande ce soir ; je préfère du poisson. | I don't want to eat meat this evening; I prefer fish.
+French::A1::Mixed review & cumulative integration | Vous savez parler français ? Oui, mais je ne connais pas beaucoup de mots. | Do you speak French? Yes, but I don't know many words.
+French::A1::Mixed review & cumulative integration | Il doit finir son travail avant de sortir avec ses amis. | He has to finish his work before going out with his friends.
+French::A1::Mixed review & cumulative integration | Est-ce que tu peux me dire l'heure ? Il est trois heures et quart. | Can you tell me the time? It's a quarter past three.
+French::A1::Mixed review & cumulative integration | Mes parents sont partis en vacances et ils ne sont pas encore rentrés. | My parents have gone on holiday and they haven't come back yet.
+French::A1::Mixed review & cumulative integration | Cette ville est plus tranquille que Paris, mais elle est moins grande. | This town is quieter than Paris, but it is smaller.
+French::A1::Mixed review & cumulative integration | La femme qui travaille ici m'a donné la clé que je cherche. | The woman who works here gave me the key I'm looking for.
+French::A1::Mixed review & cumulative integration | Nous allons prendre le métro, puis nous allons marcher dix minutes. | We are going to take the metro, then we are going to walk for ten minutes.
+French::A1::Mixed review & cumulative integration | Tu viens ce soir ? Non, je ne peux pas, je dois travailler. | Are you coming tonight? No, I can't, I have to work.
+French::A1::Mixed review & cumulative integration | Excusez-moi, madame, je ne vous entends pas. Pouvez-vous parler plus fort ? | Excuse me, madam, I can't hear you. Can you speak louder?
+French::A1::Mixed review & cumulative integration | Mon cousin est devenu ingénieur et il travaille maintenant à Toulouse. | My cousin became an engineer and now works in Toulouse.
+French::A1::Mixed review & cumulative integration | Hier, il a fait très froid, et aujourd'hui, il neige. | Yesterday it was very cold, and today it's snowing.
+French::A1::Mixed review & cumulative integration | Je suis désolé, mais je n'ai pas fini mes devoirs. | I'm sorry, but I haven't finished my homework.
+French::A1::Mixed review & cumulative integration | Elle ne les a pas invités, donc ils ne sont pas venus. | She didn't invite them, so they didn't come.
+French::A1::Mixed review & cumulative integration | Après le dîner, nous avons fait la vaisselle et nous avons regardé la télévision. | After dinner, we did the washing-up and watched television.
+French::A1::Mixed review & cumulative integration | Le directeur nous a dit que la réunion commence à neuf heures. | The director told us the meeting starts at nine o'clock.
+French::A1::Mixed review & cumulative integration | Je vais te montrer mes photos de vacances, si tu veux. | I'm going to show you my holiday photos, if you like.
+French::A1::Mixed review & cumulative integration | C'est un bel hôtel avec une grande piscine et de jolis jardins. | It's a lovely hotel with a big swimming pool and pretty gardens.
+French::A1::Mixed review & cumulative integration | Pardon, monsieur, est-ce que cette place est libre ? | Excuse me, sir, is this seat free?
+French::A1::Mixed review & cumulative integration | Oui, vous pouvez vous asseoir ici. | Yes, you can sit here.
+French::A1::Mixed review & cumulative integration | Merci pour tout, c'était une très belle journée. | Thank you for everything, it was a lovely day.
+French::A1::Mixed review & cumulative integration | Nous allons nous revoir bientôt, j'espère. | We're going to see each other again soon, I hope.
+French::A1::Mixed review & cumulative integration | Au revoir et bonne continuation ! | Goodbye and all the best!
