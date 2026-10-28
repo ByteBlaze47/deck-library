@@ -1,0 +1,46 @@
+#lang: zh -> en
+Chinese::A1::Information questions (who/what/where/when/how) | 你是谁？ | Who are you?
+Chinese::A1::Information questions (who/what/where/when/how) | 他是谁？ | Who is he?
+Chinese::A1::Information questions (who/what/where/when/how) | 她是谁？ | Who is she?
+Chinese::A1::Information questions (who/what/where/when/how) | 这是什么？ | What is this?
+Chinese::A1::Information questions (who/what/where/when/how) | 你叫什么名字？ | What is your name?
+Chinese::A1::Information questions (who/what/where/when/how) | 你喝什么？ | What are you drinking?
+Chinese::A1::Information questions (who/what/where/when/how) | 你想吃什么？ | What would you like to eat?
+Chinese::A1::Information questions (who/what/where/when/how) | 你做什么工作？ | What do you do for a living?
+Chinese::A1::Information questions (who/what/where/when/how) | 你去哪儿？ | Where are you going?
+Chinese::A1::Information questions (who/what/where/when/how) | 你在哪儿工作？ | Where do you work?
+Chinese::A1::Information questions (who/what/where/when/how) | 你家在哪儿？ | Where is your home?
+Chinese::A1::Information questions (who/what/where/when/how) | 你是哪国人？ | What nationality are you?
+Chinese::A1::Information questions (who/what/where/when/how) | 你住在哪儿？ | Where do you live?
+Chinese::A1::Information questions (who/what/where/when/how) | 你什么时候来？ | When are you coming?
+Chinese::A1::Information questions (who/what/where/when/how) | 你什么时候下班？ | When do you finish work?
+Chinese::A1::Information questions (who/what/where/when/how) | 你什么时候回家？ | When do you go home?
+Chinese::A1::Information questions (who/what/where/when/how) | 你的生日是什么时候？ | When is your birthday?
+Chinese::A1::Information questions (who/what/where/when/how) | 今天星期几？ | What day of the week is it today?
+Chinese::A1::Information questions (who/what/where/when/how) | 你几岁？ | How old are you?
+Chinese::A1::Information questions (who/what/where/when/how) | 你家有几口人？ | How many people are there in your family?
+Chinese::A1::Information questions (who/what/where/when/how) | 你有几本书？ | How many books do you have?
+Chinese::A1::Information questions (who/what/where/when/how) | 你们班有多少个学生？ | How many students are there in your class?
+Chinese::A1::Information questions (who/what/where/when/how) | 你怎么去学校？ | How do you get to school?
+Chinese::A1::Information questions (who/what/where/when/how) | 这个字怎么读？ | How do you read this character?
+Chinese::A1::Information questions (who/what/where/when/how) | 这个怎么说？ | How do you say this?
+Chinese::A1::Information questions (who/what/where/when/how) | 你怎么了？ | What is wrong with you?
+Chinese::A1::Information questions (who/what/where/when/how) | 你为什么学中文？ | Why are you studying Chinese?
+Chinese::A1::Information questions (who/what/where/when/how) | 你为什么不吃？ | Why aren't you eating?
+Chinese::A1::Information questions (who/what/where/when/how) | 谁是你的老师？ | Who is your teacher?
+Chinese::A1::Information questions (who/what/where/when/how) | 谁有笔？ | Who has a pen?
+Chinese::A1::Information questions (who/what/where/when/how) | 哪个是你的？ | Which one is yours?
+Chinese::A1::Information questions (who/what/where/when/how) | 哪本书是你的？ | Which book is yours?
+Chinese::A1::Information questions (who/what/where/when/how) | 你喜欢哪个？ | Which one do you like?
+Chinese::A1::Information questions (who/what/where/when/how) | 你要哪个？ | Which one do you want?
+Chinese::A1::Information questions (who/what/where/when/how) | 你今天做什么？ | What are you doing today?
+Chinese::A1::Information questions (who/what/where/when/how) | 你明天去哪儿？ | Where are you going tomorrow?
+Chinese::A1::Information questions (who/what/where/when/how) | 你昨天去哪儿了？ | Where did you go yesterday?
+Chinese::A1::Information questions (who/what/where/when/how) | 你和谁一起去？ | Who are you going with?
+Chinese::A1::Information questions (who/what/where/when/how) | 你和谁住在一起？ | Who do you live with?
+Chinese::A1::Information questions (who/what/where/when/how) | 你们几点上课？ | What time do you have class?
+Chinese::A1::Information questions (who/what/where/when/how) | 你的电话号码是多少？ | What is your telephone number?
+Chinese::A1::Information questions (who/what/where/when/how) | 你的房间是几号？ | What number is your room?
+Chinese::A1::Information questions (who/what/where/when/how) | 你多大？ | How old are you?
+Chinese::A1::Information questions (who/what/where/when/how) | 这是谁的书？ | Whose book is this?
+Chinese::A1::Information questions (who/what/where/when/how) | 你想去哪儿玩儿？ | Where would you like to go to have fun?
