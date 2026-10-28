@@ -1,0 +1,46 @@
+#lang: ko -> en
+Korean::A1::Daily routines & time expressions (morning–night schedule) | 저는 아침 일곱 시에 일어나요. | I get up at seven in the morning.
+Korean::A1::Daily routines & time expressions (morning–night schedule) | 저는 매일 아침에 세수해요. | I wash my face every morning.
+Korean::A1::Daily routines & time expressions (morning–night schedule) | 저는 여덟 시에 아침을 먹어요. | I eat breakfast at eight.
+Korean::A1::Daily routines & time expressions (morning–night schedule) | 저는 아홉 시에 회사에 가요. | I go to work at nine.
+Korean::A1::Daily routines & time expressions (morning–night schedule) | 저는 점심에 친구를 만나요. | I meet a friend at lunchtime.
+Korean::A1::Daily routines & time expressions (morning–night schedule) | 저는 열두 시에 점심을 먹어요. | I have lunch at twelve.
+Korean::A1::Daily routines & time expressions (morning–night schedule) | 저는 오후에 일해요. | I work in the afternoon.
+Korean::A1::Daily routines & time expressions (morning–night schedule) | 저는 여섯 시에 집에 와요. | I come home at six.
+Korean::A1::Daily routines & time expressions (morning–night schedule) | 저는 저녁에 요리해요. | I cook in the evening.
+Korean::A1::Daily routines & time expressions (morning–night schedule) | 저는 밤에 텔레비전을 봐요. | I watch television at night.
+Korean::A1::Daily routines & time expressions (morning–night schedule) | 저는 열한 시에 자요. | I go to bed at eleven.
+Korean::A1::Daily routines & time expressions (morning–night schedule) | 저는 보통 일곱 시에 일어나요. | I usually get up at seven.
+Korean::A1::Daily routines & time expressions (morning–night schedule) | 저는 항상 커피를 마셔요. | I always drink coffee.
+Korean::A1::Daily routines & time expressions (morning–night schedule) | 저는 자주 운동해요. | I often exercise.
+Korean::A1::Daily routines & time expressions (morning–night schedule) | 저는 가끔 영화를 봐요. | I sometimes watch films.
+Korean::A1::Daily routines & time expressions (morning–night schedule) | 저는 거의 TV를 안 봐요. | I hardly ever watch TV.
+Korean::A1::Daily routines & time expressions (morning–night schedule) | 저는 전혀 술을 안 마셔요. | I never drink alcohol.
+Korean::A1::Daily routines & time expressions (morning–night schedule) | 저는 샤워하고 아침을 먹어요. | I take a shower and eat breakfast.
+Korean::A1::Daily routines & time expressions (morning–night schedule) | 저는 밥을 먹고 학교에 가요. | I eat and then go to school.
+Korean::A1::Daily routines & time expressions (morning–night schedule) | 저는 일어나고 물을 마셔요. | I get up and drink water.
+Korean::A1::Daily routines & time expressions (morning–night schedule) | 저는 책을 읽고 자요. | I read a book and go to sleep.
+Korean::A1::Daily routines & time expressions (morning–night schedule) | 저는 저녁을 먹고 산책해요. | I have dinner and go for a walk.
+Korean::A1::Daily routines & time expressions (morning–night schedule) | 지금 몇 시예요? | What time is it now?
+Korean::A1::Daily routines & time expressions (morning–night schedule) | 지금 세 시 반이에요. | It is half past three now.
+Korean::A1::Daily routines & time expressions (morning–night schedule) | 저는 주말에 늦게 일어나요. | I get up late at the weekend.
+Korean::A1::Daily routines & time expressions (morning–night schedule) | 저는 평일에 일찍 일어나요. | I get up early on weekdays.
+Korean::A1::Daily routines & time expressions (morning–night schedule) | 저는 월요일에 학교에 가요. | I go to school on Monday.
+Korean::A1::Daily routines & time expressions (morning–night schedule) | 저는 토요일에 쉬어요. | I rest on Saturday.
+Korean::A1::Daily routines & time expressions (morning–night schedule) | 저는 매주 일요일에 교회에 가요. | I go to church every Sunday.
+Korean::A1::Daily routines & time expressions (morning–night schedule) | 저는 매일 한국어를 공부해요. | I study Korean every day.
+Korean::A1::Daily routines & time expressions (morning–night schedule) | 저는 오전에 수업이 있어요. | I have a class in the morning.
+Korean::A1::Daily routines & time expressions (morning–night schedule) | 저는 오후 두 시에 커피를 마셔요. | I drink coffee at two in the afternoon.
+Korean::A1::Daily routines & time expressions (morning–night schedule) | 저는 아침마다 신문을 읽어요. | I read the newspaper every morning.
+Korean::A1::Daily routines & time expressions (morning–night schedule) | 저는 저녁에 운동하고 샤워해요. | I exercise in the evening and take a shower.
+Korean::A1::Daily routines & time expressions (morning–night schedule) | 저는 보통 버스를 타요. | I usually take the bus.
+Korean::A1::Daily routines & time expressions (morning–night schedule) | 저는 가끔 지하철을 타요. | I sometimes take the underground.
+Korean::A1::Daily routines & time expressions (morning–night schedule) | 아침에 뭐 해요? | What do you do in the morning?
+Korean::A1::Daily routines & time expressions (morning–night schedule) | 저녁에 뭐 해요? | What do you do in the evening?
+Korean::A1::Daily routines & time expressions (morning–night schedule) | 언제 일어나요? | When do you get up?
+Korean::A1::Daily routines & time expressions (morning–night schedule) | 몇 시에 자요? | What time do you go to bed?
+Korean::A1::Daily routines & time expressions (morning–night schedule) | 저는 이를 닦고 자요. | I brush my teeth and go to sleep.
+Korean::A1::Daily routines & time expressions (morning–night schedule) | 저는 하루에 두 번 이를 닦아요. | I brush my teeth twice a day.
+Korean::A1::Daily routines & time expressions (morning–night schedule) | 저는 새벽에 일어나요. | I get up at dawn.
+Korean::A1::Daily routines & time expressions (morning–night schedule) | 저는 밤늦게 공부해요. | I study late at night.
+Korean::A1::Daily routines & time expressions (morning–night schedule) | 저는 점심시간에 쉬어요. | I rest during my lunch break.
