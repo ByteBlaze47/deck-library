@@ -1,0 +1,46 @@
+#lang: fr -> en
+French::A1::Work, studies & daily obligations | Je sais nager. | I know how to swim.
+French::A1::Work, studies & daily obligations | Tu sais conduire ? | Do you know how to drive?
+French::A1::Work, studies & daily obligations | Il sait parler trois langues. | He can speak three languages.
+French::A1::Work, studies & daily obligations | Nous savons la réponse. | We know the answer.
+French::A1::Work, studies & daily obligations | Vous savez où est le bureau ? | Do you know where the office is?
+French::A1::Work, studies & daily obligations | Ils savent jouer du piano. | They can play the piano.
+French::A1::Work, studies & daily obligations | Je connais ce professeur. | I know this teacher.
+French::A1::Work, studies & daily obligations | Tu connais cette ville ? | Do you know this city?
+French::A1::Work, studies & daily obligations | Elle connaît bien mon patron. | She knows my boss well.
+French::A1::Work, studies & daily obligations | Nous connaissons votre collègue. | We know your colleague.
+French::A1::Work, studies & daily obligations | Vous connaissez la directrice ? | Do you know the director?
+French::A1::Work, studies & daily obligations | Ils connaissent le quartier. | They know the neighbourhood.
+French::A1::Work, studies & daily obligations | Je dois finir ce rapport. | I must finish this report.
+French::A1::Work, studies & daily obligations | Il faut travailler dur. | You have to work hard.
+French::A1::Work, studies & daily obligations | Il faut arriver à l'heure. | You must arrive on time.
+French::A1::Work, studies & daily obligations | Il faut étudier pour l'examen. | You need to study for the exam.
+French::A1::Work, studies & daily obligations | Je dois aller à la réunion. | I have to go to the meeting.
+French::A1::Work, studies & daily obligations | Elle doit écrire un email. | She has to write an email.
+French::A1::Work, studies & daily obligations | Nous devons préparer le cours. | We have to prepare the lesson.
+French::A1::Work, studies & daily obligations | Vous devez signer ici. | You must sign here.
+French::A1::Work, studies & daily obligations | Ils doivent rendre leurs devoirs demain. | They have to hand in their homework tomorrow.
+French::A1::Work, studies & daily obligations | Je reçois beaucoup d'emails. | I receive a lot of emails.
+French::A1::Work, studies & daily obligations | Tu reçois ton salaire le premier du mois ? | Do you get paid on the first of the month?
+French::A1::Work, studies & daily obligations | Il voit son patron à dix heures. | He sees his boss at ten o'clock.
+French::A1::Work, studies & daily obligations | Nous voyons le directeur ce matin. | We are seeing the director this morning.
+French::A1::Work, studies & daily obligations | Où travaillez-vous ? | Where do you work?
+French::A1::Work, studies & daily obligations | Que faites-vous dans la vie ? | What do you do for a living?
+French::A1::Work, studies & daily obligations | Avez-vous un travail ? | Do you have a job?
+French::A1::Work, studies & daily obligations | Êtes-vous étudiant ? | Are you a student?
+French::A1::Work, studies & daily obligations | Étudiez-vous le français ? | Are you studying French?
+French::A1::Work, studies & daily obligations | Quand commencez-vous votre cours ? | When do you start your class?
+French::A1::Work, studies & daily obligations | Pourquoi travaillez-vous le samedi ? | Why do you work on Saturdays?
+French::A1::Work, studies & daily obligations | Comment allez-vous au bureau ? | How do you get to the office?
+French::A1::Work, studies & daily obligations | Quel livre lisez-vous ? | Which book are you reading?
+French::A1::Work, studies & daily obligations | Où habitez-vous ? | Where do you live?
+French::A1::Work, studies & daily obligations | Est-ce que tu as un examen demain ? | Do you have an exam tomorrow?
+French::A1::Work, studies & daily obligations | Mon travail commence à huit heures. | My work starts at eight o'clock.
+French::A1::Work, studies & daily obligations | La réunion est à deux heures. | The meeting is at two o'clock.
+French::A1::Work, studies & daily obligations | J'ai un rendez-vous avec le directeur. | I have an appointment with the director.
+French::A1::Work, studies & daily obligations | Elle est étudiante en médecine. | She is a medical student.
+French::A1::Work, studies & daily obligations | Il travaille dans une banque. | He works in a bank.
+French::A1::Work, studies & daily obligations | Je suis très occupé aujourd'hui. | I am very busy today.
+French::A1::Work, studies & daily obligations | Les étudiants ont beaucoup de devoirs. | The students have a lot of homework.
+French::A1::Work, studies & daily obligations | Nous avons un examen de maths lundi. | We have a maths exam on Monday.
+French::A1::Work, studies & daily obligations | Je dois rentrer, il est tard. | I have to go home, it's late.
