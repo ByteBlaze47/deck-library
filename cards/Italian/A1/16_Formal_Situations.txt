@@ -1,0 +1,46 @@
+#lang: it -> en
+Italian::A1::Formal situations (hotel, office, official forms) | Buongiorno, ho una prenotazione. | Good morning, I have a reservation.
+Italian::A1::Formal situations (hotel, office, official forms) | Il mio nome è Rossi. | My name is Rossi.
+Italian::A1::Formal situations (hotel, office, official forms) | Potrebbe darmi la chiave, per favore? | Could you give me the key, please?
+Italian::A1::Formal situations (hotel, office, official forms) | Vorrei una camera singola. | I'd like a single room.
+Italian::A1::Formal situations (hotel, office, official forms) | Vorrei una camera doppia con bagno. | I'd like a double room with a bathroom.
+Italian::A1::Formal situations (hotel, office, official forms) | Quanto costa la camera per notte? | How much is the room per night?
+Italian::A1::Formal situations (hotel, office, official forms) | La colazione è inclusa? | Is breakfast included?
+Italian::A1::Formal situations (hotel, office, official forms) | A che ora è la colazione? | What time is breakfast?
+Italian::A1::Formal situations (hotel, office, official forms) | Potrebbe svegliarmi alle sette? | Could you wake me at seven?
+Italian::A1::Formal situations (hotel, office, official forms) | Potrebbe chiamarmi un taxi? | Could you call me a taxi?
+Italian::A1::Formal situations (hotel, office, official forms) | C'è il wi-fi nell'albergo? | Is there wi-fi in the hotel?
+Italian::A1::Formal situations (hotel, office, official forms) | Qual è la password? | What is the password?
+Italian::A1::Formal situations (hotel, office, official forms) | Dov'è l'ascensore? | Where is the lift?
+Italian::A1::Formal situations (hotel, office, official forms) | Il condizionatore non funziona. | The air conditioning isn't working.
+Italian::A1::Formal situations (hotel, office, official forms) | Non c'è acqua calda nel bagno. | There's no hot water in the bathroom.
+Italian::A1::Formal situations (hotel, office, official forms) | Potrebbe cambiarmi la camera? | Could you change my room?
+Italian::A1::Formal situations (hotel, office, official forms) | Vorrei lasciare la camera domani. | I'd like to check out tomorrow.
+Italian::A1::Formal situations (hotel, office, official forms) | Può preparare il conto, per favore? | Can you prepare the bill, please?
+Italian::A1::Formal situations (hotel, office, official forms) | Accettate carte di credito? | Do you accept credit cards?
+Italian::A1::Formal situations (hotel, office, official forms) | Mi scusi, sto cercando l'ufficio del signor Bianchi. | Excuse me, I'm looking for Mr Bianchi's office.
+Italian::A1::Formal situations (hotel, office, official forms) | Ho un appuntamento con la direttrice. | I have an appointment with the director.
+Italian::A1::Formal situations (hotel, office, official forms) | Può aspettare qui, prego. | You can wait here, please.
+Italian::A1::Formal situations (hotel, office, official forms) | La direttrice arriva tra dieci minuti. | The director will arrive in ten minutes.
+Italian::A1::Formal situations (hotel, office, official forms) | Si accomodi, prego. | Please, take a seat.
+Italian::A1::Formal situations (hotel, office, official forms) | Posso offrirle un caffè? | May I offer you a coffee?
+Italian::A1::Formal situations (hotel, office, official forms) | Mi può dare un modulo, per favore? | Can you give me a form, please?
+Italian::A1::Formal situations (hotel, office, official forms) | Devo compilare questo modulo? | Do I have to fill in this form?
+Italian::A1::Formal situations (hotel, office, official forms) | Scriva il Suo nome qui. | Write your name here. (formal)
+Italian::A1::Formal situations (hotel, office, official forms) | Scriva il Suo cognome e il Suo indirizzo. | Write your surname and your address. (formal)
+Italian::A1::Formal situations (hotel, office, official forms) | Qual è il Suo numero di telefono? | What is your phone number? (formal)
+Italian::A1::Formal situations (hotel, office, official forms) | Qual è la Sua data di nascita? | What is your date of birth? (formal)
+Italian::A1::Formal situations (hotel, office, official forms) | Il mio indirizzo è via Roma, numero dieci. | My address is via Roma, number ten.
+Italian::A1::Formal situations (hotel, office, official forms) | Ecco il mio passaporto. | Here is my passport.
+Italian::A1::Formal situations (hotel, office, official forms) | Ha un documento d'identità? | Do you have an identity document? (formal)
+Italian::A1::Formal situations (hotel, office, official forms) | Firmi qui, per favore. | Sign here, please. (formal)
+Italian::A1::Formal situations (hotel, office, official forms) | Posso sedermi qui? | May I sit here?
+Italian::A1::Formal situations (hotel, office, official forms) | Mi scusi per il ritardo. | Sorry for being late. (formal)
+Italian::A1::Formal situations (hotel, office, official forms) | Mi dispiace, non capisco. | I'm sorry, I don't understand.
+Italian::A1::Formal situations (hotel, office, official forms) | Potrebbe ripetere, per favore? | Could you repeat that, please?
+Italian::A1::Formal situations (hotel, office, official forms) | Potrebbe parlare più lentamente? | Could you speak more slowly?
+Italian::A1::Formal situations (hotel, office, official forms) | Vorrebbe un po' d'acqua? | Would you like some water? (formal)
+Italian::A1::Formal situations (hotel, office, official forms) | Vorrebbe parlare con il direttore? | Would you like to speak to the director? (formal)
+Italian::A1::Formal situations (hotel, office, official forms) | La ringrazio molto per il Suo aiuto. | Thank you very much for your help. (formal)
+Italian::A1::Formal situations (hotel, office, official forms) | Distinti saluti. | Kind regards.
+Italian::A1::Formal situations (hotel, office, official forms) | Arrivederci e buona giornata. | Goodbye and have a nice day.
